@@ -1,0 +1,984 @@
+{
+  "trustpilot_5_star": [
+    {
+      "id": "tp-001",
+      "name": "Nikki Moore",
+      "location": "US",
+      "date": "2026-02-01",
+      "title": "Feeling fantastic!",
+      "review": "I've been following Superpowers protocol for 5 months and feel so much better. Their easy to following website and affordable cost make me want to continue working with them in the future.",
+      "tags": ["energy", "protocol", "affordable", "general"]
+    },
+    {
+      "id": "tp-002",
+      "name": "Chris Young",
+      "location": "US",
+      "date": "2026-02-01",
+      "title": "Information is Power",
+      "review": "Real health is in our bloodwork and detailed analysis, which SuperPower provides along with recommendations.",
+      "tags": ["bloodwork", "analysis", "recommendations", "general"]
+    },
+    {
+      "id": "tp-003",
+      "name": "Amy R",
+      "location": "US",
+      "date": "2026-01-19",
+      "title": "I was with Function Health last year...",
+      "review": "I was with Function Health last year but I tried Superpower this year because of the lower entry point, I struggle with PCOS and acne. My doctors said I was all good but I wasn't. I heard about comprehensive testing from health and wellness podcasts, that's where I got the idea for trying Function (Huberman labs). I liked that Superpower explained more specifically to me my health issues especially with hormone imbalance, and I've been really happy so far (especially Candice, she was super helpful.) I really hope Superpower don't dip in quality like Function health have",
+      "tags": ["hormones", "PCOS", "hormone-imbalance", "women", "comparison"]
+    },
+    {
+      "id": "tp-004",
+      "name": "Jan Ponton",
+      "location": "US",
+      "date": "2026-01-22",
+      "title": "My superpower health coach",
+      "review": "My superpower health coach, Brittany, has been great. My health tests over the past year have improved, as a 45 year old man who now has kids in elementary school that is a huge relief. I want my kids to see an old man who's healthy and can still beat them in a race at 55!!",
+      "tags": ["longevity", "men", "aging", "improvement", "coaching"]
+    },
+    {
+      "id": "tp-005",
+      "name": "Caterina Roman",
+      "location": "US",
+      "date": "2025-12-22",
+      "title": "From skeptical to total fan",
+      "review": "I was skeptical about Superpower as a whole but really wanted to get deeper look at my health and my PC wasn't willing to go this comprehensive. I've been so impressed with the entire experience! The customer support was excellent, the blood draw was so simple and the results were fast/easy to understand. The AI bot and doctors are incredibly knowledgeable and I'm so happy with my purchase! I have been recommending Superpower to all my family and friends. It's a must for taking charge of your health and is worth the money!",
+      "tags": ["comprehensive", "blood-draw", "AI", "general", "value"]
+    },
+    {
+      "id": "tp-006",
+      "name": "ANTONIA",
+      "location": "US",
+      "date": "2025-12-24",
+      "title": "Everyone needs to get this done",
+      "review": "Amazing. Please everyone get your superpower blood test done. There's nothing like it. Prescription if needed along with needed supplements if needed. Game changer",
+      "tags": ["supplements", "prescriptions", "general"]
+    },
+    {
+      "id": "tp-007",
+      "name": "SLF",
+      "location": "US",
+      "date": "2025-12-26",
+      "title": "Dynamic PhD in your Health",
+      "review": "Extremely smooth and thorough experience from sign-up to blood draw. Results came back quickly and in a digestible form. Learned a ton and am excited to implement my learnings to my day-to-day. Had been looking for something truly unique to me, and went with Superpower over competitors due to all of the added functionalities and components within the Superpower platform. Now that I have my baseline, I look forward to using and interacting with the platform more and more",
+      "tags": ["baseline", "comprehensive", "general", "platform"]
+    },
+    {
+      "id": "tp-008",
+      "name": "Marco Anthony Perez",
+      "location": "US",
+      "date": "2025-12-19",
+      "title": "I'm giving Superpower a full 5-star rating",
+      "review": "I'm giving Superpower a full 5-star rating without hesitation. From start to finish, this was the most seamless, personal, and impressive healthcare experience I've ever had—and that's saying a lot compared to traditional providers. The process started with blood work, which was incredibly smooth and professional. What really stood out immediately was the communication. I received proactive updates through their customer portal at every step. They told me results would take 7–10 business days, but I had them back in just 5. When the results arrived, I was blown away by the level of detail. Every single marker came with clear explanations, context, and what it actually meant for my health. The AI-powered health assistant was the real game changer.",
+      "tags": ["communication", "AI", "detailed", "general", "experience"]
+    },
+    {
+      "id": "tp-009",
+      "name": "Mike Milton",
+      "location": "US",
+      "date": "2025-12-03",
+      "title": "So far so good",
+      "review": "Been great so far. Easy blood draw at local quest diagnostic. They shared results and I have high iron. They gave me advice on how to lower and what supplements I'm taking are helping or hindering my health. AI tool they have is great for health questions also.. so far am liking it. Appreciate them not forcing their products on me. Good to know they have everything if I need it though.",
+      "tags": ["iron", "supplements", "AI", "ferritin"]
+    },
+    {
+      "id": "tp-010",
+      "name": "Joey Brum",
+      "location": "US",
+      "date": "2025-12-09",
+      "title": "Couldn't be happier",
+      "review": "I cannot recommend Superpower enough. Bloodwork taken at your annual physical covers a small fraction compared to what you get through this test. I know more about my body and health in one blood test through Superpower than I ever have at a doctor's visit.",
+      "tags": ["comprehensive", "bloodwork", "general"]
+    },
+    {
+      "id": "tp-011",
+      "name": "Juan Angel Abuin Perez",
+      "location": "US",
+      "date": "2025-10-12",
+      "title": "Outstanding experience with Superpower!",
+      "review": "Outstanding experience with Superpower! Superpower has truly impressed me with the quality and speed of their clinical analysis. The process was fast, clear, and extremely professional. I received my results quickly, and everything was explained in a way that was easy to understand. What I appreciate most is that they don't just give you numbers — they provide a clear plan to improve your health based on your results. It's practical, science-based, and truly personalized.",
+      "tags": ["clinical", "personalized", "action-plan", "general"]
+    },
+    {
+      "id": "tp-012",
+      "name": "THEODORE JANTZEN",
+      "location": "US",
+      "date": "2025-12-10",
+      "title": "Thorough, Communicative, Accommodating",
+      "review": "Convenient, thorough, communicative, but not pushy or demanding, rather informational and accommodating, providing support and recommendations to allow me to take control of my health.",
+      "tags": ["communication", "support", "general"]
+    },
+    {
+      "id": "tp-013",
+      "name": "Alice Belusko",
+      "location": "US",
+      "date": "2025-11-20",
+      "title": "Superpower answered any questions I had about my blood results",
+      "review": "I am really impressed about my experience with superpower. As I was giving blood the women was surprised about how many tests I was given. Most doctors never ask for this much detail. Any questions I had about the test results were answered in detail. I wasn't intimidated about asking simple questions. The supplements recommended were very good quality. I will do the testing yearly. Thank you superpower.",
+      "tags": ["comprehensive", "supplements", "questions", "general"]
+    },
+    {
+      "id": "tp-014",
+      "name": "Laurie Dougherty",
+      "location": "US",
+      "date": "2025-06-01",
+      "title": "Love Superpower!",
+      "review": "Superpower is great. It is an opportunity to get a full picture of your health. Your doctors are limited to tests that the insurance company approves. Superpower will give you the tools to be vigilant in preventing diseases. They will give you suggestions on how to improve your health and give you talking points to share with your doctor.",
+      "tags": ["prevention", "comprehensive", "insurance", "general"]
+    },
+    {
+      "id": "tp-015",
+      "name": "Catherine Grassel",
+      "location": "US",
+      "date": "2025-11-19",
+      "title": "No doctor visit and results!",
+      "review": "I tried Superpower and getting a personalized wellness breakdown based on real bloodwork hits different. My results showed I should focus on energy levels and cholesterol balance, which honestly explains a lot. I love that they don't push you into buying their supplement. It's transparent, and no more guessing at which supplements to take.",
+      "tags": ["energy", "cholesterol", "supplements", "personalized"]
+    },
+    {
+      "id": "tp-016",
+      "name": "Jackie M.",
+      "location": "US",
+      "date": "2025-12-17",
+      "title": "I am VERY SATISFIED",
+      "review": "I am so glad that I purchased the Superpower blood panel. I had been struggling with losing weight and now know the focal points to begin working on them. The labs are downloadable and I really like their AI tool for taking questions deeper. The supplement recommendations are very helpful as well. It steers you in the right direction. I chose this lab over Functional Health because it offered more biomarkers per cost.",
+      "tags": ["weight", "metabolic", "AI", "supplements", "comparison"]
+    },
+    {
+      "id": "tp-017",
+      "name": "Alisa Walsh",
+      "location": "US",
+      "date": "2025-12-08",
+      "title": "I highly recommend doing this for everyone",
+      "review": "I highly recommend doing this for everyone you know. Not only was it super easy and efficient, but I got my results back within one week. It was very impressive to see that even being in my mid 20s health things I need to work on I was reluctant at first when my parents bought me this as a Christmas gift but after Them sharing their experience, I thought it would be a good idea not only is the feedback important but it's detailed enough for a plan.",
+      "tags": ["young-adults", "detailed", "action-plan", "general"]
+    },
+    {
+      "id": "tp-018",
+      "name": "Nancy Walsh",
+      "location": "US",
+      "date": "2025-12-03",
+      "title": "The Superpower process is so easy and insightful",
+      "review": "The Superpower process is so easy and insightful! It's not just basic feedback you might get from your annual lab work. I would recommend it for anyone that is truly interested in their health. We felt it was so valuable we even gifted it to all our adult children so they too could understand what's happening with their body. It was especially important to understand the cause of any high levels or deficiencies but more-so Superpower's detailed recommendations for improvements. We were even able to upload our past lab work for historical and comparative findings.",
+      "tags": ["comprehensive", "family", "historical", "deficiencies", "general"]
+    },
+    {
+      "id": "tp-019",
+      "name": "Anastacia Drake",
+      "location": "US",
+      "date": "2025-12-13",
+      "title": "The tools for preventative care",
+      "review": "As an Integrative Women's Health Coach this is exactly what I was looking for, for myself and to recommend to my clients. For a fraction of the cost you would pay at a doctors office, you get the data to advocate for your own health. Not only do you receive the data, but Superpower also provides recommendations for how to improve your health based on your results through nutrition, supplements, and lifestyle changes.",
+      "tags": ["women", "prevention", "nutrition", "supplements", "professional"]
+    },
+    {
+      "id": "tp-020",
+      "name": "Mindi",
+      "location": "US",
+      "date": "2025-12-06",
+      "title": "Thank you Superpower!",
+      "review": "My first blood panel with Superpower identified a very high level of Vit D due to supplementation. I am so grateful for this discovery since I get a physical with blood work every year and have this supplement listed and no one ever thought to test my Vit D levels. Superpower gave me an action plan and protocol to follow so I can take control of my health. This is so empowering to me. I have a new workout plan, nutrition and supplement guidance to help me meet my goals. The concierge team is absolutely amazing too! I highly recommend Superpower for anyone looking to be proactive and optimize their health!",
+      "tags": ["vitamin-d", "supplements", "action-plan", "nutrition", "fitness"]
+    },
+    {
+      "id": "tp-021",
+      "name": "Michael Walsh",
+      "location": "US",
+      "date": "2025-12-04",
+      "title": "Worth trying out",
+      "review": "I have been contemplating doing an indepth blood screen but they can be very expensive. At $199 I figured it was worth trying out. I have been pleasantly surprised by the results. The additional information available to me to aid with understanding my results is excellent. I will be using the service to track my progress towards better health. Highly recommend this to anyone who is on the fence. Prevention is the best medicine.",
+      "tags": ["affordable", "prevention", "tracking", "general"]
+    },
+    {
+      "id": "tp-022",
+      "name": "Shelby Subry",
+      "location": "US",
+      "date": "2025-11-19",
+      "title": "Better way to get your bloodwork done",
+      "review": "I was excited to try Superpower. I love that i can get functional labs for a fraction of the price of going to see an in person provider. There are additional test that are extra cost but it provides so many options at a better price point and you can always bring the labs to your providers. I do wish they used another lab than Quest. The only options were on weekdays so that was a major bummer. I wanted to test my hormones on specific days of my cycle but they fell on weekend days or when I was working so that part was unfortunate. I love the AI concierge part of the website and recommendations for supplements that are at a discounted price. The results come back fairly quickly and I enjoy that I get lots of information about what they mean. I am rather happy so far as a first time user.",
+      "tags": ["hormones", "women", "affordable", "AI", "supplements"]
+    },
+    {
+      "id": "tp-023",
+      "name": "Mark Roscioli",
+      "location": "US",
+      "date": "2025-11-17",
+      "title": "Superpower is hands-down the best company",
+      "review": "Superpower is hands-down the best company I've ever worked with when it comes to understanding your health. Their process is fast, organized, and easy from start to finish. One blood draw vs several with others. The staff actually knows what they're doing, the communication is tight, and the turnaround time on results is spot on. What really sets them apart is how thorough and actionable their reports are. You don't just get numbers—you get insights you can actually use to improve your health. If you're serious about understanding your body and optimizing your health, SuperPower is the company to trust. I won't use anyone else.",
+      "tags": ["comprehensive", "actionable", "communication", "general"]
+    },
+    {
+      "id": "tp-024",
+      "name": "Jordan",
+      "location": "US",
+      "date": "2025-10-30",
+      "title": "Outstanding Platform to Pinpoint Deficiencies",
+      "review": "They have an outstanding platform that eliminates guesswork, so I can truly pinpoint my deficiencies with precision. I will be going above and beyond to achieve the most optimal health score possible. On top of that, the team has been helpful and continues to push the envelope of making the site an all-in-one longevity platform.",
+      "tags": ["deficiencies", "longevity", "platform", "vitamins"]
+    },
+    {
+      "id": "tp-025",
+      "name": "Serhii Zatsarynin",
+      "location": "US",
+      "date": "2025-11-14",
+      "title": "Very simple and clear. Recommend it.",
+      "review": "The whole process - from the blood test to receiving the results - was very clear and well-organized. I got email updates at every step, simple and easy to follow. The blood draw took about 10 minutes. I received part of my results in three days, and the rest a few days later. Really had pretty great experience with doing superpower test. Will start following recommendations now.",
+      "tags": ["simple", "fast", "recommendations", "general"]
+    },
+    {
+      "id": "tp-026",
+      "name": "Kathleen Roscioli",
+      "location": "US",
+      "date": "2025-11-12",
+      "title": "Comprehensive blood test results with easy to understand action plan",
+      "review": "The entire process of working with Superpower was seamless. Directions were clear and the blood draw couldn't have been easier. In just a few days I had a complete, comprehensive report of my blood test. The portal made all of the levels easy to understand and the action plan has literally changed my life. I cannot recommend this service enough.",
+      "tags": ["comprehensive", "action-plan", "life-changing", "general"]
+    },
+    {
+      "id": "tp-027",
+      "name": "HL",
+      "location": "US",
+      "date": "2025-11-11",
+      "title": "Superpower by far has the best offering",
+      "review": "Superpower by far has the best offering in this space! The amount of blood required was far below competitors and over 90 test results were delivered less than 24 hours from my draw. The embedded AI is very intuitive and helps integrate lifestyle with lab data, plus you can even model your data to see how specific interventions (eg. supplements, lifestyle modifications, etc) will impact future lab results. The online marketplace completes the full offering for a one-stop-shop. Way to go Supwepower team!!",
+      "tags": ["AI", "comprehensive", "supplements", "modeling", "general"]
+    },
+    {
+      "id": "tp-028",
+      "name": "Jason Houser",
+      "location": "US",
+      "date": "2025-11-06",
+      "title": "Superpower lab profile is excellent",
+      "review": "The lab profile is extremely in depth. For the cost you get a much more comprehensive set of labs than other companies including your primarycare doctor. I did alot of research before signing up & absolutely worth it. They also offer you a plan if needed including supplements. They have a concierge staff you can schedule a consultation with as well. If you're someone who wants a deep dive into your lab profile and manage your health proactively, tap into superpower.",
+      "tags": ["comprehensive", "affordable", "supplements", "concierge", "general"]
+    },
+    {
+      "id": "tp-029",
+      "name": "Danielle Claudio",
+      "location": "US",
+      "date": "2025-11-11",
+      "title": "Fantastic company and superb customer service!",
+      "review": "I researched heavily online test to try to find one that would work for me. That's when I came across superpower. It was the biggest bang for the buck. I was so impressed that I also told my brother about it, who ordered and did it immediately as he was having concerns about his cholesterol levels. I have had a lifelong fear of needles my entire life but was feeling brave and ordered. I scheduled my draw, but then chickened out and canceled it. A month later, I reached out to the company to explain my situation and my fear and they were compassionate, empathetic and refunded me completely until I was ready to try again. That's great customer service, and that's putting people over profits.",
+      "tags": ["cholesterol", "customer-service", "affordable", "general"]
+    },
+    {
+      "id": "tp-030",
+      "name": "nakisha Hendrix",
+      "location": "US",
+      "date": "2025-11-12",
+      "title": "Superpower has changed the game",
+      "review": "Superpower has changed the game! The process is efficient, convenient and the superpower staff is top notch. Sign up for a membership today, it could save your life.",
+      "tags": ["life-changing", "convenient", "general"]
+    },
+    {
+      "id": "tp-031",
+      "name": "Nicole Saunders",
+      "location": "US",
+      "date": "2025-11-07",
+      "title": "Superpower is exactly what I needed",
+      "review": "Superpower is exactly what I needed and I didn't even know I needed it. The details it gives are crazy but how simple they break it down with the help of AI and their team is top tier. I'm actually excited to follow this plan. I will be restesting in 90 days to see my changes now that i have true guidance. Customer services is elite had a problem with my account and was fixed in less than an hour.",
+      "tags": ["AI", "action-plan", "customer-service", "tracking", "general"]
+    },
+    {
+      "id": "tp-032",
+      "name": "K. Blair",
+      "location": "US",
+      "date": "2025-10-21",
+      "title": "Easy and affordable!",
+      "review": "Easy and affordable way to get a deeper look at your health. A lot of doctors won't do extra tests if requested by us. The results are easy to understand and they have an action plan for your to try and make any improvements on future tests.",
+      "tags": ["affordable", "easy", "action-plan", "general"]
+    },
+    {
+      "id": "tp-033",
+      "name": "Allison Bradley",
+      "location": "US",
+      "date": "2025-10-22",
+      "title": "Five stars! Fast Results",
+      "review": "Ok, I'm not the best at writing reviews, but this program worked — and I want to share why. I've been dealing with health issues for over a year and getting lab tests through my regular doctors. My insurance isn't great, so some of the costs came out of my pocket. Each time, the doctors said the same thing — that my lab work was \"fine\" and I didn't need more tests. They failed to check the important things like hormones, inflammation, cortisol, etc. Basically, they told me I was fine and that it was all in my head. Out of desperation, I tried Superpower. It included all the tests I actually needed and was cheaper than what I'd been paying with insurance just for the basics. Long story short, I finally found out I had inflammation — and now I have a plan to fix it. Healing starts with knowing what's going on. If it weren't for Superpower, I would've wasted more months and countless hours with doctors telling me I'm fine.",
+      "tags": ["inflammation", "hormones", "cortisol", "affordable", "diagnosis"]
+    },
+    {
+      "id": "tp-034",
+      "name": "K Lovan",
+      "location": "US",
+      "date": "2025-10-10",
+      "title": "Easy process and excellent clarity",
+      "review": "Easy process and excellent clarity. Not only do they test almost anything and everything, but the analysis of your personal results were second to none. They literally provide an Action Plan on how you can improve your markers that are sub optimal. I love this service and their app is great too!",
+      "tags": ["comprehensive", "action-plan", "app", "general"]
+    },
+    {
+      "id": "tp-035",
+      "name": "Richard Erschik",
+      "location": "US",
+      "date": "2025-10-12",
+      "title": "I'm 80 years old and...",
+      "review": "...I've been through decades of routine blood tests that never really gave me the full picture. This program is different. It's not just a \"snapshot\" — it's a complete health map. From glucose, triglycerides, and cholesterol to hormones, vitamins, and inflammation markers, I now see how all the pieces fit together. What impressed me most was how the program and results were explained in plain English, with a direct connection to my real goals: weight control, better sleep, more energy, improved balance, and overall health. It's clear, practical, and actionable. Instead of just numbers, I now have a roadmap for my health.",
+      "tags": ["seniors", "glucose", "triglycerides", "cholesterol", "hormones", "vitamins", "inflammation", "comprehensive"]
+    },
+    {
+      "id": "tp-036",
+      "name": "Jake Hyten",
+      "location": "US",
+      "date": "2025-10-15",
+      "title": "This service is fantastic",
+      "review": "This service is fantastic! The process is easy and the amount of tests are incredible for the pricing. They also have an ai system where you can ask any questions you want related to your bloodwork and optimizing it. Highly recommended!",
+      "tags": ["affordable", "AI", "comprehensive", "general"]
+    },
+    {
+      "id": "tp-037",
+      "name": "Alex Kwan",
+      "location": "US",
+      "date": "2025-10-13",
+      "title": "Cost Efficient, Reliable, and Truly Helpful",
+      "review": "I'm very happy with my experience using Superpower. The results I received matched my understanding of my own health — including my high cholesterol and some red blood cell issues I've been monitoring. I've always wondered what kind of medication or treatment I should consider, and I really appreciate that the team took the time to educate me directly and recommend the right options. It saved me a lot of time compared to visiting multiple clinics. I'm impressed with how professional and informative they are, and I've already signed up my parents as well. Highly recommended!",
+      "tags": ["cholesterol", "blood-cells", "family", "education", "affordable"]
+    },
+    {
+      "id": "tp-038",
+      "name": "customer",
+      "location": "US",
+      "date": "2025-10-08",
+      "title": "Awesome service",
+      "review": "Awesome service! Inexpensive way to learn and manage my health! They consider the small details - like when you schedule your blood tests they send you reminders and attach your order to the reminder - very helpful. The results come quickly. Everything is easy to use. Looking forward to the app release.",
+      "tags": ["affordable", "easy", "reminders", "general"]
+    },
+    {
+      "id": "tp-039",
+      "name": "Nathan S",
+      "location": "US",
+      "date": "2025-10-15",
+      "title": "Superpower is a game changer",
+      "review": "Superpower has given me insights into my health that I never could have dreamed of! Love the company, love the product, super excited to begin my health journey",
+      "tags": ["insights", "general"]
+    },
+    {
+      "id": "tp-040",
+      "name": "Sven Masterson",
+      "location": "US",
+      "date": "2025-10-03",
+      "title": "Superpower: 1, My Ego: 0",
+      "review": "I signed up for Superpower thinking I was doing pretty good for my age. Turns out my blood had other ideas. Apparently I'm one cheeseburger away from a cautionary tale. Superpower broke it all down in a way that actually made sense, like \"hey man, maybe swap the butter for olive oil and chill out on the red meat.\" It wasn't judgy, just… honest. And yeah, I needed that. Now I've got a plan, some clear targets, and actual motivation instead of vibes. Pretty wild how much better I feel now that I can stop guessing and start knowing.",
+      "tags": ["cholesterol", "diet", "honest", "action-plan", "men"]
+    },
+    {
+      "id": "tp-041",
+      "name": "Heidi mohs",
+      "location": "US",
+      "date": "2025-10-10",
+      "title": "Superpower is MY superpower",
+      "review": "I received my bloodwork numbers, Areas that need work AND a plan to address those needs in less than a week. They have a great AI that answers questions quickly but access to a live person when you need it. I've never had this thorough an experience with my regular doctors. I highly recommend Superpower!",
+      "tags": ["AI", "action-plan", "comprehensive", "general"]
+    },
+    {
+      "id": "tp-042",
+      "name": "Maria Wilson",
+      "location": "US",
+      "date": "2025-10-03",
+      "title": "So far so good",
+      "review": "I try to be healthy and mindful but I am NOT someone who goes to the doctors. My experience with the medical industry has always been a bit lackluster, and I've been left feeling pretty unheard. Superpower has been such a breath of fresh air. I really appreciate the thoroughness of their analysis (and the explanations and additional information) of my initial lab work. The plan they put together for me is comprehensive and feels like something achievable. I'd also like to note the fact that all the information I submitted during the onboarding was worked into my plan, and they were able to identify potential connections from my lab work. Im very happy so far, and looking forward to seeing the results as I continue to utilize Superpower.",
+      "tags": ["personalized", "comprehensive", "action-plan", "general"]
+    },
+    {
+      "id": "tp-043",
+      "name": "Yoel Rojas",
+      "location": "US",
+      "date": "2025-09-26",
+      "title": "Accurate, Professional, and Truly Empowering",
+      "review": "I recently completed a comprehensive lab workup with SuperPower, and the experience exceeded my expectations. They came directly to my home to draw the blood, and shortly after I received a detailed report on my overall health, including a personalized health score, biological age, and clear recommendations prioritized by importance. The service was professional, the analysis thorough, and the guidance actionable. I'm very satisfied and believe this is a fantastic way to take control of our health and make meaningful improvements in our lives.",
+      "tags": ["biological-age", "home-draw", "comprehensive", "action-plan", "longevity"]
+    },
+    {
+      "id": "tp-044",
+      "name": "Kandarp Shah Shah",
+      "location": "US",
+      "date": "2025-09-15",
+      "title": "Super impressed",
+      "review": "Really impressed with the onboarding and the user experience. The blood draw process was super streamlined. The concierge Support is excellent. The blood work analysis and the lifestyle plan curated with further recommendations are superb! If you are looking to optimize your health, definitely consider becoming a Superpower member!",
+      "tags": ["onboarding", "concierge", "lifestyle", "general"]
+    },
+    {
+      "id": "tp-045",
+      "name": "Cynethis24",
+      "location": "US",
+      "date": "2025-09-16",
+      "title": "Superpower-helps with insight",
+      "review": "So, I was apprehensive at first because I don't like outrageous upsales of products and I don't care for fluff when it comes to my health. I like data and a plan of action for future improvement. But the process was straight forward. I paid, they did offer advanced tests as an option, not a requirement. Which was great. Explained how the dashboard worked and additional steps luke the health questionnaire, bloodwork process, etc. I went with advanced labs due to previous health issues. And yes, it's still cheaper than doing it yourself. I got my results back in less than a week. The optimum markers were explained and where I currently landed. Also next steps that involved one supplement I was going to take on my own. I like the AI feature to ask basic questions about your plan and misc items. But to be honest, its giving Dr. GpT, still nice. The only cons for me is that there isn't a stand alone app. I rather that then going thru a website. Also, the concierge function is nice, but 12 to 24 hrs would be nicer for replies. But I understand that its a work in progress. And I have synced my health and fitness trackers, but not sure how its reading into my bio age. I hope to see that soon too.",
+      "tags": ["AI", "biological-age", "supplements", "trackers", "general"]
+    },
+    {
+      "id": "tp-046",
+      "name": "Nick Rezendes",
+      "location": "US",
+      "date": "2025-09-19",
+      "title": "Actionable Data",
+      "review": "As a new father, I wanted a more detailed view of my overall health — something beyond what my Dr could provide. A friend told me about Superpower. I scheduled a blood draw, didn't wait longer than 2 minutes from checking in and got my results in a few days. I loved how detailed the results were and easy for me to read/understand. Overall health score with individual markers. The action plan was awesome as well — I was able to buy some of the vitamins from their store that it recommended as well. Discounted! And when I had a question about a biomarker result, a dr got back to me via text in 24 hours. Easy, actionable, impressive.",
+      "tags": ["fathers", "vitamins", "action-plan", "fast", "general"]
+    },
+    {
+      "id": "tp-047",
+      "name": "Aaron Henry",
+      "location": "US",
+      "date": "2025-09-12",
+      "title": "Great experience so far! Detailed, convenient and intuitive",
+      "review": "This has been a fantastic experience so far! Getting set up and getting my bloodwork was easy and convenient. The website is intuitive and easy to follow. My numbers were uploaded within the week and I was given detailed descriptions of each of my values including a gameplan to attack those numbers that were not optimal. I'm excited to put that gameplan into play and continue my path toward optimal.",
+      "tags": ["intuitive", "action-plan", "general"]
+    },
+    {
+      "id": "tp-048",
+      "name": "Carlo Buquiz",
+      "location": "US",
+      "date": "2025-09-16",
+      "title": "Nice to see your superpower",
+      "review": "Signup was easy, and they asked so many questions to start building your profile. The basic test was straightforward but they have other tests that look to give you a more comprehensive look at your health. Otherwise, they give you a pretty good analysis on what could be done and give you a plan to handle it. Despite having their own marketplace, there was no pressure. They do have some compelling discounts since you would have your membership. Additionally, they provide supplements and devices that are of really good value and consistent with their mission on health.",
+      "tags": ["onboarding", "supplements", "marketplace", "general"]
+    },
+    {
+      "id": "tp-049",
+      "name": "Heather Mesa",
+      "location": "US",
+      "date": "2025-09-04",
+      "title": "Just do it! You'll be glad you did",
+      "review": "This was the best decision I have made for my health! It gave me a great insight to a lot of things going on with my health that I had no idea of and that my annual blood work does not test for. The entire process was simple and the blood draw site was only a few minutes from my house. My basic results showed up within a few days and the more detailed plan was available in about a week. It broke down the info in a way that made it easy to understand. I'm really glad I did this, it gave me the push I needed to get back on track with my health. The website was simple to navigate and there is always chat access",
+      "tags": ["insights", "simple", "action-plan", "general"]
+    },
+    {
+      "id": "tp-050",
+      "name": "1Isabella",
+      "location": "US",
+      "date": "2025-09-02",
+      "title": "So glad I did it!",
+      "review": "I was very impressed with how easy it was to not only sign up but to set up my blood draw. I appreciated how intense the questioning was both about my health as well as what my goals were. My results were back in a timely manner. I was blown away with just how much info I was given! It was a great motivator for me to take back control of my health and start taking the steps that I need to. I like that I can get answers to questions anytime I like to. I found this very helpful when I was trying to change my diet due to some of the results.",
+      "tags": ["diet", "motivation", "comprehensive", "general"]
+    },
+    {
+      "id": "tp-051",
+      "name": "Kali",
+      "location": "US",
+      "date": "2025-09-11",
+      "title": "Super impressed with Superpower.com",
+      "review": "Super impressed with Superpower.com. Getting my labs done was honestly so easy. The way they break everything down and organize the results made it simple to actually understand what is going on in my body. They even give you real actionable steps to take to heal, not just numbers you have to google later. They use a super detailed health history survey too, which makes the analysis feel really personal. Customer service was on point, super helpful any time I had a question. The site and reports look clean and are easy to navigate. And the price? Way more affordable than I expected for what you get. If you want to actually understand your health and not get lost in confusing lab results, I would definitely recommend checking them out.",
+      "tags": ["affordable", "personalized", "action-plan", "customer-service", "general"]
+    },
+    {
+      "id": "tp-052",
+      "name": "C. Rodriguez",
+      "location": "US",
+      "date": "2025-08-27",
+      "title": "Affordable Labs and Actionable Insights for Better Health",
+      "review": "Superpower.com offers an affordable and highly effective way to take charge of your health. I was able to schedule and complete comprehensive lab work through their service at a fraction of the cost I would have paid elsewhere. Since my insurance made it nearly impossible to get this type of testing approved, the accessibility of Superpower.com was invaluable. The results included an extensive panel of biomarkers, providing me with an excellent baseline of my overall health. Beyond the data, Superpower.com delivered meaningful insights and a personalized action plan to support long-term improvements. I not only plan to follow their action plan (which gave me a ton of amazing insight), but I will also continue using their service to schedule follow-up bloodwork so I can track how my health progresses over time. Thanks to their affordable model, I now have both the knowledge and practical tools to actively manage my health.",
+      "tags": ["affordable", "insurance", "baseline", "tracking", "general"]
+    },
+    {
+      "id": "tp-053",
+      "name": "Michael",
+      "location": "GB",
+      "date": "2025-08-14",
+      "title": "Honestly Brilliant",
+      "review": "Honestly, I didn't know what to expect but Superpower blew me away. Blood test for biomarkers with results that actually made sense. No medical jargon, no guessing just super clear \"here's what's up, here's what to do about it.\" The dashboard looks great, the app is easy, and I even got tips on diet/supplements based on my bloodwork. Will be doing the gut test next...",
+      "tags": ["clear", "diet", "supplements", "gut", "general"]
+    },
+    {
+      "id": "tp-054",
+      "name": "Eddy Roche",
+      "location": "US",
+      "date": "2025-02-20",
+      "title": "Blood test was super seamless",
+      "review": "Blood test was super seamless, easy process, and the user interface online is fantastic. Really great data and insights. They don't just give you the numbers but they explain the meaning behind them.",
+      "tags": ["seamless", "insights", "general"]
+    },
+    {
+      "id": "tp-055",
+      "name": "Elizabeth",
+      "location": "US",
+      "date": "2025-07-01",
+      "title": "Reducing costs and getting better answers",
+      "review": "Like most people, I'm incredibly frustrated with our healthcare system in the U.S. and am looking for alternatives to the annual visit that is nothing but a conversation and maybe some labs - many of which are not even covered by insurance. I paid $236 for a vitamin D test as part of my annual checkup. Enter Superpower. Twice a year I get dozens of labs for the cost of about 2 vitamin D tests through the local system. The labs give me my number and ranges for bad, normal, and optimal levels just like my local system. But then comes the report explaining what each lab is and why it's important. I'm pretty healthy but thought I had problems with hormone levels (which my provider simply deduced as yes, of course, you're perimenopausal). Turns out, my hormone levels are normal. But my issues with energy, brain fog, and lack of sleep come from low levels of things iron. Superpower recommended some supplements that I'm slowly introducing now (because they also tell you how to do that). I'm looking forward to seeing how I start to feel as they settle into my system and then seeing my labs in another 4 months. And finally, I had a bunch of questions about the supplements and the AI answered them all for me based on my labs. If I had any further questions (I did not), I could have reached out to my concierge.",
+      "tags": ["vitamin-d", "iron", "hormones", "energy", "brain-fog", "sleep", "women", "perimenopause", "affordable"]
+    },
+    {
+      "id": "tp-056",
+      "name": "Andres Kupervaser Gould",
+      "location": "US",
+      "date": "2025-08-12",
+      "title": "Very fast onboarding",
+      "review": "Very fast onboarding, flexible with blood draw. Overall really great.",
+      "tags": ["fast", "flexible", "general"]
+    },
+    {
+      "id": "tp-057",
+      "name": "Atela O",
+      "location": "US",
+      "date": "2025-07-29",
+      "title": "Helpful + Insightful!",
+      "review": "Love it! I've been so curious to learn more about what's going on with my body beyond physicals and regular doctor visits. The dashboard has been super helpful and having actual detailed recommendations of things MY body actually needs has been great!",
+      "tags": ["personalized", "dashboard", "recommendations", "general"]
+    },
+    {
+      "id": "tp-058",
+      "name": "Jose J.",
+      "location": "US",
+      "date": "2025-07-23",
+      "title": "Life changing",
+      "review": "To say the experience has been life changing is an understatement. I know my family history, and with a growing family, for me this was a no brainer. The customer service team has been exceptional and has made the process incredibly easy. The blood work was done in 4 minutes at home, the results were in within 24-36 hours, the action plan was very detailed and received in about a week and a half. If I have a question, they're always there in multiple ways. Discounted supplements, 24/7 doctor support, and everything else that they're working on for the future??? I wish I could give more stars. Amazing experience",
+      "tags": ["family-history", "home-draw", "fast", "supplements", "life-changing"]
+    },
+    {
+      "id": "tp-059",
+      "name": "Quinn Blake",
+      "location": "US",
+      "date": "2025-08-08",
+      "title": "Everything I didn't know I needed",
+      "review": "I am generally healthy but have struggled with energy, sleep, and my hormone levels recently. After having labs done at my annual doctor appointment, I was left with little information and a whole lot of frustration. I found Superpower and was so impressed with the platform. It was easy to schedule at a nearby lab and I had results in about 7 days. Within a week, I was given a personalized Action Plan that took me through a deep dive of what was good and more importantly- what wasn't so good. It outlined some high insulin concerns, and low levels of Vitamin D, Iron, and B12. I've been able to incorporate supplements to address the deficiencies and make lifestyle adjustments to help correct the insulin concern. I am getting more restful sleep and have energy to keep up with my child (my biggest goal!). The Superpower AI feature is also incredible. I'm able to get answers that take my bloodwork into consideration and provide additional insight on my health journey. So impressed with the platform and can't wait for my 6 month draw to see how things have improved!",
+      "tags": ["energy", "sleep", "hormones", "insulin", "vitamin-d", "iron", "b12", "women", "mothers"]
+    },
+    {
+      "id": "tp-060",
+      "name": "Tash",
+      "location": "AU",
+      "date": "2025-07-10",
+      "title": "so easy to do and dashboard helpful",
+      "review": "so easy to do and dashboard helpful. The blood draw was so easy to organise, and when I got my results back, the dashboard made it sooooo much easier to understand what I needed to work on for my health (normally pathology reports I find a little confusing).",
+      "tags": ["easy", "dashboard", "general"]
+    },
+    {
+      "id": "tp-061",
+      "name": "Trisha De Jesus",
+      "location": "US",
+      "date": "2025-07-02",
+      "title": "Love it!",
+      "review": "Superpower.com offers thoughtful and well-structured resources for anyone looking to improve focus, mindset, and daily habits. The content is practical and easy to apply, and I've found it helpful in staying more intentional with my time and energy. It's clear that the team put a lot of effort into making the platform user-friendly and impactful. Overall, a valuable tool for anyone interested in personal development.",
+      "tags": ["focus", "mindset", "habits", "general"]
+    },
+    {
+      "id": "tp-062",
+      "name": "Paul Hinrichsen",
+      "location": "US",
+      "date": "2025-07-17",
+      "title": "Found out major toxins issue due to Superpower",
+      "review": "I've done the blood, toxins, and bile test and i am very happy i did. I literally failed 22/23 of the toxins measurements and it alerted me to some mold in our AC unit and pesticide problems i had no idea about. Very happy I spent the extra money and went full superpower :)",
+      "tags": ["toxins", "mold", "comprehensive", "discovery"]
+    },
+    {
+      "id": "tp-063",
+      "name": "Aimee",
+      "location": "US",
+      "date": "2025-07-21",
+      "title": "Not a health tech person, but this changed something",
+      "review": "I'm not super into health tech or anything, but seeing all my labs laid out in the dashboard was weirdly satisfying. It actually made me want to take better care of myself. Eat better, sleep more, just try a little harder. Also really appreciate how much thought they're putting into the user experience both in product and brand. Excited see how much more they grow!",
+      "tags": ["dashboard", "motivation", "diet", "sleep", "general"]
+    },
+    {
+      "id": "tp-064",
+      "name": "John Smith",
+      "location": "US",
+      "date": "2025-07-18",
+      "title": "No more waitlist!",
+      "review": "Superpower just removed their waitlist and I signed up last week. It's amazing! So much better than my experience with function health. Superpower's software is better. A nurse comes to your home. The branding is beautiful.",
+      "tags": ["home-draw", "comparison", "software", "general"]
+    },
+    {
+      "id": "tp-065",
+      "name": "Jeff Stein",
+      "location": "US",
+      "date": "2025-07-07",
+      "title": "Insight and clarity for once",
+      "review": "SuperPower gave me what no doctor, supplement, or app ever could: clarity. I've spent years managing blood sugar, energy crashes, gut issues, and brain fog -trying to piece together solutions on my own. SuperPower's bloodwork and gut testing didn't just show me the what, they helped me understand the why. Turns out I had zero levels of key gut bacteria, high inflammation, and markers of metabolic dysfunction that no one had ever flagged. I finally understood why I was feeling stuck-and what to do about it. The personalized plan didn't overwhelm me. It was clear, science-backed, and doable. I'm now seeing better glucose stability, digestion improvements, and more energy-all without guessing. If you're tired of vague advice and want real insight into your body, SuperPower is 100% worth it.",
+      "tags": ["glucose", "gut", "inflammation", "metabolic", "brain-fog", "energy", "clarity"]
+    },
+    {
+      "id": "tp-066",
+      "name": "Danny",
+      "location": "US",
+      "date": "2025-06-30",
+      "title": "Got to the root of my symptoms",
+      "review": "I was feeling lethargic and fatigued - nothing major, but enough to feel like something was off. I got the Superpower test since I recently moved and don't have a PCP. Super easy experience overall and found out I had elevated glucose levels. They also knew about my family history of diabetes and that was in my results. I'm doing a CGM to see if there are ways to improve my diet and avoid crashes.",
+      "tags": ["fatigue", "glucose", "diabetes", "family-history", "CGM"]
+    },
+    {
+      "id": "tp-067",
+      "name": "Shawn",
+      "location": "US",
+      "date": "2025-07-10",
+      "title": "Felt better in like a week",
+      "review": "Within a week of making the changes on my report I noticed a difference. They just told me to get some supplements and make a few diet changes. Didn't expect things to work so fast.",
+      "tags": ["fast-results", "supplements", "diet", "general"]
+    },
+    {
+      "id": "tp-068",
+      "name": "Abe",
+      "location": "US",
+      "date": "2025-04-28",
+      "title": "Love this for parents",
+      "review": "I've got two kids, zero time, and was constantly exhausted. Superpower helped me figure out I was super low in iron and D3. Got on a new plan, started feeling way better within a couple weeks. Honestly wish I'd done it sooner.",
+      "tags": ["parents", "iron", "vitamin-d", "energy", "fatigue"]
+    },
+    {
+      "id": "tp-069",
+      "name": "Florian",
+      "location": "DE",
+      "date": "2025-05-15",
+      "title": "Had my first blood test in May 2025",
+      "review": "Had my first blood test in May 2025 and the experience was absolutely amazing. I had tested different startups before, but Superpower was the most convenient so far. The platform is amazing, and the data is pretty understandable for non-med people. The team truly listens to what users want. Honestly impressed by this service and would recommend it to anyone. :)",
+      "tags": ["convenient", "platform", "clear", "general"]
+    },
+    {
+      "id": "tp-070",
+      "name": "Kat C",
+      "location": "US",
+      "date": "2025-07-02",
+      "title": "No more health anxiety",
+      "review": "Used to be always super worried about my health, bit of a health freak. But Superpower actually helped me get some peace of mind. I sleep better just knowing I have all the data about my body that I need.",
+      "tags": ["anxiety", "peace-of-mind", "sleep", "general"]
+    },
+    {
+      "id": "tp-071",
+      "name": "James",
+      "location": "AU",
+      "date": "2025-07-15",
+      "title": "I'd been feeling super tired for months",
+      "review": "I'd been feeling super tired for months on end and wondering why. Turns out I was pretty severely vitamin D deficient. Found out from the test, had it explained in a report and then purchased some Vitamin D. Feel way better 1 month later!",
+      "tags": ["fatigue", "vitamin-d", "deficiency", "fast-results"]
+    },
+    {
+      "id": "tp-072",
+      "name": "Aditya",
+      "location": "IN",
+      "date": "2025-02-03",
+      "title": "Unbeatable all in one platform for the price",
+      "review": "Tried Superpower and honestly, it just makes sense. The way healthcare works today is outdated and reactive, but this actually feels like something built for the modern world. It's personal, not some generic one-size-fits-all thing. The insights actually apply to you and help you make real changes. It's also focused on prevention, not just fixing things after they go wrong, which is how it should be. The experience is smooth too. No clunky portals or confusing reports, just a clean and easy way to track and improve your health. The founders clearly get it, and it shows. If you care about taking control of your health instead of waiting until something goes wrong, Superpower is worth checking out.",
+      "tags": ["prevention", "personalized", "modern", "affordable", "general"]
+    },
+    {
+      "id": "tp-073",
+      "name": "Taylor",
+      "location": "US",
+      "date": "2025-01-09",
+      "title": "I wish I signed up 10 years ago",
+      "review": "I wish I signed up 10 years ago! Love love love Superpower and my longevity advisor. She has been so helpful and I love that I can reach out anytime with questions and usually get a prompt reply. Highly recommend",
+      "tags": ["longevity", "advisor", "support", "general"]
+    },
+    {
+      "id": "tp-074",
+      "name": "Josh Patel",
+      "location": "US",
+      "date": "2025-01-20",
+      "title": "Superpower was a great experience",
+      "review": "Superpower was a great experience, awesome team",
+      "tags": ["team", "general"]
+    },
+    {
+      "id": "tp-075",
+      "name": "Luke Clancy",
+      "location": "US",
+      "date": "2025-01-31",
+      "title": "Smooth process, objectively motivating",
+      "review": "Super seamless process. Clinician's were very thoughtful. Surprising how much more motivated I am after seeing *real* numbers on my health. Very worthwhile. Will be returning in the coming years!",
+      "tags": ["seamless", "motivation", "clinicians", "general"]
+    },
+    {
+      "id": "tp-076",
+      "name": "Jared Seidel",
+      "location": "US",
+      "date": "2024-12-16",
+      "title": "Fantastic product and service",
+      "review": "Fantastic product and service by entire team and doctors I worked with. Everyone is thorough and knowledgeable in their domain and provide detailed feedback on my health data and how to take action on it",
+      "tags": ["thorough", "doctors", "action-plan", "general"]
+    },
+    {
+      "id": "tp-077",
+      "name": "Vasco Breysse",
+      "location": "US",
+      "date": "2025-01-12",
+      "title": "Superb experience overall",
+      "review": "Superb experience overall. Recommend highly.",
+      "tags": ["general"]
+    },
+    {
+      "id": "tp-078",
+      "name": "Jaylen Patel",
+      "location": "US",
+      "date": "2025-01-31",
+      "title": "A service that re-introduces autonomy to healthcare",
+      "review": "Great to receive actionable insights within a week of signing up for Superpower, from the conversation with a clinician to understanding your current biomarker metrics. Great service for anyone interested in taking ownership over their health and staying proactive about their diet, lifestyle, and sleep.",
+      "tags": ["autonomy", "diet", "lifestyle", "sleep", "proactive", "general"]
+    },
+    {
+      "id": "tp-079",
+      "name": "Dan",
+      "location": "US",
+      "date": "2025-01-15",
+      "title": "LOVE - Very insightful",
+      "review": "I've been using Superpower for a few weeks now, and it's been AWESOME. My longevity advisor was lovely and I felt like she did a thorough job reviewing all my lab data. Getting my action plan back made me excited to start getting healthier (finally lol). Overall the membership has given me way more value than the cost and will be sticking with them for years to come!",
+      "tags": ["longevity", "advisor", "action-plan", "value", "general"]
+    }
+  ],
+  "superpower_website": [
+    {
+      "id": "sw-001",
+      "name": "Samantha Reid",
+      "age": 28,
+      "quote": "It took 7 years, 4 specialists, and 5 hospitalizations before I finally got answers",
+      "tags": ["diagnosis", "specialists", "chronic"]
+    },
+    {
+      "id": "sw-002",
+      "name": "Eurie Kim",
+      "age": 45,
+      "quote": "It shouldn't take a medical degree and a stockpile of cash just to understand what's going on inside your own body",
+      "tags": ["affordable", "understanding", "general"]
+    },
+    {
+      "id": "sw-003",
+      "name": "Cassandra Banskon",
+      "age": 32,
+      "quote": "Superpower enables me to understand my health and wellness concerns before they become big problems again.",
+      "tags": ["prevention", "wellness", "general"]
+    },
+    {
+      "id": "sw-004",
+      "name": "Elena Park",
+      "age": 42,
+      "quote": "There are millions of people like me, who randomly developed anxiety, chronic low energy, brain fog, gut issues, with no answers from traditional medicine",
+      "tags": ["anxiety", "energy", "brain-fog", "gut", "chronic"]
+    },
+    {
+      "id": "sw-005",
+      "name": "Marcus Hall",
+      "quote": "My girlfriend was nearly kicked out of urgent care for bringing her own lab results. Doctors didn't want to see them.",
+      "tags": ["advocacy", "doctors", "frustration"]
+    },
+    {
+      "id": "sw-006",
+      "name": "Jason Patel",
+      "quote": "There are millions like me — living with chronic fatigue, gut issues, and brain fog, without a single clear answer from traditional medicine.",
+      "tags": ["fatigue", "gut", "brain-fog", "chronic"]
+    },
+    {
+      "id": "sw-007",
+      "name": "Emily Rhodes",
+      "quote": "I've lived through 17 years of chronic illness. Trial and error, not healthcare, is why I'm alive today.",
+      "tags": ["chronic", "trial-error", "survival"]
+    },
+    {
+      "id": "sw-008",
+      "name": "Jordan Avery",
+      "quote": "The way we take care of our bodies is broken. The way we take care of each other is broken.",
+      "tags": ["healthcare-system", "general"]
+    },
+    {
+      "id": "sw-009",
+      "name": "Chad Byers",
+      "age": 38,
+      "quote": "In traditional healthcare, data lives in siloes. No one connects the dots and patients pay the price.",
+      "tags": ["data", "integration", "healthcare-system"]
+    },
+    {
+      "id": "sw-010",
+      "name": "Stephen Cole",
+      "age": 39,
+      "location": "Miami",
+      "quote": "Superpower uncovered a gene variant missed by years of bloodwork and diagnostics.",
+      "tags": ["genetics", "discovery", "diagnosis"]
+    },
+    {
+      "id": "sw-011",
+      "name": "Alice Coleman",
+      "age": 36,
+      "location": "Palo Alto",
+      "quote": "My Superpower test helped me find out I was pre-diabetic. Without Superpower, it would have totally flown under the radar.",
+      "tags": ["diabetes", "prediabetes", "glucose", "discovery"]
+    },
+    {
+      "id": "sw-012",
+      "name": "Dr. Derick En'wezoh, MD",
+      "credentials": "Harvard MD Stanford MBA",
+      "quote": "As a physician, I thought I had a handle on my health but I was in the dark. Superpower uncovered real gaps, like elevated toxin levels I'd never tested for.",
+      "tags": ["physician", "toxins", "discovery", "professional"]
+    },
+    {
+      "id": "sw-013",
+      "name": "Dr. Anant Vinjamoori, MD",
+      "credentials": "Harvard MD & MBA",
+      "quote": "The $20,000 executive physical program you get at Mayo Clinic is in many ways vastly inferior to the product at Superpower.",
+      "tags": ["executive-physical", "comparison", "value", "professional"]
+    },
+    {
+      "id": "sw-014",
+      "name": "Aaron Nguyen",
+      "role": "Software Engineer",
+      "quote": "@superpower wasn't a false alarm. Second retest of CK still at critical levels of 11,000. Wow thanks for helping me catch this. The past 2-3 years of struggling with fatigue mentally and physically might be explained by what we find as we go down this rabbit hole. Thankful to catch this now.",
+      "tags": ["CK", "fatigue", "discovery", "critical"]
+    },
+    {
+      "id": "sw-015",
+      "name": "Maya Patel",
+      "age": 34,
+      "role": "Marketing Director, Mom of two",
+      "quote": "As a working mom I was constantly running on empty. Superpower pinpointed a vitamin deficiency I'd never known about. Now I feel sharper, calmer, and more present with my kids.",
+      "tags": ["mothers", "vitamins", "deficiency", "energy", "focus"]
+    },
+    {
+      "id": "sw-016",
+      "name": "Jason Lampkin",
+      "age": 33,
+      "role": "Former Professional Athlete",
+      "quote": "Superpower's service was seriously impressive. Seamless testing, quick results, and a detailed follow-up consult left me with actionable insights and a tailored plan to start nudging this number down by nudging other sub-optimal scores up.",
+      "tags": ["athlete", "actionable", "optimization"]
+    },
+    {
+      "id": "sw-017",
+      "name": "Jake Heyen",
+      "role": "Owner, Active Lab",
+      "quote": "Been going through @superpower beta group and I'm blown away. This is what healthcare should look like. I also have never had a doctor breakdown lab results as well as the Superpower clinician did. Clear, actionable stuff about how to optimize biomarkers.",
+      "tags": ["clinician", "actionable", "optimization"]
+    },
+    {
+      "id": "sw-018",
+      "name": "Alex Brogan",
+      "role": "Founder, FasterThanNormal",
+      "quote": "I've been using @superpower for the last two months. Very impressed with the user experience and customer service from the team. The only thing I'm not impressed with is with my biological age being 3.5 years above my actual age.",
+      "tags": ["biological-age", "user-experience", "longevity"]
+    },
+    {
+      "id": "sw-019",
+      "name": "Gaurav Vohra",
+      "role": "Founding Team, Superhuman",
+      "quote": "alright pretty proud of this courtesy of @superpower how'd i survive a startup, kid, and get here.",
+      "tags": ["biological-age", "startup", "longevity"]
+    },
+    {
+      "id": "sw-020",
+      "name": "Derek En'Wezoh",
+      "role": "Partner, Susa Ventures",
+      "quote": "What sets Superpower apart is that they don't just hand you results, they make them actionable.",
+      "tags": ["actionable", "results", "general"]
+    },
+    {
+      "id": "sw-021",
+      "name": "Josh Wand",
+      "role": "Founder and CEO, ForceBrands",
+      "quote": "Superpower is raising the standard for what we should expect from our healthcare. From ourselves. And from the systems that are meant to keep us well.",
+      "tags": ["standards", "healthcare-system", "general"]
+    },
+    {
+      "id": "sw-022",
+      "name": "Victoria Brown",
+      "age": 28,
+      "role": "Former Athlete & Founder, The Hidden Opponent",
+      "quote": "My Superpower advisor goes, are you like, really low energy? And I was like, yes. Turns out I'm deficient in five areas that contribute to my overall energy. I felt so validated…it's not just like, oh, I burnt out. I'm feeling like I got answers and I'm hopeful.",
+      "tags": ["energy", "deficiencies", "validation", "athlete"]
+    },
+    {
+      "id": "sw-023",
+      "name": "Adam Novak",
+      "role": "Co-founder & CEO, GoodHome",
+      "quote": "Wow… never realized i check all the risk factors for poor microbiome health. Super informative onboarding @superpower",
+      "tags": ["microbiome", "gut", "risk-factors"]
+    },
+    {
+      "id": "sw-024",
+      "name": "Jason Yeager",
+      "role": "Founder, MyTechCEO",
+      "quote": "You can't change what you can't measure. For me, Superpower was a no-brainer. The transparency has really given me what I need to take action. I've never felt this excited.",
+      "tags": ["measurement", "transparency", "action", "general"]
+    },
+    {
+      "id": "sw-025",
+      "name": "Nathan Lutka",
+      "role": "Founder, Founderpathhq",
+      "quote": "For the last 18 months, I've used @superpower to save time. I click a button, a lab technician shows up at my house, they pull 4 viles of blood and run 50+ tests. I get results in my App within 48 hours with recommended next steps.",
+      "tags": ["convenience", "home-draw", "fast", "general"]
+    },
+    {
+      "id": "sw-026",
+      "name": "Natalie Robinson",
+      "age": 35,
+      "role": "Pediatric Nurse",
+      "quote": "I thought feeling bloated and exhausted was just part of life. Superpower revealed hidden food sensitivities and within weeks, my digestion, mood, and workouts transformed.",
+      "tags": ["food-sensitivities", "digestion", "gut", "energy", "mood"]
+    },
+    {
+      "id": "sw-027",
+      "name": "Mitchell Bernstein",
+      "role": "Product Designer, Ramp",
+      "quote": "Woke up to a winning bio age score on @superpower. On my way to beat @bryan_johnson one day",
+      "tags": ["biological-age", "longevity", "optimization"]
+    },
+    {
+      "id": "sw-028",
+      "name": "Pedro Sorrentino",
+      "age": 36,
+      "role": "Managing Partner, Atman Capital",
+      "quote": "What is the highest grade creatine available in the world today? Found the best one. Of course, it was inside @superpower",
+      "tags": ["supplements", "creatine", "marketplace"]
+    },
+    {
+      "id": "sw-029",
+      "name": "George Munguia",
+      "role": "Founder, Coconut VA",
+      "quote": "Living a long and happy life with my family is really important to me. With Superpower, I finally know how healthy I am, and where to take my next step.",
+      "tags": ["family", "longevity", "clarity", "general"]
+    },
+    {
+      "id": "sw-030",
+      "name": "Amara Collins",
+      "age": 40,
+      "role": "Entrepreneur, Movement Coach",
+      "quote": "Superpower has transformed my health. My inflammation is down, energy and focus are way up, and I'm training harder running 5+ miles daily and lifting 3x a week. Today, I hit a personal best: 46 BPM resting heart rate. It means a lot, especially after losing my dad to heart disease.",
+      "tags": ["inflammation", "heart", "energy", "fitness", "family-history"]
+    },
+    {
+      "id": "sw-031",
+      "name": "Lisa Chan",
+      "age": 30,
+      "role": "Creative Professional",
+      "quote": "I have tried a lot of wellness products and coaching, but nothing compares to Superpower. Testing revealed insights I would've have found out otherwise regarding my hormone health and PCOS.",
+      "tags": ["hormones", "PCOS", "women", "discovery"]
+    },
+    {
+      "id": "sw-032",
+      "name": "Mike Petegorsky",
+      "role": "Co-founder, Proxima Health",
+      "quote": "My @superpower clinician said I had the best labs she's ever seen, so I figure I'd share what I'm doing to stay healthy. BLUF: pescatarian diet, daily exercise, consistent sleep.",
+      "tags": ["optimization", "diet", "exercise", "sleep", "best-labs"]
+    },
+    {
+      "id": "sw-033",
+      "name": "Linda Salito",
+      "age": 32,
+      "role": "CEO, Alaris",
+      "quote": "Superpower caught what others missed for years. My action plan is more thorough than anything I've ever gotten at a checkup",
+      "tags": ["discovery", "action-plan", "thorough"]
+    },
+    {
+      "id": "sw-034",
+      "name": "Aisha Lopez",
+      "age": 32,
+      "role": "Nonprofit Leader, Endurance Athlete",
+      "quote": "As a marathoner, I was hitting a wall I couldn't explain. Superpower showed me I had low iron and B12, and then made it clear what I needed to do to become a healthier me. 1 month in and my endurance is back and I'm running stronger than ever.",
+      "tags": ["athlete", "marathon", "iron", "b12", "endurance"]
+    },
+    {
+      "id": "sw-035",
+      "name": "Stephen Cole",
+      "age": 39,
+      "role": "Founder, Orqestra",
+      "quote": "I've done MRIs, calcium scoring, regular labs — thought I knew my body inside out. But Superpower still found things I missed. After a few small changes, I feel like I unlocked a whole new level of day-to-day performance.",
+      "tags": ["discovery", "performance", "comprehensive"]
+    },
+    {
+      "id": "sw-036",
+      "name": "Vinay Hiremath",
+      "role": "Founder of Loom",
+      "quote": "Best health check of my entire life.",
+      "tags": ["best", "comprehensive", "general"]
+    },
+    {
+      "id": "sw-037",
+      "name": "Jordi Hayes",
+      "role": "Founder of Capital.xyz",
+      "quote": "Life changing",
+      "tags": ["life-changing", "general"]
+    }
+  ]
+}
