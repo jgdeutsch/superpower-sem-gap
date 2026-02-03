@@ -1,0 +1,730 @@
+{
+  "all_5_competitors": {},
+  "3plus_competitors": {
+    "hematocrit": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 246000,
+      "cpc": 0.33000001311302185
+    },
+    "blood test mchc": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 201000,
+      "cpc": 0.3100000023841858
+    },
+    "blood work mchc": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 201000,
+      "cpc": 0.3100000023841858
+    },
+    "mchc blood test": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 201000,
+      "cpc": 0.3100000023841858
+    },
+    "alk phosphatase": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 201000,
+      "cpc": 2.2300000190734863
+    },
+    "alkaline phosphatase": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 201000,
+      "cpc": 2.2300000190734863
+    },
+    "blood test what is mchc": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 201000,
+      "cpc": 0.3100000023841858
+    },
+    "blood work what is mchc": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 201000,
+      "cpc": 0.3100000023841858
+    },
+    "blood urea nitrogen": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 165000,
+      "cpc": 0.1899999976158142
+    },
+    "alt for blood test": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 135000,
+      "cpc": 1.1800000667572021
+    },
+    "blood rdw test": {
+      "competitors": [
+        "Function Health",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 135000,
+      "cpc": 0.3199999928474426
+    },
+    "blood report mcv": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 135000,
+      "cpc": 0.09000000357627869
+    },
+    "blood test mcv": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 135000,
+      "cpc": 0.10999999940395355
+    },
+    "blood test what is mcv": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 135000,
+      "cpc": 0.09000000357627869
+    },
+    "blood work alt": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Rupa Health"
+      ],
+      "volume": 135000,
+      "cpc": 1.1800000667572021
+    },
+    "blood work mcv": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 135000,
+      "cpc": 0.09000000357627869
+    },
+    "bloodwork mcv": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 135000,
+      "cpc": 0.09000000357627869
+    },
+    "mcv blood test": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 135000,
+      "cpc": 0.10999999940395355
+    },
+    "mcv lab test": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 135000,
+      "cpc": 0.09000000357627869
+    },
+    "mcv on blood test": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 135000,
+      "cpc": 0.09000000357627869
+    },
+    "r d w test": {
+      "competitors": [
+        "Function Health",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 135000,
+      "cpc": 0.3199999928474426
+    },
+    "rdw blood test": {
+      "competitors": [
+        "Function Health",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 135000,
+      "cpc": 0.5099999904632568
+    },
+    "rdw test": {
+      "competitors": [
+        "Function Health",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 135000,
+      "cpc": 0.5099999904632568
+    },
+    "alt blood test": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 135000,
+      "cpc": 1.1699999570846558
+    },
+    "blood test mean cell volume": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 135000,
+      "cpc": 0.10999999940395355
+    },
+    "blood work what is mcv": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 135000,
+      "cpc": 0.09000000357627869
+    },
+    "mcv in blood report": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 135000,
+      "cpc": 0.09000000357627869
+    },
+    "mcv test": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 135000,
+      "cpc": 0.09000000357627869
+    },
+    "mcv test blood": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 135000,
+      "cpc": 0.09000000357627869
+    },
+    "mch test blood": {
+      "competitors": [
+        "Function Health",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 110000,
+      "cpc": 1.5099999904632568
+    },
+    "mean cell hemoglobin concentration": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 110000,
+      "cpc": 0.5600000023841858
+    },
+    "fish oil as supplement": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 110000,
+      "cpc": 1.940000057220459
+    },
+    "mchc": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 110000,
+      "cpc": 0.5600000023841858
+    },
+    "mean corpuscular hemoglobin concentration": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 110000,
+      "cpc": 0.5600000023841858
+    },
+    "blood test mean platelet volume": {
+      "competitors": [
+        "Function Health",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 90500,
+      "cpc": 0.1599999964237213
+    },
+    "blood test mpv levels": {
+      "competitors": [
+        "Function Health",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 90500,
+      "cpc": 0.1599999964237213
+    },
+    "blood tests mchc low": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 90500,
+      "cpc": 0.23999999463558197
+    },
+    "blood work mchc low": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Rupa Health"
+      ],
+      "volume": 90500,
+      "cpc": 0.49000000953674316
+    },
+    "bloodwork bun": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Rupa Health"
+      ],
+      "volume": 90500,
+      "cpc": 0.1899999976158142
+    },
+    "bun on blood test": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Rupa Health"
+      ],
+      "volume": 90500,
+      "cpc": 0.1899999976158142
+    },
+    "mpv in blood test": {
+      "competitors": [
+        "Function Health",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 90500,
+      "cpc": 0.1599999964237213
+    },
+    "blood test mchc is low": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 90500,
+      "cpc": 0.23999999463558197
+    },
+    "bloodwork bun test": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 90500,
+      "cpc": 0.1899999976158142
+    },
+    "bun in blood": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 90500,
+      "cpc": 0.1899999976158142
+    },
+    "low mchc blood test": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 90500,
+      "cpc": 0.23999999463558197
+    },
+    "mchc blood test is low": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 90500,
+      "cpc": 0.23999999463558197
+    },
+    "bloodwork rdw high": {
+      "competitors": [
+        "Function Health",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 74000,
+      "cpc": 0.6000000238418579
+    },
+    "hemoglobin a1c chart": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "InsideTracker"
+      ],
+      "volume": 74000,
+      "cpc": 0.28999999165534973
+    },
+    "mean corpuscular volume": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 74000,
+      "cpc": 0.09000000357627869
+    },
+    "cortisol level": {
+      "competitors": [
+        "Everlywell",
+        "InsideTracker",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 74000,
+      "cpc": 0.8700000047683716
+    },
+    "gravity urine": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 74000,
+      "cpc": 0.029999999329447746
+    },
+    "mcv": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 74000,
+      "cpc": 0.09000000357627869
+    },
+    "s.g urine test": {
+      "competitors": [
+        "Everlywell",
+        "Rupa Health",
+        "Mito Health"
+      ],
+      "volume": 74000,
+      "cpc": 0.029999999329447746
+    },
+    "hematocrit on blood test": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Mito Health"
+      ],
+      "volume": 60500,
+      "cpc": 0.949999988079071
+    },
+    "what is mchc blood work": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Mito Health"
+      ],
+      "volume": 60500,
+      "cpc": 0.10000000149011612
+    },
+    "apo b": {
+      "competitors": [
+        "Function Health",
+        "InsideTracker",
+        "Mito Health"
+      ],
+      "volume": 49500,
+      "cpc": 0.8600000143051147
+    },
+    "apo b protein": {
+      "competitors": [
+        "Function Health",
+        "InsideTracker",
+        "Mito Health"
+      ],
+      "volume": 49500,
+      "cpc": 0.8600000143051147
+    },
+    "apob": {
+      "competitors": [
+        "Function Health",
+        "InsideTracker",
+        "Mito Health"
+      ],
+      "volume": 49500,
+      "cpc": 0.8600000143051147
+    },
+    "apob protein": {
+      "competitors": [
+        "Function Health",
+        "InsideTracker",
+        "Mito Health"
+      ],
+      "volume": 49500,
+      "cpc": 0.7400000095367432
+    },
+    "apolipoprotein b": {
+      "competitors": [
+        "Function Health",
+        "InsideTracker",
+        "Mito Health"
+      ],
+      "volume": 49500,
+      "cpc": 0.8600000143051147
+    },
+    "bloodwork mcv high": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Mito Health"
+      ],
+      "volume": 49500,
+      "cpc": 0.14000000059604645
+    },
+    "mcv blood test is high": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Mito Health"
+      ],
+      "volume": 49500,
+      "cpc": 0.14000000059604645
+    },
+    "mcv lab test high": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Mito Health"
+      ],
+      "volume": 49500,
+      "cpc": 0.14000000059604645
+    },
+    "what is lab test mcv": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Mito Health"
+      ],
+      "volume": 49500,
+      "cpc": 0.03999999910593033
+    },
+    "what is mean cell volume in blood test": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Mito Health"
+      ],
+      "volume": 49500,
+      "cpc": 0.029999999329447746
+    },
+    "what is mean corpuscular volume in blood test": {
+      "competitors": [
+        "Function Health",
+        "Everlywell",
+        "Mito Health"
+      ],
+      "volume": 49500,
+      "cpc": 0.03999999910593033
+    },
+    "decrease white blood cells": {
+      "competitors": [
+        "Everlywell",
+        "InsideTracker",
+        "Mito Health"
+      ],
+      "volume": 49500,
+      "cpc": 0.6899999976158142
+    },
+    "decreased wbc": {
+      "competitors": [
+        "Everlywell",
+        "InsideTracker",
+        "Mito Health"
+      ],
+      "volume": 49500,
+      "cpc": 0.6899999976158142
+    },
+    "high white blood cell count": {
+      "competitors": [
+        "Everlywell",
+        "InsideTracker",
+        "Mito Health"
+      ],
+      "volume": 49500,
+      "cpc": 0.20000000298023224
+    },
+    "white blood cells decrease": {
+      "competitors": [
+        "Everlywell",
+        "InsideTracker",
+        "Mito Health"
+      ],
+      "volume": 49500,
+      "cpc": 0.6499999761581421
+    },
+    "white blood cells decreasing": {
+      "competitors": [
+        "Everlywell",
+        "InsideTracker",
+        "Mito Health"
+      ],
+      "volume": 49500,
+      "cpc": 0.6899999976158142
+    },
+    "cholesterol hdl ratio": {
+      "competitors": [
+        "Function Health",
+        "InsideTracker",
+        "Mito Health"
+      ],
+      "volume": 27100,
+      "cpc": 2.6600000858306885
+    },
+    "c reactive protein hs": {
+      "competitors": [
+        "Function Health",
+        "InsideTracker",
+        "Mito Health"
+      ],
+      "volume": 22200,
+      "cpc": 1.5799999237060547
+    },
+    "high unbound iron binding capacity": {
+      "competitors": [
+        "Function Health",
+        "InsideTracker",
+        "Mito Health"
+      ],
+      "volume": 22200,
+      "cpc": 0.33000001311302185
+    },
+    "hs c reactive protein": {
+      "competitors": [
+        "Function Health",
+        "InsideTracker",
+        "Mito Health"
+      ],
+      "volume": 22200,
+      "cpc": 1.5699999332427979
+    },
+    "hs crp": {
+      "competitors": [
+        "Function Health",
+        "InsideTracker",
+        "Mito Health"
+      ],
+      "volume": 22200,
+      "cpc": 1.5699999332427979
+    },
+    "hs-crp": {
+      "competitors": [
+        "Function Health",
+        "InsideTracker",
+        "Mito Health"
+      ],
+      "volume": 22200,
+      "cpc": 1.5699999332427979
+    },
+    "iron binding capacity high": {
+      "competitors": [
+        "Function Health",
+        "InsideTracker",
+        "Mito Health"
+      ],
+      "volume": 22200,
+      "cpc": 0.33000001311302185
+    }
+  },
+  "summary": {
+    "total_keywords": 2067,
+    "keywords_3plus": 78,
+    "keywords_4plus": 17,
+    "keywords_all_5": 0
+  }
+}

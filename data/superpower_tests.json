@@ -1,0 +1,3497 @@
+{
+  "categories": [
+    {
+      "name": "Calculated Ratios",
+      "type": "Blood Biomarkers",
+      "tests": [
+        {
+          "name": "Albumin/Globulin Ratio",
+          "slug": "albumin-globulin-ratio-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Atherogenic Index of Plasma (AIP)",
+          "slug": "atherogenic-index-of-plasma-aip-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "BUN/Creatinine Ratio",
+          "slug": "bun-creatinine-ratio-test",
+          "in_baseline": true,
+          "has_ads": true
+        },
+        {
+          "name": "Bilirubin-to-Albumin Ratio (BAR)",
+          "slug": "bilirubin-to-albumin-ratio-bar-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Estimated Glomerular Filtration Rate (eGFR)",
+          "slug": "estimated-glomerular-filtration-rate-egfr-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Indirect-to-Direct Bilirubin Ratio (I/D Bilirubin Ratio)",
+          "slug": "indirect-to-direct-bilirubin-ratio-i-d-bilirubin-ratio-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Lymphocyte-to-Monocyte Ratio (LMR)",
+          "slug": "lymphocyte-to-monocyte-ratio-lmr-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Mean Corpuscular Hemoglobin Concentration (MCHC)",
+          "slug": "mean-corpuscular-hemoglobin-concentration-mchc-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Monocyte-to-Lymphocyte Ratio (MLR)",
+          "slug": "monocyte-to-lymphocyte-ratio-mlr-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Neutrophil-to-Lymphocyte & Platelet Ratio (NLPR)",
+          "slug": "neutrophil-to-lymphocyte-and-platelet-ratio-nlpr-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Neutrophil-to-Lymphocyte Ratio",
+          "slug": "neutrophil-to-lymphocyte-ratio-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Platelet-to-Lymphocyte Ratio",
+          "slug": "platelet-to-lymphocyte-ratio-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Platelet-to-WBC Ratio",
+          "slug": "platelet-to-wbc-ratio-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "RDW / MCV Ratio",
+          "slug": "rdw-mcv-ratio-test",
+          "in_baseline": true,
+          "has_ads": false
+        }
+      ],
+      "count": 14,
+      "with_ads": 1,
+      "without_ads": 13
+    },
+    {
+      "name": "Complete Blood Count",
+      "type": "Blood Biomarkers",
+      "tests": [
+        {
+          "name": "Hematocrit",
+          "slug": "hematocrit-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Hemoglobin",
+          "slug": "hemoglobin-01dd4",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Lymphocytes",
+          "slug": "lymphocytes-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Lymphocytes, Absolute",
+          "slug": "lymphocytes-absolute-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Mean Corpuscular Hemoglobin (MCH)",
+          "slug": "mean-corpuscular-hemoglobin-mch-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Mean Platelet Volume (MPV)",
+          "slug": "mean-platelet-volume-mpv-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Monocytes",
+          "slug": "monocytes-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Monocytes, Absolute",
+          "slug": "monocytes-absolute-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Neutrophils",
+          "slug": "neutrophils-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Neutrophils, Absolute",
+          "slug": "neutrophils-absolute-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Platelet Count",
+          "slug": "platelet-count-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Red Blood Cells (RBC)",
+          "slug": "red-blood-cells-rbc-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "White Blood Cells (WBC)",
+          "slug": "white-blood-cells-wbc-test",
+          "in_baseline": true,
+          "has_ads": false
+        }
+      ],
+      "count": 13,
+      "with_ads": 0,
+      "without_ads": 13
+    },
+    {
+      "name": "Heart & Lipids",
+      "type": "Blood Biomarkers",
+      "tests": [
+        {
+          "name": "(Triglyceride - Glucose Index) - TyG Index",
+          "slug": "triglyceride-glucose-index-tyg-index-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Apolipoprotein B (ApoB)",
+          "slug": "apolipoprotein-b-apob-test",
+          "in_baseline": true,
+          "has_ads": true
+        },
+        {
+          "name": "Cholesterol, Total",
+          "slug": "cholesterol-total-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Cholesterol/HDL Ratio",
+          "slug": "cholesterol-hdl-ratio-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "GGT-to-HDL Cholesterol Ratio (GGT / HDL-C)",
+          "slug": "ggt-to-hdl-cholesterol-ratio-ggt-hdl-c-test",
+          "in_baseline": true,
+          "has_ads": true
+        },
+        {
+          "name": "HDL Cholesterol",
+          "slug": "hdl-cholesterol-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "HDL P",
+          "slug": "hdl-p-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "HDL Size",
+          "slug": "hdl-size-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "LDL Cholesterol / Total Cholesterol (Mass Ratio)",
+          "slug": "ldl-cholesterol-total-cholesterol-mass-ratio-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "LDL Cholesterol",
+          "slug": "ldl-cholesterol-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "LDL P",
+          "slug": "ldl-p-test",
+          "in_baseline": false,
+          "has_ads": true
+        },
+        {
+          "name": "LDL Size",
+          "slug": "ldl-size-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "LDL-C / ApoB",
+          "slug": "ldl-c-apob-test",
+          "in_baseline": true,
+          "has_ads": true
+        },
+        {
+          "name": "LDL/HDL Ratio",
+          "slug": "ldl-hdl-ratio-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Large HDL P",
+          "slug": "large-hdl-p-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Large VLDL P",
+          "slug": "large-vldl-p-test",
+          "in_baseline": false,
+          "has_ads": true
+        },
+        {
+          "name": "Lipoprotein (a)",
+          "slug": "lipoprotein-a-test",
+          "in_baseline": false,
+          "has_ads": true
+        },
+        {
+          "name": "Lipoprotein fractionation",
+          "slug": "lipoprotein-fractionation-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Monocyte-to-HDL Ratio (MHR)",
+          "slug": "monocyte-to-hdl-ratio-mhr-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Neutrophil-to-HDL Cholesterol Ratio (NHR)",
+          "slug": "neutrophil-to-hdl-cholesterol-ratio-nhr-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Non-HDL Cholesterol / Apolipoprotein B (Non-HDL-C / ApoB)",
+          "slug": "non-hdl-cholesterol-apolipoprotein-b-non-hdl-c-apob-test",
+          "in_baseline": true,
+          "has_ads": true
+        },
+        {
+          "name": "Non-HDL Cholesterol / Total Cholesterol (Mass Ratio)",
+          "slug": "non-hdl-cholesterol-total-cholesterol-mass-ratio-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Non-HDL Cholesterol",
+          "slug": "non-hdl-cholesterol-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Small LDL P",
+          "slug": "small-ldl-p-test",
+          "in_baseline": false,
+          "has_ads": true
+        },
+        {
+          "name": "TG / ApoB",
+          "slug": "tg-apob-test",
+          "in_baseline": true,
+          "has_ads": true
+        },
+        {
+          "name": "Triglyceride / HDL Cholesterol (Molar Ratio)",
+          "slug": "triglyceride-hdl-cholesterol-molar-ratio-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Triglycerides",
+          "slug": "triglycerides-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Uric Acid / HDL-C",
+          "slug": "uric-acid-hdl-c-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "VLDL Size",
+          "slug": "vldl-size-test",
+          "in_baseline": false,
+          "has_ads": false
+        }
+      ],
+      "count": 29,
+      "with_ads": 9,
+      "without_ads": 20
+    },
+    {
+      "name": "Hormones",
+      "type": "Blood Biomarkers",
+      "tests": [
+        {
+          "name": "17-hydroxyprogesterone",
+          "slug": "17-hydroxyprogesterone-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "AMH (anti-M\u00fcllerian hormone)",
+          "slug": "amh-anti-m-llerian-hormone-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "DHEA Sulfate (DHEA-S)",
+          "slug": "dhea-sulfate-dhea-s-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Estradiol",
+          "slug": "estradiol-ultrasensitive-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "FSH",
+          "slug": "fsh-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Follicle Stimulating Hormone (FSH)",
+          "slug": "follicle-stimulating-hormone-fsh-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Free Androgen Index (FAI)",
+          "slug": "free-androgen-index-fai-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "LH",
+          "slug": "lh-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Luteinizing Hormone (LH)",
+          "slug": "luteinizing-hormone-lh-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Progesterone",
+          "slug": "progesterone-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Prolactin",
+          "slug": "prolactin-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Sex Hormone Binding Globulin (SHBG)",
+          "slug": "sex-hormone-binding-globulin-shbg-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Testosterone / Estradiol (T:E2)",
+          "slug": "testosterone-estradiol-t-e2-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Testosterone, Bioavailable",
+          "slug": "testosterone-bioavailable-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Testosterone, Free",
+          "slug": "testosterone-free-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Testosterone, Total",
+          "slug": "testosterone-total-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Thyroid-Stimulating Hormone (TSH)",
+          "slug": "thyroid-stimulating-hormone-tsh-test",
+          "in_baseline": true,
+          "has_ads": true
+        },
+        {
+          "name": "Ultra-Sensitive Estradiol",
+          "slug": "ultra-sensitive-estradiol",
+          "in_baseline": false,
+          "has_ads": false
+        }
+      ],
+      "count": 18,
+      "with_ads": 1,
+      "without_ads": 17
+    },
+    {
+      "name": "Inflammation",
+      "type": "Blood Biomarkers",
+      "tests": [
+        {
+          "name": "CRP / Albumin Ratio (CAR)",
+          "slug": "crp-albumin-ratio-car-test",
+          "in_baseline": true,
+          "has_ads": true
+        },
+        {
+          "name": "Erythrocyte Sedimentation Rate (ESR)",
+          "slug": "erythrocyte-sedimentation-rate-esr-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "High-Sensitivity C-Reactive Protein (hs-CRP)",
+          "slug": "high-sensitivity-c-reactive-protein-hs-crp-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Systemic Immune-Inflammation Index (SII)",
+          "slug": "systemic-immune-inflammation-index-sii-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Systemic Inflammation Response Index (SIRI)",
+          "slug": "systemic-inflammation-response-index-siri-test",
+          "in_baseline": true,
+          "has_ads": false
+        }
+      ],
+      "count": 5,
+      "with_ads": 1,
+      "without_ads": 4
+    },
+    {
+      "name": "Iron & Energy",
+      "type": "Blood Biomarkers",
+      "tests": [
+        {
+          "name": "Ferritin",
+          "slug": "ferritin-test",
+          "in_baseline": true,
+          "has_ads": true
+        },
+        {
+          "name": "Ferritin-to-Albumin Ratio (FAR)",
+          "slug": "ferritin-to-albumin-ratio-far-test",
+          "in_baseline": true,
+          "has_ads": true
+        },
+        {
+          "name": "Iron Saturation",
+          "slug": "iron-saturation-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Iron, Total",
+          "slug": "iron-total-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Total Iron Binding Capacity (TIBC)",
+          "slug": "total-iron-binding-capacity-tibc-test",
+          "in_baseline": true,
+          "has_ads": false
+        }
+      ],
+      "count": 5,
+      "with_ads": 2,
+      "without_ads": 3
+    },
+    {
+      "name": "Kidney Function",
+      "type": "Blood Biomarkers",
+      "tests": [
+        {
+          "name": "Blood Urea Nitrogen (BUN)",
+          "slug": "blood-urea-nitrogen-bun-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Creatinine",
+          "slug": "creatinine-test",
+          "in_baseline": true,
+          "has_ads": true
+        },
+        {
+          "name": "Cystatin C (with eGFR)",
+          "slug": "cystatin-c-with-egfr-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Uric Acid",
+          "slug": "uric-acid-test",
+          "in_baseline": true,
+          "has_ads": false
+        }
+      ],
+      "count": 4,
+      "with_ads": 1,
+      "without_ads": 3
+    },
+    {
+      "name": "Liver Function",
+      "type": "Blood Biomarkers",
+      "tests": [
+        {
+          "name": "Alanine Aminotransferase (ALT)",
+          "slug": "alanine-aminotransferase-alt-test",
+          "in_baseline": true,
+          "has_ads": true
+        },
+        {
+          "name": "Albumin",
+          "slug": "albumin-test",
+          "in_baseline": true,
+          "has_ads": true
+        },
+        {
+          "name": "Alkaline Phosphatase (ALP)",
+          "slug": "alkaline-phosphatase-alp-test",
+          "in_baseline": true,
+          "has_ads": true
+        },
+        {
+          "name": "Aspartate Aminotransferase (AST)",
+          "slug": "aspartate-aminotransferase-ast-test",
+          "in_baseline": true,
+          "has_ads": true
+        },
+        {
+          "name": "Bilirubin, Direct",
+          "slug": "bilirubin-direct-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Bilirubin, Indirect",
+          "slug": "bilirubin-indirect-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Bilirubin, Total",
+          "slug": "bilirubin-total-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Corrected Calcium (Albumin-adjusted)",
+          "slug": "corrected-calcium-albumin-adjusted-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Gamma-Glutamyl Transferase (GGT)",
+          "slug": "gamma-glutamyl-transferase-ggt-test",
+          "in_baseline": true,
+          "has_ads": true
+        }
+      ],
+      "count": 9,
+      "with_ads": 5,
+      "without_ads": 4
+    },
+    {
+      "name": "Metabolic / Glucose",
+      "type": "Blood Biomarkers",
+      "tests": [
+        {
+          "name": "Cardio IQ Insulin Resistance",
+          "slug": "cardio-iq-insulin-resistance-test",
+          "in_baseline": false,
+          "has_ads": true
+        },
+        {
+          "name": "Cardio IQ Insulin",
+          "slug": "cardio-iq-insulin-test",
+          "in_baseline": false,
+          "has_ads": true
+        },
+        {
+          "name": "Estimated Average Glucose (mg/dL)",
+          "slug": "estimated-average-glucose-mg-dl-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Estimated Average Glucose (mmol/L)",
+          "slug": "estimated-average-glucose-mmol-l-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Fructosamine",
+          "slug": "fructosamine-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Glucose",
+          "slug": "glucose-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Glucose, plasma",
+          "slug": "glucose-plasma-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Hemoglobin A1c (HbA1c)",
+          "slug": "hemoglobin-a1c-hba1c-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Insulin",
+          "slug": "insulin-test",
+          "in_baseline": false,
+          "has_ads": true
+        },
+        {
+          "name": "Insulin-Like Growth Factor 1 (IGF-1)",
+          "slug": "insulin-like-growth-factor-1-igf-1-test",
+          "in_baseline": false,
+          "has_ads": true
+        }
+      ],
+      "count": 10,
+      "with_ads": 4,
+      "without_ads": 6
+    },
+    {
+      "name": "Other Blood Tests",
+      "type": "Blood Biomarkers",
+      "tests": [
+        {
+          "name": "ADMA",
+          "slug": "adma-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "ANA (antinuclear antibody)",
+          "slug": "ana-antinuclear-antibody-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Adiponectin",
+          "slug": "adiponectin-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Atherogenic Coefficient",
+          "slug": "atherogenic-coefficient-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Basophils",
+          "slug": "basophils-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Basophils, Absolute",
+          "slug": "basophils-absolute-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "CCP antibody",
+          "slug": "ccp-antibody-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Calcium",
+          "slug": "calcium-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Carbon Dioxide (CO2)",
+          "slug": "carbon-dioxide-co2-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Celiac Disease Comprehensive Panel",
+          "slug": "celiac-disease-comprehensive-panel-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Chloride",
+          "slug": "chloride-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Cortisol",
+          "slug": "cortisol-test",
+          "in_baseline": true,
+          "has_ads": true
+        },
+        {
+          "name": "Eosinophils",
+          "slug": "eosinophils-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Eosinophils, Absolute",
+          "slug": "eosinophils-absolute-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Globulin",
+          "slug": "globulin-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Homocysteine",
+          "slug": "homocysteine-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Leptin",
+          "slug": "leptin-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Lp(a)",
+          "slug": "lp-a-test",
+          "in_baseline": false,
+          "has_ads": true
+        },
+        {
+          "name": "Mean Corpuscular Volume (MCV)",
+          "slug": "mean-corpuscular-volume-mcv-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Mercury, blood",
+          "slug": "mercury-blood-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Methylmalonic Acid (MMA)",
+          "slug": "methylmalonic-acid-mma-test",
+          "in_baseline": false,
+          "has_ads": true
+        },
+        {
+          "name": "Potassium",
+          "slug": "potassium-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Prostate Specific Antigen (PSA), Free",
+          "slug": "prostate-specific-antigen-psa-free-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Prostate Specific Antigen (PSA), Total",
+          "slug": "prostate-specific-antigen-psa-total-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Protein, Total",
+          "slug": "protein-total-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Red Cell Distribution Width (RDW)",
+          "slug": "red-cell-distribution-width-rdw-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Rheumatoid factor",
+          "slug": "rheumatoid-factor-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "SDMA",
+          "slug": "sdma-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Sodium",
+          "slug": "sodium-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Thyroglobulin Antibodies",
+          "slug": "thyroglobulin-antibodies-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Thyroglobulin antibody",
+          "slug": "thyroglobulin-antibody-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "dsDNA antibody",
+          "slug": "dsdna-antibody-test",
+          "in_baseline": false,
+          "has_ads": false
+        }
+      ],
+      "count": 32,
+      "with_ads": 3,
+      "without_ads": 29
+    },
+    {
+      "name": "Thyroid",
+      "type": "Blood Biomarkers",
+      "tests": [
+        {
+          "name": "Free T4 Index (T7)",
+          "slug": "free-t4-index-t7-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "T3 Uptake",
+          "slug": "t3-uptake-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Thyroid antibodies",
+          "slug": "thyroid-antibodies-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Thyroid peroxidase antibody",
+          "slug": "thyroid-peroxidase-antibody-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Thyroid peroxidase antibody",
+          "slug": "thyroid-peroxidase-antibodies-tpo-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Thyroxine (T4), Total",
+          "slug": "thyroxine-t4-total-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Triiodothyronine (T3), Free",
+          "slug": "triiodothyronine-t3-free-test",
+          "in_baseline": false,
+          "has_ads": false
+        }
+      ],
+      "count": 7,
+      "with_ads": 0,
+      "without_ads": 7
+    },
+    {
+      "name": "Vitamins & Nutrients",
+      "type": "Blood Biomarkers",
+      "tests": [
+        {
+          "name": "Folate",
+          "slug": "folate-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Folate, RBC",
+          "slug": "folate-rbc-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Magnesium",
+          "slug": "magnesium-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Selenium",
+          "slug": "selenium-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Vitamin A",
+          "slug": "vitamin-a-test",
+          "in_baseline": false,
+          "has_ads": true
+        },
+        {
+          "name": "Vitamin B12 (Cobalamin)",
+          "slug": "vitamin-b12-cobalamin-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Vitamin B12",
+          "slug": "vitamin-b12-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Vitamin B2 (Riboflavin)",
+          "slug": "vitamin-b2-riboflavin-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Vitamin B6 (Plasma)",
+          "slug": "vitamin-b6-plasma-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Vitamin C",
+          "slug": "vitamin-c-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Vitamin D, 25-Hydroxy",
+          "slug": "vitamin-d-25-hydroxy-test",
+          "in_baseline": true,
+          "has_ads": false
+        },
+        {
+          "name": "Vitamin E",
+          "slug": "vitamin-e-test",
+          "in_baseline": false,
+          "has_ads": false
+        },
+        {
+          "name": "Vitamin K",
+          "slug": "vitamin-k-test",
+          "in_baseline": false,
+          "has_ads": false
+        }
+      ],
+      "count": 13,
+      "with_ads": 1,
+      "without_ads": 12
+    },
+    {
+      "name": "Disease-Related Tests",
+      "type": "Disease Tests",
+      "tests": [
+        {
+          "name": "Acromegaly",
+          "slug": "acromegaly-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Acromegaly",
+          "slug": "acromegaly",
+          "has_ads": false
+        },
+        {
+          "name": "Acute Blood Loss",
+          "slug": "acute-blood-loss-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Acute Blood Loss",
+          "slug": "acute-blood-loss",
+          "has_ads": false
+        },
+        {
+          "name": "Acute Kidney Injury",
+          "slug": "acute-kidney-injury-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Acute Kidney Injury",
+          "slug": "acute-kidney-injury",
+          "has_ads": false
+        },
+        {
+          "name": "Acute Stress",
+          "slug": "acute-stress-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Acute Stress",
+          "slug": "acute-stress",
+          "has_ads": false
+        },
+        {
+          "name": "Addison\u2019s Disease",
+          "slug": "addisons-disease-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Addison\u2019s Disease",
+          "slug": "addisons-disease",
+          "has_ads": false
+        },
+        {
+          "name": "Alcohol Use Disorder",
+          "slug": "alcohol-use-disorder-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Alcohol Use Disorder",
+          "slug": "alcohol-use-disorder",
+          "has_ads": false
+        },
+        {
+          "name": "Alcoholic Liver Disease",
+          "slug": "alcoholic-liver-disease-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Alcoholic Liver Disease",
+          "slug": "alcoholic-liver-disease",
+          "has_ads": false
+        },
+        {
+          "name": "Allergic Rhinitis",
+          "slug": "allergic-rhinitis-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Allergic Rhinitis",
+          "slug": "allergic-rhinitis",
+          "has_ads": false
+        },
+        {
+          "name": "Alzheimer\u2019s Disease",
+          "slug": "alzheimers-disease-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Alzheimer\u2019s Disease",
+          "slug": "alzheimers-disease",
+          "has_ads": false
+        },
+        {
+          "name": "Anemia of Chronic Disease",
+          "slug": "anemia-of-chronic-disease-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Anemia of Chronic Disease",
+          "slug": "anemia-of-chronic-disease",
+          "has_ads": false
+        },
+        {
+          "name": "Anorexia Nervosa",
+          "slug": "anorexia-nervosa-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Anorexia Nervosa",
+          "slug": "anorexia-nervosa",
+          "has_ads": false
+        },
+        {
+          "name": "Asthma",
+          "slug": "asthma-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Asthma",
+          "slug": "asthma",
+          "has_ads": false
+        },
+        {
+          "name": "Atherosclerosis",
+          "slug": "atherosclerosis-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Atherosclerosis",
+          "slug": "atherosclerosis",
+          "has_ads": false
+        },
+        {
+          "name": "Atopic Dermatitis",
+          "slug": "atopic-dermatitis-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Atopic Dermatitis",
+          "slug": "atopic-dermatitis",
+          "has_ads": false
+        },
+        {
+          "name": "BPH",
+          "slug": "bph-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "BPH",
+          "slug": "bph",
+          "has_ads": false
+        },
+        {
+          "name": "Basophilia",
+          "slug": "basophilia-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Basophilia",
+          "slug": "basophilia",
+          "has_ads": false
+        },
+        {
+          "name": "CFS/ME",
+          "slug": "cfs-me-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "CFS/ME",
+          "slug": "cfs-me",
+          "has_ads": false
+        },
+        {
+          "name": "COPD",
+          "slug": "copd-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "COPD",
+          "slug": "copd",
+          "has_ads": false
+        },
+        {
+          "name": "COVID-19 Severe",
+          "slug": "covid-19-severe-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "COVID-19 Severe",
+          "slug": "covid-19-severe",
+          "has_ads": false
+        },
+        {
+          "name": "Cancer-Associated Inflammation",
+          "slug": "cancer-associated-inflammation-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Cancer-Associated Inflammation",
+          "slug": "cancer-associated-inflammation",
+          "has_ads": false
+        },
+        {
+          "name": "Celiac Disease",
+          "slug": "celiac-disease-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Celiac Disease",
+          "slug": "celiac-disease",
+          "has_ads": false
+        },
+        {
+          "name": "Cholestasis",
+          "slug": "cholestasis-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Cholestasis",
+          "slug": "cholestasis",
+          "has_ads": false
+        },
+        {
+          "name": "Chronic Infection",
+          "slug": "chronic-infection-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Chronic Infection",
+          "slug": "chronic-infection",
+          "has_ads": false
+        },
+        {
+          "name": "Chronic Infection (Hep B/C/HIV/TB)",
+          "slug": "chronic-infection-hep-b-c-hiv-tb-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Chronic Infection (Hep B/C/HIV/TB)",
+          "slug": "chronic-infection-hep-b-c-hiv-tb",
+          "has_ads": false
+        },
+        {
+          "name": "Chronic Kidney Disease",
+          "slug": "chronic-kidney-disease-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Chronic Kidney Disease",
+          "slug": "chronic-kidney-disease",
+          "has_ads": false
+        },
+        {
+          "name": "Chronic Stress",
+          "slug": "chronic-stress-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Chronic Stress",
+          "slug": "chronic-stress",
+          "has_ads": false
+        },
+        {
+          "name": "Cirrhosis",
+          "slug": "cirrhosis-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Cirrhosis",
+          "slug": "cirrhosis",
+          "has_ads": false
+        },
+        {
+          "name": "Coronary Artery Disease",
+          "slug": "coronary-artery-disease-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Coronary Artery Disease",
+          "slug": "coronary-artery-disease",
+          "has_ads": false
+        },
+        {
+          "name": "Cushing\u2019s Syndrome",
+          "slug": "cushings-syndrome-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Cushing\u2019s Syndrome",
+          "slug": "cushings-syndrome",
+          "has_ads": false
+        },
+        {
+          "name": "DIC",
+          "slug": "dic-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "DIC",
+          "slug": "dic",
+          "has_ads": false
+        },
+        {
+          "name": "Dehydration",
+          "slug": "dehydration-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Dehydration",
+          "slug": "dehydration",
+          "has_ads": false
+        },
+        {
+          "name": "Dementia (Vascular)",
+          "slug": "dementia-vascular-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Dementia (Vascular)",
+          "slug": "dementia-vascular",
+          "has_ads": false
+        },
+        {
+          "name": "Depression",
+          "slug": "depression-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Depression",
+          "slug": "depression",
+          "has_ads": false
+        },
+        {
+          "name": "Diabetes Mellitus Type 2",
+          "slug": "diabetes-mellitus-type-2-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Diabetes Mellitus Type 2",
+          "slug": "diabetes-mellitus-type-2",
+          "has_ads": false
+        },
+        {
+          "name": "Diabetic Ketoacidosis",
+          "slug": "diabetic-ketoacidosis-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Diabetic Ketoacidosis",
+          "slug": "diabetic-ketoacidosis",
+          "has_ads": false
+        },
+        {
+          "name": "Dyslipidemia",
+          "slug": "dyslipidemia-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Dyslipidemia",
+          "slug": "dyslipidemia",
+          "has_ads": false
+        },
+        {
+          "name": "Eosinophilia",
+          "slug": "eosinophilia-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Eosinophilia",
+          "slug": "eosinophilia",
+          "has_ads": false
+        },
+        {
+          "name": "Female Hypogonadism",
+          "slug": "female-hypogonadism-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Female Hypogonadism",
+          "slug": "female-hypogonadism",
+          "has_ads": false
+        },
+        {
+          "name": "Female Infertility",
+          "slug": "female-infertility-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Female Infertility",
+          "slug": "female-infertility",
+          "has_ads": false
+        },
+        {
+          "name": "Folate Deficiency",
+          "slug": "folate-deficiency-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Folate Deficiency",
+          "slug": "folate-deficiency",
+          "has_ads": false
+        },
+        {
+          "name": "GH Deficiency",
+          "slug": "gh-deficiency-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "GH Deficiency",
+          "slug": "gh-deficiency",
+          "has_ads": false
+        },
+        {
+          "name": "GI Bleed",
+          "slug": "gi-bleed-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "GI Bleed",
+          "slug": "gi-bleed",
+          "has_ads": false
+        },
+        {
+          "name": "Gallstones",
+          "slug": "gallstones-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Gallstones",
+          "slug": "gallstones",
+          "has_ads": false
+        },
+        {
+          "name": "Gout",
+          "slug": "gout-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Gout",
+          "slug": "gout",
+          "has_ads": false
+        },
+        {
+          "name": "Graves\u2019 Disease",
+          "slug": "graves-disease-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Graves\u2019 Disease",
+          "slug": "graves-disease",
+          "has_ads": false
+        },
+        {
+          "name": "HIV/AIDS Advanced",
+          "slug": "hiv-aids-advanced-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "HIV/AIDS Advanced",
+          "slug": "hiv-aids-advanced",
+          "has_ads": false
+        },
+        {
+          "name": "Hashimoto\u2019s",
+          "slug": "hashimotos-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Hashimoto\u2019s",
+          "slug": "hashimotos",
+          "has_ads": false
+        },
+        {
+          "name": "Heart Failure",
+          "slug": "heart-failure-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Heart Failure",
+          "slug": "heart-failure",
+          "has_ads": false
+        },
+        {
+          "name": "Hemolytic Anemia",
+          "slug": "hemolytic-anemia-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Hemolytic Anemia",
+          "slug": "hemolytic-anemia",
+          "has_ads": false
+        },
+        {
+          "name": "Hepatitis",
+          "slug": "hepatitis-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Hepatitis",
+          "slug": "hepatitis",
+          "has_ads": false
+        },
+        {
+          "name": "Homocystinuria",
+          "slug": "homocystinuria-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Homocystinuria",
+          "slug": "homocystinuria",
+          "has_ads": false
+        },
+        {
+          "name": "Hypercalcemia",
+          "slug": "hypercalcemia-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Hypercalcemia",
+          "slug": "hypercalcemia",
+          "has_ads": false
+        },
+        {
+          "name": "Hyperkalemia",
+          "slug": "hyperkalemia-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Hyperkalemia",
+          "slug": "hyperkalemia",
+          "has_ads": false
+        },
+        {
+          "name": "Hypernatremia",
+          "slug": "hypernatremia-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Hypernatremia",
+          "slug": "hypernatremia",
+          "has_ads": false
+        },
+        {
+          "name": "Hyperprolactinemia",
+          "slug": "hyperprolactinemia-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Hyperprolactinemia",
+          "slug": "hyperprolactinemia",
+          "has_ads": false
+        },
+        {
+          "name": "Hypertension",
+          "slug": "hypertension-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Hypertension",
+          "slug": "hypertension",
+          "has_ads": false
+        },
+        {
+          "name": "Hyperthyroidism",
+          "slug": "hyperthyroidism-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Hyperthyroidism",
+          "slug": "hyperthyroidism",
+          "has_ads": false
+        },
+        {
+          "name": "Hyperuricemia",
+          "slug": "hyperuricemia-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Hyperuricemia",
+          "slug": "hyperuricemia",
+          "has_ads": false
+        },
+        {
+          "name": "Hypocalcemia",
+          "slug": "hypocalcemia-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Hypocalcemia",
+          "slug": "hypocalcemia",
+          "has_ads": false
+        },
+        {
+          "name": "Hypokalemia",
+          "slug": "hypokalemia-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Hypokalemia",
+          "slug": "hypokalemia",
+          "has_ads": false
+        },
+        {
+          "name": "Hyponatremia",
+          "slug": "hyponatremia-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Hyponatremia",
+          "slug": "hyponatremia",
+          "has_ads": false
+        },
+        {
+          "name": "Hypothyroidism",
+          "slug": "hypothyroidism-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Hypothyroidism",
+          "slug": "hypothyroidism",
+          "has_ads": false
+        },
+        {
+          "name": "IBD",
+          "slug": "ibd-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "IBD",
+          "slug": "ibd",
+          "has_ads": false
+        },
+        {
+          "name": "Insulin Resistance",
+          "slug": "insulin-resistance-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Insulin Resistance",
+          "slug": "insulin-resistance",
+          "has_ads": false
+        },
+        {
+          "name": "Iron Deficiency Anemia",
+          "slug": "iron-deficiency-anemia-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Iron Deficiency Anemia",
+          "slug": "iron-deficiency-anemia",
+          "has_ads": false
+        },
+        {
+          "name": "Kawasaki Disease",
+          "slug": "kawasaki-disease-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Kawasaki Disease",
+          "slug": "kawasaki-disease",
+          "has_ads": false
+        },
+        {
+          "name": "Leukemia",
+          "slug": "leukemia-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Leukemia",
+          "slug": "leukemia",
+          "has_ads": false
+        },
+        {
+          "name": "Liver Cancer",
+          "slug": "liver-cancer-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Liver Cancer",
+          "slug": "liver-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "Lung Cancer",
+          "slug": "lung-cancer-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Lung Cancer",
+          "slug": "lung-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "Lymphopenia",
+          "slug": "lymphopenia-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Lymphopenia",
+          "slug": "lymphopenia",
+          "has_ads": false
+        },
+        {
+          "name": "MGUS",
+          "slug": "mgus-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "MGUS",
+          "slug": "mgus",
+          "has_ads": false
+        },
+        {
+          "name": "Male Hypogonadism",
+          "slug": "male-hypogonadism-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Male Hypogonadism",
+          "slug": "male-hypogonadism",
+          "has_ads": false
+        },
+        {
+          "name": "Male Infertility",
+          "slug": "male-infertility-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Male Infertility",
+          "slug": "male-infertility",
+          "has_ads": false
+        },
+        {
+          "name": "Malnutrition",
+          "slug": "malnutrition-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Malnutrition",
+          "slug": "malnutrition",
+          "has_ads": false
+        },
+        {
+          "name": "Menopause",
+          "slug": "menopause-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Menopause",
+          "slug": "menopause",
+          "has_ads": false
+        },
+        {
+          "name": "Metabolic Syndrome",
+          "slug": "metabolic-syndrome-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Metabolic Syndrome",
+          "slug": "metabolic-syndrome",
+          "has_ads": false
+        },
+        {
+          "name": "Multiple Myeloma",
+          "slug": "multiple-myeloma-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Multiple Myeloma",
+          "slug": "multiple-myeloma",
+          "has_ads": false
+        },
+        {
+          "name": "Myocardial Infarction",
+          "slug": "myocardial-infarction-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Myocardial Infarction",
+          "slug": "myocardial-infarction",
+          "has_ads": false
+        },
+        {
+          "name": "NAFLD",
+          "slug": "nafld-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "NAFLD",
+          "slug": "nafld",
+          "has_ads": false
+        },
+        {
+          "name": "Nephrotic Syndrome",
+          "slug": "nephrotic-syndrome-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Nephrotic Syndrome",
+          "slug": "nephrotic-syndrome",
+          "has_ads": false
+        },
+        {
+          "name": "Neutropenia",
+          "slug": "neutropenia-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Neutropenia",
+          "slug": "neutropenia",
+          "has_ads": false
+        },
+        {
+          "name": "Obesity",
+          "slug": "obesity-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Obesity",
+          "slug": "obesity",
+          "has_ads": false
+        },
+        {
+          "name": "Osteomalacia",
+          "slug": "osteomalacia-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Osteomalacia",
+          "slug": "osteomalacia",
+          "has_ads": false
+        },
+        {
+          "name": "Osteoporosis",
+          "slug": "osteoporosis-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Osteoporosis",
+          "slug": "osteoporosis",
+          "has_ads": false
+        },
+        {
+          "name": "Ovarian Cancer",
+          "slug": "ovarian-cancer-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Ovarian Cancer",
+          "slug": "ovarian-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "PCOS",
+          "slug": "pcos-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "PCOS",
+          "slug": "pcos",
+          "has_ads": false
+        },
+        {
+          "name": "Pancreatic Cancer",
+          "slug": "pancreatic-cancer-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Pancreatic Cancer",
+          "slug": "pancreatic-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "Pancreatitis",
+          "slug": "pancreatitis-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Pancreatitis",
+          "slug": "pancreatitis",
+          "has_ads": false
+        },
+        {
+          "name": "Peptic Ulcer Disease",
+          "slug": "peptic-ulcer-disease-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Peptic Ulcer Disease",
+          "slug": "peptic-ulcer-disease",
+          "has_ads": false
+        },
+        {
+          "name": "Peripheral Artery Disease",
+          "slug": "peripheral-artery-disease-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Peripheral Artery Disease",
+          "slug": "peripheral-artery-disease",
+          "has_ads": false
+        },
+        {
+          "name": "Polycythemia Vera",
+          "slug": "polycythemia-vera-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Polycythemia Vera",
+          "slug": "polycythemia-vera",
+          "has_ads": false
+        },
+        {
+          "name": "Prediabetes",
+          "slug": "prediabetes-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Prediabetes",
+          "slug": "prediabetes",
+          "has_ads": false
+        },
+        {
+          "name": "Prostate Cancer",
+          "slug": "prostate-cancer-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Prostate Cancer",
+          "slug": "prostate-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "Rheumatoid Arthritis",
+          "slug": "rheumatoid-arthritis-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Rheumatoid Arthritis",
+          "slug": "rheumatoid-arthritis",
+          "has_ads": false
+        },
+        {
+          "name": "SIADH",
+          "slug": "siadh-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "SIADH",
+          "slug": "siadh",
+          "has_ads": false
+        },
+        {
+          "name": "SIRS",
+          "slug": "sirs-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "SIRS",
+          "slug": "sirs",
+          "has_ads": false
+        },
+        {
+          "name": "Sarcopenia",
+          "slug": "sarcopenia-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Sarcopenia",
+          "slug": "sarcopenia",
+          "has_ads": false
+        },
+        {
+          "name": "Sepsis",
+          "slug": "sepsis-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Sepsis",
+          "slug": "sepsis",
+          "has_ads": false
+        },
+        {
+          "name": "Sleep Apnea",
+          "slug": "sleep-apnea-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Sleep Apnea",
+          "slug": "sleep-apnea",
+          "has_ads": false
+        },
+        {
+          "name": "Smoking-Related Inflammation",
+          "slug": "smoking-related-inflammation-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Smoking-Related Inflammation",
+          "slug": "smoking-related-inflammation",
+          "has_ads": false
+        },
+        {
+          "name": "Stroke",
+          "slug": "stroke-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Stroke",
+          "slug": "stroke",
+          "has_ads": false
+        },
+        {
+          "name": "Subclinical Hyperthyroidism",
+          "slug": "subclinical-hyperthyroidism-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Subclinical Hyperthyroidism",
+          "slug": "subclinical-hyperthyroidism",
+          "has_ads": false
+        },
+        {
+          "name": "Subclinical Hypothyroidism",
+          "slug": "subclinical-hypothyroidism-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Subclinical Hypothyroidism",
+          "slug": "subclinical-hypothyroidism",
+          "has_ads": false
+        },
+        {
+          "name": "Systemic Lupus Erythematosus",
+          "slug": "systemic-lupus-erythematosus-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Systemic Lupus Erythematosus",
+          "slug": "systemic-lupus-erythematosus",
+          "has_ads": false
+        },
+        {
+          "name": "Testicular Cancer",
+          "slug": "testicular-cancer-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Testicular Cancer",
+          "slug": "testicular-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "Thrombocytopenia",
+          "slug": "thrombocytopenia-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Thrombocytopenia",
+          "slug": "thrombocytopenia",
+          "has_ads": false
+        },
+        {
+          "name": "Thrombocytosis",
+          "slug": "thrombocytosis-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Thrombocytosis",
+          "slug": "thrombocytosis",
+          "has_ads": false
+        },
+        {
+          "name": "Thrombophilia",
+          "slug": "thrombophilia-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Thrombophilia",
+          "slug": "thrombophilia",
+          "has_ads": false
+        },
+        {
+          "name": "Thyroid Cancer",
+          "slug": "thyroid-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "Vitamin B12 Deficiency",
+          "slug": "vitamin-b12-deficiency-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Vitamin B12 Deficiency",
+          "slug": "vitamin-b12-deficiency",
+          "has_ads": false
+        },
+        {
+          "name": "Vitamin D Deficiency",
+          "slug": "vitamin-d-deficiency-biomarker-test",
+          "has_ads": false
+        },
+        {
+          "name": "Vitamin D Deficiency",
+          "slug": "vitamin-d-deficiency",
+          "has_ads": false
+        }
+      ],
+      "count": 221,
+      "with_ads": 0,
+      "without_ads": 221
+    },
+    {
+      "name": "Cancer Biomarkers",
+      "type": "Cancer Tests",
+      "tests": [
+        {
+          "name": "1p/19q Codeletion Test - Brain Tumor Biomarker",
+          "slug": "1p19q-codeletion-test-brain-tumor",
+          "has_ads": false
+        },
+        {
+          "name": "5-HIAA Urine Test - Neuroendocrine Tumor Biomarker",
+          "slug": "5-hiaa-test-neuroendocrine-tumor",
+          "has_ads": false
+        },
+        {
+          "name": "AFP Test - Liver Cancer Biomarker",
+          "slug": "afp-test-liver-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "AFP Test - Testicular Cancer Biomarker",
+          "slug": "afp-test-testicular-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "ALK Gene Test - Childhood Cancer Biomarker",
+          "slug": "alk-test-childhood-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "ALK Gene Test - Lung Cancer Biomarker",
+          "slug": "alk-gene-test-lung-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "ALP Test - Bone Cancer Biomarker",
+          "slug": "alp-test-bone-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "AMH Test - Ovarian Cancer Biomarker",
+          "slug": "amh-test-ovarian-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "AR-V7 Test - Prostate Cancer Biomarker",
+          "slug": "ar-v7-test-prostate-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "BRAF Mutation Test - Lung Cancer Biomarker",
+          "slug": "braf-mutation-test-lung-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "BRAF V600E Mutation Test - Melanoma Biomarker",
+          "slug": "braf-v600e-test-melanoma",
+          "has_ads": false
+        },
+        {
+          "name": "BRAF V600E Mutation Test - Thyroid Cancer Biomarker",
+          "slug": "braf-v600e-test-thyroid-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "BRCA1 Gene Test - Prostate Cancer Biomarker",
+          "slug": "brca1-gene-test-prostate-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "BRCA2 Gene Test - Prostate Cancer Biomarker",
+          "slug": "brca2-gene-test-prostate-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "BRCA3 Gene Test - Breast Cancer Biomarker",
+          "slug": "brca3-gene-test-breast-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "BTA Test - Bladder Cancer Biomarker",
+          "slug": "bta-test-bladder-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "Beta-2 Microglobulin Test - Lymphoma Biomarker",
+          "slug": "beta-2-microglobulin-test-lymphoma",
+          "has_ads": false
+        },
+        {
+          "name": "Beta-hCG Test - Testicular Cancer Biomarker",
+          "slug": "beta-hcg-test-testicular-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "CA 15-3 Test - Breast Cancer Biomarker",
+          "slug": "ca-15-3-test-breast-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "CA 19-9 Test - Colorectal Cancer Biomarker",
+          "slug": "ca-19-9-test-colorectal-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "CA 27-29 Test - Breast Cancer Biomarker",
+          "slug": "ca-27-29-test-breast-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "CA 72-4 Test - Gastric Cancer Biomarker",
+          "slug": "ca-72-4-test-gastric-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "CA-125 Test - Ovarian Cancer Biomarker",
+          "slug": "ca-125-test-ovarian-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "CAIX Test - Kidney Cancer Biomarker",
+          "slug": "caix-test-kidney-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "CEA Test - Colorectal Cancer Biomarker",
+          "slug": "cea-test-colorectal-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "CEA Test - Head & Neck Cancer Biomarker",
+          "slug": "cea-test-head-neck-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "CEA Test - Thyroid Medullary Cancer Biomarker",
+          "slug": "cea-test-thyroid-medullary-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "CYFRA 21-1 Test - Lung Cancer Biomarker",
+          "slug": "cyfra-21-1-test-lung-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "Calcitonin Test - Thyroid Cancer Biomarker",
+          "slug": "calcitonin-test-thyroid-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "Calcitonin Test - Thyroid Medullary Cancer Biomarker",
+          "slug": "calcitonin-test-thyroid-medullary-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "Chromogranin A Test - Neuroendocrine Tumor Biomarker",
+          "slug": "chromogranin-a-test-neuroendocrine-tumor-biomarke",
+          "has_ads": false
+        },
+        {
+          "name": "DCP Test - Liver Cancer Biomarker",
+          "slug": "dcp-test-liver-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "DU-PAN-2 Test - Pancreatic Cancer Biomarker",
+          "slug": "du-pan-2-test-pancreatic-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "EGFR Mutation Test - Head & Neck Cancer Biomarker",
+          "slug": "egfr-test-head-neck-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "EGFR Mutation Test - Lung Cancer Biomarker",
+          "slug": "egfr-mutation-test-lung-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "EGFR vIII Mutation Test - Brain Tumor Biomarker",
+          "slug": "egfr-viii-test-brain-tumor",
+          "has_ads": false
+        },
+        {
+          "name": "ER/PR Test - Endometrial Cancer Biomarker",
+          "slug": "er-pr-test-endometrial-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "ESR Test - Lymphoma Biomarker",
+          "slug": "esr-test-lymphoma",
+          "has_ads": false
+        },
+        {
+          "name": "Estrogen Receptor (ER) Test - Breast Cancer Biomarker",
+          "slug": "estrogen-receptor-test-breast-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "Free Light Chain Ratio Test - Multiple Myeloma Biomarker",
+          "slug": "free-light-chain-ratio-test-multiple-myeloma",
+          "has_ads": false
+        },
+        {
+          "name": "Free PSA Test - Prostate Cancer Biomarker",
+          "slug": "free-psa-test-prostate-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "GP73 Test - Liver Cancer Biomarker",
+          "slug": "gp73-test-liver-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "HE4 Test - Ovarian Cancer Biomarker",
+          "slug": "he4-test-ovarian-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "HER2 Mutation Test - Lung Cancer Biomarker",
+          "slug": "her2-mutation-test-lung-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "HER2 Test - Breast Cancer Biomarker",
+          "slug": "her2-test-breast-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "HPV DNA Test - Cervical Cancer Biomarker",
+          "slug": "hpv-dna-test-cervical-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "IDH1 Mutation Test - Brain Tumor Biomarker",
+          "slug": "idh1-test-brain-tumor",
+          "has_ads": false
+        },
+        {
+          "name": "IDH2 Mutation Test - Brain Tumor Biomarker",
+          "slug": "idh2-test-brain-tumor",
+          "has_ads": false
+        },
+        {
+          "name": "Immunoglobulin Test - Multiple Myeloma Biomarker",
+          "slug": "immunoglobulin-test-multiple-myeloma",
+          "has_ads": false
+        },
+        {
+          "name": "Inhibin B Test - Ovarian Cancer Biomarker",
+          "slug": "inhibin-b-test-ovarian-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "KIT Gene Test - Melanoma Biomarker",
+          "slug": "kit-test-melanoma",
+          "has_ads": false
+        },
+        {
+          "name": "KRAS Mutation Test - Lung Cancer Biomarker",
+          "slug": "kras-mutation-test-lung-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "Ki-67 Test - Breast Cancer Biomarker",
+          "slug": "ki67-test-breast-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "LDH Test - Bone Cancer Biomarker",
+          "slug": "ldh-test-bone-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "LDH Test - Kidney Cancer Biomarker",
+          "slug": "ldh-test-kidney-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "LDH Test - Melanoma Biomarker",
+          "slug": "ldh-test-melanoma-biomarker",
+          "has_ads": false
+        },
+        {
+          "name": "LDH Test - Testicular Cancer Biomarker",
+          "slug": "ldh-test-testicular-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "M-Protein (SPEP/UPEP) Test - Multiple Myeloma Biomarker",
+          "slug": "m-protein-test-multiple-myeloma",
+          "has_ads": false
+        },
+        {
+          "name": "MET Gene Mutation Test - Lung Cancer Biomarker",
+          "slug": "met-gene-test-lung-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "MGMT Methylation Test - Brain Tumor Biomarker",
+          "slug": "mgmt-test-brain-tumor",
+          "has_ads": false
+        },
+        {
+          "name": "MSI/dMMR Test - Endometrial Cancer Biomarker",
+          "slug": "msi-dmmr-test-endometrial-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "MYCN Amplification Test - Childhood Cancer Biomarker",
+          "slug": "mycn-test-childhood-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "MammaPrint Test - 70-Gene Breast Cancer Biomarker Panel",
+          "slug": "mammaprint-test-breast-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "NMP22 Test - Bladder Cancer Biomarker",
+          "slug": "nmp22-test-bladder-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "NRAS Mutation Test - Melanoma Biomarker",
+          "slug": "nras-test-melanoma",
+          "has_ads": false
+        },
+        {
+          "name": "NSE Test - Lung Cancer Biomarker",
+          "slug": "nse-test-lung-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "NSE Test - Neuroendocrine Tumor Biomarker",
+          "slug": "nse-test-neuroendocrine-tumor",
+          "has_ads": false
+        },
+        {
+          "name": "NTRK Fusion Test - Lung Cancer Biomarker",
+          "slug": "ntrk-fusion-test-lung-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "OVA1 Test - Ovarian Cancer Biomarker Panel",
+          "slug": "ova1-test-ovarian-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "Oncotype DX Breast Cancer Test - 21-Gene Biomarker Panel",
+          "slug": "oncotype-dx-test-breast-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "Oncotype DX Test - 17-Gene Prostate Cancer Biomarker",
+          "slug": "oncotype-dx-test-prostate-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "P16 (HPV) Test - Head & Neck Cancer Biomarker",
+          "slug": "p16-hpv-test-head-neck-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "P16 INK4A Test - Cervical Cancer Biomarker",
+          "slug": "p16-ink4a-test-cervical-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "P53 Gene Test - Endometrial Cancer Biomarker",
+          "slug": "p53-gene-test-endometrial-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "PCA3 Urine Test - Prostate Cancer Biomarker",
+          "slug": "pca3-urine-test-prostate-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "PD-L1 Test - Lung Cancer Biomarker",
+          "slug": "pd-l1-test-lung-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "PIK3CA Mutation Test - Breast Cancer Biomarker",
+          "slug": "pik3ca-mutation-test-breast-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "PIK3CA Test - Lung Cancer Biomarker",
+          "slug": "pik3ca-test-lung-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "POLE Mutation Test - Endometrial Cancer Biomarker",
+          "slug": "pole-mutation-test-endometrial-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "PSA Test - Prostate Cancer Biomarker",
+          "slug": "psa-test-prostate-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "PTEN Mutation Test - Endometrial Cancer Biomarker",
+          "slug": "pten-mutation-test-endometrial-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "Pancreastatin Test - Neuroendocrine Tumor Biomarker",
+          "slug": "pancreastatin-test-neuroendocrine-tumor",
+          "has_ads": false
+        },
+        {
+          "name": "Progesterone Receptor (PR) Test - Breast Cancer Biomarker",
+          "slug": "progesterone-receptor-test-breast-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "Prolactin Test - Pituitary Prolactinoma Biomarker",
+          "slug": "prolactin-test-pituitary-prolactinoma",
+          "has_ads": false
+        },
+        {
+          "name": "Prolaris Test - 46-Gene Prostate Cancer Biomarker",
+          "slug": "prolaris-test-prostate-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "Prostate Health Index (PHI) - Prostate Cancer Biomarker",
+          "slug": "prostate-health-index-prostate-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "RET Mutation Test - Lung Cancer Biomarker",
+          "slug": "ret-mutation-test-lung-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "RET Mutation Test - Thyroid Cancer Biomarker",
+          "slug": "ret-mutation-test-thyroid-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "RET Mutation Test - Thyroid Medullary Cancer Biomarker",
+          "slug": "ret-mutation-test-thyroid-medullary-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "ROS1 Fusion Test - Lung Cancer Biomarker",
+          "slug": "ros1-fusion-test-lung-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "TERT Promoter Test - Melanoma Biomarker",
+          "slug": "tert-promoter-test-melanoma",
+          "has_ads": false
+        },
+        {
+          "name": "TG Antibody Test - Thyroid Cancer Biomarker",
+          "slug": "tg-antibody-test-thyroid-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "TMPRSS2:ERG Fusion Test - Prostate Cancer Biomarker",
+          "slug": "tmprss2-erg-fusion-test-prostate-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "TP53 Gene Test - Head & Neck Cancer Biomarker",
+          "slug": "tp53-test-head-neck-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "TP53 Gene Test - Leukaemia Biomarker",
+          "slug": "tp53-gene-test-leukaemia",
+          "has_ads": false
+        },
+        {
+          "name": "TPO Antibody Test - Thyroid Cancer Biomarker",
+          "slug": "tpo-antibody-test-thyroid-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "Thyroglobulin Test - Thyroid Cancer Biomarker",
+          "slug": "thyroglobulin-test-thyroid-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "Tumor Mutational Burden Test - Lung Cancer Biomarker",
+          "slug": "tumor-mutational-burden-test-lung-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "UPA/PAI-1 Test - Breast Cancer Biomarker",
+          "slug": "upa-pai1-test-breast-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "UroVysion FISH Test - Bladder Cancer Biomarker",
+          "slug": "urovysion-fish-test-bladder-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "VEGF Test - Kidney Cancer Biomarker",
+          "slug": "vegf-test-kidney-cancer",
+          "has_ads": false
+        },
+        {
+          "name": "WT1 Gene Test - Childhood Cancer Biomarker",
+          "slug": "wt1-test-childhood-cancer",
+          "has_ads": false
+        }
+      ],
+      "count": 102,
+      "with_ads": 0,
+      "without_ads": 102
+    },
+    {
+      "name": "Gut Microbiome",
+      "type": "Gut Tests",
+      "tests": [
+        {
+          "name": "Acetate Capacity",
+          "slug": "acetate-capacity-test",
+          "has_ads": false
+        },
+        {
+          "name": "Actinobacteria",
+          "slug": "actinobacteria-test",
+          "has_ads": false
+        },
+        {
+          "name": "Akkermansia muciniphila",
+          "slug": "akkermansia-muciniphila-test",
+          "has_ads": false
+        },
+        {
+          "name": "Akkermansia sp004167065",
+          "slug": "akkermansia-sp004167065-test",
+          "has_ads": false
+        },
+        {
+          "name": "Alistipes finegoldii",
+          "slug": "alistipes-finegoldii-test",
+          "has_ads": false
+        },
+        {
+          "name": "Ammonia",
+          "slug": "ammonia-test",
+          "has_ads": false
+        },
+        {
+          "name": "Anaerostipes hadrus",
+          "slug": "anaerostipes-hadrus-test",
+          "has_ads": false
+        },
+        {
+          "name": "Antibiotic Resistance Signature",
+          "slug": "antibiotic-resistance-signature-test",
+          "has_ads": false
+        },
+        {
+          "name": "Bacteroides cellulosilyticus",
+          "slug": "bacteroides-cellulosilyticus-test",
+          "has_ads": false
+        },
+        {
+          "name": "Bacteroides fragilis",
+          "slug": "bacteroides-fragilis-test",
+          "has_ads": false
+        },
+        {
+          "name": "Bacteroides ovatus",
+          "slug": "bacteroides-ovatus-test",
+          "has_ads": false
+        },
+        {
+          "name": "Bacteroides uniformis",
+          "slug": "bacteroides-uniformis-test",
+          "has_ads": false
+        },
+        {
+          "name": "Bacteroides xylanisolvens",
+          "slug": "bacteroides-xylanisolvens-test",
+          "has_ads": false
+        },
+        {
+          "name": "Bacteroidota",
+          "slug": "bacteroidota-test",
+          "has_ads": false
+        },
+        {
+          "name": "Beneficial Bifidobacterium",
+          "slug": "beneficial-bifidobacterium-test",
+          "has_ads": false
+        },
+        {
+          "name": "Beta-glucuronidase Capacity",
+          "slug": "beta-glucuronidase-capacity-test",
+          "has_ads": false
+        },
+        {
+          "name": "Bifidobacterium adolescentis",
+          "slug": "bifidobacterium-adolescentis-test",
+          "has_ads": false
+        },
+        {
+          "name": "Bifidobacterium animalis",
+          "slug": "bifidobacterium-animalis-test",
+          "has_ads": false
+        },
+        {
+          "name": "Biotin",
+          "slug": "biotin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Blastocystis hominis",
+          "slug": "blastocystis-hominis-test",
+          "has_ads": false
+        },
+        {
+          "name": "Blautia wexlerae",
+          "slug": "blautia-wexlerae-test",
+          "has_ads": false
+        },
+        {
+          "name": "Branched Chain Amino Acids",
+          "slug": "branched-chain-amino-acids-test",
+          "has_ads": false
+        },
+        {
+          "name": "Butyrate Capacity",
+          "slug": "butyrate-capacity-test",
+          "has_ads": false
+        },
+        {
+          "name": "Campylobacter jejuni",
+          "slug": "campylobacter-jejuni-test",
+          "has_ads": false
+        },
+        {
+          "name": "Candida albicans",
+          "slug": "candida-albicans-test",
+          "has_ads": false
+        },
+        {
+          "name": "Cellulose",
+          "slug": "cellulose-test",
+          "has_ads": false
+        },
+        {
+          "name": "Chitin",
+          "slug": "chitin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Clostridium difficile",
+          "slug": "clostridium-difficile-test",
+          "has_ads": false
+        },
+        {
+          "name": "Clostridium perfringens",
+          "slug": "clostridium-perfringens-test",
+          "has_ads": false
+        },
+        {
+          "name": "Collinsella aerofaciens",
+          "slug": "collinsella-aerofaciens-test",
+          "has_ads": false
+        },
+        {
+          "name": "Cryptosporidium",
+          "slug": "cryptosporidium-test",
+          "has_ads": false
+        },
+        {
+          "name": "Dorea longicatena",
+          "slug": "dorea-longicatena-test",
+          "has_ads": false
+        },
+        {
+          "name": "Enterococcus faecium",
+          "slug": "enterococcus-faecium-test",
+          "has_ads": false
+        },
+        {
+          "name": "Escherichia coli",
+          "slug": "escherichia-coli-test",
+          "has_ads": false
+        },
+        {
+          "name": "Eubacterium hallii",
+          "slug": "eubacterium-hallii-test",
+          "has_ads": false
+        },
+        {
+          "name": "Eubacterium rectale",
+          "slug": "eubacterium-rectale-test",
+          "has_ads": false
+        },
+        {
+          "name": "Faecalibacterium prausnitzii Group",
+          "slug": "faecalibacterium-prausnitzii-group-test",
+          "has_ads": false
+        },
+        {
+          "name": "Faecalibacterium prausnitzii",
+          "slug": "faecalibacterium-prausnitzii-test",
+          "has_ads": false
+        },
+        {
+          "name": "Faecalicatena contorta",
+          "slug": "faecalicatena-contorta-test",
+          "has_ads": false
+        },
+        {
+          "name": "Faecalicatena faecis",
+          "slug": "faecalicatena-faecis-test",
+          "has_ads": false
+        },
+        {
+          "name": "Fiber Digestion Capacity",
+          "slug": "fiber-digestion-capacity-test",
+          "has_ads": false
+        },
+        {
+          "name": "Firmicutes",
+          "slug": "firmicutes-test",
+          "has_ads": false
+        },
+        {
+          "name": "Firmicutes:Bacteroidetes Ratio",
+          "slug": "firmicutesbacteroidetes-ratio-test",
+          "has_ads": false
+        },
+        {
+          "name": "Fructooligosaccharides",
+          "slug": "fructooligosaccharides-test",
+          "has_ads": false
+        },
+        {
+          "name": "Fusobacteriota",
+          "slug": "fusobacteriota-test",
+          "has_ads": false
+        },
+        {
+          "name": "GABA Breakdown",
+          "slug": "gaba-breakdown-test",
+          "has_ads": false
+        },
+        {
+          "name": "Galactooligosaccharides",
+          "slug": "galactooligosaccharides-test",
+          "has_ads": false
+        },
+        {
+          "name": "Giardia lamblia",
+          "slug": "giardia-lamblia-test",
+          "has_ads": false
+        },
+        {
+          "name": "Haemophilus influenzae",
+          "slug": "haemophilus-influenzae-test",
+          "has_ads": false
+        },
+        {
+          "name": "Helicobacter pylori",
+          "slug": "helicobacter-pylori-test",
+          "has_ads": false
+        },
+        {
+          "name": "Hexa-LPS Index",
+          "slug": "hexa-lps-index-test",
+          "has_ads": false
+        },
+        {
+          "name": "Histamine-producing Species",
+          "slug": "histamine-producing-species-test",
+          "has_ads": false
+        },
+        {
+          "name": "Host DNA",
+          "slug": "host-dna-test",
+          "has_ads": false
+        },
+        {
+          "name": "Hydrogen Sulfide Index",
+          "slug": "hydrogen-sulfide-index-test",
+          "has_ads": false
+        },
+        {
+          "name": "Indole-3-propionic Acid",
+          "slug": "indole-3-propionic-acid-test",
+          "has_ads": false
+        },
+        {
+          "name": "Isomaltooligosaccharides",
+          "slug": "isomaltooligosaccharides-test",
+          "has_ads": false
+        },
+        {
+          "name": "KLE1615 sp900066985",
+          "slug": "kle1615-sp900066985-test",
+          "has_ads": false
+        },
+        {
+          "name": "Klebsiella oxytoca",
+          "slug": "klebsiella-oxytoca-test",
+          "has_ads": false
+        },
+        {
+          "name": "Klebsiella pneumoniae",
+          "slug": "klebsiella-pneumoniae-test",
+          "has_ads": false
+        },
+        {
+          "name": "Lachnospiraceae bacterium",
+          "slug": "lachnospiraceae-bacterium-test",
+          "has_ads": false
+        },
+        {
+          "name": "Lactiscaesibacillus rhamnosus",
+          "slug": "lactiscaesibacillus-rhamnosus-test",
+          "has_ads": false
+        },
+        {
+          "name": "Malassezia",
+          "slug": "malassezia-test",
+          "has_ads": false
+        },
+        {
+          "name": "Mediterraneibacter faecis",
+          "slug": "mediterraneibacter-faecis-test",
+          "has_ads": false
+        },
+        {
+          "name": "Methanobrevibacter smithii",
+          "slug": "methanobrevibacter-smithii-test",
+          "has_ads": false
+        },
+        {
+          "name": "Microbial GABA Capacity",
+          "slug": "microbial-gaba-capacity-test",
+          "has_ads": false
+        },
+        {
+          "name": "Microbiome Diversity",
+          "slug": "microbiome-diversity-test",
+          "has_ads": false
+        },
+        {
+          "name": "Mucus Degradation Index",
+          "slug": "mucus-degradation-index-test",
+          "has_ads": false
+        },
+        {
+          "name": "Overabundant Species",
+          "slug": "overabundant-species-test",
+          "has_ads": false
+        },
+        {
+          "name": "Pectin",
+          "slug": "pectin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Phocaeicola dorei",
+          "slug": "phocaeicola-dorei-test",
+          "has_ads": false
+        },
+        {
+          "name": "Phocaeicola vulgatus",
+          "slug": "phocaeicola-vulgatus-test",
+          "has_ads": false
+        },
+        {
+          "name": "Prevotella copri",
+          "slug": "prevotella-copri-test",
+          "has_ads": false
+        },
+        {
+          "name": "Prevotella:Bacteroides Ratio",
+          "slug": "prevotellabacteroides-ratio-test",
+          "has_ads": false
+        },
+        {
+          "name": "Propionate Capacity",
+          "slug": "propionate-capacity-test",
+          "has_ads": false
+        },
+        {
+          "name": "Protein Breakdown Capacity",
+          "slug": "protein-breakdown-capacity-test",
+          "has_ads": false
+        },
+        {
+          "name": "Proteobacteria",
+          "slug": "proteobacteria-test",
+          "has_ads": false
+        },
+        {
+          "name": "Proteobacteria:Actinobacteria Ratio",
+          "slug": "proteobacteriaactinobacteria-ratio-test",
+          "has_ads": false
+        },
+        {
+          "name": "Pseudoruminococcus massiliensis",
+          "slug": "pseudoruminococcus-massiliensis-test",
+          "has_ads": false
+        },
+        {
+          "name": "Resistant Starch",
+          "slug": "resistant-starch-test",
+          "has_ads": false
+        },
+        {
+          "name": "Richness Index",
+          "slug": "richness-index-test",
+          "has_ads": false
+        },
+        {
+          "name": "Roseburia hominis",
+          "slug": "roseburia-hominis-test",
+          "has_ads": false
+        },
+        {
+          "name": "Ruminococcus bromii",
+          "slug": "ruminococcus-bromii-test",
+          "has_ads": false
+        },
+        {
+          "name": "Ruminococcus gnavus",
+          "slug": "ruminococcus-gnavus-test",
+          "has_ads": false
+        },
+        {
+          "name": "Saccharomyces cerevisiae",
+          "slug": "saccharomyces-cerevisiae-test",
+          "has_ads": false
+        },
+        {
+          "name": "Shannon Diversity",
+          "slug": "shannon-diversity-test",
+          "has_ads": false
+        },
+        {
+          "name": "Staphylococcus aureus",
+          "slug": "staphylococcus-aureus-test",
+          "has_ads": false
+        },
+        {
+          "name": "Streptococcus thermophilus",
+          "slug": "streptococcus-thermophilus-test",
+          "has_ads": false
+        },
+        {
+          "name": "Trimethylamine",
+          "slug": "trimethylamine-test",
+          "has_ads": false
+        },
+        {
+          "name": "Vibrio cholerae",
+          "slug": "vibrio-cholerae-test",
+          "has_ads": false
+        },
+        {
+          "name": "Vitamin B1",
+          "slug": "vitamin-b1-test",
+          "has_ads": false
+        },
+        {
+          "name": "Vitamin B12",
+          "slug": "vitamin-b12-test",
+          "has_ads": false
+        },
+        {
+          "name": "Vitamin B2",
+          "slug": "vitamin-b2-test",
+          "has_ads": false
+        },
+        {
+          "name": "Vitamin K",
+          "slug": "vitamin-k-test",
+          "has_ads": false
+        },
+        {
+          "name": "Xylooligosaccharides",
+          "slug": "xylooligosaccharides-test",
+          "has_ads": false
+        }
+      ],
+      "count": 94,
+      "with_ads": 0,
+      "without_ads": 94
+    },
+    {
+      "name": "Heavy Metals",
+      "type": "Toxin Tests",
+      "tests": [
+        {
+          "name": "Aluminum",
+          "slug": "aluminum-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Antimony",
+          "slug": "antimony-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Arsenic",
+          "slug": "arsenic-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Barium",
+          "slug": "barium-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Beryllium",
+          "slug": "beryllium-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Bismuth",
+          "slug": "bismuth-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Cadmium",
+          "slug": "cadmium-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Cesium",
+          "slug": "cesium-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Gadolinium",
+          "slug": "gadolinium-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Lead",
+          "slug": "lead-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Mercury",
+          "slug": "mercury-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Nickel",
+          "slug": "nickel-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Palladium",
+          "slug": "palladium-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Platinum",
+          "slug": "platinum-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Tellurium",
+          "slug": "tellurium-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Thallium",
+          "slug": "thallium-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Thorium",
+          "slug": "thorium-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Tin",
+          "slug": "tin-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Tungsten",
+          "slug": "tungsten-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Uranium",
+          "slug": "uranium-toxin-test",
+          "has_ads": false
+        }
+      ],
+      "count": 20,
+      "with_ads": 0,
+      "without_ads": 20
+    },
+    {
+      "name": "Environmental Toxins",
+      "type": "Toxin Tests",
+      "tests": [
+        {
+          "name": "2,2-bis(4-Chlorophenyl) Acetic Acid (DDA) Environmental",
+          "slug": "22-bis4-chlorophenyl-acetic-acid-dda-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "2,4-Dichlorophenoxyacetic Acid (2,4-D) Environmental",
+          "slug": "24-dichlorophenoxyacetic-acid-24-d-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "2-Hydroxyethyl Mercapturic Acid (HEMA) Environmental",
+          "slug": "2-hydroxyethyl-mercapturic-acid-hema-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "2-Hydroxyisobutyric Acid (2HIB) Environmental",
+          "slug": "2-hydroxyisobutyric-acid-2hib-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "2-Methylhippuric Acid (2MHA) Environmental",
+          "slug": "2-methylhippuric-acid-2mha-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "3-Methylhippuric Acid (3MHA) Environmental",
+          "slug": "3-methylhippuric-acid-3mha-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "3-Phenoxybenzoic Acid (3PBA) Environmental",
+          "slug": "3-phenoxybenzoic-acid-3pba-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "4-Methylhippuric Acid (4MHA) Environmental",
+          "slug": "4-methylhippuric-acid-4mha-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "4-Nonylphenol Environmental",
+          "slug": "4-nonylphenol-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Atrazine Environmental",
+          "slug": "atrazine-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Atrazine Mercapturate Environmental",
+          "slug": "atrazine-mercapturate-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Bisphenol A (BPA) Environmental",
+          "slug": "bisphenol-a-bpa-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Butylparaben Environmental",
+          "slug": "butylparaben-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Diethyl Phosphate (DEP) Environmental",
+          "slug": "diethyl-phosphate-dep-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Diethyldithiophosphate (DEDTP) Environmental",
+          "slug": "diethyldithiophosphate-dedtp-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Diethylthiophosphate (DETP) Environmental",
+          "slug": "diethylthiophosphate-detp-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Dimethyl Phosphate (DMP) Environmental",
+          "slug": "dimethyl-phosphate-dmp-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Dimethyldithiophosphate (DMDTP) Environmental",
+          "slug": "dimethyldithiophosphate-dmdtp-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Dimethylthiophosphate (DMTP) Environmental",
+          "slug": "dimethylthiophosphate-dmtp-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Diphenyl Phosphate (DPP) Environmental",
+          "slug": "diphenyl-phosphate-dpp-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Ethylparaben Environmental",
+          "slug": "ethylparaben-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Glyphosate Environmental",
+          "slug": "glyphosate-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Methylparaben Environmental",
+          "slug": "methylparaben-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Mono-(2-ethyl-5-hydroxyhexyl) Phthalate (MEHHP) Environmental",
+          "slug": "mono-2-ethyl-5-hydroxyhexyl-phthalate-mehhp-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Mono-(2-ethyl-5-oxohexyl) Phthalate (MEOHP) Environmental",
+          "slug": "mono-2-ethyl-5-oxohexyl-phthalate-meohp-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Mono-2-ethylhexyl Phthalate (MEHP) Environmental",
+          "slug": "mono-2-ethylhexyl-phthalate-mehp-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Mono-ethyl Phthalate (MEtP) Environmental",
+          "slug": "mono-ethyl-phthalate-metp-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "N-Acetyl (2-Cyanoethyl) Cysteine (NACE) Environmental",
+          "slug": "n-acetyl-2-cyanoethyl-cysteine-nace-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "N-Acetyl (2-Hydroxypropyl) Cysteine (NAHP) Environmental",
+          "slug": "n-acetyl-2-hydroxypropyl-cysteine-nahp-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "N-Acetyl (3,4-Dihydroxybutyl) Cysteine Environmental",
+          "slug": "n-acetyl-34-dihydroxybutyl-cysteine-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "N-Acetyl (Propyl) Cysteine (NAPR) Environmental",
+          "slug": "n-acetyl-propyl-cysteine-napr-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "N-Acetyl Phenyl Cysteine (NAP) Environmental",
+          "slug": "n-acetyl-phenyl-cysteine-nap-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "N-acetyl-S-(2-carbamoylethyl)-cysteine Environmental",
+          "slug": "n-acetyl-s-2-carbamoylethyl-cysteine-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Perchlorate (PERC) Environmental",
+          "slug": "perchlorate-perc-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Phenyl Glyoxylic Acid (PGO) Environmental",
+          "slug": "phenyl-glyoxylic-acid-pgo-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Propylparaben Environmental",
+          "slug": "propylparaben-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Tiglylglycine (TG) Environmental",
+          "slug": "tiglylglycine-tg-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Triclosan (TCS) Environmental",
+          "slug": "triclosan-tcs-environmental-toxin-test",
+          "has_ads": false
+        },
+        {
+          "name": "Urine Creatinine Environmental",
+          "slug": "urine-creatinine-environmental-toxin-test",
+          "has_ads": false
+        }
+      ],
+      "count": 39,
+      "with_ads": 0,
+      "without_ads": 39
+    }
+  ],
+  "summary": {
+    "total_tests": 635,
+    "with_ads": 28,
+    "without_ads": 607,
+    "coverage_pct": 4.4
+  }
+}

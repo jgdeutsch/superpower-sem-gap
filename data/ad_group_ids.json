@@ -1,0 +1,252 @@
+{
+  "Function Health": {
+    "id": 181819692478,
+    "campaign": "Search_Generic_Competitors_tCPA_US_Blood-Test",
+    "total_spend": 114261.608288,
+    "total_conversions": 303.52968,
+    "total_all_conversions": 6039.903963,
+    "monthly_spend": 38087.20276266667,
+    "monthly_conversions": 101.17656,
+    "cac": 376.44295044886553
+  },
+  "Landscape only": {
+    "id": 186273416821,
+    "campaign": "Demand-Gen_YouTube_Prospecting_Conversion_Registration-and-subs-v2-landscape",
+    "total_spend": 68515.899248,
+    "total_conversions": 1596.488835,
+    "total_all_conversions": 3808.943738,
+    "monthly_spend": 22838.633082666667,
+    "monthly_conversions": 532.162945,
+    "cac": 42.91661660634163
+  },
+  "Vertical only": {
+    "id": 190637233597,
+    "campaign": "Demand-Gen_YouTube_Prospecting_Conversion_Registration-and-subs-v2-shorts-only",
+    "total_spend": 51151.679011,
+    "total_conversions": 1272.722093,
+    "total_all_conversions": 2738.705239,
+    "monthly_spend": 17050.559670333332,
+    "monthly_conversions": 424.2406976666667,
+    "cac": 40.190768505029794
+  },
+  "Brand - Exact": {
+    "id": 170538618455,
+    "campaign": "Search_Brand_tCPA_US",
+    "total_spend": 36012.337001,
+    "total_conversions": 1104.849732,
+    "total_all_conversions": 25629.448187,
+    "monthly_spend": 12004.112333666666,
+    "monthly_conversions": 368.28324399999997,
+    "cac": 32.59478276363469
+  },
+  "Blood Test": {
+    "id": 181208994477,
+    "campaign": "Search_Generic_Blood-Test_tCPA_US",
+    "total_spend": 18958.403274,
+    "total_conversions": 26.455311000000002,
+    "total_all_conversions": 990.2382560000001,
+    "monthly_spend": 6319.467758,
+    "monthly_conversions": 8.818437000000001,
+    "cac": 716.619935936493
+  },
+  "Brand - Phrase": {
+    "id": 171921008322,
+    "campaign": "Search_Brand_tCPA_US",
+    "total_spend": 11798.644732,
+    "total_conversions": 216.620132,
+    "total_all_conversions": 4960.900195,
+    "monthly_spend": 3932.8815773333336,
+    "monthly_conversions": 72.20671066666667,
+    "cac": 54.46698154537179
+  },
+  "InsideTracker": {
+    "id": 181391872696,
+    "campaign": "Search_Generic_Competitors_tCPA_US_Blood-Test",
+    "total_spend": 11459.668282,
+    "total_conversions": 29.460245,
+    "total_all_conversions": 492.513399,
+    "monthly_spend": 3819.8894273333335,
+    "monthly_conversions": 9.820081666666667,
+    "cac": 388.9875417533018
+  },
+  "Vitamin": {
+    "id": 188162570369,
+    "campaign": "Search_Generic_Diagnostic-Discovery_tCPA_US",
+    "total_spend": 9610.761565,
+    "total_conversions": 27.32704,
+    "total_all_conversions": 777.925417,
+    "monthly_spend": 3203.5871883333334,
+    "monthly_conversions": 9.109013333333333,
+    "cac": 351.69420343366863
+  },
+  "Biomarker": {
+    "id": 188162566689,
+    "campaign": "Search_Generic_Diagnostic-Discovery_tCPA_US",
+    "total_spend": 7888.355574,
+    "total_conversions": 24.260282,
+    "total_all_conversions": 580.296847,
+    "monthly_spend": 2629.451858,
+    "monthly_conversions": 8.086760666666667,
+    "cac": 325.15514757825156
+  },
+  "Health testing": {
+    "id": 188162568649,
+    "campaign": "Search_Generic_Diagnostic-Discovery_tCPA_US",
+    "total_spend": 6936.590583,
+    "total_conversions": 24.302778,
+    "total_all_conversions": 488.842856,
+    "monthly_spend": 2312.196861,
+    "monthly_conversions": 8.100926,
+    "cac": 285.42377266500154
+  },
+  "Medical test": {
+    "id": 188162569569,
+    "campaign": "Search_Generic_Diagnostic-Discovery_tCPA_US",
+    "total_spend": 6920.565271,
+    "total_conversions": 24.003876,
+    "total_all_conversions": 483.581026,
+    "monthly_spend": 2306.8550903333335,
+    "monthly_conversions": 8.001292000000001,
+    "cac": 288.3103241743125
+  },
+  "Competitor": {
+    "id": 188162567489,
+    "campaign": "Search_Generic_Diagnostic-Discovery_tCPA_US",
+    "total_spend": 6836.339841,
+    "total_conversions": 16.970662,
+    "total_all_conversions": 305.912296,
+    "monthly_spend": 2278.779947,
+    "monthly_conversions": 5.656887333333334,
+    "cac": 402.8328323903923
+  },
+  "function health": {
+    "id": 184319427334,
+    "campaign": "Search_Generic_Best-KWs-From-Discovery_ROAS_US",
+    "total_spend": 6121.810007,
+    "total_conversions": 28.995261,
+    "total_all_conversions": 521.07464,
+    "monthly_spend": 2040.6033356666667,
+    "monthly_conversions": 9.665087,
+    "cac": 211.13139857578795
+  },
+  "Hormone Testing": {
+    "id": 188162568849,
+    "campaign": "Search_Generic_Diagnostic-Discovery_tCPA_US",
+    "total_spend": 6030.410663,
+    "total_conversions": 14.113487,
+    "total_all_conversions": 433.529207,
+    "monthly_spend": 2010.1368876666666,
+    "monthly_conversions": 4.704495666666666,
+    "cac": 427.27999558153135
+  },
+  "Blood Panel": {
+    "id": 190847797638,
+    "campaign": "Search_Generic_Blood-Test_tCPA_US_ex-NY-and-NJ",
+    "total_spend": 5966.935948,
+    "total_conversions": 16.770263,
+    "total_all_conversions": 552.895205,
+    "monthly_spend": 1988.9786493333334,
+    "monthly_conversions": 5.590087666666666,
+    "cac": 355.80455404903313
+  },
+  "Body composition": {
+    "id": 188162566969,
+    "campaign": "Search_Generic_Diagnostic-Discovery_tCPA_US",
+    "total_spend": 5893.337614,
+    "total_conversions": 12.254269,
+    "total_all_conversions": 385.793191,
+    "monthly_spend": 1964.4458713333333,
+    "monthly_conversions": 4.084756333333334,
+    "cac": 480.9211886894273
+  },
+  "Blood testing": {
+    "id": 188162566729,
+    "campaign": "Search_Generic_Diagnostic-Discovery_tCPA_US",
+    "total_spend": 5041.288295,
+    "total_conversions": 12.982691,
+    "total_all_conversions": 218.936857,
+    "monthly_spend": 1680.4294316666667,
+    "monthly_conversions": 4.327563666666667,
+    "cac": 388.30842504069454
+  },
+  "Testosterone": {
+    "id": 188162570089,
+    "campaign": "Search_Generic_Diagnostic-Discovery_tCPA_US",
+    "total_spend": 4256.623933,
+    "total_conversions": 10.911285,
+    "total_all_conversions": 279.83721,
+    "monthly_spend": 1418.8746443333332,
+    "monthly_conversions": 3.637095,
+    "cac": 390.11206590241204
+  },
+  "Cancer": {
+    "id": 188162567169,
+    "campaign": "Search_Generic_Diagnostic-Discovery_tCPA_US",
+    "total_spend": 4253.217257,
+    "total_conversions": 9.28425,
+    "total_all_conversions": 339.826893,
+    "monthly_spend": 1417.7390856666668,
+    "monthly_conversions": 3.09475,
+    "cac": 458.1110221073323
+  },
+  "Health Check": {
+    "id": 186665649814,
+    "campaign": "Search_Generic_Diagnostic-Discovery_tCPA_US",
+    "total_spend": 4122.12988,
+    "total_conversions": 13.162851,
+    "total_all_conversions": 228.402123,
+    "monthly_spend": 1374.0432933333334,
+    "monthly_conversions": 4.387617,
+    "cac": 313.1639095512059
+  },
+  "HRT": {
+    "id": 190102483644,
+    "campaign": "Search_Generic_HRT_tCPA_US",
+    "total_spend": 3662.96105,
+    "total_conversions": 3.0,
+    "total_all_conversions": 59.085308,
+    "monthly_spend": 1220.9870166666667,
+    "monthly_conversions": 1.0,
+    "cac": 1220.9870166666667
+  },
+  "Blood Work": {
+    "id": 183951999277,
+    "campaign": "Search_Generic_Blood-Test_tCPA_US",
+    "total_spend": 3566.511977,
+    "total_conversions": 6.064813,
+    "total_all_conversions": 84.428847,
+    "monthly_spend": 1188.8373256666666,
+    "monthly_conversions": 2.0216043333333333,
+    "cac": 588.0662729419687
+  },
+  "Test": {
+    "id": 188162570049,
+    "campaign": "Search_Generic_Diagnostic-Discovery_tCPA_US",
+    "total_spend": 3408.192486,
+    "total_conversions": 9.19425,
+    "total_all_conversions": 267.095376,
+    "monthly_spend": 1136.064162,
+    "monthly_conversions": 3.06475,
+    "cac": 370.6873846153846
+  },
+  "Gut test": {
+    "id": 188162568449,
+    "campaign": "Search_Generic_Diagnostic-Discovery_tCPA_US",
+    "total_spend": 2921.052737,
+    "total_conversions": 6.166667,
+    "total_all_conversions": 163.181123,
+    "monthly_spend": 973.6842456666667,
+    "monthly_conversions": 2.055555666666667,
+    "cac": 473.6842020170701
+  },
+  "Galleri test": {
+    "id": 188162568209,
+    "campaign": "Search_Generic_Diagnostic-Discovery_tCPA_US",
+    "total_spend": 2621.182452,
+    "total_conversions": 2.5,
+    "total_all_conversions": 188.696278,
+    "monthly_spend": 873.727484,
+    "monthly_conversions": 0.8333333333333334,
+    "cac": 1048.4729808
+  }
+}

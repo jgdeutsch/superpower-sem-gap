@@ -1,0 +1,308 @@
+{
+  "top_keywords": [
+    "lab tests",
+    "function health",
+    "health test",
+    "hormone test",
+    "cancer screening",
+    "blood work",
+    "blood test",
+    "lab test at home",
+    "body composition test",
+    "functional lab testing",
+    "nutrient test",
+    "full health screening",
+    "testosterone test",
+    "functional health",
+    "vitamin level test",
+    "functional medicine testing",
+    "medical test",
+    "gut health test",
+    "biomarker testing",
+    "rythm blood test",
+    "vitamin deficiency test",
+    "rhythm blood test",
+    "discount lab tests",
+    "insidetracker",
+    "complete bloodwork panel",
+    "hormone panel for women",
+    "blood testing",
+    "health lab testing",
+    "vitamin deficiency test",
+    "thyroid test",
+    "microbiome test",
+    "testosterone test",
+    "blood test near me",
+    "at home blood test",
+    "biological age blood test",
+    "at home health tests",
+    "body tests",
+    "cardiovascular health test",
+    "laboratory test",
+    "health assessment",
+    "blood work for men",
+    "lab results",
+    "blood test for vitamin deficiency",
+    "full health screening",
+    "epigenetics testing",
+    "igf 1 test",
+    "inflammation test",
+    "igf 1 test",
+    "blood work near me",
+    "heart check up"
+  ],
+  "overall_cvr": 1.429948109710897,
+  "overall_cpa": 440.6517625712804,
+  "ad_group_performance": {
+    "Blood testing": {
+      "clicks": 664,
+      "conversions": 9.0,
+      "cvr": 1.355421686746988
+    },
+    "Competitor": {
+      "clicks": 976,
+      "conversions": 18.64,
+      "cvr": 1.9098360655737705
+    },
+    "Alp": {
+      "clicks": 1,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Age blood test": {
+      "clicks": 37,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Alanine aminotransferase": {
+      "clicks": 1,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Lab test": {
+      "clicks": 752,
+      "conversions": 13.0,
+      "cvr": 1.7287234042553192
+    },
+    "Vitamin": {
+      "clicks": 261,
+      "conversions": 3.6,
+      "cvr": 1.3793103448275863
+    },
+    "Blood work": {
+      "clicks": 463,
+      "conversions": 7.42,
+      "cvr": 1.6025917926565874
+    },
+    "Inflammation test": {
+      "clicks": 58,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Apop": {
+      "clicks": 1,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Glucose test": {
+      "clicks": 13,
+      "conversions": 1.0,
+      "cvr": 7.6923076923076925
+    },
+    "Testosterone": {
+      "clicks": 183,
+      "conversions": 2.0,
+      "cvr": 1.092896174863388
+    },
+    "Cancer": {
+      "clicks": 207,
+      "conversions": 5.5,
+      "cvr": 2.657004830917874
+    },
+    "CBC": {
+      "clicks": 20,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Ferritin test": {
+      "clicks": 15,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Health testing": {
+      "clicks": 327,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Test": {
+      "clicks": 107,
+      "conversions": 1.0,
+      "cvr": 0.9345794392523363
+    },
+    "Metabolic": {
+      "clicks": 65,
+      "conversions": 1.0,
+      "cvr": 1.5384615384615385
+    },
+    "Biomarker": {
+      "clicks": 100,
+      "conversions": 1.5,
+      "cvr": 1.5
+    },
+    "Heart Testing": {
+      "clicks": 40,
+      "conversions": 1.0,
+      "cvr": 2.5
+    },
+    "CRP": {
+      "clicks": 2,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Thyroid": {
+      "clicks": 67,
+      "conversions": 1.0,
+      "cvr": 1.4925373134328357
+    },
+    "TSH": {
+      "clicks": 1,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Immune system": {
+      "clicks": 25,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Hormone Testing": {
+      "clicks": 301,
+      "conversions": 5.0,
+      "cvr": 1.6611295681063125
+    },
+    "Hyperthyroid": {
+      "clicks": 7,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "T blood tests": {
+      "clicks": 1,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "bmp": {
+      "clicks": 1,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Body composition": {
+      "clicks": 114,
+      "conversions": 1.0,
+      "cvr": 0.8771929824561403
+    },
+    "Body fat": {
+      "clicks": 5,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Cardiovascular": {
+      "clicks": 39,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Cholestrol test": {
+      "clicks": 21,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "CMP": {
+      "clicks": 3,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Medical test": {
+      "clicks": 69,
+      "conversions": 0.5,
+      "cvr": 0.7246376811594203
+    },
+    "Comprehensive panel": {
+      "clicks": 10,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Cortisol": {
+      "clicks": 36,
+      "conversions": 2.0,
+      "cvr": 5.555555555555555
+    },
+    "Epigenetics test": {
+      "clicks": 33,
+      "conversions": 1.0,
+      "cvr": 3.0303030303030303
+    },
+    "Estrogen test": {
+      "clicks": 7,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Galleri test": {
+      "clicks": 30,
+      "conversions": 0.5,
+      "cvr": 1.6666666666666667
+    },
+    "Gut test": {
+      "clicks": 69,
+      "conversions": 0.5,
+      "cvr": 0.7246376811594203
+    },
+    "Health assessment": {
+      "clicks": 27,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Biological Age": {
+      "clicks": 28,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Adrenal glands test": {
+      "clicks": 1,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "igf 1 test": {
+      "clicks": 43,
+      "conversions": 0.5,
+      "cvr": 1.1627906976744187
+    },
+    "Lipid test": {
+      "clicks": 8,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Longevity": {
+      "clicks": 25,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Microbiome": {
+      "clicks": 35,
+      "conversions": 0.5,
+      "cvr": 1.4285714285714286
+    },
+    "Mineral blood test": {
+      "clicks": 6,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Gene test": {
+      "clicks": 11,
+      "conversions": 0.0,
+      "cvr": 0.0
+    },
+    "Nutrient test": {
+      "clicks": 80,
+      "conversions": 0.0,
+      "cvr": 0.0
+    }
+  }
+}

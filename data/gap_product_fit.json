@@ -1,0 +1,1029 @@
+{
+  "pursue": [
+    {
+      "category": "Brand - Own",
+      "topic": "General",
+      "competitor": "Function Health",
+      "keyword_count": 15,
+      "total_volume": 219130,
+      "top_keywords": [
+        "functionhealth",
+        "every well",
+        "function health com",
+        "functionhealth com",
+        "function health mark hyman"
+      ],
+      "sample_kw": "functionhealth",
+      "reason": "Strong fit: liver"
+    },
+    {
+      "category": "Blood Tests - Panels",
+      "topic": "Metabolic Panels",
+      "competitor": "Function Health",
+      "keyword_count": 2,
+      "total_volume": 50220,
+      "top_keywords": [
+        "comprehensive metabolic panel blood test",
+        "quest comprehensive metabolic panel"
+      ],
+      "sample_kw": "comprehensive metabolic panel blood test",
+      "reason": "Strong fit: blood_panels"
+    },
+    {
+      "category": "Biomarkers & Specific Tests",
+      "topic": "Vitamins",
+      "competitor": "Everlywell",
+      "keyword_count": 30,
+      "total_volume": 33180,
+      "top_keywords": [
+        "vitamin d test in blood",
+        "vitamin d test",
+        "vitamin d exam",
+        "tests for vitamin d deficiency",
+        "vitamin d test kit"
+      ],
+      "sample_kw": "vitamin d test in blood",
+      "reason": "Strong fit: vitamins_minerals"
+    },
+    {
+      "category": "Biomarkers & Specific Tests",
+      "topic": "Blood Sugar/Diabetes",
+      "competitor": "Everlywell",
+      "keyword_count": 2,
+      "total_volume": 9910,
+      "top_keywords": [
+        "home hemoglobin a1c test",
+        "hba1c test home collection"
+      ],
+      "sample_kw": "home hemoglobin a1c test",
+      "reason": "Strong fit: metabolic"
+    },
+    {
+      "category": "Lab Services - General",
+      "topic": "General",
+      "competitor": "Everlywell",
+      "keyword_count": 5,
+      "total_volume": 6510,
+      "top_keywords": [
+        "lyme lab test",
+        "thyroid lab test",
+        "lab test for food sensitivities",
+        "thyroid lab test cost",
+        "hyperthyroidism lab test"
+      ],
+      "sample_kw": "lyme lab test",
+      "reason": "Strong fit: hormones"
+    },
+    {
+      "category": "Biomarkers & Specific Tests",
+      "topic": "Inflammation",
+      "competitor": "Function Health",
+      "keyword_count": 1,
+      "total_volume": 5400,
+      "top_keywords": [
+        "blood tests for inflammation"
+      ],
+      "sample_kw": "blood tests for inflammation",
+      "reason": "Strong fit: blood_panels"
+    },
+    {
+      "category": "Blood Tests - General",
+      "topic": "General",
+      "competitor": "Rupa Health",
+      "keyword_count": 17,
+      "total_volume": 3750,
+      "top_keywords": [
+        "food sensitivity blood test",
+        "blood work for food sensitivities",
+        "spectracell blood test",
+        "food allergy blood test panel",
+        "mrt blood test cost"
+      ],
+      "sample_kw": "food sensitivity blood test",
+      "reason": "Strong fit: blood_panels"
+    },
+    {
+      "category": "Biomarkers & Specific Tests",
+      "topic": "General",
+      "competitor": "Mito Health",
+      "keyword_count": 7,
+      "total_volume": 1240,
+      "top_keywords": [
+        "biomarkers test",
+        "functional biomarkers",
+        "longevity biomarkers",
+        "health biomarkers",
+        "biomarker panel"
+      ],
+      "sample_kw": "biomarkers test",
+      "reason": "Strong fit: longevity"
+    },
+    {
+      "category": "Brand - Own",
+      "topic": "General",
+      "competitor": "InsideTracker",
+      "keyword_count": 29,
+      "total_volume": 1120,
+      "top_keywords": [
+        "inside tracker reviews",
+        "insidetracker blood test",
+        "inside tracker blood work",
+        "inside tracker huberman",
+        "insidetracker cost"
+      ],
+      "sample_kw": "inside tracker reviews",
+      "reason": "Strong fit: blood_panels"
+    },
+    {
+      "category": "Blood Tests - Panels",
+      "topic": "Thyroid",
+      "competitor": "Everlywell",
+      "keyword_count": 4,
+      "total_volume": 570,
+      "top_keywords": [
+        "thyroid panel lab test",
+        "full thyroid panel blood test",
+        "at home thyroid panel",
+        "full thyroid panel at home"
+      ],
+      "sample_kw": "thyroid panel lab test",
+      "reason": "Strong fit: blood_panels"
+    },
+    {
+      "category": "Preventive Health & Wellness",
+      "topic": "Screening",
+      "competitor": "Mito Health",
+      "keyword_count": 14,
+      "total_volume": 560,
+      "top_keywords": [
+        "health screening women",
+        "health screening check",
+        "blood tests for health screening",
+        "at home health screening",
+        "at home health screening kits"
+      ],
+      "sample_kw": "health screening women",
+      "reason": "Strong fit: blood_panels"
+    },
+    {
+      "category": "Biomarkers & Specific Tests",
+      "topic": "Minerals",
+      "competitor": "InsideTracker",
+      "keyword_count": 9,
+      "total_volume": 560,
+      "top_keywords": [
+        "ferritin and inflammation",
+        "inflammation ferritin",
+        "low ferritin and inflammation",
+        "high ferritin levels inflammation",
+        "ferritin levels inflammation"
+      ],
+      "sample_kw": "ferritin and inflammation",
+      "reason": "Strong fit: inflammation"
+    },
+    {
+      "category": "Biomarkers & Specific Tests",
+      "topic": "Hormones - Male",
+      "competitor": "InsideTracker",
+      "keyword_count": 2,
+      "total_volume": 490,
+      "top_keywords": [
+        "testosterone binding globulin",
+        "high shbg and high testosterone"
+      ],
+      "sample_kw": "testosterone binding globulin",
+      "reason": "Strong fit: hormones"
+    },
+    {
+      "category": "Biomarkers & Specific Tests",
+      "topic": "Hormones - Stress",
+      "competitor": "Rupa Health",
+      "keyword_count": 3,
+      "total_volume": 300,
+      "top_keywords": [
+        "dutch cortisol test",
+        "genova cortisol test",
+        "genova saliva cortisol test"
+      ],
+      "sample_kw": "dutch cortisol test",
+      "reason": "Strong fit: hormones"
+    },
+    {
+      "category": "Blood Tests - Panels",
+      "topic": "Lipid/Cholesterol",
+      "competitor": "Everlywell",
+      "keyword_count": 5,
+      "total_volume": 220,
+      "top_keywords": [
+        "home lipid panel test",
+        "at home lipid panel",
+        "at home lipid panel test",
+        "lipid panel home test kit",
+        "home lipid panel"
+      ],
+      "sample_kw": "home lipid panel test",
+      "reason": "Strong fit: heart_health"
+    },
+    {
+      "category": "Brand - Own",
+      "topic": "General",
+      "competitor": "Mito Health",
+      "keyword_count": 2,
+      "total_volume": 150,
+      "top_keywords": [
+        "function health company",
+        "inside tracker test"
+      ],
+      "sample_kw": "function health company",
+      "reason": "Strong fit: liver"
+    },
+    {
+      "category": "Blood Tests - Panels",
+      "topic": "Hormone",
+      "competitor": "Rupa Health",
+      "keyword_count": 1,
+      "total_volume": 140,
+      "top_keywords": [
+        "dutch hormone panel"
+      ],
+      "sample_kw": "dutch hormone panel",
+      "reason": "Strong fit: hormones"
+    },
+    {
+      "category": "Biomarkers & Specific Tests",
+      "topic": "Inflammation",
+      "competitor": "InsideTracker",
+      "keyword_count": 2,
+      "total_volume": 100,
+      "top_keywords": [
+        "high crp high wbc",
+        "crp white blood cells"
+      ],
+      "sample_kw": "high crp high wbc",
+      "reason": "Strong fit: inflammation"
+    },
+    {
+      "category": "Preventive Health & Wellness",
+      "topic": "Longevity/Anti-aging",
+      "competitor": "Mito Health",
+      "keyword_count": 2,
+      "total_volume": 80,
+      "top_keywords": [
+        "longevity screening",
+        "longevity panel"
+      ],
+      "sample_kw": "longevity screening",
+      "reason": "Strong fit: longevity"
+    },
+    {
+      "category": "Biomarkers & Specific Tests",
+      "topic": "Hormones - Female",
+      "competitor": "InsideTracker",
+      "keyword_count": 1,
+      "total_volume": 50,
+      "top_keywords": [
+        "estrogen and shbg"
+      ],
+      "sample_kw": "estrogen and shbg",
+      "reason": "Strong fit: hormones"
+    },
+    {
+      "category": "Preventive Health & Wellness",
+      "topic": "Screening",
+      "competitor": "Function Health",
+      "keyword_count": 1,
+      "total_volume": 10,
+      "top_keywords": [
+        "best health screening tests"
+      ],
+      "sample_kw": "best health screening tests",
+      "reason": "Strong fit: liver"
+    },
+    {
+      "category": "Blood Tests - Panels",
+      "topic": "Hormone",
+      "competitor": "Everlywell",
+      "keyword_count": 1,
+      "total_volume": 10,
+      "top_keywords": [
+        "hormone panel for females"
+      ],
+      "sample_kw": "hormone panel for females",
+      "reason": "Strong fit: hormones"
+    }
+  ],
+  "maybe": [
+    {
+      "category": "Other/Uncategorized",
+      "topic": "General",
+      "competitor": "Rupa Health",
+      "keyword_count": 415,
+      "total_volume": 659580,
+      "top_keywords": [
+        "functional doctors",
+        "naturalist doctors",
+        "natural medicine doctors",
+        "functionalmedicine",
+        "dr naturopathy"
+      ],
+      "sample_kw": "functional doctors",
+      "reason": "Needs review"
+    },
+    {
+      "category": "Other/Uncategorized",
+      "topic": "General",
+      "competitor": "InsideTracker",
+      "keyword_count": 176,
+      "total_volume": 328610,
+      "top_keywords": [
+        "low wbc counts",
+        "normal count for white blood cells",
+        "normal white cells count",
+        "blood wbc count high",
+        "sex binding globulin"
+      ],
+      "sample_kw": "low wbc counts",
+      "reason": "Needs review"
+    },
+    {
+      "category": "Other/Uncategorized",
+      "topic": "General",
+      "competitor": "Mito Health",
+      "keyword_count": 260,
+      "total_volume": 100580,
+      "top_keywords": [
+        "blood drawn",
+        "clinical tests",
+        "blood laboratory",
+        "medical test",
+        "anytime lab"
+      ],
+      "sample_kw": "blood drawn",
+      "reason": "Needs review"
+    },
+    {
+      "category": "Lab Services - General",
+      "topic": "General",
+      "competitor": "Mito Health",
+      "keyword_count": 54,
+      "total_volume": 33080,
+      "top_keywords": [
+        "online laboratory test",
+        "lab test at home",
+        "medical lab test",
+        "anytime lab test",
+        "lab test results"
+      ],
+      "sample_kw": "online laboratory test",
+      "reason": "Needs review"
+    },
+    {
+      "category": "Biomarkers & Specific Tests",
+      "topic": "General",
+      "competitor": "Function Health",
+      "keyword_count": 2,
+      "total_volume": 6400,
+      "top_keywords": [
+        "uric acid test",
+        "biomarkers test"
+      ],
+      "sample_kw": "uric acid test",
+      "reason": "Needs review"
+    },
+    {
+      "category": "Weight & Metabolism",
+      "topic": "General",
+      "competitor": "Everlywell",
+      "keyword_count": 11,
+      "total_volume": 4610,
+      "top_keywords": [
+        "metabolism test",
+        "metabolism test kit",
+        "test your metabolism",
+        "metabolism test reviews",
+        "everly metabolism test"
+      ],
+      "sample_kw": "metabolism test",
+      "reason": "Needs review"
+    },
+    {
+      "category": "Preventive Health & Wellness",
+      "topic": "General",
+      "competitor": "Function Health",
+      "keyword_count": 2,
+      "total_volume": 1990,
+      "top_keywords": [
+        "wellness labs",
+        "wellness test"
+      ],
+      "sample_kw": "wellness labs",
+      "reason": "Needs review"
+    },
+    {
+      "category": "Preventive Health & Wellness",
+      "topic": "General",
+      "competitor": "Mito Health",
+      "keyword_count": 3,
+      "total_volume": 510,
+      "top_keywords": [
+        "wellness tests",
+        "wellness panel",
+        "wellness panel test"
+      ],
+      "sample_kw": "wellness tests",
+      "reason": "Needs review"
+    },
+    {
+      "category": "Preventive Health & Wellness",
+      "topic": "General",
+      "competitor": "Rupa Health",
+      "keyword_count": 2,
+      "total_volume": 370,
+      "top_keywords": [
+        "vibrant wellness gut zoomer",
+        "gut zoomer vibrant wellness"
+      ],
+      "sample_kw": "vibrant wellness gut zoomer",
+      "reason": "Needs review"
+    },
+    {
+      "category": "Health Conditions",
+      "topic": "Thyroid Disorders",
+      "competitor": "Everlywell",
+      "keyword_count": 1,
+      "total_volume": 20,
+      "top_keywords": [
+        "at home hashimoto test"
+      ],
+      "sample_kw": "at home hashimoto test",
+      "reason": "Needs review"
+    },
+    {
+      "category": "Preventive Health & Wellness",
+      "topic": "General",
+      "competitor": "Everlywell",
+      "keyword_count": 1,
+      "total_volume": 10,
+      "top_keywords": [
+        "everly wellness test"
+      ],
+      "sample_kw": "everly wellness test",
+      "reason": "Needs review"
+    }
+  ],
+  "skip": [
+    {
+      "category": "Blood Tests - General",
+      "topic": "General",
+      "competitor": "Mito Health",
+      "keyword_count": 326,
+      "total_volume": 295840,
+      "top_keywords": [
+        "blood test lab near me",
+        "blood test",
+        "blood analysis test",
+        "complete blood tests",
+        "blood test near me"
+      ],
+      "sample_kw": "blood test lab near me",
+      "reason": "Not offered: physical_locations"
+    },
+    {
+      "category": "Other/Uncategorized",
+      "topic": "General",
+      "competitor": "Everlywell",
+      "keyword_count": 256,
+      "total_volume": 222970,
+      "top_keywords": [
+        "everly wells",
+        "food tolerance testing",
+        "diet allergy test",
+        "thyroid test",
+        "vd test kit"
+      ],
+      "sample_kw": "everly wells",
+      "reason": "Not offered: std_testing"
+    },
+    {
+      "category": "Food Sensitivity & Allergies",
+      "topic": "General",
+      "competitor": "Everlywell",
+      "keyword_count": 138,
+      "total_volume": 185870,
+      "top_keywords": [
+        "food sensitivity test",
+        "food intolerance test",
+        "check food intolerance",
+        "food allergy testing",
+        "food allergy check"
+      ],
+      "sample_kw": "food sensitivity test",
+      "reason": "Not offered: std_testing"
+    },
+    {
+      "category": "Food Sensitivity & Allergies",
+      "topic": "General",
+      "competitor": "Rupa Health",
+      "keyword_count": 208,
+      "total_volume": 141400,
+      "top_keywords": [
+        "food sensitivity test",
+        "food intolerance test",
+        "check food intolerance",
+        "best food sensitivity test",
+        "best food intolerance test"
+      ],
+      "sample_kw": "food sensitivity test",
+      "reason": "Not offered: food_allergy"
+    },
+    {
+      "category": "Lab Services - Near Me",
+      "topic": "General",
+      "competitor": "Mito Health",
+      "keyword_count": 58,
+      "total_volume": 133620,
+      "top_keywords": [
+        "lab test near me",
+        "test laboratory near me",
+        "any lab testing near me",
+        "blood drawing labs near me",
+        "test near me"
+      ],
+      "sample_kw": "lab test near me",
+      "reason": "Not offered: std_testing"
+    },
+    {
+      "category": "Other/Uncategorized",
+      "topic": "General",
+      "competitor": "Function Health",
+      "keyword_count": 126,
+      "total_volume": 127740,
+      "top_keywords": [
+        "blood exams",
+        "clinic testing",
+        "well woman check",
+        "well woman test",
+        "blood tests for cancer markers"
+      ],
+      "sample_kw": "blood exams",
+      "reason": "Not offered: std_testing"
+    },
+    {
+      "category": "Lab Services - Near Me",
+      "topic": "General",
+      "competitor": "Function Health",
+      "keyword_count": 50,
+      "total_volume": 80530,
+      "top_keywords": [
+        "blood exams near me",
+        "any lab test now near me",
+        "any lab test near me",
+        "any labs now near me",
+        "test near me"
+      ],
+      "sample_kw": "blood exams near me",
+      "reason": "Not offered: physical_locations"
+    },
+    {
+      "category": "Biomarkers & Specific Tests",
+      "topic": "Hormones - Male",
+      "competitor": "Everlywell",
+      "keyword_count": 54,
+      "total_volume": 77080,
+      "top_keywords": [
+        "test of testosterone",
+        "testosterone levels testing",
+        "test to check testosterone level",
+        "testosterone check kit",
+        "testosterone at home test"
+      ],
+      "sample_kw": "test of testosterone",
+      "reason": "Not offered: std_testing"
+    },
+    {
+      "category": "STI/STD Testing",
+      "topic": "General",
+      "competitor": "Everlywell",
+      "keyword_count": 49,
+      "total_volume": 61500,
+      "top_keywords": [
+        "std checker",
+        "std screening kit",
+        "std check for men",
+        "over the counter std check",
+        "std rapid test kit"
+      ],
+      "sample_kw": "std checker",
+      "reason": "Not offered: std_testing"
+    },
+    {
+      "category": "Lab Services - General",
+      "topic": "General",
+      "competitor": "Function Health",
+      "keyword_count": 24,
+      "total_volume": 52920,
+      "top_keywords": [
+        "laboratory testing services",
+        "anytime lab test",
+        "any lab test now austin",
+        "any lab test now san antonio",
+        "any lab test now houston"
+      ],
+      "sample_kw": "laboratory testing services",
+      "reason": "Not offered: std_testing"
+    },
+    {
+      "category": "At-Home Testing",
+      "topic": "General",
+      "competitor": "Everlywell",
+      "keyword_count": 134,
+      "total_volume": 47630,
+      "top_keywords": [
+        "hb1ac home test",
+        "at home allergy test",
+        "at home food allergy test",
+        "at home cholesterol test",
+        "at home health tests"
+      ],
+      "sample_kw": "hb1ac home test",
+      "reason": "Not offered: food_allergy"
+    },
+    {
+      "category": "Blood Tests - General",
+      "topic": "General",
+      "competitor": "Function Health",
+      "keyword_count": 111,
+      "total_volume": 44390,
+      "top_keywords": [
+        "blood test labs",
+        "magnesium blood test",
+        "blood work services",
+        "blood test services near me",
+        "blood work to check hormone levels"
+      ],
+      "sample_kw": "blood test labs",
+      "reason": "Not offered: physical_locations"
+    },
+    {
+      "category": "Blood Tests - General",
+      "topic": "General",
+      "competitor": "Everlywell",
+      "keyword_count": 29,
+      "total_volume": 28790,
+      "top_keywords": [
+        "blood test vitamin d",
+        "blood work for vitamin d",
+        "food sensitivity blood test",
+        "food intolerance blood test",
+        "blood test intolerance"
+      ],
+      "sample_kw": "blood test vitamin d",
+      "reason": "Not offered: food_allergy"
+    },
+    {
+      "category": "Biomarkers & Specific Tests",
+      "topic": "Blood Sugar/Diabetes",
+      "competitor": "InsideTracker",
+      "keyword_count": 42,
+      "total_volume": 13710,
+      "top_keywords": [
+        "a1c fasting",
+        "a1c and fasting",
+        "a1c test fasting",
+        "hemoglobin a1c test fasting",
+        "blood glucose 95 fasting"
+      ],
+      "sample_kw": "a1c fasting",
+      "reason": "Not offered: std_testing"
+    },
+    {
+      "category": "At-Home Testing",
+      "topic": "General",
+      "competitor": "Rupa Health",
+      "keyword_count": 39,
+      "total_volume": 9870,
+      "top_keywords": [
+        "at home food allergy test",
+        "at home food sensitivity test",
+        "at home food intolerance test",
+        "food sensitivity at home test",
+        "best at home allergy test"
+      ],
+      "sample_kw": "at home food allergy test",
+      "reason": "Not offered: food_allergy"
+    },
+    {
+      "category": "Lab Services - Near Me",
+      "topic": "General",
+      "competitor": "Rupa Health",
+      "keyword_count": 23,
+      "total_volume": 7320,
+      "top_keywords": [
+        "food sensitivity test near me",
+        "food intolerance test near me",
+        "mobile phlebotomist near me",
+        "micronutrient testing near me",
+        "mobile blood draw near me"
+      ],
+      "sample_kw": "food sensitivity test near me",
+      "reason": "Not offered: std_testing"
+    },
+    {
+      "category": "Blood Tests - General",
+      "topic": "General",
+      "competitor": "InsideTracker",
+      "keyword_count": 17,
+      "total_volume": 5040,
+      "top_keywords": [
+        "blood test sex hormone binding globulin",
+        "blood test nutrition",
+        "blood work for nutrition",
+        "a1c blood work fasting",
+        "blood test during menstruation"
+      ],
+      "sample_kw": "blood test sex hormone binding globulin",
+      "reason": "Not offered: std_testing"
+    },
+    {
+      "category": "Lab Services - Near Me",
+      "topic": "General",
+      "competitor": "Everlywell",
+      "keyword_count": 7,
+      "total_volume": 4990,
+      "top_keywords": [
+        "food sensitivity test near me",
+        "food allergies testing near me",
+        "allergy food testing near me",
+        "igg food sensitivity test near me",
+        "food allergy and sensitivity testing near me"
+      ],
+      "sample_kw": "food sensitivity test near me",
+      "reason": "Not offered: std_testing"
+    },
+    {
+      "category": "At-Home Testing",
+      "topic": "General",
+      "competitor": "Mito Health",
+      "keyword_count": 8,
+      "total_volume": 4780,
+      "top_keywords": [
+        "blood home test",
+        "at home testing",
+        "health home test",
+        "at home test for health",
+        "at home screening tests"
+      ],
+      "sample_kw": "blood home test",
+      "reason": "Not offered: std_testing"
+    },
+    {
+      "category": "Biomarkers & Specific Tests",
+      "topic": "Hormones - Female",
+      "competitor": "Everlywell",
+      "keyword_count": 10,
+      "total_volume": 3220,
+      "top_keywords": [
+        "at home estrogen test",
+        "at home estrogen test kit",
+        "test estrogen levels at home",
+        "check estrogen levels at home",
+        "estrogen testing kit"
+      ],
+      "sample_kw": "at home estrogen test",
+      "reason": "Not offered: std_testing"
+    },
+    {
+      "category": "Lab Services - General",
+      "topic": "General",
+      "competitor": "Rupa Health",
+      "keyword_count": 6,
+      "total_volume": 2420,
+      "top_keywords": [
+        "lab test for food sensitivities",
+        "dutch lab test",
+        "vibrant america clinical lab",
+        "genova lab testing",
+        "boston heart lab test"
+      ],
+      "sample_kw": "lab test for food sensitivities",
+      "reason": "Not offered: std_testing"
+    },
+    {
+      "category": "DNA & Genetics",
+      "topic": "General",
+      "competitor": "Everlywell",
+      "keyword_count": 21,
+      "total_volume": 740,
+      "top_keywords": [
+        "dna allergy test",
+        "dna food sensitivity test",
+        "dna food intolerance test",
+        "genetic testing for food sensitivity",
+        "genetic test for food intolerance"
+      ],
+      "sample_kw": "dna allergy test",
+      "reason": "Not offered: std_testing"
+    },
+    {
+      "category": "DNA & Genetics",
+      "topic": "General",
+      "competitor": "Rupa Health",
+      "keyword_count": 18,
+      "total_volume": 600,
+      "top_keywords": [
+        "dna food sensitivity test",
+        "dna food intolerance test",
+        "genetic testing for food sensitivity",
+        "genetic test for food intolerance",
+        "genetic testing food intolerance"
+      ],
+      "sample_kw": "dna food sensitivity test",
+      "reason": "Not offered: std_testing"
+    },
+    {
+      "category": "Biomarkers & Specific Tests",
+      "topic": "Inflammation",
+      "competitor": "Everlywell",
+      "keyword_count": 7,
+      "total_volume": 520,
+      "top_keywords": [
+        "food inflammation test",
+        "food sensitivity test for inflammation",
+        "best food inflammation test",
+        "food inflammation test near me",
+        "test to see what foods cause inflammation"
+      ],
+      "sample_kw": "food inflammation test",
+      "reason": "Not offered: food_allergy"
+    },
+    {
+      "category": "Health Conditions",
+      "topic": "General",
+      "competitor": "Function Health",
+      "keyword_count": 4,
+      "total_volume": 340,
+      "top_keywords": [
+        "at home autoimmune test",
+        "anemia test near me",
+        "autoimmune testing near me",
+        "autoimmune tests at home"
+      ],
+      "sample_kw": "at home autoimmune test",
+      "reason": "Not offered: std_testing"
+    },
+    {
+      "category": "Gut Health & Microbiome",
+      "topic": "General",
+      "competitor": "Everlywell",
+      "keyword_count": 5,
+      "total_volume": 310,
+      "top_keywords": [
+        "stool test kit at home",
+        "home stool test kit",
+        "fit kit stool test",
+        "digestive allergy test",
+        "digestive sensitivity test"
+      ],
+      "sample_kw": "stool test kit at home",
+      "reason": "Not offered: std_testing"
+    },
+    {
+      "category": "Gut Health & Microbiome",
+      "topic": "General",
+      "competitor": "Rupa Health",
+      "keyword_count": 4,
+      "total_volume": 280,
+      "top_keywords": [
+        "gi map zonulin",
+        "gi map with zonulin",
+        "zonulin gi map",
+        "digestive sensitivity test"
+      ],
+      "sample_kw": "gi map zonulin",
+      "reason": "Not offered: std_testing"
+    },
+    {
+      "category": "At-Home Testing",
+      "topic": "General",
+      "competitor": "Function Health",
+      "keyword_count": 5,
+      "total_volume": 150,
+      "top_keywords": [
+        "at home functional lab testing",
+        "at home heart health test",
+        "home test sample collection",
+        "book home test",
+        "home test blood"
+      ],
+      "sample_kw": "at home functional lab testing",
+      "reason": "Not offered: std_testing"
+    },
+    {
+      "category": "Biomarkers & Specific Tests",
+      "topic": "Inflammation",
+      "competitor": "Rupa Health",
+      "keyword_count": 5,
+      "total_volume": 120,
+      "top_keywords": [
+        "food sensitivity test for inflammation",
+        "best food inflammation test",
+        "food inflammation test near me",
+        "test to see what foods cause inflammation",
+        "food inflammation test reviews"
+      ],
+      "sample_kw": "food sensitivity test for inflammation",
+      "reason": "Not offered: food_allergy"
+    },
+    {
+      "category": "Biomarkers & Specific Tests",
+      "topic": "Hormones - Male",
+      "competitor": "Function Health",
+      "keyword_count": 2,
+      "total_volume": 70,
+      "top_keywords": [
+        "testosterone level check near me",
+        "get testosterone levels checked near me"
+      ],
+      "sample_kw": "testosterone level check near me",
+      "reason": "Not offered: physical_locations"
+    },
+    {
+      "category": "Biomarkers & Specific Tests",
+      "topic": "Hormones - Female",
+      "competitor": "Function Health",
+      "keyword_count": 1,
+      "total_volume": 50,
+      "top_keywords": [
+        "estrogen test near me"
+      ],
+      "sample_kw": "estrogen test near me",
+      "reason": "Not offered: physical_locations"
+    }
+  ],
+  "competitor_brand": [
+    {
+      "category": "Brand - Competitors",
+      "topic": "General",
+      "competitor": "Function Health",
+      "keyword_count": 14,
+      "total_volume": 167220,
+      "top_keywords": [
+        "any test now lab",
+        "request a test",
+        "any test now near me",
+        "quest diagnostics fort worth",
+        "quest diagnostics cost"
+      ],
+      "sample_kw": "any test now lab",
+      "reason": "Competitor brand terms"
+    },
+    {
+      "category": "Brand - Own",
+      "topic": "General",
+      "competitor": "Everlywell",
+      "keyword_count": 179,
+      "total_volume": 31980,
+      "top_keywords": [
+        "everlywell food sensitivity test",
+        "everly well food sensitivity test",
+        "everlywell reviews",
+        "everlywell test",
+        "everly well test"
+      ],
+      "sample_kw": "everlywell food sensitivity test",
+      "reason": "Competitor brand terms"
+    },
+    {
+      "category": "Brand - Own",
+      "topic": "General",
+      "competitor": "Rupa Health",
+      "keyword_count": 48,
+      "total_volume": 12850,
+      "top_keywords": [
+        "everlywell food sensitivity test",
+        "everly well food sensitivity test",
+        "everlywell test",
+        "everlywell food sensitivity test reviews",
+        "everlywell food sensitivity"
+      ],
+      "sample_kw": "everlywell food sensitivity test",
+      "reason": "Competitor brand terms"
+    },
+    {
+      "category": "Brand - Competitors",
+      "topic": "General",
+      "competitor": "Mito Health",
+      "keyword_count": 8,
+      "total_volume": 12770,
+      "top_keywords": [
+        "request a test",
+        "labcorp blood test prices",
+        "labcorp prices without insurance",
+        "labcorp health screening",
+        "labcorp full blood panel cost"
+      ],
+      "sample_kw": "request a test",
+      "reason": "Competitor brand terms"
+    }
+  ]
+}

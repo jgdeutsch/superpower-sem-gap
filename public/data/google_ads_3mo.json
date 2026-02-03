@@ -1,0 +1,266 @@
+{
+  "date_range": {
+    "start": "2025-11-04",
+    "end": "2026-02-02",
+    "months": 3
+  },
+  "overall": {
+    "total_spend": 473989.994408,
+    "total_clicks": 147700,
+    "total_conversions": 4990.678073,
+    "cvr": 3.3789289593771157,
+    "cpa": 94.97506901363302,
+    "monthly_spend": 157996.66480266667,
+    "monthly_clicks": 49233.333333333336,
+    "monthly_conversions": 1663.5593576666668
+  },
+  "landing_pages": {
+    "homepage": {
+      "monthly_spend": 33611.53722466666,
+      "monthly_clicks": 11336.666666666666,
+      "monthly_conversions": 272.80626099999995,
+      "cvr": 2.4064063010879146,
+      "cpa": 123.20661960418374
+    },
+    "welcome": {
+      "monthly_spend": 74819.24059,
+      "monthly_clicks": 30101.333333333332,
+      "monthly_conversions": 1263.5890406666667,
+      "cvr": 4.197784286410347,
+      "cpa": 59.211688438295994
+    },
+    "comparison": {
+      "monthly_spend": 42848.94130266667,
+      "monthly_clicks": 6361.666666666667,
+      "monthly_conversions": 116.62846100000002,
+      "cvr": 1.8333004086979305,
+      "cpa": 367.39695384188144
+    },
+    "biomarker": {
+      "monthly_spend": 591.40645,
+      "monthly_clicks": 98.33333333333333,
+      "monthly_conversions": 0.0,
+      "cvr": 0.0,
+      "cpa": 0
+    },
+    "other": {
+      "monthly_spend": 6125.539235333334,
+      "monthly_clicks": 1335.3333333333333,
+      "monthly_conversions": 10.535594999999999,
+      "cvr": 0.788986145781328,
+      "cpa": 581.4136966477294
+    }
+  },
+  "ad_groups": {
+    "Function Health": {
+      "monthly_spend": 38087.20276266667,
+      "monthly_clicks": 5562.333333333333,
+      "monthly_conversions": 101.14577333333334,
+      "cvr": 1.8184054653322945,
+      "cpa": 376.55753184216104
+    },
+    "Landscape only": {
+      "monthly_spend": 22952.373647333323,
+      "monthly_clicks": 13865.333333333334,
+      "monthly_conversions": 533.1614416666665,
+      "cvr": 3.845283981632848,
+      "cpa": 43.04957533234969
+    },
+    "Vertical only": {
+      "monthly_spend": 17739.426327333338,
+      "monthly_clicks": 7266.333333333333,
+      "monthly_conversions": 427.6142809999999,
+      "cvr": 5.884870145419513,
+      "cpa": 41.48464425895388
+    },
+    "Brand - Exact": {
+      "monthly_spend": 12041.781596,
+      "monthly_clicks": 9908.0,
+      "monthly_conversions": 368.6165773333333,
+      "cvr": 3.7203933925447448,
+      "cpa": 32.66749879539692
+    },
+    "Blood Test": {
+      "monthly_spend": 6319.467758,
+      "monthly_clicks": 845.6666666666666,
+      "monthly_conversions": 8.818437,
+      "cvr": 1.0427793062672446,
+      "cpa": 716.6199359364931
+    },
+    "Brand - Phrase": {
+      "monthly_spend": 3943.581577333334,
+      "monthly_clicks": 1938.0,
+      "monthly_conversions": 72.20671066666667,
+      "cvr": 3.72583646370829,
+      "cpa": 54.61516721816051
+    },
+    "InsideTracker": {
+      "monthly_spend": 3819.8894273333335,
+      "monthly_clicks": 282.6666666666667,
+      "monthly_conversions": 9.820081666666667,
+      "cvr": 3.474085495283019,
+      "cpa": 388.9875417533018
+    },
+    "Vitamin": {
+      "monthly_spend": 3203.5871883333334,
+      "monthly_clicks": 703.3333333333334,
+      "monthly_conversions": 9.109013333333333,
+      "cvr": 1.2951203791469195,
+      "cpa": 351.69420343366863
+    },
+    "Biomarker": {
+      "monthly_spend": 2629.451858,
+      "monthly_clicks": 365.3333333333333,
+      "monthly_conversions": 8.086760666666665,
+      "cvr": 2.2135293795620434,
+      "cpa": 325.15514757825156
+    },
+    "Blood Panel": {
+      "monthly_spend": 2335.170713,
+      "monthly_clicks": 287.3333333333333,
+      "monthly_conversions": 6.423421,
+      "cvr": 2.2355293503480276,
+      "cpa": 363.5400377773775
+    },
+    "Health testing": {
+      "monthly_spend": 2312.196861,
+      "monthly_clicks": 380.0,
+      "monthly_conversions": 8.100926,
+      "cvr": 2.1318226315789475,
+      "cpa": 285.42377266500154
+    },
+    "Medical test": {
+      "monthly_spend": 2306.855090333333,
+      "monthly_clicks": 360.0,
+      "monthly_conversions": 8.001292000000001,
+      "cvr": 2.2225811111111113,
+      "cpa": 288.3103241743125
+    },
+    "Competitor": {
+      "monthly_spend": 2278.779947,
+      "monthly_clicks": 378.6666666666667,
+      "monthly_conversions": 5.656887333333334,
+      "cvr": 1.4938963028169014,
+      "cpa": 402.8328323903923
+    },
+    "function health": {
+      "monthly_spend": 2040.6033356666667,
+      "monthly_clicks": 541.3333333333334,
+      "monthly_conversions": 9.665087,
+      "cvr": 1.785422475369458,
+      "cpa": 211.13139857578795
+    },
+    "Hormone Testing": {
+      "monthly_spend": 2010.1368876666666,
+      "monthly_clicks": 287.0,
+      "monthly_conversions": 4.704495666666666,
+      "cvr": 1.6391970963995355,
+      "cpa": 427.27999558153135
+    },
+    "Cancer": {
+      "monthly_spend": 2004.80007,
+      "monthly_clicks": 371.0,
+      "monthly_conversions": 4.375006333333333,
+      "cvr": 1.1792469901168015,
+      "cpa": 458.2393526439847
+    },
+    "Body composition": {
+      "monthly_spend": 1964.4458713333333,
+      "monthly_clicks": 378.3333333333333,
+      "monthly_conversions": 4.084756333333334,
+      "cvr": 1.0796712775330397,
+      "cpa": 480.9211886894273
+    },
+    "Blood testing": {
+      "monthly_spend": 1680.4294316666667,
+      "monthly_clicks": 254.0,
+      "monthly_conversions": 4.327563666666667,
+      "cvr": 1.7037652230971132,
+      "cpa": 388.30842504069454
+    },
+    "Testosterone": {
+      "monthly_spend": 1418.8746443333332,
+      "monthly_clicks": 228.33333333333334,
+      "monthly_conversions": 3.637095,
+      "cvr": 1.5928883211678833,
+      "cpa": 390.11206590241204
+    },
+    "Health Check": {
+      "monthly_spend": 1372.7732933333334,
+      "monthly_clicks": 262.0,
+      "monthly_conversions": 4.387617,
+      "cvr": 1.6746629770992367,
+      "cpa": 312.87445858043975
+    },
+    "HRT": {
+      "monthly_spend": 1220.9870166666667,
+      "monthly_clicks": 107.66666666666667,
+      "monthly_conversions": 1.0,
+      "cvr": 0.9287925696594427,
+      "cpa": 1220.9870166666667
+    },
+    "Blood Work": {
+      "monthly_spend": 1188.8373256666666,
+      "monthly_clicks": 164.33333333333334,
+      "monthly_conversions": 2.0216043333333333,
+      "cvr": 1.2301851926977687,
+      "cpa": 588.0662729419687
+    },
+    "Test": {
+      "monthly_spend": 1136.064162,
+      "monthly_clicks": 175.33333333333334,
+      "monthly_conversions": 3.06475,
+      "cvr": 1.7479562737642587,
+      "cpa": 370.6873846153846
+    },
+    "Gut test": {
+      "monthly_spend": 973.6842456666667,
+      "monthly_clicks": 183.66666666666666,
+      "monthly_conversions": 2.055555666666667,
+      "cvr": 1.1191773139745917,
+      "cpa": 473.6842020170701
+    },
+    "Thyroid": {
+      "monthly_spend": 906.5834179999998,
+      "monthly_clicks": 157.66666666666666,
+      "monthly_conversions": 1.6666666666666667,
+      "cvr": 1.0570824524312896,
+      "cpa": 543.9500507999999
+    },
+    "Galleri test": {
+      "monthly_spend": 873.727484,
+      "monthly_clicks": 166.33333333333334,
+      "monthly_conversions": 0.8333333333333334,
+      "cvr": 0.501002004008016,
+      "cpa": 1048.4729808
+    },
+    "Rythm Health": {
+      "monthly_spend": 715.6997626666666,
+      "monthly_clicks": 93.33333333333333,
+      "monthly_conversions": 1.8333333333333333,
+      "cvr": 1.9642857142857142,
+      "cpa": 390.3816887272727
+    },
+    "Mito": {
+      "monthly_spend": 669.0186583333333,
+      "monthly_clicks": 77.33333333333333,
+      "monthly_conversions": 2.3423746666666667,
+      "cvr": 3.0289327586206896,
+      "cpa": 285.61556263985096
+    },
+    "Blood work": {
+      "monthly_spend": 630.8928593333334,
+      "monthly_clicks": 92.66666666666667,
+      "monthly_conversions": 0.6666666666666666,
+      "cvr": 0.7194244604316548,
+      "cpa": 946.339289
+    },
+    "Age blood test": {
+      "monthly_spend": 553.657067,
+      "monthly_clicks": 110.66666666666667,
+      "monthly_conversions": 3.6666666666666665,
+      "cvr": 3.313253012048193,
+      "cpa": 150.9973819090909
+    }
+  }
+}
