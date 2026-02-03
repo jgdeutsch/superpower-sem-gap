@@ -3,7 +3,7 @@
 import { useState, useMemo } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { FlaskConical, Target, Check, X, ChevronDown, ChevronRight } from 'lucide-react';
+import { FlaskConical, Target, FileText, Check, X, ChevronDown, ChevronRight } from 'lucide-react';
 import testsData from '../../../data/superpower_tests.json';
 
 interface Test {
@@ -128,6 +128,19 @@ export default function TestsPage() {
             <div className="flex items-center gap-2">
               <FlaskConical className="w-4 h-4" />
               Testing Gap
+            </div>
+          </Link>
+          <Link
+            href="/strategy"
+            className={`px-4 py-3 text-sm font-medium border-b-2 transition ${
+              pathname === '/strategy'
+                ? 'border-blue-500 text-blue-600'
+                : 'border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300'
+            }`}
+          >
+            <div className="flex items-center gap-2">
+              <FileText className="w-4 h-4" />
+              Strategy
             </div>
           </Link>
         </div>
