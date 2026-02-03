@@ -1,0 +1,7238 @@
+{
+  "competitors": {
+    "Everlywell": {
+      "total_keywords": 885,
+      "total_volume": 118410,
+      "total_traffic": 3045
+    },
+    "Clock Foundation": {
+      "total_keywords": 7,
+      "total_volume": 760,
+      "total_traffic": 49
+    },
+    "Exact Sciences": {
+      "total_keywords": 109,
+      "total_volume": 16340,
+      "total_traffic": 523
+    },
+    "Function Health": {
+      "total_keywords": 114,
+      "total_volume": 55870,
+      "total_traffic": 0
+    },
+    "Galleri": {
+      "total_keywords": 52,
+      "total_volume": 6250,
+      "total_traffic": 222
+    },
+    "Labcorp": {
+      "total_keywords": 383,
+      "total_volume": 36650,
+      "total_traffic": 1696
+    },
+    "PrivateMD Labs": {
+      "total_keywords": 28,
+      "total_volume": 3440,
+      "total_traffic": 63
+    },
+    "Quest Health": {
+      "total_keywords": 581,
+      "total_volume": 91280,
+      "total_traffic": 2955
+    },
+    "Rythm Health": {
+      "total_keywords": 21,
+      "total_volume": 2620,
+      "total_traffic": 29
+    },
+    "TruDiagnostic": {
+      "total_keywords": 58,
+      "total_volume": 7780,
+      "total_traffic": 265
+    },
+    "Ulta Lab Tests": {
+      "total_keywords": 174,
+      "total_volume": 27920,
+      "total_traffic": 944
+    },
+    "Walk-In Lab": {
+      "total_keywords": 202,
+      "total_volume": 32430,
+      "total_traffic": 808
+    }
+  },
+  "summary": {
+    "total_keywords": 2223,
+    "total_volume": 348480,
+    "pursue_keywords": 1513,
+    "maybe_keywords": 140,
+    "skip_keywords": 570,
+    "pursue_volume": 248410,
+    "maybe_volume": 20300,
+    "skip_volume": 79770,
+    "high_overlap_count": 68
+  },
+  "categories": [
+    {
+      "name": "Aging & Longevity",
+      "pursue": [
+        {
+          "keyword": "how to calculate biological age",
+          "volume": 250,
+          "cpc": 0.04,
+          "competitors": [
+            "Clock Foundation",
+            "TruDiagnostic"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "how to find your biological age",
+          "volume": 200,
+          "cpc": 0.99,
+          "competitors": [
+            "Clock Foundation",
+            "TruDiagnostic"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "epigenetics meaning",
+          "volume": 1300,
+          "cpc": 0.03,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "peter attia longevity",
+          "volume": 350,
+          "cpc": 0.29,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "longevity test",
+          "volume": 300,
+          "cpc": 1.81,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "cellular aging",
+          "volume": 250,
+          "cpc": 0.8,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "epigenetic age test",
+          "volume": 200,
+          "cpc": 1.43,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to determine biological age",
+          "volume": 150,
+          "cpc": 0.3,
+          "competitors": [
+            "Clock Foundation"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to measure biological age",
+          "volume": 150,
+          "cpc": 1.14,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "biological aging test",
+          "volume": 150,
+          "cpc": 1.94,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to calculate your biological age",
+          "volume": 100,
+          "cpc": 0.04,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "longevity score",
+          "volume": 70,
+          "cpc": 0,
+          "competitors": [
+            "Clock Foundation"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "dna telomeres",
+          "volume": 70,
+          "cpc": 0.48,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "calculate my biological age",
+          "volume": 60,
+          "cpc": 1.29,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to measure telomere length",
+          "volume": 50,
+          "cpc": 1.09,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "best biological age calculator",
+          "volume": 50,
+          "cpc": 1.5,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to figure out biological age",
+          "volume": 40,
+          "cpc": 0,
+          "competitors": [
+            "Clock Foundation"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what's my biological age quiz",
+          "volume": 40,
+          "cpc": 0,
+          "competitors": [
+            "Clock Foundation"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "telomere test",
+          "volume": 40,
+          "cpc": 2.19,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "dunedin pace of aging",
+          "volume": 40,
+          "cpc": 0.85,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what is my epigenetic age",
+          "volume": 40,
+          "cpc": 1.15,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "epigenetic sequencing",
+          "volume": 40,
+          "cpc": 2.25,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "aging clock",
+          "volume": 30,
+          "cpc": 1.49,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "measuring biological age",
+          "volume": 20,
+          "cpc": 1.22,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "best epigenetics test",
+          "volume": 20,
+          "cpc": 2.21,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        }
+      ],
+      "maybe": [],
+      "skip": [],
+      "pursue_count": 25,
+      "maybe_count": 0,
+      "skip_count": 0,
+      "pursue_volume": 4010,
+      "maybe_volume": 0,
+      "skip_volume": 0
+    },
+    {
+      "name": "Allergy & Food Sensitivity",
+      "pursue": [],
+      "maybe": [],
+      "skip": [
+        {
+          "keyword": "allergy tests at home",
+          "volume": 90,
+          "cpc": 1.5,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "casein allergy test",
+          "volume": 70,
+          "cpc": 1.02,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "everly wells food sensitivity test",
+          "volume": 10,
+          "cpc": 1.26,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "home allergy test",
+          "volume": 900,
+          "cpc": 1.83,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "blood allergy test",
+          "volume": 800,
+          "cpc": 1.12,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "food sensitivity symptoms",
+          "volume": 800,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "food sensitivity test reviews",
+          "volume": 700,
+          "cpc": 0.77,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "food intolerance vs allergy",
+          "volume": 400,
+          "cpc": 0.09,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to test for gluten intolerance at home",
+          "volume": 400,
+          "cpc": 0.39,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "dairy intolerance symptoms in adults",
+          "volume": 400,
+          "cpc": 0.07,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "food sensitivity test kit",
+          "volume": 400,
+          "cpc": 1.38,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to get allergy tested",
+          "volume": 400,
+          "cpc": 1.16,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "best at home food sensitivity test",
+          "volume": 350,
+          "cpc": 1.64,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to test for food intolerance",
+          "volume": 350,
+          "cpc": 0.6,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "sugar intolerance test",
+          "volume": 350,
+          "cpc": 0.51,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "most accurate food sensitivity test",
+          "volume": 350,
+          "cpc": 1.26,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "symptoms of shellfish allergy",
+          "volume": 350,
+          "cpc": 0.28,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "online allergy test",
+          "volume": 300,
+          "cpc": 1.69,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "test for food allergies",
+          "volume": 300,
+          "cpc": 2.1,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "best food allergy test",
+          "volume": 300,
+          "cpc": 2.72,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to know if it's allergies or a cold",
+          "volume": 300,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "allergy food test",
+          "volume": 300,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what causes shellfish allergy",
+          "volume": 300,
+          "cpc": 0.18,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what is a food intolerance",
+          "volume": 300,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "latex allergy test",
+          "volume": 300,
+          "cpc": 1.19,
+          "competitors": [
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "shellfish allergy test",
+          "volume": 250,
+          "cpc": 0.89,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "best food intolerance test",
+          "volume": 250,
+          "cpc": 1.86,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "difference between food allergy and food intolerance",
+          "volume": 250,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "food intolerance tests",
+          "volume": 200,
+          "cpc": 1.5,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "milk allergy test",
+          "volume": 200,
+          "cpc": 1.37,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to test for dairy allergy",
+          "volume": 200,
+          "cpc": 1.14,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what is the difference between a cold and allergies",
+          "volume": 200,
+          "cpc": 0.35,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "at home lactose intolerance test",
+          "volume": 200,
+          "cpc": 0.46,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "best at-home allergy test",
+          "volume": 200,
+          "cpc": 2.3,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "lactose intolerance test kit",
+          "volume": 200,
+          "cpc": 0.32,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to get tested for food allergies",
+          "volume": 200,
+          "cpc": 1.19,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "common food allergy",
+          "volume": 200,
+          "cpc": 0.51,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "food allergy test kit",
+          "volume": 150,
+          "cpc": 1.46,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "difference between allergies and cold",
+          "volume": 150,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "signs of a dairy allergy",
+          "volume": 150,
+          "cpc": 0.64,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how do you know if it's allergies or a cold",
+          "volume": 150,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "allergies test near me",
+          "volume": 150,
+          "cpc": 1.23,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "igg food allergy test",
+          "volume": 100,
+          "cpc": 1.55,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "test for lactose intolerance at home",
+          "volume": 100,
+          "cpc": 0.46,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "intolerance test kit",
+          "volume": 100,
+          "cpc": 2.33,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to tell if you have gluten intolerance",
+          "volume": 100,
+          "cpc": 0.05,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how do i know if i have gluten intolerance",
+          "volume": 100,
+          "cpc": 0.05,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "food intolerance test reviews",
+          "volume": 90,
+          "cpc": 2.37,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to get a food sensitivity test",
+          "volume": 80,
+          "cpc": 1.17,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "home food allergy test kit",
+          "volume": 80,
+          "cpc": 2.37,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        }
+      ],
+      "pursue_count": 0,
+      "maybe_count": 0,
+      "skip_count": 125,
+      "pursue_volume": 0,
+      "maybe_volume": 0,
+      "skip_volume": 15870
+    },
+    {
+      "name": "At-Home Testing",
+      "pursue": [
+        {
+          "keyword": "celiac test at home",
+          "volume": 200,
+          "cpc": 0.64,
+          "competitors": [
+            "Everlywell",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "celiac disease at home test",
+          "volume": 30,
+          "cpc": 0.69,
+          "competitors": [
+            "Everlywell",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "at home leukemia test",
+          "volume": 10,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell",
+            "Rythm Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "homocysteine home test",
+          "volume": 10,
+          "cpc": 1.14,
+          "competitors": [
+            "Labcorp",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "at home blood work",
+          "volume": 250,
+          "cpc": 1.51,
+          "competitors": [
+            "Rythm Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "labcorp at home blood draw",
+          "volume": 150,
+          "cpc": 2.98,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "at home flu test kit",
+          "volume": 150,
+          "cpc": 0.6,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "covid and flu home test",
+          "volume": 150,
+          "cpc": 0.63,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "health home test kits",
+          "volume": 100,
+          "cpc": 0.0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "at home covid antibody test",
+          "volume": 100,
+          "cpc": 0,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "test sperm count at home",
+          "volume": 100,
+          "cpc": 0,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to check if your uterus is healthy at home",
+          "volume": 90,
+          "cpc": 0.83,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "home test for celiac disease",
+          "volume": 70,
+          "cpc": 0.82,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "labcorp at home",
+          "volume": 70,
+          "cpc": 3.0,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "sperm count home test",
+          "volume": 70,
+          "cpc": 1.02,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "at home antibody test",
+          "volume": 60,
+          "cpc": 1.37,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "hep c at home test",
+          "volume": 60,
+          "cpc": 1.11,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "best at home health tests",
+          "volume": 60,
+          "cpc": 4.93,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "celiac home test",
+          "volume": 60,
+          "cpc": 0.64,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "at home pcos test",
+          "volume": 60,
+          "cpc": 0.93,
+          "competitors": [
+            "Function Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "celiac at home test",
+          "volume": 50,
+          "cpc": 0.82,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "blood work done at home",
+          "volume": 50,
+          "cpc": 1.3,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "order at home covid test online",
+          "volume": 30,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "covid 19 home test kit cvs",
+          "volume": 30,
+          "cpc": 0,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "lab draw at home",
+          "volume": 30,
+          "cpc": 1.0,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "at home d dimer test",
+          "volume": 30,
+          "cpc": 1.0,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "kraft test at home",
+          "volume": 20,
+          "cpc": 0.57,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "pcos home test",
+          "volume": 20,
+          "cpc": 0.97,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "at home pap smear test kit",
+          "volume": 20,
+          "cpc": 0.94,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "leptin test at home",
+          "volume": 20,
+          "cpc": 0.49,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "cheap at home covid test",
+          "volume": 20,
+          "cpc": 0,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "at home immune system test",
+          "volume": 10,
+          "cpc": 1.0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "fit test at home",
+          "volume": 10,
+          "cpc": 1.98,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        }
+      ],
+      "maybe": [],
+      "skip": [],
+      "pursue_count": 33,
+      "maybe_count": 0,
+      "skip_count": 0,
+      "pursue_volume": 2190,
+      "maybe_volume": 0,
+      "skip_volume": 0
+    },
+    {
+      "name": "Blood Tests",
+      "pursue": [
+        {
+          "keyword": "full panel thyroid blood test",
+          "volume": 10,
+          "cpc": 1.19,
+          "competitors": [
+            "Everlywell",
+            "Labcorp",
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 5
+        },
+        {
+          "keyword": "quantiferon gold blood test near me",
+          "volume": 200,
+          "cpc": 2.0,
+          "competitors": [
+            "Labcorp",
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 4
+        },
+        {
+          "keyword": "antibody blood test",
+          "volume": 200,
+          "cpc": 1.24,
+          "competitors": [
+            "Labcorp",
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 4
+        },
+        {
+          "keyword": "iron level blood test",
+          "volume": 450,
+          "cpc": 0.56,
+          "competitors": [
+            "Everlywell",
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "blood tests to detect cancer",
+          "volume": 300,
+          "cpc": 1.72,
+          "competitors": [
+            "Exact Sciences",
+            "Galleri",
+            "Labcorp"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "menopause blood test",
+          "volume": 300,
+          "cpc": 0.89,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "electrolyte blood test",
+          "volume": 250,
+          "cpc": 0.38,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "heavy metals blood test",
+          "volume": 250,
+          "cpc": 0.71,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "blood tests for autoimmune diseases",
+          "volume": 250,
+          "cpc": 1.48,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "hepatitis blood test",
+          "volume": 200,
+          "cpc": 1.31,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "blood test to diagnose cancer",
+          "volume": 150,
+          "cpc": 1.01,
+          "competitors": [
+            "Everlywell",
+            "Exact Sciences",
+            "Galleri"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "at home cbc test",
+          "volume": 150,
+          "cpc": 0.96,
+          "competitors": [
+            "Labcorp",
+            "Quest Health",
+            "Rythm Health"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "mmr blood test",
+          "volume": 150,
+          "cpc": 1.23,
+          "competitors": [
+            "Labcorp",
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "blood testing lab",
+          "volume": 100,
+          "cpc": 1.16,
+          "competitors": [
+            "Labcorp",
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "can i do blood test without a doctor prescription",
+          "volume": 60,
+          "cpc": 1.09,
+          "competitors": [
+            "Labcorp",
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "blood test for 50 cancers",
+          "volume": 50,
+          "cpc": 0.71,
+          "competitors": [
+            "Everlywell",
+            "Exact Sciences",
+            "Galleri"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "cbc at home",
+          "volume": 50,
+          "cpc": 1.22,
+          "competitors": [
+            "Labcorp",
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "order blood tests",
+          "volume": 50,
+          "cpc": 3.42,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "blood test price without insurance",
+          "volume": 40,
+          "cpc": 0.78,
+          "competitors": [
+            "Labcorp",
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "iron blood test near me",
+          "volume": 40,
+          "cpc": 1.03,
+          "competitors": [
+            "Labcorp",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "celiac blood test cost",
+          "volume": 30,
+          "cpc": 0.55,
+          "competitors": [
+            "Everlywell",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "blood test to find cancer",
+          "volume": 30,
+          "cpc": 1.05,
+          "competitors": [
+            "Everlywell",
+            "Galleri",
+            "Labcorp"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "d dimer blood test near me",
+          "volume": 20,
+          "cpc": 1.1,
+          "competitors": [
+            "Labcorp",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "what blood test is done for cancer",
+          "volume": 10,
+          "cpc": 1.14,
+          "competitors": [
+            "Everlywell",
+            "Galleri",
+            "Labcorp"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "hepatitis blood panel",
+          "volume": 10,
+          "cpc": 1.09,
+          "competitors": [
+            "Labcorp",
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "blood test in houston tx",
+          "volume": 10,
+          "cpc": 2.0,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "blood test for ovarian cancer",
+          "volume": 700,
+          "cpc": 1.83,
+          "competitors": [
+            "Exact Sciences",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "copper blood test",
+          "volume": 600,
+          "cpc": 1.11,
+          "competitors": [
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "galleri blood test cost",
+          "volume": 500,
+          "cpc": 1.85,
+          "competitors": [
+            "Everlywell",
+            "Exact Sciences"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "is there a blood test for lupus",
+          "volume": 450,
+          "cpc": 0.15,
+          "competitors": [
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "blood test for gluten intolerance",
+          "volume": 400,
+          "cpc": 0.65,
+          "competitors": [
+            "Everlywell",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "how much is a blood test without insurance",
+          "volume": 400,
+          "cpc": 0.67,
+          "competitors": [
+            "Labcorp",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "early cancer detection blood test",
+          "volume": 350,
+          "cpc": 1.77,
+          "competitors": [
+            "Everlywell",
+            "Exact Sciences"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "home blood test kits",
+          "volume": 350,
+          "cpc": 0.65,
+          "competitors": [
+            "Everlywell",
+            "TruDiagnostic"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "blood test testosterone",
+          "volume": 350,
+          "cpc": 2.64,
+          "competitors": [
+            "PrivateMD Labs",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "blood test for hormone levels",
+          "volume": 300,
+          "cpc": 1.02,
+          "competitors": [
+            "Labcorp",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "galleri blood test near me",
+          "volume": 250,
+          "cpc": 2.02,
+          "competitors": [
+            "Everlywell",
+            "Galleri"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "blood test that detects cancer",
+          "volume": 250,
+          "cpc": 1.82,
+          "competitors": [
+            "Exact Sciences",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "tb blood test cost",
+          "volume": 250,
+          "cpc": 1.04,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "blood test for pregnancy results",
+          "volume": 250,
+          "cpc": 0,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "t spot blood test",
+          "volume": 250,
+          "cpc": 1.42,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "female hormone blood test",
+          "volume": 250,
+          "cpc": 1.17,
+          "competitors": [
+            "Quest Health",
+            "Rythm Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "hep c blood test",
+          "volume": 250,
+          "cpc": 1.2,
+          "competitors": [
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "parasite blood test",
+          "volume": 200,
+          "cpc": 1.01,
+          "competitors": [
+            "Function Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "blood test miami",
+          "volume": 150,
+          "cpc": 1.88,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "malaria blood test",
+          "volume": 150,
+          "cpc": 0.77,
+          "competitors": [
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "hepatitis c blood test",
+          "volume": 150,
+          "cpc": 2.13,
+          "competitors": [
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "home blood testing",
+          "volume": 150,
+          "cpc": 1.66,
+          "competitors": [
+            "Quest Health",
+            "Rythm Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "blood test for cancer detection",
+          "volume": 100,
+          "cpc": 1.52,
+          "competitors": [
+            "Exact Sciences",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "get blood test",
+          "volume": 100,
+          "cpc": 1.59,
+          "competitors": [
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        }
+      ],
+      "maybe": [],
+      "skip": [],
+      "pursue_count": 282,
+      "maybe_count": 0,
+      "skip_count": 0,
+      "pursue_volume": 66590,
+      "maybe_volume": 0,
+      "skip_volume": 0
+    },
+    {
+      "name": "Cancer Screening",
+      "pursue": [],
+      "maybe": [
+        {
+          "keyword": "blood cancer test",
+          "volume": 300,
+          "cpc": 0.98,
+          "competitors": [
+            "Everlywell",
+            "Galleri",
+            "Labcorp"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "cancer marker test",
+          "volume": 200,
+          "cpc": 0.98,
+          "competitors": [
+            "Everlywell",
+            "Exact Sciences",
+            "Galleri"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "cancer tests blood",
+          "volume": 150,
+          "cpc": 1.35,
+          "competitors": [
+            "Everlywell",
+            "Exact Sciences",
+            "Galleri"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "bloodwork to detect cancer",
+          "volume": 40,
+          "cpc": 1.01,
+          "competitors": [
+            "Everlywell",
+            "Exact Sciences",
+            "Labcorp"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "grail galleri cancer test",
+          "volume": 30,
+          "cpc": 1.55,
+          "competitors": [
+            "Everlywell",
+            "Exact Sciences",
+            "Galleri"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "gallery test cancer",
+          "volume": 20,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell",
+            "Exact Sciences",
+            "Galleri"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "cancer screening in maryland",
+          "volume": 1200,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell",
+            "Galleri"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "colon test at home",
+          "volume": 600,
+          "cpc": 1.45,
+          "competitors": [
+            "Everlywell",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "cancer gene test",
+          "volume": 600,
+          "cpc": 1.54,
+          "competitors": [
+            "Everlywell",
+            "Exact Sciences"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "early cancer detection test",
+          "volume": 500,
+          "cpc": 0.98,
+          "competitors": [
+            "Everlywell",
+            "Galleri"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "cancer detection tests",
+          "volume": 200,
+          "cpc": 2.15,
+          "competitors": [
+            "Everlywell",
+            "Galleri"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "pre cancer screening",
+          "volume": 90,
+          "cpc": 1.48,
+          "competitors": [
+            "Everlywell",
+            "Galleri"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "colorectal cancer test at home",
+          "volume": 40,
+          "cpc": 1.48,
+          "competitors": [
+            "Everlywell",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "onetest for cancer",
+          "volume": 40,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell",
+            "Galleri"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "test for cancer in blood",
+          "volume": 40,
+          "cpc": 1.51,
+          "competitors": [
+            "Exact Sciences",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "test for cancer at home",
+          "volume": 30,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell",
+            "Galleri"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "home cancer screening",
+          "volume": 30,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell",
+            "Galleri"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "screening for cancers",
+          "volume": 30,
+          "cpc": 0.0,
+          "competitors": [
+            "Everlywell",
+            "Exact Sciences"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "get tested for cancer near me",
+          "volume": 30,
+          "cpc": 2.39,
+          "competitors": [
+            "Galleri",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "at home colon test kit",
+          "volume": 20,
+          "cpc": 1.59,
+          "competitors": [
+            "Everlywell",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "proactive cancer screening",
+          "volume": 20,
+          "cpc": 1.18,
+          "competitors": [
+            "Everlywell",
+            "Galleri"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "test that detects cancer",
+          "volume": 20,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell",
+            "Galleri"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "blood cancer screening tests",
+          "volume": 20,
+          "cpc": 0,
+          "competitors": [
+            "Exact Sciences",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "home test for colonoscopy",
+          "volume": 10,
+          "cpc": 1.4,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "colon test at home kit",
+          "volume": 10,
+          "cpc": 1.28,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "foods to avoid with enlarged prostate",
+          "volume": 1100,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to diagnose ovarian cancer",
+          "volume": 800,
+          "cpc": 0.46,
+          "competitors": [
+            "Exact Sciences"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "home colon cancer test",
+          "volume": 700,
+          "cpc": 1.69,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "colon cancer test at home",
+          "volume": 700,
+          "cpc": 1.43,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "colon guard",
+          "volume": 600,
+          "cpc": 1.91,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "tests for cancer",
+          "volume": 500,
+          "cpc": 1.01,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "full body cancer scan",
+          "volume": 500,
+          "cpc": 1.5,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "stomach cancer test",
+          "volume": 500,
+          "cpc": 1.08,
+          "competitors": [
+            "Exact Sciences"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "circulating tumor dna",
+          "volume": 500,
+          "cpc": 1.74,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "genetic cancer screening",
+          "volume": 450,
+          "cpc": 1.54,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "screening for lung cancer",
+          "volume": 450,
+          "cpc": 1.95,
+          "competitors": [
+            "Exact Sciences"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to get screened for cancer",
+          "volume": 350,
+          "cpc": 1.04,
+          "competitors": [
+            "Exact Sciences"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "cancer biomarkers",
+          "volume": 350,
+          "cpc": 1.98,
+          "competitors": [
+            "Exact Sciences"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "tumor grade vs stage",
+          "volume": 350,
+          "cpc": 0,
+          "competitors": [
+            "Exact Sciences"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "at home colonoscopy",
+          "volume": 300,
+          "cpc": 1.37,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "tests for ovarian cancer",
+          "volume": 300,
+          "cpc": 1.56,
+          "competitors": [
+            "Exact Sciences"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "grail test for cancer",
+          "volume": 300,
+          "cpc": 2.05,
+          "competitors": [
+            "Galleri"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "pet test for cancer",
+          "volume": 300,
+          "cpc": 0.48,
+          "competitors": [
+            "Galleri"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "lung cancer detection",
+          "volume": 250,
+          "cpc": 1.95,
+          "competitors": [
+            "Exact Sciences"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what are cancer markers",
+          "volume": 250,
+          "cpc": 1.93,
+          "competitors": [
+            "Exact Sciences"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to screen for pancreatic cancer",
+          "volume": 250,
+          "cpc": 0.86,
+          "competitors": [
+            "Exact Sciences"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to screen for cancer",
+          "volume": 250,
+          "cpc": 2.01,
+          "competitors": [
+            "Exact Sciences"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "signs of colon cancer in man",
+          "volume": 200,
+          "cpc": 0.0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what are the signs of colorectal cancer",
+          "volume": 200,
+          "cpc": 0.1,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "cancer blood work",
+          "volume": 200,
+          "cpc": 1.91,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        }
+      ],
+      "skip": [],
+      "pursue_count": 0,
+      "maybe_count": 135,
+      "skip_count": 0,
+      "pursue_volume": 0,
+      "maybe_volume": 19830,
+      "skip_volume": 0
+    },
+    {
+      "name": "Drug Testing",
+      "pursue": [],
+      "maybe": [],
+      "skip": [
+        {
+          "keyword": "drug screen",
+          "volume": 1400,
+          "cpc": 1.8,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "drug test 35765n",
+          "volume": 1200,
+          "cpc": 2.97,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "drug test lab near me",
+          "volume": 300,
+          "cpc": 1.5,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "urgent care drug test",
+          "volume": 300,
+          "cpc": 1.63,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "where to buy a drug test",
+          "volume": 200,
+          "cpc": 0.46,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "dot drug test panel",
+          "volume": 200,
+          "cpc": 1.24,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "10 panel urine drug test labcorp",
+          "volume": 150,
+          "cpc": 1.47,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "drug test nyc",
+          "volume": 150,
+          "cpc": 0,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "4 panel drug test near me",
+          "volume": 70,
+          "cpc": 1.99,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "labcorp 5 panel drug test urine",
+          "volume": 60,
+          "cpc": 1.94,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "dextromethorphan 10 panel drug test",
+          "volume": 60,
+          "cpc": 0.78,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "5 panel drug test labcorp",
+          "volume": 50,
+          "cpc": 0.8,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to do drug test for work",
+          "volume": 50,
+          "cpc": 0.87,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "get a drug test",
+          "volume": 50,
+          "cpc": 1.76,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "anytime drug test",
+          "volume": 50,
+          "cpc": 2.0,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "drug test el paso tx",
+          "volume": 40,
+          "cpc": 2.26,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "drug test odessa tx",
+          "volume": 40,
+          "cpc": 2.65,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "drug screen places near me",
+          "volume": 40,
+          "cpc": 1.99,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "drug test buffalo ny",
+          "volume": 30,
+          "cpc": 2.08,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "at home drug screen",
+          "volume": 30,
+          "cpc": 0.42,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "drug screen for work",
+          "volume": 30,
+          "cpc": 1.39,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "places that drug test",
+          "volume": 20,
+          "cpc": 1.62,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "quest drug screen",
+          "volume": 20,
+          "cpc": 1.54,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "where can i get a pre employment drug test",
+          "volume": 20,
+          "cpc": 1.78,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "drug test washington dc",
+          "volume": 20,
+          "cpc": 1.46,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "samhsa drug test near me",
+          "volume": 20,
+          "cpc": 1.97,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "drug test florida",
+          "volume": 20,
+          "cpc": 1.46,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "10 panel drug test labcorp cost",
+          "volume": 10,
+          "cpc": 0.89,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "drug test 35190n",
+          "volume": 10,
+          "cpc": 1.35,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        }
+      ],
+      "pursue_count": 0,
+      "maybe_count": 0,
+      "skip_count": 29,
+      "pursue_volume": 0,
+      "maybe_volume": 0,
+      "skip_volume": 4640
+    },
+    {
+      "name": "Genetic Testing",
+      "pursue": [],
+      "maybe": [
+        {
+          "keyword": "dna antibody test",
+          "volume": 400,
+          "cpc": 1.21,
+          "competitors": [
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "dsdna labcorp",
+          "volume": 30,
+          "cpc": 0,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "myrisk genetic test",
+          "volume": 20,
+          "cpc": 0.9,
+          "competitors": [
+            "Exact Sciences"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "dna test to see what foods you should eat",
+          "volume": 10,
+          "cpc": 0.68,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "best health dna tests",
+          "volume": 10,
+          "cpc": 2.4,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        }
+      ],
+      "skip": [],
+      "pursue_count": 0,
+      "maybe_count": 5,
+      "skip_count": 0,
+      "pursue_volume": 0,
+      "maybe_volume": 470,
+      "skip_volume": 0
+    },
+    {
+      "name": "Gut Health",
+      "pursue": [
+        {
+          "keyword": "online stool test",
+          "volume": 30,
+          "cpc": 1.16,
+          "competitors": [
+            "Everlywell",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "lab tests for gut health",
+          "volume": 60,
+          "cpc": 2.07,
+          "competitors": [
+            "Labcorp",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "human giardia stool sample",
+          "volume": 350,
+          "cpc": 0,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "gi map test near me",
+          "volume": 250,
+          "cpc": 1.86,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "best gut biome test",
+          "volume": 70,
+          "cpc": 2.78,
+          "competitors": [
+            "Function Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "order gi map test",
+          "volume": 70,
+          "cpc": 1.58,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "ova and parasite stool test labcorp",
+          "volume": 50,
+          "cpc": 1.32,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "blood in stool test kit",
+          "volume": 20,
+          "cpc": 1.15,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "doctor's data comprehensive stool analysis with parasitology x3",
+          "volume": 10,
+          "cpc": 0.8,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        }
+      ],
+      "maybe": [],
+      "skip": [],
+      "pursue_count": 9,
+      "maybe_count": 0,
+      "skip_count": 0,
+      "pursue_volume": 910,
+      "maybe_volume": 0,
+      "skip_volume": 0
+    },
+    {
+      "name": "Heart & Cholesterol",
+      "pursue": [
+        {
+          "keyword": "lipid profile test cost",
+          "volume": 100,
+          "cpc": 0.66,
+          "competitors": [
+            "Labcorp",
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "blood lipid test",
+          "volume": 50,
+          "cpc": 1.21,
+          "competitors": [
+            "Everlywell",
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "cholesterol test cost",
+          "volume": 30,
+          "cpc": 0.59,
+          "competitors": [
+            "Everlywell",
+            "Labcorp",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "cholesterol test without doctor order",
+          "volume": 10,
+          "cpc": 1.53,
+          "competitors": [
+            "Labcorp",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "nmr cholesterol test cost",
+          "volume": 10,
+          "cpc": 0,
+          "competitors": [
+            "Labcorp",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "cholesterol test near me",
+          "volume": 300,
+          "cpc": 1.38,
+          "competitors": [
+            "Everlywell",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "at home lipid panel",
+          "volume": 70,
+          "cpc": 0.8,
+          "competitors": [
+            "Everlywell",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "lipid test at home",
+          "volume": 20,
+          "cpc": 0.43,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "lipid profile near me",
+          "volume": 10,
+          "cpc": 1.57,
+          "competitors": [
+            "PrivateMD Labs",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "cheap cholesterol test",
+          "volume": 10,
+          "cpc": 1.38,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "what causes enlarged heart",
+          "volume": 1400,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what's the difference between a stroke and a heart attack",
+          "volume": 700,
+          "cpc": 0.02,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "cholesterol tests",
+          "volume": 500,
+          "cpc": 0.84,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "which is the good cholesterol hdl or ldl",
+          "volume": 400,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what does it mean if triglycerides are high",
+          "volume": 350,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what is high cholesterol caused by",
+          "volume": 350,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "cardiovascular screening",
+          "volume": 350,
+          "cpc": 1.91,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "chol/hdl ratio normal range",
+          "volume": 300,
+          "cpc": 0.14,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "check cholesterol at home",
+          "volume": 300,
+          "cpc": 0.3,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what does irregular heartbeat mean",
+          "volume": 300,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "lipid panel with reflex",
+          "volume": 300,
+          "cpc": 0.97,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "symptoms for high cholesterol",
+          "volume": 250,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what is the difference between acid reflux and heartburn",
+          "volume": 250,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "triglycerides elevated",
+          "volume": 250,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what can cause high triglycerides",
+          "volume": 250,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "difference between hdl and ldl",
+          "volume": 250,
+          "cpc": 0.05,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "heart disease names",
+          "volume": 200,
+          "cpc": 1.23,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what are the signs of high cholesterol",
+          "volume": 200,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what should a heart rate be",
+          "volume": 200,
+          "cpc": 0.05,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what to do if having a heart attack",
+          "volume": 200,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what to do in case of a heart attack",
+          "volume": 200,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "can you test cholesterol at home",
+          "volume": 200,
+          "cpc": 0.23,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "which one is good cholesterol",
+          "volume": 200,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "different types of cholesterol",
+          "volume": 200,
+          "cpc": 0.05,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to measure cholesterol at home",
+          "volume": 150,
+          "cpc": 0.34,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what foods are high in ldl cholesterol",
+          "volume": 150,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to check your cholesterol",
+          "volume": 150,
+          "cpc": 0.29,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "ldl particle size test",
+          "volume": 150,
+          "cpc": 1.02,
+          "competitors": [
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "which foods cause high cholesterol",
+          "volume": 100,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "lipid profile test at home",
+          "volume": 100,
+          "cpc": 0.8,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "lipid profile cost",
+          "volume": 90,
+          "cpc": 0.65,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what is ldl and hdl",
+          "volume": 80,
+          "cpc": 0.06,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "ldl-calculated",
+          "volume": 80,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "check triglycerides at home",
+          "volume": 70,
+          "cpc": 0.26,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "which is the bad cholesterol hdl or ldl",
+          "volume": 70,
+          "cpc": 0.1,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what makes your ldl high",
+          "volume": 70,
+          "cpc": 0.11,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "is there an at home cholesterol test",
+          "volume": 70,
+          "cpc": 0.36,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "heart skipping beats frequently",
+          "volume": 70,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what causes triglycerides to increase",
+          "volume": 60,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "otc cholesterol test",
+          "volume": 60,
+          "cpc": 0.37,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        }
+      ],
+      "maybe": [],
+      "skip": [],
+      "pursue_count": 76,
+      "maybe_count": 0,
+      "skip_count": 0,
+      "pursue_volume": 10830,
+      "maybe_volume": 0,
+      "skip_volume": 0
+    },
+    {
+      "name": "Hormone Testing",
+      "pursue": [
+        {
+          "keyword": "dhea sulfate test",
+          "volume": 400,
+          "cpc": 1.25,
+          "competitors": [
+            "Labcorp",
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 4
+        },
+        {
+          "keyword": "hormone panel test female",
+          "volume": 150,
+          "cpc": 1.31,
+          "competitors": [
+            "Everlywell",
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "checking cortisol levels",
+          "volume": 150,
+          "cpc": 0.62,
+          "competitors": [
+            "Everlywell",
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "what is included in a thyroid panel",
+          "volume": 50,
+          "cpc": 0,
+          "competitors": [
+            "Labcorp",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "full thyroid panel",
+          "volume": 1500,
+          "cpc": 0.94,
+          "competitors": [
+            "Everlywell",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "cortisol tests",
+          "volume": 200,
+          "cpc": 0.74,
+          "competitors": [
+            "Everlywell",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "full hormone panel female",
+          "volume": 200,
+          "cpc": 2.27,
+          "competitors": [
+            "Everlywell",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "at home thyroid test kit",
+          "volume": 150,
+          "cpc": 0.77,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "hormone panel for men",
+          "volume": 150,
+          "cpc": 2.28,
+          "competitors": [
+            "Everlywell",
+            "PrivateMD Labs"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "what is in a thyroid panel",
+          "volume": 70,
+          "cpc": 0.11,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "how do i know if i have hyperthyroidism",
+          "volume": 60,
+          "cpc": 0.11,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "hormone saliva test at home",
+          "volume": 60,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "thyroid test home",
+          "volume": 40,
+          "cpc": 0.0,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "how do i get my thyroid checked",
+          "volume": 40,
+          "cpc": 0.93,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "at home hypothyroidism test",
+          "volume": 30,
+          "cpc": 1.7,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "hormone tests at home",
+          "volume": 30,
+          "cpc": 0.0,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "lab test testosterone",
+          "volume": 30,
+          "cpc": 0.0,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "how to check hormone levels female",
+          "volume": 20,
+          "cpc": 1.37,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "lets get checked thyroid",
+          "volume": 10,
+          "cpc": 2.0,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "hormone test female",
+          "volume": 10,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "hyperthyroid test",
+          "volume": 10,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "complete hormone panel female",
+          "volume": 10,
+          "cpc": 1.24,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "how do i know if my cortisol levels are high",
+          "volume": 600,
+          "cpc": 0.05,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what raises cortisol levels",
+          "volume": 600,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "symptoms of hormone imbalance in women",
+          "volume": 450,
+          "cpc": 0.32,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "cortisol levels range",
+          "volume": 450,
+          "cpc": 0.05,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "female hormone panel",
+          "volume": 450,
+          "cpc": 1.04,
+          "competitors": [
+            "Function Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to test your cortisol levels",
+          "volume": 400,
+          "cpc": 0.39,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what are normal testosterone levels for a man",
+          "volume": 400,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "causes of high testosterone in women",
+          "volume": 400,
+          "cpc": 1.83,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "best at home testosterone test",
+          "volume": 400,
+          "cpc": 6.36,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what should a man's testosterone level be",
+          "volume": 350,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "thyroid dysfunction symptoms",
+          "volume": 350,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to check your thyroid",
+          "volume": 350,
+          "cpc": 0.07,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what is high cortisol level",
+          "volume": 300,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "symptoms of hyperthyroid",
+          "volume": 300,
+          "cpc": 0.09,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what are normal testosterone levels for women",
+          "volume": 300,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how long does it take testosterone to work",
+          "volume": 300,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "thyroid symptoms test",
+          "volume": 300,
+          "cpc": 0.31,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to measure cortisol levels at home",
+          "volume": 300,
+          "cpc": 0.45,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "effects of hypothyroidism",
+          "volume": 300,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "tsh normal range for female by age",
+          "volume": 250,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "saliva test for hormones",
+          "volume": 250,
+          "cpc": 1.08,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "symptoms of elevated cortisol",
+          "volume": 250,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what is a normal testosterone level for a man",
+          "volume": 250,
+          "cpc": 0.06,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "hyper thyroid symptoms in female",
+          "volume": 250,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "fertility hormone test",
+          "volume": 250,
+          "cpc": 2.12,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "cortisol levels high symptoms",
+          "volume": 250,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "hormone tests for women",
+          "volume": 250,
+          "cpc": 1.54,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to check your hormone levels",
+          "volume": 250,
+          "cpc": 0.58,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        }
+      ],
+      "maybe": [],
+      "skip": [],
+      "pursue_count": 195,
+      "maybe_count": 0,
+      "skip_count": 0,
+      "pursue_volume": 22420,
+      "maybe_volume": 0,
+      "skip_volume": 0
+    },
+    {
+      "name": "Inflammation",
+      "pursue": [
+        {
+          "keyword": "hscrp test",
+          "volume": 800,
+          "cpc": 0.07,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "autoimmune labs",
+          "volume": 400,
+          "cpc": 1.68,
+          "competitors": [
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "high inflammatory foods",
+          "volume": 1000,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "test for inflammation",
+          "volume": 450,
+          "cpc": 0.9,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "test for autoimmune disease",
+          "volume": 300,
+          "cpc": 1.1,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "inflammatory carcinoma",
+          "volume": 250,
+          "cpc": 1.66,
+          "competitors": [
+            "Exact Sciences"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "tests for autoimmune disease",
+          "volume": 250,
+          "cpc": 1.09,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "worst inflammatory foods",
+          "volume": 200,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "tests for inflammation",
+          "volume": 200,
+          "cpc": 0.65,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how do i know if i have inflammation",
+          "volume": 200,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "pro inflammatory foods",
+          "volume": 200,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "inflammation marker test",
+          "volume": 100,
+          "cpc": 0.66,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what are signs of inflammation in the body",
+          "volume": 80,
+          "cpc": 0.05,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "worst food for inflammation",
+          "volume": 80,
+          "cpc": 0.05,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how do i get inflammation out of my body",
+          "volume": 70,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to know if you have chronic inflammation",
+          "volume": 70,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "blood work for autoimmune",
+          "volume": 70,
+          "cpc": 1.24,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "at home autoimmune test",
+          "volume": 50,
+          "cpc": 1.31,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "bad foods for inflammation",
+          "volume": 30,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "can you test for autoimmune diseases",
+          "volume": 30,
+          "cpc": 0,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "is chicken bad for inflammation",
+          "volume": 20,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what foods cause inflammation and bloating",
+          "volume": 10,
+          "cpc": 0.06,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "autoimmune tests at home",
+          "volume": 10,
+          "cpc": 0.83,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what type of foods cause inflammation",
+          "volume": 10,
+          "cpc": 0.06,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "anti inflammatory diet dr hyman",
+          "volume": 10,
+          "cpc": 0.57,
+          "competitors": [
+            "Function Health"
+          ],
+          "competitor_count": 1
+        }
+      ],
+      "maybe": [],
+      "skip": [],
+      "pursue_count": 25,
+      "maybe_count": 0,
+      "skip_count": 0,
+      "pursue_volume": 4890,
+      "maybe_volume": 0,
+      "skip_volume": 0
+    },
+    {
+      "name": "Kidney & Liver",
+      "pursue": [
+        {
+          "keyword": "bun test near me",
+          "volume": 150,
+          "cpc": 1.31,
+          "competitors": [
+            "PrivateMD Labs",
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "liver test near me",
+          "volume": 70,
+          "cpc": 1.5,
+          "competitors": [
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "test for fatty liver disease",
+          "volume": 40,
+          "cpc": 0.93,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "how to check your liver health",
+          "volume": 30,
+          "cpc": 0.43,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "adrenal fatigue tests",
+          "volume": 20,
+          "cpc": 0.0,
+          "competitors": [
+            "Everlywell",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "bloodwork for kidneys",
+          "volume": 20,
+          "cpc": 0.59,
+          "competitors": [
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "blood work for kidney",
+          "volume": 10,
+          "cpc": 0,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "liver panel",
+          "volume": 1700,
+          "cpc": 0.48,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how do you know if you have a kidney infection",
+          "volume": 1300,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "kidney tests",
+          "volume": 1100,
+          "cpc": 0.69,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "liver scan",
+          "volume": 1100,
+          "cpc": 1.12,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "alt liver test",
+          "volume": 500,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "kidney vs bladder infection",
+          "volume": 200,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "test for fatty liver",
+          "volume": 200,
+          "cpc": 0.9,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "liver panel blood work",
+          "volume": 150,
+          "cpc": 0.85,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "liver screening test",
+          "volume": 150,
+          "cpc": 1.04,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "home liver enzyme test",
+          "volume": 100,
+          "cpc": 0.51,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "kidney health evaluation",
+          "volume": 70,
+          "cpc": 0.92,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "blood liver test",
+          "volume": 60,
+          "cpc": 0.38,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "kidney home test",
+          "volume": 50,
+          "cpc": 0,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "fatty liver lab tests",
+          "volume": 20,
+          "cpc": 0.79,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "adrenal lab tests",
+          "volume": 20,
+          "cpc": 0,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "liver panel lab",
+          "volume": 10,
+          "cpc": 0,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        }
+      ],
+      "maybe": [],
+      "skip": [],
+      "pursue_count": 23,
+      "maybe_count": 0,
+      "skip_count": 0,
+      "pursue_volume": 7070,
+      "maybe_volume": 0,
+      "skip_volume": 0
+    },
+    {
+      "name": "Lab Locations",
+      "pursue": [],
+      "maybe": [],
+      "skip": [
+        {
+          "keyword": "varicella titer test near me",
+          "volume": 150,
+          "cpc": 1.26,
+          "competitors": [
+            "Labcorp",
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 4
+        },
+        {
+          "keyword": "walk in lab work near me",
+          "volume": 70,
+          "cpc": 1.8,
+          "competitors": [
+            "Labcorp",
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "chicken pox titer test near me",
+          "volume": 60,
+          "cpc": 1.97,
+          "competitors": [
+            "Labcorp",
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "health lab near me",
+          "volume": 30,
+          "cpc": 1.95,
+          "competitors": [
+            "Labcorp",
+            "PrivateMD Labs",
+            "Quest Health"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "sickle cell anemia test near me",
+          "volume": 30,
+          "cpc": 1.59,
+          "competitors": [
+            "Labcorp",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "labtest near me",
+          "volume": 20,
+          "cpc": 1.78,
+          "competitors": [
+            "Labcorp",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "lupus test near me",
+          "volume": 20,
+          "cpc": 1.22,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "immunization test near me",
+          "volume": 10,
+          "cpc": 1.19,
+          "competitors": [
+            "Labcorp",
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "varicella antibody test near me",
+          "volume": 10,
+          "cpc": 2.18,
+          "competitors": [
+            "Labcorp",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "where can i get a tb test near me",
+          "volume": 600,
+          "cpc": 1.12,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "quantiferon gold test near me",
+          "volume": 350,
+          "cpc": 1.59,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "any labs near me",
+          "volume": 200,
+          "cpc": 1.3,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "free titer test near me",
+          "volume": 200,
+          "cpc": 1.0,
+          "competitors": [
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "clinical labs near me",
+          "volume": 150,
+          "cpc": 1.23,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "low cost blood work near me",
+          "volume": 100,
+          "cpc": 1.2,
+          "competitors": [
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "mmr test near me",
+          "volume": 90,
+          "cpc": 1.93,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "affordable labs near me",
+          "volume": 70,
+          "cpc": 1.2,
+          "competitors": [
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "breath test for h pylori near me",
+          "volume": 60,
+          "cpc": 1.0,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "lab offices near me",
+          "volume": 50,
+          "cpc": 0,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "24 hour labs near me",
+          "volume": 40,
+          "cpc": 1.23,
+          "competitors": [
+            "Labcorp",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "check sperm count near me",
+          "volume": 30,
+          "cpc": 0,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "independent blood labs near me",
+          "volume": 30,
+          "cpc": 1.09,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "hep b surface antibody test near me",
+          "volume": 30,
+          "cpc": 1.53,
+          "competitors": [
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "walk in laboratory near me",
+          "volume": 30,
+          "cpc": 1.36,
+          "competitors": [
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "labor corp near me",
+          "volume": 20,
+          "cpc": 0.18,
+          "competitors": [
+            "Labcorp",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "independent laboratory near me",
+          "volume": 20,
+          "cpc": 0.0,
+          "competitors": [
+            "Labcorp",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "cheap blood work labs near me",
+          "volume": 20,
+          "cpc": 0.99,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "walk in lab tests near me",
+          "volume": 20,
+          "cpc": 0.94,
+          "competitors": [
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "immunization titers near me",
+          "volume": 20,
+          "cpc": 0,
+          "competitors": [
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "next day pcr test near me",
+          "volume": 10,
+          "cpc": 1.39,
+          "competitors": [
+            "PrivateMD Labs",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "blood work labs near me",
+          "volume": 3300,
+          "cpc": 1.11,
+          "competitors": [
+            "Function Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "anytime lab near me",
+          "volume": 450,
+          "cpc": 1.16,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "food allergist near me",
+          "volume": 400,
+          "cpc": 3.34,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "quantiferon test near me",
+          "volume": 300,
+          "cpc": 1.84,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "urinalysis near me",
+          "volume": 300,
+          "cpc": 1.52,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "where to get lab work done near me",
+          "volume": 250,
+          "cpc": 1.03,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "tb clinic near me",
+          "volume": 200,
+          "cpc": 1.24,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "any test now near me",
+          "volume": 200,
+          "cpc": 1.39,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "tb gold test near me",
+          "volume": 200,
+          "cpc": 1.78,
+          "competitors": [
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "antibody test near me",
+          "volume": 200,
+          "cpc": 0,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "cheap blood work near me",
+          "volume": 200,
+          "cpc": 1.92,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "body analysis near me",
+          "volume": 100,
+          "cpc": 1.74,
+          "competitors": [
+            "Function Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "lab now near me",
+          "volume": 100,
+          "cpc": 1.8,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "men's health center near me",
+          "volume": 100,
+          "cpc": 4.08,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "where can i get a pcr test near me",
+          "volume": 90,
+          "cpc": 0.91,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "blood laboratory test near me",
+          "volume": 90,
+          "cpc": 1.38,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "hepatitis b test near me",
+          "volume": 90,
+          "cpc": 1.83,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "laboratory blood work near me",
+          "volume": 60,
+          "cpc": 1.28,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "quantiferon near me",
+          "volume": 60,
+          "cpc": 2.5,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "walkin lab near me",
+          "volume": 60,
+          "cpc": 0,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        }
+      ],
+      "pursue_count": 0,
+      "maybe_count": 0,
+      "skip_count": 70,
+      "pursue_volume": 0,
+      "maybe_volume": 0,
+      "skip_volume": 9790
+    },
+    {
+      "name": "Metabolic / Diabetes",
+      "pursue": [
+        {
+          "keyword": "a1c test near me",
+          "volume": 900,
+          "cpc": 1.08,
+          "competitors": [
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "good a1c number",
+          "volume": 250,
+          "cpc": 0.06,
+          "competitors": [
+            "Everlywell",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "complete metabolic panel test",
+          "volume": 200,
+          "cpc": 0.5,
+          "competitors": [
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "what is a notmal a1c",
+          "volume": 60,
+          "cpc": 0.73,
+          "competitors": [
+            "Everlywell",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "how often should you check your a1c",
+          "volume": 50,
+          "cpc": 1.99,
+          "competitors": [
+            "Everlywell",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "what is included in comprehensive metabolic panel",
+          "volume": 30,
+          "cpc": 0.05,
+          "competitors": [
+            "Everlywell",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "how much does a metabolic panel cost",
+          "volume": 30,
+          "cpc": 0.62,
+          "competitors": [
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "what isa1c",
+          "volume": 10,
+          "cpc": 0.1,
+          "competitors": [
+            "Everlywell",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "metabolic blood work",
+          "volume": 10,
+          "cpc": 0.89,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "a1c 6",
+          "volume": 1700,
+          "cpc": 0.77,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "metabolic syndrome meaning",
+          "volume": 500,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "metabolic test",
+          "volume": 450,
+          "cpc": 1.07,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "is 6.1 a good a1c",
+          "volume": 350,
+          "cpc": 0,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "early sign of diabetes",
+          "volume": 300,
+          "cpc": 0.07,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what are a1c levels",
+          "volume": 300,
+          "cpc": 0.08,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what's a good a1c level",
+          "volume": 250,
+          "cpc": 0.05,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what is ideal a1c",
+          "volume": 200,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what is the normal a1c range",
+          "volume": 200,
+          "cpc": 0.05,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "metabolic problems",
+          "volume": 200,
+          "cpc": 0.09,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "comprehensive metabolic panel cost",
+          "volume": 200,
+          "cpc": 0.75,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "normal a1c for seniors",
+          "volume": 200,
+          "cpc": 0.07,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "complete metabolic panel includes",
+          "volume": 150,
+          "cpc": 0.07,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "comprehensive metabolic",
+          "volume": 150,
+          "cpc": 0.81,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "comp metabolic panel test",
+          "volume": 150,
+          "cpc": 0.5,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what is a high a1c number",
+          "volume": 150,
+          "cpc": 1.22,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what is a good a1c?",
+          "volume": 100,
+          "cpc": 0,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what is in a basic metabolic panel",
+          "volume": 100,
+          "cpc": 0.19,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "hba1c test price near me",
+          "volume": 90,
+          "cpc": 1.16,
+          "competitors": [
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "good range for a1c",
+          "volume": 70,
+          "cpc": 0.7,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what is the hemoglobin a1c test",
+          "volume": 70,
+          "cpc": 0,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "side effects of high glucose",
+          "volume": 60,
+          "cpc": 0.06,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "home tests for diabetes",
+          "volume": 50,
+          "cpc": 0.0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "a1c test strips",
+          "volume": 50,
+          "cpc": 0.29,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what a normal a1c level",
+          "volume": 40,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "test diabetes at home",
+          "volume": 40,
+          "cpc": 0.0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "labs for metabolic syndrome",
+          "volume": 40,
+          "cpc": 0.84,
+          "competitors": [
+            "Function Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "where can i get a1c test",
+          "volume": 40,
+          "cpc": 0.65,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "comprehensive metabolic panel test cost",
+          "volume": 40,
+          "cpc": 0.75,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "a1c1 test",
+          "volume": 30,
+          "cpc": 1.02,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what's included in a comprehensive metabolic panel",
+          "volume": 20,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to get an a1c test",
+          "volume": 20,
+          "cpc": 0.46,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "diabetes expert",
+          "volume": 20,
+          "cpc": 1.38,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what is considered high a1c levels",
+          "volume": 10,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what does a1c 5.7 mean",
+          "volume": 10,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "test for a1c at home",
+          "volume": 10,
+          "cpc": 0.53,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what does it mean when a1c is high",
+          "volume": 10,
+          "cpc": 2.0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how do you feel when your a1c is high",
+          "volume": 10,
+          "cpc": 0.12,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to check your a1c level",
+          "volume": 10,
+          "cpc": 0.51,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "quest hemoglobin a1c",
+          "volume": 10,
+          "cpc": 1.9,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "basic metabolic panel quest",
+          "volume": 10,
+          "cpc": 2.1,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        }
+      ],
+      "maybe": [],
+      "skip": [],
+      "pursue_count": 53,
+      "maybe_count": 0,
+      "skip_count": 0,
+      "pursue_volume": 7980,
+      "maybe_volume": 0,
+      "skip_volume": 0
+    },
+    {
+      "name": "Other Health Tests",
+      "pursue": [
+        {
+          "keyword": "lab tests online",
+          "volume": 600,
+          "cpc": 2.27,
+          "competitors": [
+            "PrivateMD Labs",
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 4
+        },
+        {
+          "keyword": "ultra lab tests",
+          "volume": 50,
+          "cpc": 1.79,
+          "competitors": [
+            "PrivateMD Labs",
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 4
+        },
+        {
+          "keyword": "blood work tests",
+          "volume": 200,
+          "cpc": 1.89,
+          "competitors": [
+            "Everlywell",
+            "Quest Health",
+            "Rythm Health"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "order labs",
+          "volume": 100,
+          "cpc": 4.27,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "hemocrit test",
+          "volume": 80,
+          "cpc": 0.36,
+          "competitors": [
+            "Labcorp",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "online mens health test",
+          "volume": 30,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell",
+            "Labcorp",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "hepatitis b quantitative titer",
+          "volume": 30,
+          "cpc": 1.94,
+          "competitors": [
+            "Labcorp",
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "best online lab tests",
+          "volume": 30,
+          "cpc": 3.36,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "lab test order",
+          "volume": 20,
+          "cpc": 3.35,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "private labs md",
+          "volume": 10,
+          "cpc": 0.0,
+          "competitors": [
+            "PrivateMD Labs",
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "alta lab test",
+          "volume": 10,
+          "cpc": 1.83,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "requestatest",
+          "volume": 900,
+          "cpc": 1.37,
+          "competitors": [
+            "Labcorp",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "ca 19-9 test",
+          "volume": 450,
+          "cpc": 1.59,
+          "competitors": [
+            "Exact Sciences",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "where can i get a titer test done",
+          "volume": 450,
+          "cpc": 1.23,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "how much does blood work cost without insurance",
+          "volume": 450,
+          "cpc": 0.65,
+          "competitors": [
+            "Labcorp",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "lp a test",
+          "volume": 450,
+          "cpc": 0.46,
+          "competitors": [
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "hepatitis b titer",
+          "volume": 400,
+          "cpc": 1.4,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "blood work test",
+          "volume": 350,
+          "cpc": 1.89,
+          "competitors": [
+            "Quest Health",
+            "Rythm Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "egg reserve test",
+          "volume": 300,
+          "cpc": 2.0,
+          "competitors": [
+            "Everlywell",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "ovarian reserve test",
+          "volume": 300,
+          "cpc": 1.65,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "igg lab test",
+          "volume": 250,
+          "cpc": 2.51,
+          "competitors": [
+            "Labcorp",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "analisis de sangre cerca de mi",
+          "volume": 250,
+          "cpc": 0.76,
+          "competitors": [
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "blood tb test",
+          "volume": 250,
+          "cpc": 1.34,
+          "competitors": [
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "ca 125 test price",
+          "volume": 200,
+          "cpc": 0.8,
+          "competitors": [
+            "Everlywell",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "rabies titer test human",
+          "volume": 200,
+          "cpc": 0.98,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "tdap titer",
+          "volume": 200,
+          "cpc": 1.37,
+          "competitors": [
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "d dimer lab test",
+          "volume": 200,
+          "cpc": 0.65,
+          "competitors": [
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "requestatest.com",
+          "volume": 150,
+          "cpc": 1.74,
+          "competitors": [
+            "Labcorp",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "how much is a hair follicle test at labcorp",
+          "volume": 150,
+          "cpc": 0.71,
+          "competitors": [
+            "Labcorp",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "blood check",
+          "volume": 150,
+          "cpc": 1.66,
+          "competitors": [
+            "Rythm Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "how to get tested for hashimoto's",
+          "volume": 100,
+          "cpc": 1.14,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "sperm quality test",
+          "volume": 100,
+          "cpc": 1.75,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "mobile blood work",
+          "volume": 90,
+          "cpc": 1.02,
+          "competitors": [
+            "Everlywell",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "where to get a hep b titer",
+          "volume": 80,
+          "cpc": 1.54,
+          "competitors": [
+            "Labcorp",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "how to know if you have a yeast infection or bv",
+          "volume": 60,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "antibody test cost",
+          "volume": 60,
+          "cpc": 0,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "cheap blood work",
+          "volume": 60,
+          "cpc": 1.28,
+          "competitors": [
+            "PrivateMD Labs",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "everywell reviews",
+          "volume": 50,
+          "cpc": 0.65,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "ca-125 test",
+          "volume": 50,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell",
+            "Exact Sciences"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "blood draw for tb test",
+          "volume": 50,
+          "cpc": 1.38,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "lyme disease self test",
+          "volume": 40,
+          "cpc": 0.69,
+          "competitors": [
+            "Everlywell",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "galleri test kit",
+          "volume": 40,
+          "cpc": 1.98,
+          "competitors": [
+            "Everlywell",
+            "Galleri"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "food panel test",
+          "volume": 40,
+          "cpc": 1.43,
+          "competitors": [
+            "Everlywell",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "full blood work",
+          "volume": 40,
+          "cpc": 1.65,
+          "competitors": [
+            "Quest Health",
+            "Rythm Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "getting bloodwork done",
+          "volume": 40,
+          "cpc": 1.72,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "bloodwork for menopause",
+          "volume": 30,
+          "cpc": 0.61,
+          "competitors": [
+            "Labcorp",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "complete blood work cost",
+          "volume": 30,
+          "cpc": 1.03,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "how much for blood work without insurance",
+          "volume": 30,
+          "cpc": 0.91,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "bnp test cost",
+          "volume": 30,
+          "cpc": 0,
+          "competitors": [
+            "Labcorp",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "blood work for athletes",
+          "volume": 30,
+          "cpc": 1.07,
+          "competitors": [
+            "PrivateMD Labs",
+            "Rythm Health"
+          ],
+          "competitor_count": 2
+        }
+      ],
+      "maybe": [],
+      "skip": [],
+      "pursue_count": 736,
+      "maybe_count": 0,
+      "skip_count": 0,
+      "pursue_volume": 112200,
+      "maybe_volume": 0,
+      "skip_volume": 0
+    },
+    {
+      "name": "Pregnancy & Fertility",
+      "pursue": [],
+      "maybe": [],
+      "skip": [
+        {
+          "keyword": "women fertility test",
+          "volume": 350,
+          "cpc": 1.45,
+          "competitors": [
+            "Everlywell",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "fertility tests",
+          "volume": 900,
+          "cpc": 1.42,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "infertility signs",
+          "volume": 350,
+          "cpc": 0.99,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "labcorp pregnancy test",
+          "volume": 200,
+          "cpc": 1.7,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "amh test near me",
+          "volume": 200,
+          "cpc": 2.34,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "male fertility tests",
+          "volume": 150,
+          "cpc": 1.79,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "can a 48 year old woman get pregnant",
+          "volume": 100,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "home male fertility test",
+          "volume": 100,
+          "cpc": 1.68,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "cost of amh test",
+          "volume": 70,
+          "cpc": 0,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "amh for fertility",
+          "volume": 50,
+          "cpc": 0.44,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "men's fertility test at home",
+          "volume": 40,
+          "cpc": 1.76,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "spermcheck fertility test",
+          "volume": 40,
+          "cpc": 0.76,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how do i track ovulation",
+          "volume": 20,
+          "cpc": 0,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "test for male fertility",
+          "volume": 20,
+          "cpc": 0,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "pre pregnancy planning for male",
+          "volume": 20,
+          "cpc": 0.62,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "everlywell vs modern fertility",
+          "volume": 10,
+          "cpc": 1.5,
+          "competitors": [
+            "Function Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "blood pregnancy test clinic",
+          "volume": 10,
+          "cpc": 0,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        }
+      ],
+      "pursue_count": 0,
+      "maybe_count": 0,
+      "skip_count": 17,
+      "pursue_volume": 0,
+      "maybe_volume": 0,
+      "skip_volume": 2630
+    },
+    {
+      "name": "STD/STI Testing",
+      "pursue": [],
+      "maybe": [],
+      "skip": [
+        {
+          "keyword": "titer testing near me",
+          "volume": 200,
+          "cpc": 1.3,
+          "competitors": [
+            "Labcorp",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "testing blood for cancer",
+          "volume": 100,
+          "cpc": 1.51,
+          "competitors": [
+            "Exact Sciences",
+            "Galleri",
+            "Labcorp"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "lupus testing near me",
+          "volume": 100,
+          "cpc": 1.13,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "testing for lupus",
+          "volume": 1100,
+          "cpc": 0.21,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "ana testing",
+          "volume": 400,
+          "cpc": 1.25,
+          "competitors": [
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "std testing walgreens",
+          "volume": 250,
+          "cpc": 1.13,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "cancer testing near me",
+          "volume": 250,
+          "cpc": 1.91,
+          "competitors": [
+            "Everlywell",
+            "Galleri"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "cholesterol testing near me",
+          "volume": 200,
+          "cpc": 1.37,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "sjogren's syndrome testing",
+          "volume": 200,
+          "cpc": 0.0,
+          "competitors": [
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "medical testing at home",
+          "volume": 100,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "medical testing labs",
+          "volume": 100,
+          "cpc": 0.8,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "hepatitis b testing near me",
+          "volume": 70,
+          "cpc": 1.85,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "hormone testing perimenopause",
+          "volume": 50,
+          "cpc": 2.28,
+          "competitors": [
+            "Everlywell",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "direct access lab testing",
+          "volume": 40,
+          "cpc": 1.0,
+          "competitors": [
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "testing hormones",
+          "volume": 30,
+          "cpc": 0.0,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "colon cancer testing kit",
+          "volume": 30,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "direct access lab testing near me",
+          "volume": 30,
+          "cpc": 0.97,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "advanced lipid testing cost",
+          "volume": 30,
+          "cpc": 0.47,
+          "competitors": [
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "food panel testing",
+          "volume": 10,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "hpv test for women",
+          "volume": 1900,
+          "cpc": 1.1,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "signs of herpes in men",
+          "volume": 1500,
+          "cpc": 0.46,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "lupus testing",
+          "volume": 1400,
+          "cpc": 0.76,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "fast std testing near me",
+          "volume": 1200,
+          "cpc": 2.54,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "is constipation a sign of colon cancer",
+          "volume": 1000,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "instant std test",
+          "volume": 1000,
+          "cpc": 1.24,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "genital herpes test",
+          "volume": 1000,
+          "cpc": 1.19,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "full std panel",
+          "volume": 1000,
+          "cpc": 2.39,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "home sti test",
+          "volume": 600,
+          "cpc": 4.63,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "cancer testing",
+          "volume": 500,
+          "cpc": 1.01,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "signs of an std female",
+          "volume": 500,
+          "cpc": 0.07,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "std testing cvs",
+          "volume": 500,
+          "cpc": 1.07,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "std testing online",
+          "volume": 450,
+          "cpc": 2.84,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how long does hpv take to show up in males",
+          "volume": 450,
+          "cpc": 0.9,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to test for std",
+          "volume": 450,
+          "cpc": 1.11,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "std test online",
+          "volume": 450,
+          "cpc": 3.22,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "std test price",
+          "volume": 450,
+          "cpc": 1.31,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "quick std testing near me",
+          "volume": 400,
+          "cpc": 2.54,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "my testicles feel sore",
+          "volume": 400,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "male std symptoms",
+          "volume": 400,
+          "cpc": 0.34,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "rapid sti testing",
+          "volume": 400,
+          "cpc": 1.48,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how contagious is chlamydia",
+          "volume": 400,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "nyc std testing",
+          "volume": 400,
+          "cpc": 3.21,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "fast std testing",
+          "volume": 400,
+          "cpc": 2.5,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "urine std test",
+          "volume": 400,
+          "cpc": 1.85,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "testing for hiv",
+          "volume": 400,
+          "cpc": 0.0,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "are there at home std tests",
+          "volume": 400,
+          "cpc": 1.07,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "titer testing",
+          "volume": 400,
+          "cpc": 1.22,
+          "competitors": [
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "apoe testing",
+          "volume": 400,
+          "cpc": 0.81,
+          "competitors": [
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "mycoplasma genitalium testing",
+          "volume": 400,
+          "cpc": 2.7,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "hormone testing for women near me",
+          "volume": 350,
+          "cpc": 2.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        }
+      ],
+      "pursue_count": 0,
+      "maybe_count": 0,
+      "skip_count": 329,
+      "pursue_volume": 0,
+      "maybe_volume": 0,
+      "skip_volume": 46840
+    },
+    {
+      "name": "Vitamins & Nutrients",
+      "pursue": [
+        {
+          "keyword": "iron tibc and ferritin panel",
+          "volume": 600,
+          "cpc": 1.38,
+          "competitors": [
+            "Quest Health",
+            "Ulta Lab Tests",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "vitamins test",
+          "volume": 100,
+          "cpc": 0.68,
+          "competitors": [
+            "Labcorp",
+            "Quest Health",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 3
+        },
+        {
+          "keyword": "vitamin d deficiency test",
+          "volume": 1300,
+          "cpc": 0.44,
+          "competitors": [
+            "Everlywell",
+            "Walk-In Lab"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "how to check iron levels",
+          "volume": 400,
+          "cpc": 0.27,
+          "competitors": [
+            "Everlywell",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "home vitamin d test",
+          "volume": 150,
+          "cpc": 0.5,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "micro nutrient test",
+          "volume": 70,
+          "cpc": 1.92,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "blood work for vitamin levels",
+          "volume": 50,
+          "cpc": 0.68,
+          "competitors": [
+            "Function Health",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "at home test for vitamin deficiency",
+          "volume": 30,
+          "cpc": 0.4,
+          "competitors": [
+            "Labcorp",
+            "TruDiagnostic"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "test vitamin levels",
+          "volume": 30,
+          "cpc": 0.46,
+          "competitors": [
+            "Labcorp",
+            "Quest Health"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "at home vitamin and mineral test",
+          "volume": 30,
+          "cpc": 0.76,
+          "competitors": [
+            "Labcorp",
+            "TruDiagnostic"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "everlywell vitamin test",
+          "volume": 10,
+          "cpc": 0.7,
+          "competitors": [
+            "Everlywell",
+            "Labcorp"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "how can i check my magnesium levels",
+          "volume": 10,
+          "cpc": 0.12,
+          "competitors": [
+            "Labcorp",
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 2
+        },
+        {
+          "keyword": "what does vitamin b6 do for the body",
+          "volume": 450,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "at home vitamin deficiency test",
+          "volume": 450,
+          "cpc": 0.48,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "vitamin d levels for women",
+          "volume": 400,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "nutrient deficiency test",
+          "volume": 400,
+          "cpc": 1.11,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what foods contain vitamin b6",
+          "volume": 350,
+          "cpc": 0.01,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "test for vitamin deficiency",
+          "volume": 350,
+          "cpc": 0.61,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "environmental allergy test",
+          "volume": 350,
+          "cpc": 1.3,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to test for vitamin deficiency",
+          "volume": 300,
+          "cpc": 0.33,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "vitamin d versus vitamin d3",
+          "volume": 250,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "symptoms iron deficiency",
+          "volume": 250,
+          "cpc": 0.02,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "foods that contain vitamin b6",
+          "volume": 250,
+          "cpc": 0.01,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "magnesium rbc test",
+          "volume": 250,
+          "cpc": 0.83,
+          "competitors": [
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "side effects of taking vitamin d",
+          "volume": 200,
+          "cpc": 0.02,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how do you know if you have an iron deficiency",
+          "volume": 200,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "magnesium deficiency test",
+          "volume": 200,
+          "cpc": 0.35,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "b12 deficiency test",
+          "volume": 200,
+          "cpc": 0.44,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to test vitamin d levels",
+          "volume": 200,
+          "cpc": 0.43,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "low vitamin b6",
+          "volume": 150,
+          "cpc": 0.03,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "vitamin d home test kit",
+          "volume": 150,
+          "cpc": 0.5,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "vitamin d level test",
+          "volume": 150,
+          "cpc": 0.54,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "vitamin profile test",
+          "volume": 150,
+          "cpc": 0.75,
+          "competitors": [
+            "Walk-In Lab"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "iron test near me",
+          "volume": 100,
+          "cpc": 1.04,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "at home vitamin test",
+          "volume": 100,
+          "cpc": 0.63,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to get rid of iron deficiency",
+          "volume": 90,
+          "cpc": 0.04,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "what causes an iron deficiency",
+          "volume": 60,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "side effects of taking vitamin d3",
+          "volume": 60,
+          "cpc": 0.06,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "b12 and folate test",
+          "volume": 60,
+          "cpc": 0.59,
+          "competitors": [
+            "Ulta Lab Tests"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "different between vitamin d and d3",
+          "volume": 40,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "labs for vitamin deficiency",
+          "volume": 40,
+          "cpc": 0.69,
+          "competitors": [
+            "Function Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "lab test for vitamin deficiency",
+          "volume": 40,
+          "cpc": 0.61,
+          "competitors": [
+            "Quest Health"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "symptoms of taking too much vitamin d",
+          "volume": 30,
+          "cpc": 0.05,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "vitamine d vs d3",
+          "volume": 30,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "check vitamin levels",
+          "volume": 30,
+          "cpc": 0.0,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to find out what vitamins i need",
+          "volume": 30,
+          "cpc": 0.69,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "how to know if vitamins are good quality",
+          "volume": 30,
+          "cpc": 0.39,
+          "competitors": [
+            "Labcorp"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "online vitamin deficiency test",
+          "volume": 30,
+          "cpc": 0.71,
+          "competitors": [
+            "TruDiagnostic"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "best vitamin d test kit",
+          "volume": 20,
+          "cpc": 1.19,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        },
+        {
+          "keyword": "can lack of vitamin d cause fatigue",
+          "volume": 20,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1
+        }
+      ],
+      "maybe": [],
+      "skip": [],
+      "pursue_count": 56,
+      "maybe_count": 0,
+      "skip_count": 0,
+      "pursue_volume": 9320,
+      "maybe_volume": 0,
+      "skip_volume": 0
+    }
+  ],
+  "high_overlap": [
+    {
+      "keyword": "full panel thyroid blood test",
+      "volume": 10,
+      "cpc": 1.19,
+      "competitors": [
+        "Everlywell",
+        "Labcorp",
+        "Quest Health",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 5,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "lab tests online",
+      "volume": 600,
+      "cpc": 2.27,
+      "competitors": [
+        "PrivateMD Labs",
+        "Quest Health",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 4,
+      "category": "Other Health Tests"
+    },
+    {
+      "keyword": "dhea sulfate test",
+      "volume": 400,
+      "cpc": 1.25,
+      "competitors": [
+        "Labcorp",
+        "Quest Health",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 4,
+      "category": "Hormone Testing"
+    },
+    {
+      "keyword": "quantiferon gold blood test near me",
+      "volume": 200,
+      "cpc": 2.0,
+      "competitors": [
+        "Labcorp",
+        "Quest Health",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 4,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "antibody blood test",
+      "volume": 200,
+      "cpc": 1.24,
+      "competitors": [
+        "Labcorp",
+        "Quest Health",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 4,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "ultra lab tests",
+      "volume": 50,
+      "cpc": 1.79,
+      "competitors": [
+        "PrivateMD Labs",
+        "Quest Health",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 4,
+      "category": "Other Health Tests"
+    },
+    {
+      "keyword": "iron tibc and ferritin panel",
+      "volume": 600,
+      "cpc": 1.38,
+      "competitors": [
+        "Quest Health",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Vitamins & Nutrients"
+    },
+    {
+      "keyword": "iron level blood test",
+      "volume": 450,
+      "cpc": 0.56,
+      "competitors": [
+        "Everlywell",
+        "Quest Health",
+        "Ulta Lab Tests"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "blood tests to detect cancer",
+      "volume": 300,
+      "cpc": 1.72,
+      "competitors": [
+        "Exact Sciences",
+        "Galleri",
+        "Labcorp"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "menopause blood test",
+      "volume": 300,
+      "cpc": 0.89,
+      "competitors": [
+        "Quest Health",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "electrolyte blood test",
+      "volume": 250,
+      "cpc": 0.38,
+      "competitors": [
+        "Quest Health",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "heavy metals blood test",
+      "volume": 250,
+      "cpc": 0.71,
+      "competitors": [
+        "Quest Health",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "blood tests for autoimmune diseases",
+      "volume": 250,
+      "cpc": 1.48,
+      "competitors": [
+        "Quest Health",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "blood work tests",
+      "volume": 200,
+      "cpc": 1.89,
+      "competitors": [
+        "Everlywell",
+        "Quest Health",
+        "Rythm Health"
+      ],
+      "competitor_count": 3,
+      "category": "Other Health Tests"
+    },
+    {
+      "keyword": "hepatitis blood test",
+      "volume": 200,
+      "cpc": 1.31,
+      "competitors": [
+        "Quest Health",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "blood test to diagnose cancer",
+      "volume": 150,
+      "cpc": 1.01,
+      "competitors": [
+        "Everlywell",
+        "Exact Sciences",
+        "Galleri"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "hormone panel test female",
+      "volume": 150,
+      "cpc": 1.31,
+      "competitors": [
+        "Everlywell",
+        "Labcorp",
+        "Quest Health"
+      ],
+      "competitor_count": 3,
+      "category": "Hormone Testing"
+    },
+    {
+      "keyword": "checking cortisol levels",
+      "volume": 150,
+      "cpc": 0.62,
+      "competitors": [
+        "Everlywell",
+        "Labcorp",
+        "Quest Health"
+      ],
+      "competitor_count": 3,
+      "category": "Hormone Testing"
+    },
+    {
+      "keyword": "at home cbc test",
+      "volume": 150,
+      "cpc": 0.96,
+      "competitors": [
+        "Labcorp",
+        "Quest Health",
+        "Rythm Health"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "mmr blood test",
+      "volume": 150,
+      "cpc": 1.23,
+      "competitors": [
+        "Labcorp",
+        "Quest Health",
+        "Ulta Lab Tests"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "bun test near me",
+      "volume": 150,
+      "cpc": 1.31,
+      "competitors": [
+        "PrivateMD Labs",
+        "Quest Health",
+        "Ulta Lab Tests"
+      ],
+      "competitor_count": 3,
+      "category": "Kidney & Liver"
+    },
+    {
+      "keyword": "blood testing lab",
+      "volume": 100,
+      "cpc": 1.16,
+      "competitors": [
+        "Labcorp",
+        "Quest Health",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "lipid profile test cost",
+      "volume": 100,
+      "cpc": 0.66,
+      "competitors": [
+        "Labcorp",
+        "Quest Health",
+        "Ulta Lab Tests"
+      ],
+      "competitor_count": 3,
+      "category": "Heart & Cholesterol"
+    },
+    {
+      "keyword": "vitamins test",
+      "volume": 100,
+      "cpc": 0.68,
+      "competitors": [
+        "Labcorp",
+        "Quest Health",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Vitamins & Nutrients"
+    },
+    {
+      "keyword": "order labs",
+      "volume": 100,
+      "cpc": 4.27,
+      "competitors": [
+        "Quest Health",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Other Health Tests"
+    },
+    {
+      "keyword": "hemocrit test",
+      "volume": 80,
+      "cpc": 0.36,
+      "competitors": [
+        "Labcorp",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Other Health Tests"
+    },
+    {
+      "keyword": "can i do blood test without a doctor prescription",
+      "volume": 60,
+      "cpc": 1.09,
+      "competitors": [
+        "Labcorp",
+        "Quest Health",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "blood test for 50 cancers",
+      "volume": 50,
+      "cpc": 0.71,
+      "competitors": [
+        "Everlywell",
+        "Exact Sciences",
+        "Galleri"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "blood lipid test",
+      "volume": 50,
+      "cpc": 1.21,
+      "competitors": [
+        "Everlywell",
+        "Labcorp",
+        "Quest Health"
+      ],
+      "competitor_count": 3,
+      "category": "Heart & Cholesterol"
+    },
+    {
+      "keyword": "what is included in a thyroid panel",
+      "volume": 50,
+      "cpc": 0,
+      "competitors": [
+        "Labcorp",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Hormone Testing"
+    },
+    {
+      "keyword": "cbc at home",
+      "volume": 50,
+      "cpc": 1.22,
+      "competitors": [
+        "Labcorp",
+        "Quest Health",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "order blood tests",
+      "volume": 50,
+      "cpc": 3.42,
+      "competitors": [
+        "Quest Health",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "blood test price without insurance",
+      "volume": 40,
+      "cpc": 0.78,
+      "competitors": [
+        "Labcorp",
+        "Quest Health",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "iron blood test near me",
+      "volume": 40,
+      "cpc": 1.03,
+      "competitors": [
+        "Labcorp",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "celiac blood test cost",
+      "volume": 30,
+      "cpc": 0.55,
+      "competitors": [
+        "Everlywell",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "blood test to find cancer",
+      "volume": 30,
+      "cpc": 1.05,
+      "competitors": [
+        "Everlywell",
+        "Galleri",
+        "Labcorp"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "online mens health test",
+      "volume": 30,
+      "cpc": 0,
+      "competitors": [
+        "Everlywell",
+        "Labcorp",
+        "Ulta Lab Tests"
+      ],
+      "competitor_count": 3,
+      "category": "Other Health Tests"
+    },
+    {
+      "keyword": "online stool test",
+      "volume": 30,
+      "cpc": 1.16,
+      "competitors": [
+        "Everlywell",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Gut Health"
+    },
+    {
+      "keyword": "cholesterol test cost",
+      "volume": 30,
+      "cpc": 0.59,
+      "competitors": [
+        "Everlywell",
+        "Labcorp",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Heart & Cholesterol"
+    },
+    {
+      "keyword": "hepatitis b quantitative titer",
+      "volume": 30,
+      "cpc": 1.94,
+      "competitors": [
+        "Labcorp",
+        "Quest Health",
+        "Ulta Lab Tests"
+      ],
+      "competitor_count": 3,
+      "category": "Other Health Tests"
+    },
+    {
+      "keyword": "best online lab tests",
+      "volume": 30,
+      "cpc": 3.36,
+      "competitors": [
+        "Quest Health",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Other Health Tests"
+    },
+    {
+      "keyword": "d dimer blood test near me",
+      "volume": 20,
+      "cpc": 1.1,
+      "competitors": [
+        "Labcorp",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "lab test order",
+      "volume": 20,
+      "cpc": 3.35,
+      "competitors": [
+        "Quest Health",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Other Health Tests"
+    },
+    {
+      "keyword": "what blood test is done for cancer",
+      "volume": 10,
+      "cpc": 1.14,
+      "competitors": [
+        "Everlywell",
+        "Galleri",
+        "Labcorp"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "hepatitis blood panel",
+      "volume": 10,
+      "cpc": 1.09,
+      "competitors": [
+        "Labcorp",
+        "Quest Health",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "cholesterol test without doctor order",
+      "volume": 10,
+      "cpc": 1.53,
+      "competitors": [
+        "Labcorp",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Heart & Cholesterol"
+    },
+    {
+      "keyword": "nmr cholesterol test cost",
+      "volume": 10,
+      "cpc": 0,
+      "competitors": [
+        "Labcorp",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Heart & Cholesterol"
+    },
+    {
+      "keyword": "private labs md",
+      "volume": 10,
+      "cpc": 0.0,
+      "competitors": [
+        "PrivateMD Labs",
+        "Quest Health",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Other Health Tests"
+    },
+    {
+      "keyword": "blood test in houston tx",
+      "volume": 10,
+      "cpc": 2.0,
+      "competitors": [
+        "Quest Health",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Blood Tests"
+    },
+    {
+      "keyword": "alta lab test",
+      "volume": 10,
+      "cpc": 1.83,
+      "competitors": [
+        "Quest Health",
+        "Ulta Lab Tests",
+        "Walk-In Lab"
+      ],
+      "competitor_count": 3,
+      "category": "Other Health Tests"
+    }
+  ]
+}

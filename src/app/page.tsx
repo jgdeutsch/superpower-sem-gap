@@ -3,173 +3,91 @@
 import { useState, useMemo } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Target, TrendingUp, XCircle, Users, FlaskConical } from 'lucide-react';
-import gapFitData from '../../data/gap_product_fit.json';
-import competitorOverlap from '../../data/competitor_overlap.json';
+import { Target, TrendingUp, XCircle, Users, FlaskConical, ChevronDown, ChevronRight } from 'lucide-react';
+import gapData from '../../data/competitor_gap_analysis.json';
 
-interface Opportunity {
-  category: string;
-  topic: string;
-  competitor: string;
-  keyword_count: number;
-  total_volume: number;
-  top_keywords: string[];
-  sample_kw: string;
-  reason: string;
-}
-
-interface GapFitData {
-  pursue: Opportunity[];
-  maybe: Opportunity[];
-  skip: Opportunity[];
-  competitor_brand: Opportunity[];
-}
-
-interface OverlapKeyword {
-  competitors: string[];
+interface Keyword {
+  keyword: string;
   volume: number;
   cpc: number;
+  competitors: string[];
+  competitor_count: number;
+  category?: string;
 }
 
-interface CompetitorOverlapData {
-  all_5_competitors: Record<string, OverlapKeyword>;
-  '3plus_competitors': Record<string, OverlapKeyword>;
+interface Category {
+  name: string;
+  pursue: Keyword[];
+  maybe: Keyword[];
+  skip: Keyword[];
+  pursue_count: number;
+  maybe_count: number;
+  skip_count: number;
+  pursue_volume: number;
+  maybe_volume: number;
+  skip_volume: number;
+}
+
+interface GapData {
+  competitors: Record<string, { total_keywords: number; total_volume: number; total_traffic: number }>;
   summary: {
     total_keywords: number;
-    keywords_3plus: number;
-    keywords_4plus: number;
-    keywords_all_5: number;
-  };
-}
-
-const data = gapFitData as GapFitData;
-const overlap = competitorOverlap as CompetitorOverlapData;
-
-// CVR benchmarks from Google Ads data
-const CVR_BY_CATEGORY: Record<string, number> = {
-  glucose: 7.69,
-  cortisol: 5.56,
-  cancer: 2.66,
-  competitor: 1.91,
-  blood_tests: 1.73,
-  hormones: 1.66,
-  metabolic: 1.54,
-  default: 1.43,
-  vitamins: 1.38,
-};
-
-// CAC (Cost per Acquisition) from Google Ads data
-const CAC_BY_CATEGORY: Record<string, number> = {
-  glucose: 87,
-  cortisol: 99,
-  cancer: 233,
-  competitor: 360,
-  blood_tests: 361,
-  hormones: 410,
-  metabolic: 352,
-  default: 441,
-  vitamins: 304,
-};
-
-// Monthly subscriptions from Google Ads data (Aug 23 - Sep 21, 2025)
-const SUBS_BY_CATEGORY: Record<string, number> = {
-  glucose: 1.0,
-  cortisol: 2.0,
-  cancer: 5.5,
-  competitor: 18.6,
-  blood_tests: 13.0,
-  hormones: 5.0,
-  metabolic: 1.0,
-  default: 77.2,  // total
-  vitamins: 3.6,
-};
-
-const CTR_ESTIMATE = 3.5; // 3.5% CTR assumption
-
-function getCvrForTopic(topic: string, category: string): number {
-  const topicLower = topic.toLowerCase();
-  const catLower = category.toLowerCase();
-
-  if (topicLower.includes('cortisol') || topicLower.includes('stress')) return CVR_BY_CATEGORY.cortisol;
-  if (topicLower.includes('glucose') || topicLower.includes('diabetes') || topicLower.includes('a1c')) return CVR_BY_CATEGORY.glucose;
-  if (topicLower.includes('cancer')) return CVR_BY_CATEGORY.cancer;
-  if (topicLower.includes('hormone') || topicLower.includes('testosterone')) return CVR_BY_CATEGORY.hormones;
-  if (topicLower.includes('vitamin')) return CVR_BY_CATEGORY.vitamins;
-  if (topicLower.includes('metabolic')) return CVR_BY_CATEGORY.metabolic;
-  if (catLower.includes('blood') || catLower.includes('panel')) return CVR_BY_CATEGORY.blood_tests;
-  return CVR_BY_CATEGORY.default;
-}
-
-function aggregateOpportunities(opps: Opportunity[]) {
-  const map = new Map<string, {
-    category: string;
-    topic: string;
-    competitors: string[];
-    keyword_count: number;
     total_volume: number;
-    top_keywords: string[];
-    reason: string;
-    est_cvr: number;
-    est_monthly_conversions: number;
-    est_annual_conversions: number;
-  }>();
-
-  opps.forEach(opp => {
-    const key = `${opp.category}::${opp.topic}`;
-    const cvr = getCvrForTopic(opp.topic, opp.category);
-    const clicks = opp.total_volume * (CTR_ESTIMATE / 100);
-    const monthlyConv = clicks * (cvr / 100);
-
-    const existing = map.get(key);
-    if (existing) {
-      if (!existing.competitors.includes(opp.competitor)) {
-        existing.competitors.push(opp.competitor);
-      }
-      existing.keyword_count = Math.max(existing.keyword_count, opp.keyword_count);
-      existing.total_volume = Math.max(existing.total_volume, opp.total_volume);
-      opp.top_keywords.forEach(kw => {
-        if (!existing.top_keywords.includes(kw)) existing.top_keywords.push(kw);
-      });
-    } else {
-      map.set(key, {
-        category: opp.category,
-        topic: opp.topic,
-        competitors: [opp.competitor],
-        keyword_count: opp.keyword_count,
-        total_volume: opp.total_volume,
-        top_keywords: [...opp.top_keywords],
-        reason: opp.reason,
-        est_cvr: cvr,
-        est_monthly_conversions: monthlyConv,
-        est_annual_conversions: monthlyConv * 12,
-      });
-    }
-  });
-
-  return Array.from(map.values()).sort((a, b) => b.est_annual_conversions - a.est_annual_conversions);
+    pursue_keywords: number;
+    maybe_keywords: number;
+    skip_keywords: number;
+    pursue_volume: number;
+    maybe_volume: number;
+    skip_volume: number;
+    high_overlap_count: number;
+  };
+  categories: Category[];
+  high_overlap: Keyword[];
 }
+
+const data = gapData as GapData;
 
 export default function Home() {
   const pathname = usePathname();
   const [activeTab, setActiveTab] = useState<'pursue' | 'skip' | 'maybe' | 'overlap'>('pursue');
-  const [minVolume, setMinVolume] = useState(0);
+  const [expandedCategories, setExpandedCategories] = useState<Set<string>>(new Set());
+  const [searchTerm, setSearchTerm] = useState('');
 
-  const pursue = useMemo(() => aggregateOpportunities(data.pursue), []);
-  const skip = useMemo(() => aggregateOpportunities(data.skip), []);
-  const maybe = useMemo(() => aggregateOpportunities(data.maybe), []);
+  const toggleCategory = (catName: string) => {
+    setExpandedCategories(prev => {
+      const next = new Set(prev);
+      if (next.has(catName)) {
+        next.delete(catName);
+      } else {
+        next.add(catName);
+      }
+      return next;
+    });
+  };
 
-  const pursueConversions = pursue.reduce((sum, o) => sum + o.est_annual_conversions, 0);
-  const maybeConversions = maybe.reduce((sum, o) => sum + o.est_annual_conversions, 0);
-  const skipVolume = skip.reduce((sum, o) => sum + o.total_volume, 0);
+  // Sort categories by volume for current tab
+  const sortedCategories = useMemo(() => {
+    return [...data.categories].sort((a, b) => {
+      if (activeTab === 'pursue') return b.pursue_volume - a.pursue_volume;
+      if (activeTab === 'maybe') return b.maybe_volume - a.maybe_volume;
+      if (activeTab === 'skip') return b.skip_volume - a.skip_volume;
+      return 0;
+    });
+  }, [activeTab]);
 
-  const activeData = activeTab === 'pursue' ? pursue : activeTab === 'skip' ? skip : maybe;
-  const filteredData = activeData.filter(o => o.total_volume >= minVolume);
+  // Filter keywords by search
+  const filterKeywords = (keywords: Keyword[]) => {
+    if (!searchTerm) return keywords;
+    return keywords.filter(k =>
+      k.keyword.toLowerCase().includes(searchTerm.toLowerCase())
+    );
+  };
 
-  const overlapKeywords = useMemo(() => {
-    return Object.entries(overlap['3plus_competitors'])
-      .map(([keyword, info]) => ({ keyword, ...info }))
-      .sort((a, b) => b.volume - a.volume);
-  }, []);
+  const formatVolume = (vol: number) => {
+    if (vol >= 1000000) return `${(vol / 1000000).toFixed(1)}M`;
+    if (vol >= 1000) return `${(vol / 1000).toFixed(0)}K`;
+    return vol.toString();
+  };
 
   return (
     <div className="min-h-screen bg-gray-50 text-gray-900">
@@ -183,7 +101,7 @@ export default function Home() {
             <div>
               <h1 className="text-xl font-bold text-gray-900">SEM Gap Analysis</h1>
               <p className="text-sm text-gray-600">
-                Based on Superpower&apos;s actual CVR by category (1.4-7.7%) and 3.5% CTR assumption
+                {Object.keys(data.competitors).length} competitors · {data.summary.total_keywords.toLocaleString()} keywords
               </p>
             </div>
           </div>
@@ -237,9 +155,8 @@ export default function Home() {
               </div>
               <span className="text-gray-500 text-sm">PURSUE</span>
             </div>
-            <p className="text-2xl font-bold text-gray-900">{Math.round(pursueConversions / 12)}</p>
-            <p className="text-sm text-gray-500">est. subscriptions/mo</p>
-            <p className="text-xs text-gray-400 mt-1">{pursue.length} topics</p>
+            <p className="text-2xl font-bold text-gray-900">{data.summary.pursue_keywords.toLocaleString()}</p>
+            <p className="text-sm text-gray-500">{formatVolume(data.summary.pursue_volume)} monthly volume</p>
           </button>
 
           <button
@@ -254,9 +171,8 @@ export default function Home() {
               </div>
               <span className="text-gray-500 text-sm">MAYBE</span>
             </div>
-            <p className="text-2xl font-bold text-gray-900">{Math.round(maybeConversions / 12)}</p>
-            <p className="text-sm text-gray-500">potential subs/mo</p>
-            <p className="text-xs text-gray-400 mt-1">{maybe.length} topics to review</p>
+            <p className="text-2xl font-bold text-gray-900">{data.summary.maybe_keywords.toLocaleString()}</p>
+            <p className="text-sm text-gray-500">{formatVolume(data.summary.maybe_volume)} monthly volume</p>
           </button>
 
           <button
@@ -271,9 +187,8 @@ export default function Home() {
               </div>
               <span className="text-gray-500 text-sm">SKIP</span>
             </div>
-            <p className="text-2xl font-bold text-gray-900">{(skipVolume / 1000).toFixed(0)}K</p>
-            <p className="text-sm text-gray-500">volume to avoid</p>
-            <p className="text-xs text-gray-400 mt-1">{skip.length} topics (no product)</p>
+            <p className="text-2xl font-bold text-gray-900">{data.summary.skip_keywords.toLocaleString()}</p>
+            <p className="text-sm text-gray-500">{formatVolume(data.summary.skip_volume)} monthly volume</p>
           </button>
 
           <button
@@ -286,124 +201,183 @@ export default function Home() {
               <div className="bg-purple-100 p-2 rounded-lg">
                 <Users className="w-5 h-5 text-purple-600" />
               </div>
-              <span className="text-gray-500 text-sm">OVERLAP</span>
+              <span className="text-gray-500 text-sm">HIGH OVERLAP</span>
             </div>
-            <p className="text-2xl font-bold text-gray-900">{overlap.summary.keywords_3plus}</p>
-            <p className="text-sm text-gray-500">keywords 3+ comps target</p>
-            <p className="text-xs text-gray-400 mt-1">High-signal opportunities</p>
+            <p className="text-2xl font-bold text-gray-900">{data.summary.high_overlap_count}</p>
+            <p className="text-sm text-gray-500">3+ competitors bidding</p>
           </button>
         </div>
 
-        {activeTab !== 'overlap' && (
-          <>
-            {/* Filter */}
-            <div className="flex items-center gap-4 mb-4">
-              <span className="text-sm text-gray-600">Min Volume:</span>
-              <select
-                value={minVolume}
-                onChange={e => setMinVolume(Number(e.target.value))}
-                className="bg-white border border-gray-300 rounded-md px-3 py-1.5 text-sm focus:outline-none focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500"
-              >
-                <option value={0}>All</option>
-                <option value={1000}>1K+</option>
-                <option value={5000}>5K+</option>
-                <option value={10000}>10K+</option>
-              </select>
-              <span className="text-sm text-gray-500">
-                Showing {filteredData.length} of {activeData.length}
-              </span>
-            </div>
+        {/* Competitor Overview */}
+        <div className="bg-white rounded-xl border border-gray-200 shadow-sm p-5 mb-8">
+          <h2 className="font-semibold text-gray-900 mb-4">Competitors Analyzed</h2>
+          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-3">
+            {Object.entries(data.competitors)
+              .sort(([, a], [, b]) => b.total_keywords - a.total_keywords)
+              .map(([name, stats]) => (
+                <div key={name} className="bg-gray-50 rounded-lg p-3">
+                  <p className="font-medium text-gray-900 text-sm truncate">{name}</p>
+                  <p className="text-xs text-gray-500">{stats.total_keywords} keywords</p>
+                </div>
+              ))}
+          </div>
+        </div>
 
-            {/* Opportunities Table */}
-            <div className="bg-white rounded-xl border border-gray-200 shadow-sm overflow-hidden">
-              <table className="w-full">
-                <thead>
-                  <tr className="text-left text-sm text-gray-600 border-b border-gray-200 bg-gray-50">
-                    <th className="px-5 py-3 font-medium">Topic</th>
-                    <th className="px-5 py-3 font-medium">Reason</th>
-                    <th className="px-5 py-3 text-right font-medium">Volume</th>
-                    <th className="px-5 py-3 text-right font-medium">CVR</th>
-                    <th className="px-5 py-3 text-right font-medium">Est. Subs/Mo</th>
-                    <th className="px-5 py-3 font-medium">Keywords</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {filteredData.map((opp, i) => (
-                    <tr key={i} className="border-b border-gray-100 hover:bg-gray-50">
-                      <td className="px-5 py-4">
-                        <p className="text-xs text-gray-500">{opp.category}</p>
-                        <p className="font-medium text-gray-900">{opp.topic}</p>
-                      </td>
-                      <td className="px-5 py-4">
-                        <span className={`text-xs px-2 py-1 rounded font-medium ${
-                          activeTab === 'pursue' ? 'bg-green-100 text-green-700' :
-                          activeTab === 'skip' ? 'bg-red-100 text-red-700' :
-                          'bg-yellow-100 text-yellow-700'
-                        }`}>
-                          {opp.reason.replace('Strong fit: ', '').replace('Not offered: ', '').replace(/_/g, ' ')}
-                        </span>
-                      </td>
-                      <td className="px-5 py-4 text-right text-gray-700">{(opp.total_volume / 1000).toFixed(0)}K</td>
-                      <td className="px-5 py-4 text-right text-green-600 font-medium">{opp.est_cvr.toFixed(1)}%</td>
-                      <td className="px-5 py-4 text-right font-bold text-blue-600">{opp.est_monthly_conversions.toFixed(1)}</td>
-                      <td className="px-5 py-4">
-                        <p className="text-xs text-gray-500 max-w-xs truncate">
-                          {opp.top_keywords.slice(0, 3).join(', ')}
+        {/* Search */}
+        <div className="mb-6">
+          <input
+            type="text"
+            placeholder="Search keywords..."
+            value={searchTerm}
+            onChange={e => setSearchTerm(e.target.value)}
+            className="px-4 py-2 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 w-64"
+          />
+        </div>
+
+        {/* Categories View (for pursue/maybe/skip) */}
+        {activeTab !== 'overlap' && (
+          <div className="space-y-4">
+            {sortedCategories.map(category => {
+              const keywords = activeTab === 'pursue' ? category.pursue :
+                              activeTab === 'maybe' ? category.maybe :
+                              category.skip;
+              const count = activeTab === 'pursue' ? category.pursue_count :
+                           activeTab === 'maybe' ? category.maybe_count :
+                           category.skip_count;
+              const volume = activeTab === 'pursue' ? category.pursue_volume :
+                            activeTab === 'maybe' ? category.maybe_volume :
+                            category.skip_volume;
+
+              if (count === 0) return null;
+
+              const filteredKeywords = filterKeywords(keywords);
+              if (searchTerm && filteredKeywords.length === 0) return null;
+
+              const isExpanded = expandedCategories.has(category.name);
+
+              return (
+                <div key={category.name} className="bg-white rounded-xl border border-gray-200 shadow-sm overflow-hidden">
+                  <button
+                    onClick={() => toggleCategory(category.name)}
+                    className="w-full px-5 py-4 flex items-center justify-between hover:bg-gray-50 transition"
+                  >
+                    <div className="flex items-center gap-3">
+                      {isExpanded ? (
+                        <ChevronDown className="w-5 h-5 text-gray-400" />
+                      ) : (
+                        <ChevronRight className="w-5 h-5 text-gray-400" />
+                      )}
+                      <div className="text-left">
+                        <p className="font-medium text-gray-900">{category.name}</p>
+                        <p className="text-sm text-gray-500">
+                          {count} keywords · {formatVolume(volume)} volume
                         </p>
-                      </td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
-          </>
+                      </div>
+                    </div>
+                  </button>
+
+                  {isExpanded && (
+                    <div className="border-t border-gray-200 overflow-x-auto">
+                      <table className="w-full">
+                        <thead>
+                          <tr className="text-left text-sm text-gray-500 bg-gray-50">
+                            <th className="px-5 py-3 font-medium">Keyword</th>
+                            <th className="px-5 py-3 font-medium text-right">Volume</th>
+                            <th className="px-5 py-3 font-medium text-right">CPC</th>
+                            <th className="px-5 py-3 font-medium">Competitors</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          {filteredKeywords.slice(0, 25).map((kw, i) => (
+                            <tr key={i} className="border-t border-gray-100 hover:bg-gray-50">
+                              <td className="px-5 py-3">
+                                <p className="text-gray-900">{kw.keyword}</p>
+                              </td>
+                              <td className="px-5 py-3 text-right text-gray-700">
+                                {kw.volume.toLocaleString()}
+                              </td>
+                              <td className="px-5 py-3 text-right text-gray-700">
+                                ${kw.cpc.toFixed(2)}
+                              </td>
+                              <td className="px-5 py-3">
+                                <div className="flex flex-wrap gap-1">
+                                  {kw.competitors.slice(0, 4).map(c => (
+                                    <span key={c} className="text-xs px-1.5 py-0.5 bg-gray-100 text-gray-600 rounded">
+                                      {c.split(' ')[0]}
+                                    </span>
+                                  ))}
+                                  {kw.competitors.length > 4 && (
+                                    <span className="text-xs px-1.5 py-0.5 bg-gray-100 text-gray-600 rounded">
+                                      +{kw.competitors.length - 4}
+                                    </span>
+                                  )}
+                                </div>
+                              </td>
+                            </tr>
+                          ))}
+                        </tbody>
+                      </table>
+                      {filteredKeywords.length > 25 && (
+                        <div className="px-5 py-3 bg-gray-50 text-center text-sm text-gray-500">
+                          Showing 25 of {filteredKeywords.length} keywords
+                        </div>
+                      )}
+                    </div>
+                  )}
+                </div>
+              );
+            })}
+          </div>
         )}
 
-        {/* Competitor Overlap View */}
+        {/* High Overlap View */}
         {activeTab === 'overlap' && (
           <div>
-            <div className="bg-purple-50 border border-purple-200 rounded-xl p-4 mb-6">
-              <h3 className="font-semibold text-purple-700 mb-2">High-Signal Keywords</h3>
+            <div className="bg-purple-50 border border-purple-200 rounded-xl p-5 mb-6">
+              <h2 className="font-semibold text-purple-700 mb-2">High-Signal Keywords</h2>
               <p className="text-sm text-gray-600">
-                These keywords are targeted by 3+ competitors (Function Health, Everlywell, InsideTracker, Rupa Health, Mito Health).
-                Multiple competitors bidding = validated demand.
+                These keywords are targeted by 3+ competitors. Multiple competitors bidding = validated demand.
               </p>
-              <div className="grid grid-cols-3 gap-4 mt-4">
-                <div className="bg-white rounded-lg p-3 text-center border border-purple-100">
-                  <div className="text-2xl font-bold text-purple-600">{overlap.summary.keywords_3plus}</div>
-                  <div className="text-xs text-gray-500">3+ competitors</div>
-                </div>
-                <div className="bg-white rounded-lg p-3 text-center border border-purple-100">
-                  <div className="text-2xl font-bold text-purple-600">{overlap.summary.keywords_4plus}</div>
-                  <div className="text-xs text-gray-500">4+ competitors</div>
-                </div>
-                <div className="bg-white rounded-lg p-3 text-center border border-purple-100">
-                  <div className="text-2xl font-bold text-purple-600">{overlap.summary.total_keywords}</div>
-                  <div className="text-xs text-gray-500">total unique keywords</div>
-                </div>
-              </div>
             </div>
 
             <div className="bg-white rounded-xl border border-gray-200 shadow-sm overflow-hidden">
               <table className="w-full">
                 <thead>
-                  <tr className="text-left text-sm text-gray-600 border-b border-gray-200 bg-gray-50">
+                  <tr className="text-left text-sm text-gray-500 bg-gray-50 border-b border-gray-200">
                     <th className="px-5 py-3 font-medium">Keyword</th>
-                    <th className="px-5 py-3 text-right font-medium">Volume</th>
-                    <th className="px-5 py-3 text-right font-medium">CPC</th>
+                    <th className="px-5 py-3 font-medium">Category</th>
+                    <th className="px-5 py-3 font-medium text-right">Volume</th>
+                    <th className="px-5 py-3 font-medium text-right">CPC</th>
+                    <th className="px-5 py-3 font-medium text-center"># Competitors</th>
                     <th className="px-5 py-3 font-medium">Competitors</th>
                   </tr>
                 </thead>
                 <tbody>
-                  {overlapKeywords.slice(0, 50).map((kw, i) => (
-                    <tr key={i} className="border-b border-gray-100 hover:bg-gray-50">
-                      <td className="px-5 py-4 font-medium text-gray-900">{kw.keyword}</td>
-                      <td className="px-5 py-4 text-right text-gray-700">{kw.volume.toLocaleString()}</td>
-                      <td className="px-5 py-4 text-right text-gray-700">${kw.cpc.toFixed(2)}</td>
-                      <td className="px-5 py-4">
+                  {filterKeywords(data.high_overlap).slice(0, 50).map((kw, i) => (
+                    <tr key={i} className="border-t border-gray-100 hover:bg-gray-50">
+                      <td className="px-5 py-3">
+                        <p className="text-gray-900 font-medium">{kw.keyword}</p>
+                      </td>
+                      <td className="px-5 py-3">
+                        <span className="text-xs px-2 py-1 bg-purple-100 text-purple-700 rounded-full">
+                          {kw.category}
+                        </span>
+                      </td>
+                      <td className="px-5 py-3 text-right text-gray-700">
+                        {kw.volume.toLocaleString()}
+                      </td>
+                      <td className="px-5 py-3 text-right text-gray-700">
+                        ${kw.cpc.toFixed(2)}
+                      </td>
+                      <td className="px-5 py-3 text-center">
+                        <span className="inline-flex items-center justify-center w-6 h-6 bg-purple-600 text-white text-xs rounded-full font-medium">
+                          {kw.competitor_count}
+                        </span>
+                      </td>
+                      <td className="px-5 py-3">
                         <div className="flex flex-wrap gap-1">
                           {kw.competitors.map(c => (
-                            <span key={c} className="text-xs px-1.5 py-0.5 bg-purple-100 text-purple-700 rounded font-medium">
+                            <span key={c} className="text-xs px-1.5 py-0.5 bg-purple-100 text-purple-700 rounded">
                               {c.split(' ')[0]}
                             </span>
                           ))}
@@ -419,18 +393,28 @@ export default function Home() {
 
         {/* Skip explanation */}
         {activeTab === 'skip' && (
-          <div className="mt-8 grid grid-cols-3 gap-4">
-            <div className="bg-white rounded-xl p-4 border border-gray-200 shadow-sm">
-              <div className="text-red-600 font-semibold mb-2">STD/STI Testing</div>
-              <p className="text-sm text-gray-600">No herpes, HIV, chlamydia, gonorrhea testing</p>
-            </div>
-            <div className="bg-white rounded-xl p-4 border border-gray-200 shadow-sm">
-              <div className="text-red-600 font-semibold mb-2">Food Allergy Tests</div>
-              <p className="text-sm text-gray-600">No food sensitivity or intolerance testing</p>
-            </div>
-            <div className="bg-white rounded-xl p-4 border border-gray-200 shadow-sm">
-              <div className="text-red-600 font-semibold mb-2">Physical Locations</div>
-              <p className="text-sm text-gray-600">No &quot;near me&quot; or walk-in lab services</p>
+          <div className="mt-8 bg-red-50 border border-red-200 rounded-xl p-5">
+            <h3 className="font-semibold text-red-700 mb-2">Why Skip These?</h3>
+            <p className="text-sm text-gray-600 mb-4">
+              These keywords are for services Superpower doesn&apos;t offer or can&apos;t compete effectively on:
+            </p>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+              <div className="bg-white rounded-lg p-3 border border-red-100">
+                <p className="font-medium text-gray-900 text-sm">STD/STI Testing</p>
+                <p className="text-xs text-gray-500">Not offered</p>
+              </div>
+              <div className="bg-white rounded-lg p-3 border border-red-100">
+                <p className="font-medium text-gray-900 text-sm">Food Allergies</p>
+                <p className="text-xs text-gray-500">Not offered</p>
+              </div>
+              <div className="bg-white rounded-lg p-3 border border-red-100">
+                <p className="font-medium text-gray-900 text-sm">Drug Testing</p>
+                <p className="text-xs text-gray-500">Not offered</p>
+              </div>
+              <div className="bg-white rounded-lg p-3 border border-red-100">
+                <p className="font-medium text-gray-900 text-sm">Lab Locations</p>
+                <p className="text-xs text-gray-500">&quot;Near me&quot; searches</p>
+              </div>
             </div>
           </div>
         )}
