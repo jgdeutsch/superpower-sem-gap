@@ -1,0 +1,411 @@
+{
+  "title": "Superpower SEM Keyword Strategy",
+  "total_pursue_keywords": 1400,
+  "total_pursue_volume": 1817840,
+  "categories": [
+    {
+      "name": "Blood Tests",
+      "keywords": 294,
+      "volume": 304180,
+      "subcategories": [
+        {
+          "name": "General Blood Testing",
+          "keywords": ["blood test", "blood work", "blood tests", "blood panel", "blood panel test", "blood work labs", "blood work test", "blood work tests"],
+          "volume": 62650
+        },
+        {
+          "name": "Autoimmune Testing",
+          "keywords": ["ana blood test", "blood test for lupus", "anca blood test", "antibody blood test"],
+          "volume": 14500
+        },
+        {
+          "name": "At-Home Blood Tests",
+          "keywords": ["at home blood test", "home blood test kits", "complete blood test at home", "at home cbc test", "online blood test"],
+          "volume": 4800
+        },
+        {
+          "name": "Specific Disease Testing",
+          "keywords": ["celiac blood test", "lyme disease blood test", "hepatitis blood test", "malaria blood test", "mmr blood test"],
+          "volume": 4300
+        },
+        {
+          "name": "Cardiac Markers",
+          "keywords": ["lpa blood test", "homocysteine blood test", "ca125 blood test"],
+          "volume": 12400
+        },
+        {
+          "name": "CBC Testing",
+          "keywords": ["cbc lab test", "monthly blood test"],
+          "volume": 1490
+        },
+        {
+          "name": "Hormone Blood Tests",
+          "keywords": ["menopause blood test"],
+          "volume": 300
+        }
+      ]
+    },
+    {
+      "name": "Heart & Cholesterol",
+      "keywords": 141,
+      "volume": 215870,
+      "subcategories": [
+        {
+          "name": "High Triglycerides",
+          "keywords": ["triglycerides high", "what causes high triglycerides", "high triglycerides meaning", "high triglycerides causes", "triglyceride meaning", "what causes triglycerides to be high", "triglycerides high meaning", "what raises triglycerides"],
+          "volume": 59600
+        },
+        {
+          "name": "High Cholesterol",
+          "keywords": ["how much cholesterol per day", "what is high cholesterol", "foods high in cholesterol", "symptoms of high cholesterol in females", "what foods cause high cholesterol", "cholesterol symptoms", "what foods raise cholesterol"],
+          "volume": 62900
+        },
+        {
+          "name": "Cholesterol Testing",
+          "keywords": ["cholesterol test", "at home cholesterol test", "cholesterol blood test", "cholesterol test at home", "cholesterol numbers"],
+          "volume": 12500
+        },
+        {
+          "name": "LDL vs HDL",
+          "keywords": ["ldl vs hdl", "hdl vs ldl cholesterol", "ldl cholesterol level", "normal cholesterol levels for women"],
+          "volume": 17600
+        },
+        {
+          "name": "Lipid Panel",
+          "keywords": ["lipid panel test", "apob test"],
+          "volume": 17700
+        },
+        {
+          "name": "Heart Health",
+          "keywords": ["enlarged heart symptoms", "heart tests", "what causes enlarged heart", "what's a healthy heart rate"],
+          "volume": 9600
+        }
+      ]
+    },
+    {
+      "name": "Hormone Testing",
+      "keywords": 254,
+      "volume": 184030,
+      "subcategories": [
+        {
+          "name": "Cortisol Testing",
+          "keywords": ["signs of high cortisol", "symptoms of high cortisol in females", "cortisol test", "how to test cortisol levels", "what causes high cortisol levels", "how to test cortisol levels at home", "symptoms of high cortisol", "cortisol blood test", "what is high cortisol", "at home cortisol test", "saliva cortisol test", "blood test for cortisol levels", "cortisol tests"],
+          "volume": 72500
+        },
+        {
+          "name": "Testosterone Testing",
+          "keywords": ["testosterone test", "normal testosterone levels", "testosterone levels in men", "at home testosterone test", "blood test testosterone", "testosterone labs"],
+          "volume": 30400
+        },
+        {
+          "name": "General Hormone Testing",
+          "keywords": ["hormone imbalance test", "hormone level test", "hormone panel test", "how to check hormone levels", "hormone tests", "blood test for hormone levels", "female hormone blood test", "full hormone panel female"],
+          "volume": 5350
+        },
+        {
+          "name": "Prolactin",
+          "keywords": ["prolactin blood test"],
+          "volume": 3700
+        },
+        {
+          "name": "DHEA Testing",
+          "keywords": ["dheas blood test", "dhea sulfate test"],
+          "volume": 1000
+        }
+      ]
+    },
+    {
+      "name": "Kidney & Liver",
+      "keywords": 76,
+      "volume": 170920,
+      "subcategories": [
+        {
+          "name": "Adrenal Function",
+          "keywords": ["adrenal gland", "signs of adrenal insufficiency"],
+          "volume": 78500
+        },
+        {
+          "name": "Liver Function Testing",
+          "keywords": ["hepatic function panel", "liver function tests", "liver function test", "liver blood test", "liver function blood test", "liver enzyme test", "liver test", "hepatic panel", "liver panel", "blood test for liver function", "liver panel test", "liver function panel", "hepatic function panel test", "liver blood tests", "liver tests blood", "alt liver test", "liver scan"],
+          "volume": 45500
+        },
+        {
+          "name": "Kidney Function Testing",
+          "keywords": ["kidney function test", "blood test for kidney function", "kidney blood test", "kidney function blood test", "kidney test", "kidney tests", "test for kidney function", "kidney infection test"],
+          "volume": 19500
+        },
+        {
+          "name": "Liver Enzymes",
+          "keywords": ["what causes high liver enzymes", "should i be worried about liver lesions"],
+          "volume": 6500
+        },
+        {
+          "name": "Kidney Infection",
+          "keywords": ["how do you know if you have a kidney infection"],
+          "volume": 1300
+        }
+      ]
+    },
+    {
+      "name": "Thyroid Testing",
+      "keywords": 100,
+      "volume": 168380,
+      "subcategories": [
+        {
+          "name": "Thyroid Conditions",
+          "keywords": ["thyroid issues", "overactive thyroid", "symptoms of hyperthyroidism", "thyroid symptoms in female", "what is hyperthyroidism", "overactive thyroid symptoms", "nodules on thyroid", "hashimoto's thyroiditis symptoms", "nodule on thyroid", "hashimoto thyroiditis", "signs of hyperthyroidism", "thyroid issue symptoms", "symptoms of thyroid issues", "high thyroid symptoms", "symptoms hypothyroidism"],
+          "volume": 93300
+        },
+        {
+          "name": "TSH Testing",
+          "keywords": ["tsh test", "thyroid levels", "tsh levels high", "hypothyroidism tsh levels", "tsh lab test", "blood test tsh"],
+          "volume": 30700
+        },
+        {
+          "name": "Thyroid Panel",
+          "keywords": ["thyroid blood test", "thyroid panel", "thyroid antibody test", "thyroid tests", "full thyroid panel", "blood test for thyroid", "parathyroid test"],
+          "volume": 15700
+        },
+        {
+          "name": "At-Home Thyroid",
+          "keywords": ["at home thyroid test", "thyroid test at home"],
+          "volume": 2000
+        }
+      ]
+    },
+    {
+      "name": "Metabolic / Diabetes",
+      "keywords": 87,
+      "volume": 139530,
+      "subcategories": [
+        {
+          "name": "Metabolic Panel",
+          "keywords": ["comprehensive metabolic panel", "metabolic panel", "complete metabolic panel", "comprehensive metabolic panel test", "basic metabolic panel test", "metabolic test"],
+          "volume": 48000
+        },
+        {
+          "name": "Continuous Glucose Monitoring",
+          "keywords": ["continuous glucose monitoring", "continuous glucose monitoring cost", "continuous glucose monitoring for non diabetics", "glucose control"],
+          "volume": 35000
+        },
+        {
+          "name": "A1C Testing",
+          "keywords": ["hgb a1c", "hba1c test", "high a1c", "hemoglobin a1c test", "normal a1c range", "a1c 6", "a1c 5.1", "at home a1c test", "what is a good a1c number", "hgb a1c blood test", "a1c normal levels", "is 6.1 a good a1c"],
+          "volume": 27600
+        },
+        {
+          "name": "Diabetes Testing",
+          "keywords": ["diabetes test", "diabetes blood test", "at home diabetes test", "prediabetes test", "home diabetes test", "early sign of diabetes"],
+          "volume": 12500
+        },
+        {
+          "name": "Metabolic Disorders",
+          "keywords": ["metabolic disorders", "metabolic syndrome meaning"],
+          "volume": 5400
+        }
+      ]
+    },
+    {
+      "name": "Vitamins & Nutrients",
+      "keywords": 105,
+      "volume": 88030,
+      "subcategories": [
+        {
+          "name": "Ferritin/Iron Testing",
+          "keywords": ["ferritin blood test", "ferritin test", "iron tibc and ferritin panel", "iron level blood test", "how to check iron levels"],
+          "volume": 28600
+        },
+        {
+          "name": "Vitamin D",
+          "keywords": ["vitamin d3 side effects", "vitamin d test", "vitamin d blood test", "is vitamin d3 the same as vitamin d", "side effects of vitamin d", "what's the difference between vitamin d and vitamin d3", "d3 vitamin benefits", "vitamin d3 vs d", "vitamin d 25 hydroxy test", "is d3 the same as vitamin d", "vitamin d deficiency test", "causes of vitamin d deficiency", "are vitamin d and d3 the same", "vitamin d test kit", "how to get vitamin d from sun", "how much vitamin d do you get from the sun", "low on vitamin d"],
+          "volume": 28000
+        },
+        {
+          "name": "General Vitamin Testing",
+          "keywords": ["vitamin deficiency test", "blood test for vitamins and minerals deficiencies", "vitamin panel blood test", "full vitamin panel blood test", "test for vitamin deficiency"],
+          "volume": 6000
+        },
+        {
+          "name": "B Vitamins",
+          "keywords": ["folate blood test", "low b12 levels"],
+          "volume": 3200
+        },
+        {
+          "name": "Magnesium",
+          "keywords": ["magnesium blood test"],
+          "volume": 4700
+        }
+      ]
+    },
+    {
+      "name": "Inflammation",
+      "keywords": 47,
+      "volume": 77620,
+      "subcategories": [
+        {
+          "name": "Inflammatory Foods",
+          "keywords": ["inflammatory foods", "foods that cause inflammation", "what foods cause inflammation", "what are inflammatory foods", "what are the 10 worst foods for inflammation", "high inflammatory foods", "foods to avoid for inflammation", "pro inflammatory foods", "worst inflammatory foods"],
+          "volume": 49200
+        },
+        {
+          "name": "Inflammation Causes",
+          "keywords": ["what causes inflammation", "does sugar cause inflammation", "low inflammation diet", "signs of inflammation in the body", "how do i know if i have inflammation"],
+          "volume": 19400
+        },
+        {
+          "name": "Inflammation Testing",
+          "keywords": ["inflammation blood test", "hscrp test", "inflammation test", "test for inflammation", "tests for inflammation", "crp blood test cost", "inflammation marker test"],
+          "volume": 4400
+        },
+        {
+          "name": "Autoimmune Testing",
+          "keywords": ["autoimmune blood test", "autoimmune blood test panel list", "autoimmune disease test", "blood test for autoimmune disease", "autoimmune labs", "test for autoimmune disease", "blood tests for autoimmune diseases", "tests for autoimmune disease"],
+          "volume": 3800
+        }
+      ]
+    },
+    {
+      "name": "Aging & Longevity",
+      "keywords": 39,
+      "volume": 47070,
+      "subcategories": [
+        {
+          "name": "Telomeres",
+          "keywords": ["telomeres", "telomeres and aging", "telomere length", "telomeres definition", "dna telomeres", "how to measure telomere length"],
+          "volume": 30800
+        },
+        {
+          "name": "Biological Age Testing",
+          "keywords": ["biological age test", "biological age calculator", "how to calculate biological age", "how to find your biological age", "how to determine biological age", "how to measure biological age", "biological aging test", "calculate biological age", "how to calculate your biological age", "calculate my biological age", "what's my biological age quiz", "how to figure out biological age", "test my biological age", "best biological age calculator"],
+          "volume": 11500
+        },
+        {
+          "name": "Epigenetics",
+          "keywords": ["epigenetic", "epigenetics meaning", "epigenetic age test", "epigenetics kit", "epigenetic screening"],
+          "volume": 8980
+        },
+        {
+          "name": "Longevity",
+          "keywords": ["longevity doctor", "peter attia longevity", "longevity test", "longevity score"],
+          "volume": 2420
+        },
+        {
+          "name": "Cellular Aging",
+          "keywords": ["cellular aging"],
+          "volume": 250
+        }
+      ]
+    },
+    {
+      "name": "Other Health Tests",
+      "keywords": 233,
+      "volume": 412750,
+      "subcategories": [
+        {
+          "name": "General Health",
+          "keywords": ["health", "health screening", "health and wellness", "health issues"],
+          "volume": 217500
+        },
+        {
+          "name": "Celiac Testing",
+          "keywords": ["celiac disease diet", "celiac disease test"],
+          "volume": 15700
+        },
+        {
+          "name": "ANA Testing",
+          "keywords": ["ana test"],
+          "volume": 13000
+        },
+        {
+          "name": "Infection Testing",
+          "keywords": ["bv vs yeast infection", "uti vs yeast infection"],
+          "volume": 16300
+        },
+        {
+          "name": "Lipoprotein(a)",
+          "keywords": ["lipoprotein a test"],
+          "volume": 7000
+        },
+        {
+          "name": "Liver Enzymes",
+          "keywords": ["alt test", "ast test"],
+          "volume": 12600
+        },
+        {
+          "name": "Uric Acid",
+          "keywords": ["uric acid test"],
+          "volume": 6000
+        },
+        {
+          "name": "Homocysteine",
+          "keywords": ["what is homocysteine"],
+          "volume": 3900
+        },
+        {
+          "name": "Hemoglobin",
+          "keywords": ["hemoglobin test"],
+          "volume": 4300
+        },
+        {
+          "name": "Function Health Brand",
+          "keywords": ["function health review", "functionhealth"],
+          "volume": 11900
+        },
+        {
+          "name": "Lab Testing",
+          "keywords": ["lab test", "lab tests online", "order lab tests online", "online lab test", "medical lab tests", "my lab test"],
+          "volume": 2270
+        },
+        {
+          "name": "Fertility",
+          "keywords": ["semen analysis"],
+          "volume": 6800
+        }
+      ]
+    },
+    {
+      "name": "Cancer Screening (PSA only)",
+      "keywords": 10,
+      "volume": 7130,
+      "subcategories": [
+        {
+          "name": "PSA Testing",
+          "keywords": ["psa test for men", "prostate cancer test", "prostate specific antigen test", "cost of psa test", "prostate health check northern virginia"],
+          "volume": 5000
+        },
+        {
+          "name": "Prostate Health",
+          "keywords": ["foods to avoid with enlarged prostate", "enlarged prostate diet", "foods for enlarged prostate", "can an enlarged prostate cause erectile dysfunction", "foods to avoid with prostate issues"],
+          "volume": 2130
+        }
+      ]
+    },
+    {
+      "name": "At-Home Testing",
+      "keywords": 14,
+      "volume": 2330,
+      "subcategories": [
+        {
+          "name": "General At-Home",
+          "keywords": ["at home health tests", "health home test kits", "best at home health tests"],
+          "volume": 1560
+        },
+        {
+          "name": "At-Home Celiac",
+          "keywords": ["celiac test at home", "home test for celiac disease", "celiac home test", "celiac at home test", "celiac disease at home test", "at home test for celiac disease", "celiac home test kit"],
+          "volume": 540
+        },
+        {
+          "name": "At-Home ANA",
+          "keywords": ["ana test at home"],
+          "volume": 60
+        },
+        {
+          "name": "At-Home Homocysteine",
+          "keywords": ["homocysteine home test"],
+          "volume": 10
+        }
+      ]
+    }
+  ]
+}
