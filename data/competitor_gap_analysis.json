@@ -64,13 +64,13 @@
   "summary": {
     "total_keywords": 2223,
     "total_volume": 348480,
-    "pursue_keywords": 813,
-    "maybe_keywords": 734,
-    "skip_keywords": 676,
-    "pursue_volume": 147900,
-    "maybe_volume": 110450,
-    "skip_volume": 90130,
-    "high_overlap_count": 37
+    "pursue_keywords": 789,
+    "maybe_keywords": 634,
+    "skip_keywords": 709,
+    "pursue_volume": 145300,
+    "maybe_volume": 102110,
+    "skip_volume": 92730,
+    "high_overlap_count": 35
   },
   "categories": [
     {
@@ -1776,162 +1776,7 @@
     },
     {
       "name": "Cancer Screening",
-      "pursue": [
-        {
-          "keyword": "grail galleri cancer test",
-          "volume": 30,
-          "cpc": 1.55,
-          "competitors": [
-            "Everlywell",
-            "Exact Sciences",
-            "Galleri"
-          ],
-          "competitor_count": 3,
-          "reason": "Galleri test offered"
-        },
-        {
-          "keyword": "galleri blood test cost",
-          "volume": 500,
-          "cpc": 1.85,
-          "competitors": [
-            "Everlywell",
-            "Exact Sciences"
-          ],
-          "competitor_count": 2,
-          "reason": "Galleri test offered"
-        },
-        {
-          "keyword": "galleri test kit",
-          "volume": 40,
-          "cpc": 1.98,
-          "competitors": [
-            "Everlywell",
-            "Galleri"
-          ],
-          "competitor_count": 2,
-          "reason": "Galleri test offered"
-        },
-        {
-          "keyword": "grail galleri test cost",
-          "volume": 100,
-          "cpc": 2.95,
-          "competitors": [
-            "Galleri"
-          ],
-          "competitor_count": 1,
-          "reason": "Galleri test offered"
-        },
-        {
-          "keyword": "galleri provider portal",
-          "volume": 80,
-          "cpc": 0,
-          "competitors": [
-            "Galleri"
-          ],
-          "competitor_count": 1,
-          "reason": "Galleri test offered"
-        },
-        {
-          "keyword": "galleri cancer screening reviews",
-          "volume": 70,
-          "cpc": 0,
-          "competitors": [
-            "Galleri"
-          ],
-          "competitor_count": 1,
-          "reason": "Galleri test offered"
-        },
-        {
-          "keyword": "gallerie test",
-          "volume": 70,
-          "cpc": 3.8,
-          "competitors": [
-            "Galleri"
-          ],
-          "competitor_count": 1,
-          "reason": "Galleri test offered"
-        },
-        {
-          "keyword": "galleri multi cancer early detection test",
-          "volume": 50,
-          "cpc": 2.67,
-          "competitors": [
-            "Galleri"
-          ],
-          "competitor_count": 1,
-          "reason": "Galleri test offered"
-        },
-        {
-          "keyword": "galleri test grail",
-          "volume": 40,
-          "cpc": 2.0,
-          "competitors": [
-            "Galleri"
-          ],
-          "competitor_count": 1,
-          "reason": "Galleri test offered"
-        },
-        {
-          "keyword": "galleria cancer test",
-          "volume": 30,
-          "cpc": 0,
-          "competitors": [
-            "Everlywell"
-          ],
-          "competitor_count": 1,
-          "reason": "Galleri test offered"
-        },
-        {
-          "keyword": "galleri accuracy",
-          "volume": 20,
-          "cpc": 3.78,
-          "competitors": [
-            "Everlywell"
-          ],
-          "competitor_count": 1,
-          "reason": "Galleri test offered"
-        },
-        {
-          "keyword": "gallerie blood test",
-          "volume": 20,
-          "cpc": 0,
-          "competitors": [
-            "Everlywell"
-          ],
-          "competitor_count": 1,
-          "reason": "Galleri test offered"
-        },
-        {
-          "keyword": "cancer test galleri",
-          "volume": 20,
-          "cpc": 2.19,
-          "competitors": [
-            "Everlywell"
-          ],
-          "competitor_count": 1,
-          "reason": "Galleri test offered"
-        },
-        {
-          "keyword": "galleri trst",
-          "volume": 20,
-          "cpc": 0,
-          "competitors": [
-            "Everlywell"
-          ],
-          "competitor_count": 1,
-          "reason": "Galleri test offered"
-        },
-        {
-          "keyword": "cancer blood test galleri",
-          "volume": 20,
-          "cpc": 2.33,
-          "competitors": [
-            "Galleri"
-          ],
-          "competitor_count": 1,
-          "reason": "Galleri test offered"
-        }
-      ],
+      "pursue": [],
       "maybe": [
         {
           "keyword": "blood cancer test",
@@ -2482,6 +2327,160 @@
       ],
       "skip": [
         {
+          "keyword": "grail galleri cancer test",
+          "volume": 30,
+          "cpc": 1.55,
+          "competitors": [
+            "Everlywell",
+            "Exact Sciences",
+            "Galleri"
+          ],
+          "competitor_count": 3,
+          "reason": "Galleri excluded"
+        },
+        {
+          "keyword": "galleri blood test cost",
+          "volume": 500,
+          "cpc": 1.85,
+          "competitors": [
+            "Everlywell",
+            "Exact Sciences"
+          ],
+          "competitor_count": 2,
+          "reason": "Galleri excluded"
+        },
+        {
+          "keyword": "galleri test kit",
+          "volume": 40,
+          "cpc": 1.98,
+          "competitors": [
+            "Everlywell",
+            "Galleri"
+          ],
+          "competitor_count": 2,
+          "reason": "Galleri excluded"
+        },
+        {
+          "keyword": "grail galleri test cost",
+          "volume": 100,
+          "cpc": 2.95,
+          "competitors": [
+            "Galleri"
+          ],
+          "competitor_count": 1,
+          "reason": "Galleri excluded"
+        },
+        {
+          "keyword": "galleri provider portal",
+          "volume": 80,
+          "cpc": 0,
+          "competitors": [
+            "Galleri"
+          ],
+          "competitor_count": 1,
+          "reason": "Galleri excluded"
+        },
+        {
+          "keyword": "galleri cancer screening reviews",
+          "volume": 70,
+          "cpc": 0,
+          "competitors": [
+            "Galleri"
+          ],
+          "competitor_count": 1,
+          "reason": "Galleri excluded"
+        },
+        {
+          "keyword": "gallerie test",
+          "volume": 70,
+          "cpc": 3.8,
+          "competitors": [
+            "Galleri"
+          ],
+          "competitor_count": 1,
+          "reason": "Galleri excluded"
+        },
+        {
+          "keyword": "galleri multi cancer early detection test",
+          "volume": 50,
+          "cpc": 2.67,
+          "competitors": [
+            "Galleri"
+          ],
+          "competitor_count": 1,
+          "reason": "Galleri excluded"
+        },
+        {
+          "keyword": "galleri test grail",
+          "volume": 40,
+          "cpc": 2.0,
+          "competitors": [
+            "Galleri"
+          ],
+          "competitor_count": 1,
+          "reason": "Galleri excluded"
+        },
+        {
+          "keyword": "galleria cancer test",
+          "volume": 30,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1,
+          "reason": "Galleri excluded"
+        },
+        {
+          "keyword": "galleri accuracy",
+          "volume": 20,
+          "cpc": 3.78,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1,
+          "reason": "Galleri excluded"
+        },
+        {
+          "keyword": "gallerie blood test",
+          "volume": 20,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1,
+          "reason": "Galleri excluded"
+        },
+        {
+          "keyword": "cancer test galleri",
+          "volume": 20,
+          "cpc": 2.19,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1,
+          "reason": "Galleri excluded"
+        },
+        {
+          "keyword": "galleri trst",
+          "volume": 20,
+          "cpc": 0,
+          "competitors": [
+            "Everlywell"
+          ],
+          "competitor_count": 1,
+          "reason": "Galleri excluded"
+        },
+        {
+          "keyword": "cancer blood test galleri",
+          "volume": 20,
+          "cpc": 2.33,
+          "competitors": [
+            "Galleri"
+          ],
+          "competitor_count": 1,
+          "reason": "Galleri excluded"
+        },
+        {
           "keyword": "home test for colonoscopy",
           "volume": 10,
           "cpc": 1.4,
@@ -2573,12 +2572,12 @@
           "reason": "Term \"colon cancer screening\" not offered"
         }
       ],
-      "pursue_count": 15,
-      "maybe_count": 150,
-      "skip_count": 9,
-      "pursue_volume": 1110,
-      "maybe_volume": 22640,
-      "skip_volume": 580
+      "pursue_count": 0,
+      "maybe_count": 50,
+      "skip_count": 24,
+      "pursue_volume": 0,
+      "maybe_volume": 14300,
+      "skip_volume": 1690
     },
     {
       "name": "Drug Testing",
@@ -2949,7 +2948,9 @@
     },
     {
       "name": "Gut Health",
-      "pursue": [
+      "pursue": [],
+      "maybe": [],
+      "skip": [
         {
           "keyword": "online stool test",
           "volume": 30,
@@ -2960,7 +2961,7 @@
             "Walk-In Lab"
           ],
           "competitor_count": 3,
-          "reason": "Category offered"
+          "reason": "Category excluded"
         },
         {
           "keyword": "lab tests for gut health",
@@ -2971,7 +2972,7 @@
             "Ulta Lab Tests"
           ],
           "competitor_count": 2,
-          "reason": "Offers gut health"
+          "reason": "Category excluded"
         },
         {
           "keyword": "human giardia stool sample",
@@ -2981,7 +2982,7 @@
             "Walk-In Lab"
           ],
           "competitor_count": 1,
-          "reason": "Category offered"
+          "reason": "Category excluded"
         },
         {
           "keyword": "best gut biome test",
@@ -2991,7 +2992,7 @@
             "Function Health"
           ],
           "competitor_count": 1,
-          "reason": "Category offered"
+          "reason": "Category excluded"
         },
         {
           "keyword": "ova and parasite stool test labcorp",
@@ -3001,7 +3002,7 @@
             "Walk-In Lab"
           ],
           "competitor_count": 1,
-          "reason": "Category offered"
+          "reason": "Category excluded"
         },
         {
           "keyword": "blood in stool test kit",
@@ -3011,7 +3012,7 @@
             "Everlywell"
           ],
           "competitor_count": 1,
-          "reason": "Category offered"
+          "reason": "Category excluded"
         },
         {
           "keyword": "doctor's data comprehensive stool analysis with parasitology x3",
@@ -3021,17 +3022,15 @@
             "Walk-In Lab"
           ],
           "competitor_count": 1,
-          "reason": "Offers ana"
+          "reason": "Category excluded"
         }
       ],
-      "maybe": [],
-      "skip": [],
-      "pursue_count": 7,
+      "pursue_count": 0,
       "maybe_count": 0,
-      "skip_count": 0,
-      "pursue_volume": 590,
+      "skip_count": 14,
+      "pursue_volume": 0,
       "maybe_volume": 0,
-      "skip_volume": 0
+      "skip_volume": 590
     },
     {
       "name": "Heart & Cholesterol",
@@ -8413,7 +8412,9 @@
     },
     {
       "name": "Toxin Testing",
-      "pursue": [
+      "pursue": [],
+      "maybe": [],
+      "skip": [
         {
           "keyword": "lead poisoning test",
           "volume": 800,
@@ -8422,7 +8423,7 @@
             "Ulta Lab Tests"
           ],
           "competitor_count": 1,
-          "reason": "Category offered"
+          "reason": "Category excluded"
         },
         {
           "keyword": "how to test for heavy metals in your body",
@@ -8432,17 +8433,15 @@
             "Function Health"
           ],
           "competitor_count": 1,
-          "reason": "Offers heavy metal"
+          "reason": "Category excluded"
         }
       ],
-      "maybe": [],
-      "skip": [],
-      "pursue_count": 2,
+      "pursue_count": 0,
       "maybe_count": 0,
-      "skip_count": 0,
-      "pursue_volume": 900,
+      "skip_count": 4,
+      "pursue_volume": 0,
       "maybe_volume": 0,
-      "skip_volume": 0
+      "skip_volume": 900
     },
     {
       "name": "Vitamins & Nutrients",
@@ -9304,30 +9303,6 @@
       ],
       "competitor_count": 3,
       "category": "Other Health Tests"
-    },
-    {
-      "keyword": "grail galleri cancer test",
-      "volume": 30,
-      "cpc": 1.55,
-      "competitors": [
-        "Everlywell",
-        "Exact Sciences",
-        "Galleri"
-      ],
-      "competitor_count": 3,
-      "category": "Cancer Screening"
-    },
-    {
-      "keyword": "online stool test",
-      "volume": 30,
-      "cpc": 1.16,
-      "competitors": [
-        "Everlywell",
-        "Ulta Lab Tests",
-        "Walk-In Lab"
-      ],
-      "competitor_count": 3,
-      "category": "Gut Health"
     },
     {
       "keyword": "cholesterol test cost",
