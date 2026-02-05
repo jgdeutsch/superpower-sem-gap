@@ -429,8 +429,8 @@
     "stat1Text": "of aging is driven by lifestyle, not genetics"
   },
   "fatty-liver-test": {
-    "headline": "1 in 4 Adults Has Fatty Liver Disease. No Alcohol Required.",
-    "ctaText": "Check for Fatty Liver",
+    "headline": "Start Testing for Fatty Liver Disease",
+    "ctaText": "Start Testing",
     "testimonialQuote": "I don't drink at all but my ALT was 68 and GGT was 55 - both elevated. Doctor had never tested liver enzymes before. Turned out I had grade 2 fatty liver from insulin resistance. Weight loss and dietary changes normalized everything in 8 months.",
     "testimonialName": "Linda M.",
     "testimonialResult": "Liver enzymes normalized in 8 months",
@@ -439,7 +439,8 @@
     "benefit3": "AI connects liver and metabolic patterns",
     "benefit4": "24/7 care team access",
     "stat1Number": "25%",
-    "stat1Text": "of adults have NAFLD - non-alcoholic fatty liver disease"
+    "stat1Text": "of adults have NAFLD - non-alcoholic fatty liver disease",
+    "subtitleOverride": "One membership covers fatty liver screening plus insulin resistance, metabolic syndrome, thyroid function, and heart health - the conditions most linked to NAFLD. See your full testing plan on the next page."
   },
   "ferritin-test": {
     "headline": "Exhausted? Your Iron Might Look Normal But Your Ferritin Tells a Different Story.",
