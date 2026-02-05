@@ -186,28 +186,32 @@ def create_landing_page_trigger(service, workspace_path):
     return result
 
 
-def create_personalization_tag(service, workspace_path, trigger_id):
-    """Create self-contained Custom HTML tag with baked-in personalization data."""
-    tag_path = os.path.join(APP_DIR, "gtm", "register_personalization_tag_selfcontained.html")
-    with open(tag_path, "r") as f:
-        html_content = f.read()
+def create_personalization_tags(service, workspace_path, trigger_id):
+    """Create self-contained Custom HTML tags with baked-in personalization data.
 
-    print(f"  Tag HTML size: {len(html_content):,} chars")
+    Split into two tags (Part 1 and Part 2) because GTM has a 102,400 char
+    limit per Custom HTML tag and 155 slugs exceed that in a single tag.
+    """
+    for part in [1, 2]:
+        tag_path = os.path.join(APP_DIR, "gtm", f"register_personalization_tag_part{part}.html")
+        with open(tag_path, "r") as f:
+            html_content = f.read()
 
-    body = {
-        "name": "SP - Register Page Personalization",
-        "type": "html",
-        "parameter": [
-            {"type": "TEMPLATE", "key": "html", "value": html_content},
-            {"type": "BOOLEAN", "key": "supportDocumentWrite", "value": "false"},
-        ],
-        "firingTriggerId": [trigger_id],
-    }
-    result = service.accounts().containers().workspaces().tags().create(
-        parent=workspace_path, body=body
-    ).execute()
-    print(f"  Created tag: {result['name']} (ID: {result['tagId']})")
-    return result
+        print(f"  Part {part} HTML size: {len(html_content):,} chars")
+
+        body = {
+            "name": f"SP - Register Page Personalization (Part {part})",
+            "type": "html",
+            "parameter": [
+                {"type": "TEMPLATE", "key": "html", "value": html_content},
+                {"type": "BOOLEAN", "key": "supportDocumentWrite", "value": "false"},
+            ],
+            "firingTriggerId": [trigger_id],
+        }
+        result = service.accounts().containers().workspaces().tags().create(
+            parent=workspace_path, body=body
+        ).execute()
+        print(f"  Created tag: {result['name']} (ID: {result['tagId']})")
 
 
 def create_link_rewriter_tag(service, workspace_path, trigger_id):
@@ -299,7 +303,7 @@ def main():
 
     # 6. Create tags
     print("6. Creating tags...")
-    create_personalization_tag(service, workspace_path, reg_trigger["triggerId"])
+    create_personalization_tags(service, workspace_path, reg_trigger["triggerId"])
     create_link_rewriter_tag(service, workspace_path, lp_trigger["triggerId"])
     print()
 
