@@ -1,0 +1,23 @@
+<script>
+// GTM Custom HTML Tag: Landing Page Link Rewriter
+// Appends ?sp_variant={slug} to all /checkout and /register links on SEM landing pages.
+// Trigger: DOM Ready, Page Path matches /(welcome-cms|sem-landing-pages)/
+(function() {
+  var path = window.location.pathname;
+  var match = path.match(/\/(?:welcome-cms|sem-landing-pages)\/([^\/]+)/);
+  if (!match) return;
+
+  var slug = match[1];
+
+  // Target both /checkout and /register links (the page uses both)
+  var links = document.querySelectorAll('a[href*="/checkout"], a[href*="/register"]');
+
+  for (var i = 0; i < links.length; i++) {
+    var href = links[i].getAttribute('href');
+    if (href && href.indexOf('sp_variant') === -1) {
+      var separator = href.indexOf('?') === -1 ? '?' : '&';
+      links[i].setAttribute('href', href + separator + 'sp_variant=' + slug);
+    }
+  }
+})();
+</script>

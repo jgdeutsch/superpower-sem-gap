@@ -1,0 +1,73 @@
+<script>
+// GTM Custom HTML Tag: Checkout Page Personalization
+// Trigger: DOM Ready, Page Path matches /checkout, SP Variant is not empty
+// Requires GTM variables: {{SP Variant}} and {{SP Personalization Data}}
+(function() {
+  var variant = {{SP Variant}};
+  if (!variant) return;
+
+  var allData = {{SP Personalization Data}};
+  if (!allData || !allData[variant]) return;
+
+  // Set data on window so the personalization script can find it
+  window.__SP_PERSONALIZATION_DATA = allData;
+
+  var page = allData[variant];
+  var MAX_ATTEMPTS = 50;
+  var attempt = 0;
+
+  function apply() {
+    attempt++;
+    var headings = document.querySelectorAll('h3.typography-heading3');
+    var headline = null;
+    var membershipHeading = null;
+
+    for (var i = 0; i < headings.length; i++) {
+      var t = headings[i].textContent.trim();
+      if (t.indexOf('Get Actionable') !== -1 || t.indexOf('Insights') !== -1) headline = headings[i];
+      else if (t.indexOf('Superpower Membership') !== -1) membershipHeading = headings[i];
+    }
+    if (!headline && headings.length > 0) headline = headings[0];
+
+    if (!headline && attempt < MAX_ATTEMPTS) { setTimeout(apply, 100); return; }
+    if (!headline) return;
+
+    var subtitle = headline.nextElementSibling;
+    if (subtitle && subtitle.tagName !== 'P') subtitle = null;
+    var ctaBtn = document.querySelector('button[type="submit"]');
+
+    if (page.headline) {
+      headline.textContent = page.headline;
+      var w = headline.parentElement;
+      if (w && w.style.opacity === '0') { w.style.opacity = '1'; w.style.transform = 'none'; }
+    }
+    if (subtitle && page.stat1Number && page.stat1Text) {
+      subtitle.textContent = page.stat1Number + ' ' + page.stat1Text + '. Find out where you stand.';
+    }
+    if (ctaBtn && page.ctaText) ctaBtn.textContent = page.ctaText;
+
+    if (membershipHeading && page.benefit1) {
+      var desc = membershipHeading.nextElementSibling;
+      if (desc && desc.tagName === 'P') {
+        var b = [page.benefit1, page.benefit2, page.benefit3, page.benefit4].filter(Boolean);
+        desc.innerHTML = b.map(function(x){return '<span style="display:block;padding:2px 0;">\u2713 '+x+'</span>';}).join('');
+      }
+    }
+
+    if (page.testimonialQuote && page.testimonialName && !document.getElementById('sp-testimonial')) {
+      var form = document.querySelector('form');
+      if (form && form.parentElement) {
+        form.parentElement.insertAdjacentHTML('beforeend',
+          '<div id="sp-testimonial" style="margin-top:24px;padding:20px 24px;background:white;border-radius:12px;border:1px solid #e5e7eb;font-family:inherit;">' +
+          '<p style="font-size:15px;line-height:1.6;color:#374151;margin:0 0 8px;font-style:italic;">\u201C'+page.testimonialQuote+'\u201D</p>' +
+          '<p style="font-size:13px;color:#6b7280;margin:0;font-weight:600;">'+page.testimonialName+
+          (page.testimonialResult?' \u2014 '+page.testimonialResult:'')+'</p></div>');
+      }
+    }
+
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({ event:'sp_personalization_applied', sp_variant:variant });
+  }
+  apply();
+})();
+</script>
