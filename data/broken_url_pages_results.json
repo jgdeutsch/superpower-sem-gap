@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "disease-screening",
+    "name": "Disease Screening",
+    "page_id": "6984675e2564ab1fc16c1288",
+    "faqs": 3,
+    "meta_title": "Disease Screening | 100+ Biomarkers | Superpower",
+    "meta_description": "Comprehensive disease screening - screen for 40+ conditions in one blood draw. Catch diabetes, heart disease, thyroid, anemia early. 100+ biomarkers. $199/year.",
+    "status": "LIVE"
+  },
+  {
+    "slug": "inflammation-test",
+    "name": "Inflammation Test",
+    "page_id": "698467692564ab1fc16c1a9e",
+    "faqs": 3,
+    "meta_title": "Inflammation Test | hsCRP Blood Test | Superpower",
+    "meta_description": "Test for chronic inflammation - hsCRP, ANA, thyroid antibodies. 3 in 5 adults have hidden inflammation. 100+ biomarkers. ~10 day results. $199/year.",
+    "status": "LIVE"
+  },
+  {
+    "slug": "specialty-tests",
+    "name": "Specialty Tests",
+    "page_id": "698467755787303ee2d67fa9",
+    "faqs": 3,
+    "meta_title": "Specialty Blood Tests | PSA, Celiac, Lyme | Superpower",
+    "meta_description": "Specialty blood tests without the specialist wait - PSA, celiac, Lyme, uric acid. Skip the referral. 100+ biomarkers. ~10 day results. $199/year.",
+    "status": "LIVE"
+  }
+]

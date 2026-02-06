@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "chronic-kidney-disease-biomarker-test",
+    "item_id": "69840a07644dd6f4fd5d7d81",
+    "status": "UPDATED",
+    "meta_title": "Kidney Disease Blood Test | eGFR + CKD Screen | Superpower"
+  },
+  {
+    "slug": "heart-failure-biomarker-test",
+    "item_id": "69840a5261dabeded1fedf1c",
+    "status": "UPDATED",
+    "meta_title": "Heart Failure Risk Test | Cardiac Biomarkers | Superpower"
+  },
+  {
+    "slug": "anemia-of-chronic-disease-biomarker-test",
+    "item_id": "698409d19d9b1ac1f9f5ca49",
+    "status": "UPDATED",
+    "meta_title": "Anemia of Chronic Disease Test | CBC + Iron | Superpower"
+  },
+  {
+    "slug": "atherosclerosis-biomarker-test",
+    "item_id": "698409e061dabeded1fe9a4e",
+    "status": "UPDATED",
+    "meta_title": "Atherosclerosis Blood Test | ApoB + Lp(a) + CRP | Superpower"
+  },
+  {
+    "slug": "peripheral-artery-disease-biomarker-test",
+    "item_id": "69840ada1be69d65ded3a208",
+    "status": "UPDATED",
+    "meta_title": "PAD Blood Test | Vascular Risk Biomarkers | Superpower"
+  },
+  {
+    "slug": "obesity-biomarker-test",
+    "item_id": "69840abd9b46a4c4358b8f50",
+    "status": "UPDATED",
+    "meta_title": "Obesity Blood Test | Metabolic Biomarkers | Superpower"
+  },
+  {
+    "slug": "sleep-apnea-biomarker-test",
+    "item_id": "69840af49b46a4c4358b9e10",
+    "status": "UPDATED",
+    "meta_title": "Sleep Apnea Blood Test | Metabolic Screening | Superpower"
+  },
+  {
+    "slug": "chronic-stress-biomarker-test",
+    "item_id": "69840a0a7fe75c98ca9069e3",
+    "status": "UPDATED",
+    "meta_title": "Chronic Stress Blood Test | Cortisol + DHEA | Superpower"
+  },
+  {
+    "slug": "cirrhosis-biomarker-test",
+    "item_id": "69840a0ce38df3dcfd9c9d8c",
+    "status": "UPDATED",
+    "meta_title": "Cirrhosis Blood Test | Liver Screening | Superpower"
+  },
+  {
+    "slug": "hepatitis-biomarker-test",
+    "item_id": "69840a591be69d65ded37fac",
+    "status": "UPDATED",
+    "meta_title": "Hepatitis Blood Test | Liver Enzyme Screening | Superpower"
+  },
+  {
+    "slug": "ibd-biomarker-test",
+    "item_id": "69840a82e38df3dcfd9cc1ca",
+    "status": "UPDATED",
+    "meta_title": "IBD Blood Test | Crohn's & Colitis Screening | Superpower"
+  },
+  {
+    "slug": "prostate-cancer-biomarker-test",
+    "item_id": "69840ae3f5f29d53034f2404",
+    "status": "UPDATED",
+    "meta_title": "Prostate Cancer Test | PSA Screening | Superpower"
+  },
+  {
+    "slug": "chronic-infection-biomarker-test",
+    "item_id": "69840a01f5f29d53034ee1e9",
+    "status": "UPDATED",
+    "meta_title": "Chronic Infection Blood Test | CBC + CRP Screen | Superpower"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "depression-biomarker-test",
+    "item_id": "69840a1f6bd7b41f0dc5574c",
+    "status": "UPDATED",
+    "meta_title": "Depression Blood Test | Biomarker Screening | Superpower"
+  },
+  {
+    "slug": "graves-disease-biomarker-test",
+    "item_id": "69840a4b1eea6c455ef7e3d7",
+    "status": "UPDATED",
+    "meta_title": "Graves' Disease Test | Thyroid Antibodies | Superpower"
+  },
+  {
+    "slug": "rheumatoid-arthritis-biomarker-test",
+    "item_id": "69840ae61be69d65ded3a77d",
+    "status": "UPDATED",
+    "meta_title": "RA Blood Test | Rheumatoid Arthritis Screening | Superpower"
+  },
+  {
+    "slug": "subclinical-hypothyroidism-biomarker-test",
+    "item_id": "69840b0204edf0560b687bc6",
+    "status": "UPDATED",
+    "meta_title": "Subclinical Hypothyroidism Test | TSH + Antibodies | Superpower"
+  }
+]

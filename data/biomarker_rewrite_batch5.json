@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "alcoholic-liver-disease-biomarker-test",
+    "item_id": "698409c7535039c962a344bb",
+    "status": "UPDATED",
+    "meta_title": "Alcoholic Liver Disease Blood Test | GGT, AST/ALT | Superpower"
+  },
+  {
+    "slug": "cholestasis-biomarker-test",
+    "item_id": "698409feb98423b6c6c18272",
+    "status": "UPDATED",
+    "meta_title": "Cholestasis Blood Test | ALP, GGT, Bilirubin | Superpower"
+  },
+  {
+    "slug": "cfs-me-biomarker-test",
+    "item_id": "698409ee4e40d9e62ee0cb90",
+    "status": "UPDATED",
+    "meta_title": "CFS/ME Blood Test | Rule Out Treatable Causes | Superpower"
+  },
+  {
+    "slug": "hyperprolactinemia-biomarker-test",
+    "item_id": "69840a6804edf0560b683e96",
+    "status": "UPDATED",
+    "meta_title": "Prolactin Blood Test | Hyperprolactinemia | Superpower"
+  },
+  {
+    "slug": "female-infertility-biomarker-test",
+    "item_id": "69840a3781ebb0f40162f909",
+    "status": "UPDATED",
+    "meta_title": "Female Infertility Blood Test | Fertility Hormones | Superpower"
+  },
+  {
+    "slug": "male-infertility-biomarker-test",
+    "item_id": "69840aa3f5f29d53034f1579",
+    "status": "UPDATED",
+    "meta_title": "Male Infertility Blood Test | Testosterone, FSH | Superpower"
+  },
+  {
+    "slug": "pancreatitis-biomarker-test",
+    "item_id": "69840acf45d1098d91448485",
+    "status": "UPDATED",
+    "meta_title": "Pancreatitis Risk Blood Test | Triglycerides + Liver | Superpower"
+  },
+  {
+    "slug": "bph-biomarker-test",
+    "item_id": "698409e88d9b7a73ed1f6312",
+    "status": "UPDATED",
+    "meta_title": "BPH Blood Test | PSA + Prostate Biomarkers | Superpower"
+  },
+  {
+    "slug": "cushings-syndrome-biomarker-test",
+    "item_id": "69840a13d53a62c47e9ff464",
+    "status": "UPDATED",
+    "meta_title": "Cushing's Syndrome Blood Test | Cortisol Screening | Superpower"
+  },
+  {
+    "slug": "addisons-disease-biomarker-test",
+    "item_id": "698409c13febf6fbcd920f76",
+    "status": "UPDATED",
+    "meta_title": "Addison's Disease Blood Test | Cortisol Screening | Superpower"
+  },
+  {
+    "slug": "subclinical-hyperthyroidism-biomarker-test",
+    "item_id": "69840aff45d1098d914499ac",
+    "status": "UPDATED",
+    "meta_title": "Subclinical Hyperthyroidism Test | TSH + T4 | Superpower"
+  },
+  {
+    "slug": "osteomalacia-biomarker-test",
+    "item_id": "69840ac0428daf778066dec3",
+    "status": "UPDATED",
+    "meta_title": "Osteomalacia Blood Test | Vitamin D + Bone Markers | Superpower"
+  }
+]

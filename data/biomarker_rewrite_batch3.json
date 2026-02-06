@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "vitamin-b12-deficiency-biomarker-test",
+    "item_id": "69840b15535039c962a37c33",
+    "status": "UPDATED",
+    "meta_title": "B12 Deficiency Blood Test | Vitamin B12 Level | Superpower"
+  },
+  {
+    "slug": "folate-deficiency-biomarker-test",
+    "item_id": "69840a3b963b0dcd74de91e7",
+    "status": "UPDATED",
+    "meta_title": "Folate Deficiency Test | Blood Folate Level | Superpower"
+  },
+  {
+    "slug": "osteoporosis-biomarker-test",
+    "item_id": "69840ac204edf0560b6867a0",
+    "status": "UPDATED",
+    "meta_title": "Osteoporosis Blood Test | Bone Biomarkers | Superpower"
+  },
+  {
+    "slug": "gout-biomarker-test",
+    "item_id": "69840a486bd7b41f0dc56a66",
+    "status": "UPDATED",
+    "meta_title": "Gout Blood Test | Uric Acid Biomarkers | Superpower"
+  },
+  {
+    "slug": "hyperuricemia-biomarker-test",
+    "item_id": "69840a6f2f4eef8d0465f7c1",
+    "status": "UPDATED",
+    "meta_title": "High Uric Acid Test | Hyperuricemia Screening | Superpower"
+  },
+  {
+    "slug": "celiac-disease-biomarker-test",
+    "item_id": "698409fb67dfdf3740400fac",
+    "status": "UPDATED",
+    "meta_title": "Celiac Disease Blood Test | tTG-IgA Screening | Superpower"
+  },
+  {
+    "slug": "systemic-lupus-erythematosus-biomarker-test",
+    "item_id": "69840b052b5b5f1d4f82d0b0",
+    "status": "UPDATED",
+    "meta_title": "Lupus Blood Test | ANA + Autoimmune Screening | Superpower"
+  },
+  {
+    "slug": "dyslipidemia-biomarker-test",
+    "item_id": "69840a2804edf0560b681e6f",
+    "status": "UPDATED",
+    "meta_title": "Dyslipidemia Blood Test | ApoB + Advanced Lipids | Superpower"
+  },
+  {
+    "slug": "coronary-artery-disease-biomarker-test",
+    "item_id": "69840a10644dd6f4fd5d8465",
+    "status": "UPDATED",
+    "meta_title": "Heart Disease Biomarkers | ApoB, Lp(a), CRP | Superpower"
+  },
+  {
+    "slug": "hypertension-biomarker-test",
+    "item_id": "69840a6a45d1098d914448ff",
+    "status": "UPDATED",
+    "meta_title": "Hypertension Blood Test | Root Cause Biomarkers | Superpower"
+  },
+  {
+    "slug": "menopause-biomarker-test",
+    "item_id": "69840aa804edf0560b6854a3",
+    "status": "UPDATED",
+    "meta_title": "Menopause Blood Test | FSH + Hormones + Thyroid | Superpower"
+  },
+  {
+    "slug": "male-hypogonadism-biomarker-test",
+    "item_id": "69840aa03febf6fbcd923ee7",
+    "status": "UPDATED",
+    "meta_title": "Low Testosterone Test | Male Hormone Biomarkers | Superpower"
+  },
+  {
+    "slug": "female-hypogonadism-biomarker-test",
+    "item_id": "69840a356bd7b41f0dc56445",
+    "status": "UPDATED",
+    "meta_title": "Female Hormone Test | Estradiol, FSH, Testosterone | Superpower"
+  }
+]

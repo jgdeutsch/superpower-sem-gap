@@ -1,0 +1,68 @@
+[
+  {
+    "slug": "hashimotos-biomarker-test",
+    "item_id": "69840a5145d1098d91443845",
+    "status": "UPDATED",
+    "meta_title": "Hashimoto's Blood Test | Thyroid Antibodies | Superpower"
+  },
+  {
+    "slug": "hypothyroidism-biomarker-test",
+    "item_id": "69840a7b644dd6f4fd5dc4fc",
+    "status": "UPDATED",
+    "meta_title": "Hypothyroidism Blood Test | Full Thyroid Panel | Superpower"
+  },
+  {
+    "slug": "hyperthyroidism-biomarker-test",
+    "item_id": "69840a6d1be69d65ded3882b",
+    "status": "UPDATED",
+    "meta_title": "Hyperthyroidism Blood Test | Thyroid Biomarkers | Superpower"
+  },
+  {
+    "slug": "pcos-biomarker-test",
+    "item_id": "69840ac92f4eef8d04660d4c",
+    "status": "UPDATED",
+    "meta_title": "PCOS Biomarker Test | Hormones + Insulin | Superpower"
+  },
+  {
+    "slug": "insulin-resistance-biomarker-test",
+    "item_id": "69840a85eb6a8b2bf0411a4b",
+    "status": "UPDATED",
+    "meta_title": "Insulin Resistance Biomarkers | Fasting Insulin | Superpower"
+  },
+  {
+    "slug": "prediabetes-biomarker-test",
+    "item_id": "69840ae04e40d9e62ee13b52",
+    "status": "UPDATED",
+    "meta_title": "Prediabetes Biomarkers | A1C + Insulin Test | Superpower"
+  },
+  {
+    "slug": "diabetes-mellitus-type-2-biomarker-test",
+    "item_id": "69840a2267dfdf3740402578",
+    "status": "UPDATED",
+    "meta_title": "Type 2 Diabetes Blood Test | Biomarker Screening | Superpower"
+  },
+  {
+    "slug": "metabolic-syndrome-biomarker-test",
+    "item_id": "69840aab4e40d9e62ee12adc",
+    "status": "UPDATED",
+    "meta_title": "Metabolic Syndrome Test | Biomarker Screening | Superpower"
+  },
+  {
+    "slug": "nafld-biomarker-test",
+    "item_id": "69840ab381ebb0f4016325db",
+    "status": "UPDATED",
+    "meta_title": "NAFLD Biomarker Test | Liver + Metabolic Panel | Superpower"
+  },
+  {
+    "slug": "iron-deficiency-anemia-biomarker-test",
+    "item_id": "69840a899d9b1ac1f9f63347",
+    "status": "UPDATED",
+    "meta_title": "Iron Deficiency Blood Test | Ferritin + Iron Panel | Superpower"
+  },
+  {
+    "slug": "vitamin-d-deficiency-biomarker-test",
+    "item_id": "69840b18e38df3dcfd9ce8d1",
+    "status": "UPDATED",
+    "meta_title": "Vitamin D Deficiency Test | 25-OH Vitamin D | Superpower"
+  }
+]
