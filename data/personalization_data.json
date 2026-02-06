@@ -2756,5 +2756,47 @@
     "benefit4": "24/7 care team access",
     "stat1Number": "47%",
     "stat1Text": "of members find hormones driving stubborn body fat"
+  },
+  "t3-t4-test": {
+    "headline": "Screen for Thyroid Disease and 1,000+ Conditions.",
+    "ctaText": "Start Testing",
+    "subtitleOverride": "100+ biomarkers in one blood draw. Free T3, Free T4, TSH, antibodies, and more.",
+    "testimonialQuote": "TSH was 2.4 - 'perfect.' But Free T3 was at the bottom of the range and Free T4 was barely converting. My thyroid was struggling and TSH hadn't caught up. Treatment based on T3/T4 changed everything.",
+    "testimonialName": "Patricia N.",
+    "testimonialResult": "T3/T4 revealed what TSH missed",
+    "benefit1": "Free T3, Free T4, and antibodies - not just TSH",
+    "benefit2": "100+ biomarkers including iron, D, and B12",
+    "benefit3": "AI catches thyroid conversion issues",
+    "benefit4": "24/7 care team access",
+    "stat1Number": "60%",
+    "stat1Text": "of thyroid disease goes undiagnosed with TSH alone"
+  },
+  "gluten-intolerance-test": {
+    "headline": "Screen for Gluten Sensitivity and 1,000+ Conditions.",
+    "ctaText": "Start Testing",
+    "subtitleOverride": "100+ biomarkers in one blood draw. Inflammation, absorption, immune markers, and more.",
+    "testimonialQuote": "Celiac test was negative. Doctor said gluten wasn't my problem. Superpower found hs-CRP at 5.4, ferritin at 10, and vitamin D at 18 - classic malabsorption pattern. Went gluten-free anyway. All three normalized in 3 months.",
+    "testimonialName": "Amanda J.",
+    "testimonialResult": "Gluten damage found despite negative celiac test",
+    "benefit1": "Inflammation and absorption markers",
+    "benefit2": "Iron, D, B12 - nutrients gluten depletes",
+    "benefit3": "AI flags gluten-related damage patterns",
+    "benefit4": "24/7 care team access",
+    "stat1Number": "6x",
+    "stat1Text": "more people have gluten sensitivity than celiac disease"
+  },
+  "energy-test": {
+    "headline": "Screen for Fatigue Causes and 1,000+ Conditions.",
+    "ctaText": "Start Testing",
+    "subtitleOverride": "100+ biomarkers in one blood draw. Thyroid, iron, B12, hormones, glucose, and more.",
+    "testimonialQuote": "Tired for 3 years. Doctor said 'get more sleep.' Superpower found thyroid antibodies (Hashimoto's), ferritin at 8, and vitamin D at 15. Three treatable causes of fatigue hiding behind normal-looking basic labs.",
+    "testimonialName": "Jennifer H.",
+    "testimonialResult": "3 fatigue causes found, energy restored",
+    "benefit1": "20+ causes of fatigue tested in one draw",
+    "benefit2": "Thyroid, iron, B12, D, hormones, glucose",
+    "benefit3": "AI identifies your specific fatigue pattern",
+    "benefit4": "24/7 care team access",
+    "stat1Number": "78%",
+    "stat1Text": "of members with fatigue find a treatable cause"
   }
 }
