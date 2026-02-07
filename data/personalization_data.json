@@ -165,7 +165,7 @@
     "benefit4": "24/7 care team access",
     "stat1Number": "100+",
     "stat1Text": "biomarkers tested in a single at-home blood draw - more comprehensive than most doctor-ordered panels",
-    "subtitleOverride": "At-home phlebotomist ($99 add-on). Heart, hormones, thyroid, liver, kidney, vitamins, and more."
+    "subtitleOverride": "$199/year membership + $99 at-home phlebotomist. Heart, hormones, thyroid, liver, kidney, vitamins, and more."
   },
   "blood-test-general": {
     "headline": "100+ Biomarkers. One Blood Draw. $199/Year.",
@@ -263,7 +263,7 @@
     "benefit4": "At-home licensed phlebotomist ($99 add-on)",
     "stat1Number": "83%",
     "stat1Text": "of people with celiac disease are undiagnosed",
-    "subtitleOverride": "100+ biomarkers at home ($99 phlebotomist add-on). Celiac panel, iron, B12, and more."
+    "subtitleOverride": "$199/year membership + $99 at-home phlebotomist. Celiac panel, iron, B12, and more."
   },
   "cgm-cost": {
     "headline": "100+ Biomarkers for $199/Year. Skip the CGM.",
@@ -389,7 +389,7 @@
     "benefit4": "24/7 care team access",
     "stat1Number": "75%",
     "stat1Text": "of cortisol tests show elevated levels partly due to lab visit stress",
-    "subtitleOverride": "100+ biomarkers at home ($99 phlebotomist add-on). Cortisol, hormones, thyroid, and more."
+    "subtitleOverride": "$199/year membership + $99 at-home phlebotomist. Cortisol, hormones, thyroid, and more."
   },
   "crp-test": {
     "headline": "Screen for Inflammation and 1,000+ Conditions.",
@@ -571,7 +571,7 @@
     "benefit4": "24/7 care team access",
     "stat1Number": "86%",
     "stat1Text": "of chronic diseases are detected late because annual physicals miss them",
-    "subtitleOverride": "At-home phlebotomist ($99 add-on). Heart, hormones, thyroid, liver, kidney, vitamins, and more."
+    "subtitleOverride": "$199/year membership + $99 at-home phlebotomist. Heart, hormones, thyroid, liver, kidney, vitamins, and more."
   },
   "heart-disease-screening": {
     "headline": "Screen for Heart Disease and 1,000+ Conditions.",
@@ -1215,7 +1215,7 @@
     "benefit4": "At-home licensed phlebotomist ($99 add-on)",
     "stat1Number": "60%",
     "stat1Text": "of thyroid problems missed by TSH-only testing",
-    "subtitleOverride": "100+ biomarkers at home ($99 phlebotomist add-on). All 7 thyroid markers, antibodies, and more."
+    "subtitleOverride": "$199/year membership + $99 at-home phlebotomist. All 7 thyroid markers, antibodies, and more."
   },
   "triglycerides": {
     "headline": "Screen for Heart Disease and 1,000+ Conditions.",
@@ -2284,7 +2284,7 @@
   "cholesterol-test-at-home": {
     "headline": "Screen for Heart Disease and 1,000+ Conditions.",
     "ctaText": "Start Testing",
-    "subtitleOverride": "100+ biomarkers at home ($99 phlebotomist add-on). ApoB, Lp(a), advanced lipids, and more.",
+    "subtitleOverride": "$199/year membership + $99 at-home phlebotomist. ApoB, Lp(a), advanced lipids, and more.",
     "testimonialQuote": "Total cholesterol was 210 - doctor said 'watch your diet.' Superpower's at-home test found ApoB at 138 and Lp(a) at 95. Two major risk factors my basic panel never tested. Now I'm on proper treatment.",
     "testimonialName": "Brian K.",
     "testimonialResult": "Found 2 hidden risk factors from home",
@@ -2312,7 +2312,7 @@
   "at-home-diabetes-test": {
     "headline": "Screen for Diabetes and 1,000+ Conditions.",
     "ctaText": "Start Testing",
-    "subtitleOverride": "100+ biomarkers at home ($99 phlebotomist add-on). A1C, fasting insulin, glucose, and more.",
+    "subtitleOverride": "$199/year membership + $99 at-home phlebotomist. A1C, fasting insulin, glucose, and more.",
     "testimonialQuote": "A1C was 6.1 - prediabetic. Fasting insulin was 18 - insulin resistant for years. Doctor's annual physical never tested either. At-home blood draw found both. Diet changes reversed it in 5 months.",
     "testimonialName": "Chris B.",
     "testimonialResult": "Reversed prediabetes caught by at-home test",
@@ -2816,7 +2816,7 @@
   "blood-draw": {
     "headline": "100+ Biomarkers. Drawn at Home. $199/Year.",
     "ctaText": "Start Testing",
-    "subtitleOverride": "At-home phlebotomist ($99 add-on). 100+ biomarkers. Results in about 10 days.",
+    "subtitleOverride": "$199/year membership + $99 at-home phlebotomist. 100+ biomarkers. Results in about 10 days.",
     "testimonialQuote": "Phlebotomist showed up at 8am, professional blood draw in 5 minutes, and I had 100+ results 10 days later. More thorough than anything my doctor has ever ordered - and I never left my house.",
     "testimonialName": "Mike D.",
     "testimonialResult": "Found 3 issues without leaving home",
@@ -2830,7 +2830,7 @@
   "at-home-blood-work": {
     "headline": "100+ Biomarkers. Drawn at Home. $199/Year.",
     "ctaText": "Start Testing",
-    "subtitleOverride": "At-home phlebotomist ($99 add-on). Every major organ system in one visit.",
+    "subtitleOverride": "$199/year membership + $99 at-home phlebotomist. Every major organ system in one visit.",
     "testimonialQuote": "Annual physical said everything was 'normal.' At-home Superpower draw found prediabetes, low vitamin D, elevated ApoB, and borderline thyroid. Four issues my doctor's basic panel missed - all treatable when caught early.",
     "testimonialName": "David W.",
     "testimonialResult": "4 issues found at home that annual physical missed",
