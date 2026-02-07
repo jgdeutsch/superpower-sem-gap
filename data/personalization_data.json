@@ -2882,5 +2882,33 @@
     "benefit4": "24/7 care team access",
     "stat1Number": "8x",
     "stat1Text": "more women than men develop thyroid disease - we test all 7 markers"
+  },
+  "blood-urea-nitrogen-bun-test": {
+    "headline": "Screen for Kidney Disease and 1,000+ Conditions.",
+    "ctaText": "Start Testing",
+    "subtitleOverride": "100+ biomarkers in one blood draw. BUN, creatinine, eGFR, electrolytes, and more.",
+    "testimonialQuote": "BUN was 32 - flagged high. Doctor said it was 'probably fine.' Superpower's AI connected it with my borderline creatinine and low eGFR. Turns out I had early stage kidney issues from uncontrolled blood pressure. Caught it before real damage.",
+    "testimonialName": "Frank M.",
+    "testimonialResult": "Caught early kidney disease from high BUN",
+    "benefit1": "BUN, creatinine, eGFR, and full kidney panel",
+    "benefit2": "100+ biomarkers including metabolic panel",
+    "benefit3": "AI connects kidney markers to root causes",
+    "benefit4": "24/7 care team access",
+    "stat1Number": "37M",
+    "stat1Text": "Americans have chronic kidney disease - most don't know it"
+  },
+  "ldl-cholesterol-test": {
+    "headline": "Screen for Heart Disease and 1,000+ Conditions.",
+    "ctaText": "Start Testing",
+    "subtitleOverride": "100+ biomarkers in one blood draw. LDL, ApoB, Lp(a), triglycerides, and more.",
+    "testimonialQuote": "LDL was 118 - doctor said fine. Superpower tested ApoB at 142 and Lp(a) at 95 nmol/L. LDL alone was hiding serious cardiovascular risk. Now on a statin and my numbers are where they should be.",
+    "testimonialName": "David H.",
+    "testimonialResult": "Found hidden heart risk behind 'good' LDL",
+    "benefit1": "LDL plus ApoB and Lp(a) - the real risk markers",
+    "benefit2": "100+ biomarkers beyond a basic lipid panel",
+    "benefit3": "AI identifies hidden cardiovascular risk",
+    "benefit4": "24/7 care team access",
+    "stat1Number": "50%",
+    "stat1Text": "of heart attacks occur in people with 'normal' LDL"
   }
 }
