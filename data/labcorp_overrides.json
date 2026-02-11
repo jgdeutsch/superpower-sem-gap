@@ -1,0 +1,18 @@
+{
+  "_comment": "CRO overrides for Labcorp location pages. Priority: per-slug > _default_nynj (for NY/NJ) > _default. Keys match HTML element IDs or section names.",
+  "_default": {
+    "ad_headline": "100+ blood tests. One draw. $199.",
+    "ad_subheadline": "The blood work your doctor should order but doesn't.",
+    "cta_headline": "100+ blood tests. One draw. $199.",
+    "cta_subheadline": "Most physicals check 15-20 things and call it thorough. Superpower runs over 100 - heart, thyroid, hormones, vitamins, metabolic, inflammation - so nothing slips through the cracks.",
+    "testimonial_quote": "My annual blood work came back 'normal.' Superpower found a heart risk marker my doctor never tested, a borderline thyroid problem, low vitamin D, and early signs of insulin resistance. Four things that would have gone undetected for years.",
+    "testimonial_author": "David W.",
+    "testimonial_result": "4 health issues found that standard blood work missed"
+  },
+  "_default_nynj": {
+    "ad_headline": "90+ blood tests. One draw. $399.",
+    "ad_subheadline": "The blood work your doctor should order but doesn't.",
+    "cta_headline": "90+ blood tests. One draw. $399.",
+    "cta_subheadline": "Most physicals check 15-20 things and call it thorough. Superpower runs over 90 - heart, thyroid, hormones, vitamins, metabolic, inflammation - so nothing slips through the cracks."
+  }
+}
