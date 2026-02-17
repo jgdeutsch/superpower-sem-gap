@@ -236,10 +236,10 @@ def publish_container(service, container_path):
                 .create_version(
                     path=workspace_path,
                     body={
-                        "name": "v228: Bundle discount prices (METABOLIC30, THYROID40, etc.)",
-                        "notes": "All 30 Care Journey headlines/subtitles updated with "
-                        "discounted bundle prices ($30-$50 off). 9 discount codes "
-                        "created in Stripe via Cortana. 153 slugs total.",
+                        "name": "v230: Strip app. subdomain from all LP CTA links",
+                        "notes": "Link Rewriter now strips app.superpower.com to "
+                        "superpower.com on all CTA hrefs. Bundle links include "
+                        "products + code + sp_variant.",
                     },
                 )
                 .execute()

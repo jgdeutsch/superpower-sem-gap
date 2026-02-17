@@ -1,6 +1,9 @@
 <script>
 // GTM Custom HTML Tag: Landing Page Link Rewriter
-// Appends ?sp_variant={slug} to all /checkout and /register links on SEM landing pages.
+// Rewrites /checkout and /register links on SEM landing pages to include:
+//   - sp_variant={slug}
+//   - products={baseline,addon} (for Care Journey bundle pages)
+//   - code={DISCOUNT_CODE} (for Care Journey bundle pages)
 // Trigger: DOM Ready, Page Path matches /(welcome-cms|sem-landing-pages)/
 (function() {
   var path = window.location.pathname;
@@ -9,14 +12,65 @@
 
   var slug = match[1];
 
-  // Target both /checkout and /register links (the page uses both)
+  // Care Journey bundle lookup: slug -> {products, code}
+  var B = {
+    'metabolic-health-test':{p:'baseline,metabolic',c:'METABOLIC30'},
+    'insulin-resistance-test-advanced':{p:'baseline,metabolic',c:'METABOLIC30'},
+    'prediabetes-test-complete':{p:'baseline,metabolic',c:'METABOLIC30'},
+    'thyroid-hormone-test':{p:'baseline,advanced-upgrade',c:'THYROID40'},
+    'womens-hormone-test':{p:'baseline,advanced-upgrade',c:'THYROID40'},
+    'autoimmune-test-panel':{p:'baseline,autoimmunity',c:'AUTOIMMUNE40'},
+    'celiac-test-panel':{p:'baseline,autoimmunity',c:'AUTOIMMUNE40'},
+    'ana-test-autoimmune':{p:'baseline,autoimmunity',c:'AUTOIMMUNE40'},
+    'hashimotos-test-panel':{p:'baseline,autoimmunity',c:'AUTOIMMUNE40'},
+    'heart-health-test-advanced':{p:'baseline,cardiovascular',c:'HEART30'},
+    'cholesterol-test-advanced':{p:'baseline,cardiovascular',c:'HEART30'},
+    'apob-lpa-test':{p:'baseline,cardiovascular',c:'HEART30'},
+    'heart-disease-risk-test':{p:'baseline,cardiovascular',c:'HEART30'},
+    'vitamin-deficiency-test-complete':{p:'baseline,nutrients',c:'NUTRIENTS30'},
+    'micronutrient-test-blood':{p:'baseline,nutrients',c:'NUTRIENTS30'},
+    'vitamin-deficiency-fatigue-test':{p:'baseline,nutrients',c:'NUTRIENTS30'},
+    'magnesium-test-panel':{p:'baseline,nutrients',c:'NUTRIENTS30'},
+    'methylation-test':{p:'baseline,methylation',c:'METHYLATION30'},
+    'mthfr-test-functional':{p:'baseline,methylation',c:'METHYLATION30'},
+    'homocysteine-test-complete':{p:'baseline,methylation',c:'METHYLATION30'},
+    'methylation-panel-complete':{p:'baseline,methylation',c:'METHYLATION30'},
+    'gut-health-test-complete':{p:'baseline,gut-microbiome',c:'GUT40'},
+    'microbiome-test-blood':{p:'baseline,gut-microbiome',c:'GUT40'},
+    'cancer-screening-test':{p:'baseline,galleri',c:'GALLERI50'},
+    'galleri-test-bundle':{p:'baseline,galleri',c:'GALLERI50'},
+    'multi-cancer-screening-test':{p:'baseline,galleri',c:'GALLERI50'},
+    'biological-age-test-complete':{p:'baseline,cardiovascular,methylation,nutrients',c:'LONGEVITY50'},
+    'biological-age-test-blood':{p:'baseline,cardiovascular,methylation,nutrients',c:'LONGEVITY50'},
+    'longevity-blood-panel':{p:'baseline,cardiovascular,methylation,nutrients',c:'LONGEVITY50'},
+    'organ-age-test':{p:'baseline,cardiovascular,methylation,nutrients',c:'LONGEVITY50'}
+  };
+
+  var bundle = B[slug];
   var links = document.querySelectorAll('a[href*="/checkout"], a[href*="/register"]');
 
   for (var i = 0; i < links.length; i++) {
     var href = links[i].getAttribute('href');
-    if (href && href.indexOf('sp_variant') === -1) {
-      var separator = href.indexOf('?') === -1 ? '?' : '&';
-      links[i].setAttribute('href', href + separator + 'sp_variant=' + slug);
+    if (!href) continue;
+
+    // Strip app. subdomain from all links
+    href = href.replace('://app.superpower.com/', '://superpower.com/');
+
+    if (bundle) {
+      // Care Journey bundle: rewrite to checkout with products + code + sp_variant
+      var base = href.split('?')[0];
+      if (base.indexOf('/register') !== -1) {
+        base = base.replace('/register', '/checkout');
+      }
+      links[i].setAttribute('href', base + '?products=' + bundle.p + '&sp_variant=' + slug + '&code=' + bundle.c);
+    } else {
+      // Standard page: just append sp_variant
+      if (href.indexOf('sp_variant') === -1) {
+        var sep = href.indexOf('?') === -1 ? '?' : '&';
+        links[i].setAttribute('href', href + sep + 'sp_variant=' + slug);
+      } else {
+        links[i].setAttribute('href', href);
+      }
     }
   }
 })();
