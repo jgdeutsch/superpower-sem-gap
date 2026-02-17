@@ -1,0 +1,695 @@
+===== CHUNK 1 of 6 (6370 chars) =====
+
+<!-- CHUNK 1 of 6 - Template open, top banner ad, breadcrumb, hero left column through complaint pills -->
+
+<!-- Nav is inherited from Webflow site shell - not included in embed -->
+
+<div class="lc-template">
+
+  <!-- Hidden data for JS: current location lat/lng -->
+  <div id="lc-page-data" style="display:none" data-lat="{{wf {"path":"latitude","type":"PlainText"} }}" data-lng="{{wf {"path":"longitude","type":"PlainText"} }}" data-state="{{wf {"path":"state","type":"PlainText"} }}"></div>
+
+  <!-- Hidden data for JS: reviews JSON -->
+  <div id="lc-reviews-json" style="display:none">{{wf {"path":"reviews-json","type":"PlainText"} }}</div>
+
+  <!-- ===== SUPERPOWER AD UNIT (above listing) ===== -->
+  <div class="lc-top-banner">
+    <div class="lc-top-banner-inner">
+      <div class="lc-top-banner-ad">
+        <div class="lc-top-banner-sponsor">Sponsored</div>
+        <div class="lc-top-banner-left">
+          <div class="lc-top-banner-logo">
+            <span class="lc-top-banner-logo-text">superpower</span>
+          </div>
+          <div class="lc-top-banner-text">
+            <h2 id="ad-headline">100+ blood tests. One draw. $199. <span class="lc-hsa-tag" style="font-size: 11px; font-weight: 600; background: rgba(34,197,94,0.15); color: #4ade80; vertical-align: middle; margin-left: 4px;">HSA/FSA eligible</span></h2>
+            <p id="ad-subheadline">The blood work your doctor should order but doesn't.</p>
+          </div>
+        </div>
+        <div class="lc-top-banner-rating">
+          <div class="lc-stars">
+            <svg class="lc-star" viewBox="0 0 20 20" fill="currentColor"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            <svg class="lc-star" viewBox="0 0 20 20" fill="currentColor"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            <svg class="lc-star" viewBox="0 0 20 20" fill="currentColor"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            <svg class="lc-star" viewBox="0 0 20 20" fill="currentColor"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            <svg class="lc-star" viewBox="0 0 20 20"><defs><linearGradient id="halfStar"><stop offset="50%" stop-color="#facc15"/><stop offset="50%" stop-color="#555"/></linearGradient></defs><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" fill="url(#halfStar)"/></svg>
+          </div>
+          <span class="lc-top-banner-rating-text"><strong>4.5</strong> (105 reviews)</span>
+        </div>
+        <a class="lc-top-banner-btn" href="#superpower-cta">
+          Learn More
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="lc-container">
+
+    <!-- BREADCRUMB -->
+    <div class="lc-breadcrumb">
+      Labcorp Locations
+      <span>/</span>
+      {{wf {"path":"state","type":"PlainText"} }}
+      <span>/</span>
+      {{wf {"path":"city","type":"PlainText"} }}, {{wf {"path":"state","type":"PlainText"} }}
+    </div>
+
+    <!-- ===== HERO: LOCATION INFO ===== -->
+    <section class="lc-hero">
+      <div class="lc-hero-grid">
+
+        <!-- LEFT: Location details -->
+        <div>
+          <div class="lc-location-card">
+            <div class="lc-location-header">
+              <div class="lc-location-icon">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+              </div>
+              <div>
+                <h1 class="lc-location-name">{{wf {"path":"name","type":"PlainText"} }}</h1>
+                <div class="lc-location-category">{{wf {"path":"category","type":"PlainText"} }}</div>
+              </div>
+            </div>
+
+            <!-- Status -->
+            <div class="lc-status-badge">
+              <div class="lc-status-dot"></div>
+              {{wf {"path":"current-status","type":"PlainText"} }}
+            </div>
+
+            <!-- Rating -->
+            <div class="lc-rating">
+              <div class="lc-stars" id="locationStars" data-rating="{{wf {"path":"rating","type":"PlainText"} }}"></div>
+              <span class="lc-rating-text"><strong>{{wf {"path":"rating","type":"PlainText"} }}</strong> ({{wf {"path":"reviewcount","type":"Number"} }} reviews)</span>
+            </div>
+
+
+          </div>
+        </div>
+
+        <!-- RIGHT: Featured image -->
+        <div>
+          <img class="lc-location-image" id="lc-featured-img" src="{{wf {"path":"featured-image","type":"ImageRef"} }}" alt="{{wf {"path":"name","type":"PlainText"} }} - {{wf {"path":"adress","type":"PlainText"} }}" onerror="this.style.display='none'"/>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+
+
+===== CHUNK 2 of 6 (3792 chars) =====
+
+<!-- CHUNK 2 of 6 - Info rows (address/phone/hours), image, map, Google reviews with real review cards -->
+
+<div class="lc-template">
+  <div class="lc-container">
+    <section class="lc-hero">
+      <div class="lc-hero-grid">
+        <div>
+          <div class="lc-location-card">
+
+            <!-- Info rows -->
+            <div class="lc-info-row">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+              <div>{{wf {"path":"adress","type":"PlainText"} }}</div>
+            </div>
+
+            <div class="lc-info-row">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+              <div>{{wf {"path":"phone-number","type":"Phone"} }}</div>
+            </div>
+
+            <div class="lc-info-row" id="lc-hours-row">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+              <div>
+                <div class="lc-hours-table">
+                  <div class="lc-hours-row"><span class="lc-hours-day">Monday</span><span class="lc-hours-time">{{wf {"path":"monday","type":"PlainText"} }}</span></div>
+                  <div class="lc-hours-row"><span class="lc-hours-day">Tuesday</span><span class="lc-hours-time">{{wf {"path":"tueday","type":"PlainText"} }}</span></div>
+                  <div class="lc-hours-row"><span class="lc-hours-day">Wednesday</span><span class="lc-hours-time">{{wf {"path":"wednesday","type":"PlainText"} }}</span></div>
+                  <div class="lc-hours-row"><span class="lc-hours-day">Thursday</span><span class="lc-hours-time">{{wf {"path":"thursday","type":"PlainText"} }}</span></div>
+                  <div class="lc-hours-row"><span class="lc-hours-day">Friday</span><span class="lc-hours-time">{{wf {"path":"friday","type":"PlainText"} }}</span></div>
+                  <div class="lc-hours-row"><span class="lc-hours-day">Saturday</span><span class="lc-hours-time">{{wf {"path":"saturday","type":"PlainText"} }}</span></div>
+                  <div class="lc-hours-row"><span class="lc-hours-day">Sunday</span><span class="lc-hours-time">{{wf {"path":"sunday","type":"PlainText"} }}</span></div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- RIGHT: Map -->
+        <div>
+          <div class="lc-map-container">
+            <iframe src="https://maps.google.com/maps?q={{wf {"path":"latitude","type":"PlainText"} }},{{wf {"path":"longitude","type":"PlainText"} }}&z=15&output=embed" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== REVIEWS (rendered by JS from reviews-json CMS field) ===== -->
+    <section class="lc-reviews" id="lc-reviews-section">
+      <div class="lc-reviews-header">
+        <h2 class="lc-reviews-title">Reviews</h2>
+        <span class="lc-reviews-source"><span id="lc-reviews-rating-text">{{wf {"path":"rating","type":"PlainText"} }}</span> avg from {{wf {"path":"reviewcount","type":"Number"} }} reviews</span>
+      </div>
+      <div id="lc-reviews-container"></div>
+    </section>
+
+  </div>
+</div>
+
+
+===== CHUNK 3 of 6 (9075 chars) =====
+
+<!-- CHUNK 3 of 6 - Nearby locations, CTA banner, comparison (both cards) -->
+
+<div class="lc-template">
+  <div class="lc-container">
+
+    <!-- ===== NEARBY LABCORP LOCATIONS (dynamic) ===== -->
+    <section class="lc-nearby" id="lc-nearby-section" style="display:none">
+      <div class="lc-nearby-header">
+        <h2 class="lc-nearby-title">Nearby Labcorp locations</h2>
+      </div>
+      <div class="lc-nearby-grid" id="lc-nearby-grid"></div>
+    </section>
+
+  </div>
+
+  <!-- ===== SUPERPOWER CTA BANNER ===== -->
+  <div class="lc-container">
+  <div id="superpower-cta" class="lc-cta-banner">
+    <div class="lc-cta-banner-inner">
+      <div>
+        <svg width="120" height="16" viewBox="0 0 222 30" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-bottom: 16px; display: block;"><path d="M1.03669 6.94685C1.03669 -0.956311 17.1038 -2.59711 18.1114 6.86481C18.1386 7.49378 17.8663 7.79459 17.4033 7.79459H13.4002C12.9372 7.79459 12.7194 7.57582 12.6104 7.08358C11.9841 3.36445 6.45594 4.21219 6.45594 6.94685C6.45594 11.2129 18.5199 8.06806 18.5199 16.108C18.5199 25.0229 0.927765 25.2417 0.0018645 15.7524C-0.0253679 15.1782 0.246956 14.932 0.737138 14.932H4.7403C5.17602 14.932 5.42111 15.1782 5.53004 15.6978C6.21084 19.4169 12.91 19.2528 12.91 16.108C12.91 12.1154 1.03669 14.932 1.03669 6.94685ZM34.478 1.69631C34.478 1.17673 34.6959 0.875909 35.295 0.875909H39.1075C39.6794 0.875909 39.9517 1.17673 39.9517 1.69631V12.3888C39.9517 17.6941 36.6566 22.5891 30.1209 22.5891C23.5851 22.5891 20.2627 17.6941 20.2627 12.3888L20.2355 1.69631C20.2355 1.17673 20.5351 0.875909 21.0797 0.875909H24.9467C25.573 0.875909 25.7909 1.17673 25.7909 1.69631L25.8181 12.3888C25.8181 16.4088 27.8606 17.6667 30.1209 17.6667C32.3811 17.6667 34.4508 16.4088 34.4508 12.3888L34.478 1.69631ZM81.9713 9.24396H71.623C71.623 7.08358 73.7198 4.5677 77.0694 4.5677C80.419 4.5677 81.9713 7.08358 81.9713 9.24396ZM87.4177 12.4435V11.6778C87.4177 5.52483 83.9047 0.219591 76.9333 0.219591C71.7591 0.219591 68.0555 3.66526 66.6939 8.17745C66.0948 10.1464 66.0131 12.2794 66.4488 14.3304C67.5381 19.3622 71.4323 23.1907 76.9333 23.1907C77.8047 23.1907 84.994 23.1907 87.1999 16.1353C87.336 15.6704 87.1454 15.5063 86.7642 15.5063H82.407C82.1347 15.5063 81.944 15.6431 81.8079 15.9165C81.3721 16.8463 80.2284 18.6785 76.9333 18.6785C74.0194 18.6785 71.623 16.0533 71.623 13.3186H86.5735C87.1182 13.3186 87.4177 12.9904 87.4177 12.4435ZM200.405 9.29866H190.819C190.819 7.19297 192.589 4.73178 195.884 4.73178C199.179 4.73178 200.405 7.19297 200.405 9.29866ZM206.26 12.4435V11.6778C206.26 5.52483 202.719 0.219591 195.748 0.219591C190.574 0.219591 186.87 3.63792 185.509 8.17745C184.882 10.1464 184.801 12.2794 185.264 14.3304C186.326 19.3622 190.247 23.1907 195.748 23.1907C196.619 23.1907 203.809 23.1907 206.042 16.1626C206.178 15.6704 205.987 15.5063 205.579 15.5063H201.249C200.949 15.5063 200.759 15.6431 200.623 15.9165C200.187 16.8463 199.043 18.7059 195.748 18.7059C192.834 18.7059 190.71 16.0806 190.71 13.3186H205.388C205.96 13.3186 206.26 12.9904 206.26 12.4435ZM220.856 0.875909C221.619 0.875909 222 1.31346 222 2.10651V5.30606C222 6.12646 221.564 6.48196 220.747 6.48196C215.982 6.48196 213.694 8.72438 213.694 14.4945V21.7413C213.694 22.2609 213.367 22.5344 212.904 22.5344H208.847C208.384 22.5344 208.111 22.2609 208.111 21.7413V14.4945C208.111 9.51743 209.5 0.875909 220.856 0.875909ZM170.531 0.875909H166.146C165.847 0.875909 165.738 0.985295 165.629 1.31346L161.217 14.4398L157.786 1.31346C157.704 0.985295 157.568 0.875909 157.269 0.875909H152.122C151.686 0.875909 151.741 1.14938 151.822 1.45019L157.105 21.9601C157.214 22.425 157.405 22.5344 157.922 22.5344H163.396C163.804 22.5344 164.05 22.3703 164.186 21.9328L168.352 9.13457L172.492 21.9328C172.628 22.3703 172.9 22.5344 173.281 22.5344H178.782C179.3 22.5344 179.49 22.425 179.599 21.9601L184.882 1.45019C184.964 1.14938 185.018 0.875909 184.556 0.875909H179.436C179.109 0.875909 178.973 0.985295 178.891 1.31346L175.46 14.4398L171.075 1.31346C170.967 0.985295 170.83 0.875909 170.531 0.875909ZM134.993 11.6778C134.993 7.82194 137.062 5.3334 140.357 5.3334C143.653 5.3334 146.022 7.82194 146.022 11.6778C146.022 15.5337 143.571 18.0769 140.357 18.0769C137.144 18.0769 134.993 15.561 134.993 11.6778ZM140.357 0.219591C133.931 0.219591 129.301 5.52483 129.301 11.6778C129.301 17.8308 133.931 23.1907 140.357 23.1907C146.784 23.1907 151.713 17.9949 151.713 11.6778C151.713 5.36075 146.539 0.219591 140.357 0.219591ZM102.178 0.875909C102.94 0.875909 103.321 1.31346 103.321 2.10651V5.30606C103.321 6.12646 102.886 6.48196 102.069 6.48196C97.3031 6.48196 95.0155 8.72438 95.0155 14.4945V21.7413C95.0155 22.2609 94.6888 22.5344 94.2258 22.5344H90.1682C89.7052 22.5344 89.4329 22.2609 89.4329 21.7413V14.4945C89.4329 9.51743 90.8218 0.875909 102.178 0.875909ZM110.783 11.2403C110.783 15.0414 112.826 17.53 116.066 17.53C119.307 17.53 121.594 15.0688 121.594 11.2403C121.594 7.41174 119.225 5.00525 116.066 5.00525C112.907 5.00525 110.783 7.46644 110.783 11.2403ZM111.083 20.3193V29.207C111.083 29.7265 110.783 30 110.32 30H106.235C105.772 30 105.5 29.7265 105.5 29.207V2.07916C105.5 1.28611 105.936 0.875909 106.725 0.875909H110.102C110.919 0.875909 111.083 1.28611 111.083 2.07916V4.04812H111.382C115.549 -3.82769 127.422 0.438365 127.422 11.2403C127.422 22.8352 115.358 24.9135 111.083 20.3193ZM47.604 11.2403C47.604 15.0414 49.6737 17.53 52.8871 17.53C56.1005 17.53 58.4153 15.0688 58.4153 11.2403C58.4153 7.41174 56.0733 5.00525 52.8871 5.00525C49.7009 5.00525 47.604 7.46644 47.604 11.2403ZM47.8491 20.3193V29.207C47.8491 29.7265 47.5223 30 47.0594 30H43.0018C42.5116 30 42.2665 29.7265 42.2665 29.207V2.07916C42.2665 1.28611 42.675 0.875909 43.4647 0.875909H46.8688C47.6857 0.875909 47.8491 1.28611 47.8491 2.07916V4.04812H48.1214C52.288 -3.82769 64.1613 0.438365 64.1613 11.2403C64.1613 22.8352 52.0974 24.9135 47.8491 20.3193Z" fill="currentColor"></path></svg>
+        <h2 id="cta-headline">100+ blood tests. One draw. $199.</h2>
+        <p id="cta-subheadline">Most physicals check 15-20 things and call it thorough. Superpower runs over 100 - heart, thyroid, hormones, vitamins, metabolic, inflammation - so nothing slips through the cracks.</p>
+      </div>
+      <div>
+        <a class="lc-cta-button" href="https://app.superpower.com/register?sp_variant=labcorp">
+          Order Your Blood Tests
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg>
+        </a>
+      </div>
+    </div>
+  </div>
+  </div>
+
+  <!-- ===== COMPARISON ===== -->
+  <div class="lc-container">
+    <section class="lc-comparison">
+      <div class="lc-section-label">Why Superpower</div>
+      <h2 class="lc-section-title">Same blood draw. Five times the results.</h2>
+      <p class="lc-section-subtitle">Here's what a standard doctor's blood work misses - and what a Superpower membership catches.</p>
+
+      <div class="lc-compare-grid">
+        <!-- Standard -->
+        <div class="lc-compare-card">
+          <div class="lc-compare-card-header">
+            <div>
+              <h3>Standard doctor's order</h3>
+              <div class="lc-compare-subtitle">~25 tests - the old annual physical</div>
+            </div>
+          </div>
+          <ul class="lc-compare-list">
+            <li><svg class="lc-check" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg> Basic metabolic panel</li>
+            <li><svg class="lc-check" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg> CBC (complete blood count)</li>
+            <li><svg class="lc-check" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg> Basic lipid panel</li>
+            <li><svg class="lc-x" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"/></svg> <span style="opacity: 0.5;">Hormone testing</span></li>
+            <li><svg class="lc-x" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"/></svg> <span style="opacity: 0.5;">Full thyroid panel</span></li>
+            <li><svg class="lc-x" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"/></svg> <span style="opacity: 0.5;">Heart disease risk, inflammation, insulin</span></li>
+            <li><svg class="lc-x" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"/></svg> <span style="opacity: 0.5;">Vitamin D, B12, iron, ferritin</span></li>
+            <li><svg class="lc-x" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"/></svg> <span style="opacity: 0.5;">AI analysis + 24/7 care team</span></li>
+            <li><svg class="lc-x" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"/></svg> <span style="opacity: 0.5;">Biological age + 17 health scores</span></li>
+          </ul>
+        </div>
+
+        <!-- Superpower -->
+        <div class="lc-compare-card is-superpower">
+          <div class="lc-compare-card-badge">Recommended</div>
+          <div class="lc-compare-card-header">
+            <div>
+              <h3>Superpower membership</h3>
+              <div class="lc-compare-subtitle">100+ tests in one blood draw</div>
+            </div>
+            <div class="lc-compare-header-right">
+              <div class="lc-compare-header-price">$199<span>/year</span></div>
+              <span class="lc-hsa-tag"><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>HSA/FSA eligible</span>
+            </div>
+          </div>
+          <ul class="lc-compare-list">
+            <li><svg class="lc-check" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg> Basic metabolic panel</li>
+            <li><svg class="lc-check" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg> CBC (complete blood count)</li>
+            <li><svg class="lc-check" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg> Basic lipid panel</li>
+            <li><svg class="lc-check" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg> Hormone testing (testosterone, cortisol, DHEA)</li>
+            <li><svg class="lc-check" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg> Full thyroid panel (not just TSH)</li>
+            <li><svg class="lc-check" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg> Heart disease risk, inflammation, insulin</li>
+            <li><svg class="lc-check" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg> Vitamin D, B12, iron, ferritin</li>
+            <li><svg class="lc-check" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg> AI analysis + 24/7 care team</li>
+            <li><svg class="lc-check" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg> Biological age + 17 health scores</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+
+
+===== CHUNK 4 of 6 (5348 chars) =====
+
+<!-- CHUNK 4 of 6 - How it works, stats, testimonial -->
+
+<div class="lc-template">
+
+  <!-- ===== HOW IT WORKS ===== -->
+  <section class="lc-how-it-works">
+    <div class="lc-container">
+      <div class="lc-section-label">How it works</div>
+      <h2 class="lc-section-title" style="margin-bottom: 48px;">Four steps. One blood draw. Done.</h2>
+
+      <div class="lc-steps-grid">
+        <div class="lc-step-card">
+          <div class="lc-step-number">1</div>
+          <h4>Join Superpower</h4>
+          <p>Sign up for $199/year. A licensed doctor writes your lab order covering 100+ blood tests and sends it to your nearest lab.</p>
+        </div>
+        <div class="lc-step-card">
+          <div class="lc-step-number">2</div>
+          <h4>Visit your nearest lab</h4>
+          <p>Walk into any of 3,000+ lab locations with your lab order. No appointment needed. Same blood draw you'd normally get.</p>
+        </div>
+        <div class="lc-step-card">
+          <div class="lc-step-number">3</div>
+          <h4>Get 100+ results</h4>
+          <p>Results arrive in about 10 days. Every test comes with clear explanations and what your numbers actually mean.</p>
+        </div>
+        <div class="lc-step-card">
+          <div class="lc-step-number">4</div>
+          <h4>Understand everything</h4>
+          <p>AI analysis connects patterns across body systems. Our 24/7 care team answers any questions.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== STATS ===== -->
+  <div class="lc-container">
+    <section class="lc-stats">
+      <div class="lc-stats-grid">
+        <div class="lc-stat-card">
+          <div class="lc-stat-number">100+</div>
+          <div class="lc-stat-text">Blood tests in one draw. Your annual physical checks about 20. A Labcorp OnDemand panel tops out at 60 for $219. We run five times what your doctor orders.</div>
+        </div>
+        <div class="lc-stat-card">
+          <div class="lc-stat-number">$199</div>
+          <div class="lc-stat-text">Per year. Ordering these tests yourself at a lab could run $2,000+. We charge 55 cents a day for the most complete blood work you can get.</div>
+        </div>
+        <div class="lc-stat-card">
+          <div class="lc-stat-number">10 days</div>
+          <div class="lc-stat-text">To get your full results. Every test explained in plain English, with what your numbers mean and what to do about them.</div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- ===== TESTIMONIAL ===== -->
+  <section class="lc-testimonial">
+    <div class="lc-container">
+      <div class="lc-testimonial-card">
+        <div class="lc-testimonial-stars">
+          <svg width="24" height="24" viewBox="0 0 20 20" fill="#facc15"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+          <svg width="24" height="24" viewBox="0 0 20 20" fill="#facc15"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+          <svg width="24" height="24" viewBox="0 0 20 20" fill="#facc15"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+          <svg width="24" height="24" viewBox="0 0 20 20" fill="#facc15"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+          <svg width="24" height="24" viewBox="0 0 20 20" fill="#facc15"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+        </div>
+        <div class="lc-testimonial-quote">"My annual blood work came back 'normal.' Superpower found a heart risk marker my doctor never tested, a borderline thyroid problem, low vitamin D, and early signs of insulin resistance. Four things that would have gone undetected for years."</div>
+        <div class="lc-testimonial-author">David W.</div>
+        <div class="lc-testimonial-result">4 health issues found that standard blood work missed</div>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+
+===== CHUNK 5 of 6 (8004 chars) =====
+
+<!-- CHUNK 5 of 6 - Membership card, FAQ, bottom CTA, sticky bar -->
+
+<div class="lc-template">
+
+  <!-- ===== MEMBERSHIP CARD ===== -->
+  <div class="lc-container">
+    <section class="lc-membership">
+      <div class="lc-membership-card">
+        <div>
+          <div class="lc-cta-badge" style="margin-bottom: 24px;">100+ blood tests for less than one Labcorp panel</div>
+          <h2>Superpower Membership</h2>
+          <div class="lc-price-row">
+            <span class="lc-membership-price">$17</span>
+            <span class="lc-membership-price-period">/month</span>
+          </div>
+          <div class="lc-membership-price-annual">Billed annually at $199</div>
+
+          <ul class="lc-membership-benefits">
+            <li>
+              <svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+              100+ blood tests in one draw
+            </li>
+            <li>
+              <svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+              AI explains what your numbers mean
+            </li>
+            <li>
+              <svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+              24/7 care team for questions
+            </li>
+            <li>
+              <svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+              Biological age + 17 health scores
+            </li>
+            <li>
+              <svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+              HSA/FSA eligible
+            </li>
+          </ul>
+
+          <a class="lc-cta-button" href="https://app.superpower.com/register?sp_variant=labcorp">
+            Order Your Blood Tests - $199/year
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+          </a>
+        </div>
+
+        <div class="lc-membership-visual">
+          <div class="lc-membership-mockup">
+            <div class="lc-mockup-title">membership</div>
+            <div class="lc-mockup-price-display">$17</div>
+            <div class="lc-mockup-price-sub">/month - Billed annually at $199</div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- ===== FAQ ===== -->
+  <div class="lc-container">
+    <section class="lc-faq">
+      <h2 class="lc-section-title" style="text-align: center; margin-bottom: 48px;">Frequently asked questions</h2>
+
+      <div class="lc-faq-list">
+        <div class="lc-faq-item">
+          <button class="lc-faq-question" onclick="this.parentElement.classList.toggle('is-open')">
+            Do I need a doctor's referral?
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="lc-faq-answer"><div class="lc-faq-answer-inner">No. Your Superpower membership includes lab orders from a licensed physician. You don't need to visit your doctor first or get a separate referral. Everything is handled through your membership.</div></div>
+        </div>
+
+        <div class="lc-faq-item">
+          <button class="lc-faq-question" onclick="this.parentElement.classList.toggle('is-open')">
+            What does Superpower's blood test cover?
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="lc-faq-answer"><div class="lc-faq-answer-inner">Over 100 tests in a single blood draw. That includes your complete blood count, metabolic panel, cholesterol (including the advanced heart risk markers most doctors skip), full thyroid panel, hormones like testosterone and cortisol, iron, vitamin D, B12, blood sugar markers, inflammation markers, and much more. Add-on panels are available for heart health, vitamins, and specialty testing.</div></div>
+        </div>
+
+        <div class="lc-faq-item">
+          <button class="lc-faq-question" onclick="this.parentElement.classList.toggle('is-open')">
+            How long does the blood draw take?
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="lc-faq-answer"><div class="lc-faq-answer-inner">The blood draw itself takes about 5-10 minutes. Wait times vary by location and time of day. We recommend arriving early in the morning and fasting for 8-12 hours beforehand for the most accurate results.</div></div>
+        </div>
+
+        <div class="lc-faq-item">
+          <button class="lc-faq-question" onclick="this.parentElement.classList.toggle('is-open')">
+            When will I get my results?
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="lc-faq-answer"><div class="lc-faq-answer-inner">Results are typically ready in about 10 days. You'll get a notification when they're available in your Superpower dashboard. Every test result includes a plain-English explanation, what the healthy range is, and AI-powered analysis that connects patterns across all your results.</div></div>
+        </div>
+
+        <div class="lc-faq-item">
+          <button class="lc-faq-question" onclick="this.parentElement.classList.toggle('is-open')">
+            Is Superpower HSA/FSA eligible?
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="lc-faq-answer"><div class="lc-faq-answer-inner">Yes. Superpower is HSA and FSA eligible. You can use your pre-tax health savings to pay for your membership.</div></div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- ===== BOTTOM CTA ===== -->
+  <section class="lc-bottom-cta">
+    <div class="lc-container">
+      <h2>The blood test your doctor should order but doesn't.</h2>
+      <p>100+ tests. One blood draw. $199. No referral needed.</p>
+      <a class="lc-cta-button" href="https://app.superpower.com/register?sp_variant=labcorp">
+        Order Your Blood Tests
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg>
+      </a>
+    </div>
+  </section>
+
+</div>
+
+<!-- ===== STICKY BOTTOM BAR ===== -->
+<div class="lc-sticky-bar" id="stickyBar">
+  <div class="lc-sticky-bar-inner">
+    <div class="lc-sticky-bar-text">
+      <strong>100+ blood tests</strong> in one draw - <strong>$199</strong>
+    </div>
+    <a class="lc-cta-button" href="https://app.superpower.com/register?sp_variant=labcorp">
+      Order Your Blood Tests
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg>
+    </a>
+  </div>
+</div>
+
+
+===== CHUNK 6 of 6 (9674 chars) =====
+
+<!-- CHUNK 6 of 6 - JavaScript (stars, reviews, sticky bar, variants, slug rewrite, NY/NJ pricing, hours, nearby locations) -->
+<script>
+var starPath = 'M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z';
+
+function buildStarsHtml(r, prefix) {
+  var html = '';
+  for (var i = 1; i <= 5; i++) {
+    if (i <= Math.floor(r)) {
+      html += '<svg class="lc-star" viewBox="0 0 20 20" fill="currentColor"><path d="' + starPath + '"/></svg>';
+    } else if (i === Math.ceil(r) && r % 1 >= 0.3) {
+      html += '<svg class="lc-star" viewBox="0 0 20 20"><defs><linearGradient id="' + prefix + i + '"><stop offset="50%" stop-color="#facc15"/><stop offset="50%" stop-color="#d4d4d4"/></linearGradient></defs><path d="' + starPath + '" fill="url(#' + prefix + i + ')"/></svg>';
+    } else {
+      html += '<svg class="lc-star is-empty" viewBox="0 0 20 20" fill="currentColor"><path d="' + starPath + '"/></svg>';
+    }
+  }
+  return html;
+}
+
+// Generate stars for location rating
+(function() {
+  var el = document.getElementById('locationStars');
+  if (!el) return;
+  var r = parseFloat(el.getAttribute('data-rating')) || 0;
+  el.innerHTML = buildStarsHtml(r, 'hs');
+})();
+
+// Render reviews from CMS JSON field, sorted by rating, with Show More for 4-5 star
+(function() {
+  var jsonEl = document.getElementById('lc-reviews-json');
+  var container = document.getElementById('lc-reviews-container');
+  var section = document.getElementById('lc-reviews-section');
+  if (!section) return;
+
+  var reviews = [];
+  if (jsonEl) {
+    try { reviews = JSON.parse(jsonEl.textContent.trim()); } catch(e) {}
+  }
+
+  if (!reviews.length) {
+    section.style.display = 'none';
+    return;
+  }
+
+  // Sort by rating ascending (lowest first)
+  reviews.sort(function(a, b) { return (a.rating || 0) - (b.rating || 0); });
+
+  var colors = ['#ef4444','#f59e0b','#0ea5e9','#6366f1','#10b981','#8b5cf6','#ec4899'];
+  var html = '';
+  var hasHidden = false;
+  for (var i = 0; i < reviews.length; i++) {
+    var rv = reviews[i];
+    var initial = (rv.name || '?').charAt(0).toUpperCase();
+    var color = colors[i % colors.length];
+    var starsHtml = buildStarsHtml(rv.rating || 0, 'rv' + i);
+    var isHigh = (rv.rating || 0) > 3;
+    if (isHigh) hasHidden = true;
+    html += '<div class="lc-review-card' + (isHigh ? ' lc-review-hidden' : '') + '">' +
+      '<div class="lc-review-card-top">' +
+      '<div class="lc-review-author"><div class="lc-review-avatar" style="background:' + color + ';">' + initial + '</div><div><div class="lc-review-name">' + (rv.name || 'Anonymous') + '</div><div class="lc-review-date">' + (rv.date || '') + '</div></div></div>' +
+      '<div class="lc-review-stars">' + starsHtml + '</div>' +
+      '</div>' +
+      '<div class="lc-review-text">"' + (rv.text || '') + '"</div>' +
+      '</div>';
+  }
+  if (hasHidden) {
+    html += '<button class="lc-show-more-btn" id="lc-show-more-reviews">Show more reviews</button>';
+  }
+  if (container) container.innerHTML = html;
+
+  var btn = document.getElementById('lc-show-more-reviews');
+  if (btn) {
+    btn.addEventListener('click', function() {
+      var hidden = container.querySelectorAll('.lc-review-hidden');
+      for (var j = 0; j < hidden.length; j++) hidden[j].classList.remove('lc-review-hidden');
+      btn.style.display = 'none';
+    });
+  }
+})();
+
+// Hide hours section if all days are empty
+(function() {
+  var table = document.querySelector('.lc-hours-table');
+  if (!table) return;
+  var times = table.querySelectorAll('.lc-hours-time');
+  var hasAny = false;
+  for (var i = 0; i < times.length; i++) {
+    if (times[i].textContent.trim()) { hasAny = true; break; }
+  }
+  if (!hasAny) {
+    var hoursRow = table.closest('.lc-info-row');
+    if (hoursRow) hoursRow.style.display = 'none';
+  }
+})();
+
+// Sticky bar visibility
+var stickyBar = document.getElementById('stickyBar');
+window.addEventListener('scroll', function() {
+  if (window.scrollY > 600) {
+    stickyBar.classList.add('is-visible');
+  } else {
+    stickyBar.classList.remove('is-visible');
+  }
+});
+
+// Headline variant switcher (?v=ogilvy or ?v=godin)
+(function() {
+  var hsaTag = ' <span class="lc-hsa-tag" style="font-size:11px;font-weight:600;background:rgba(34,197,94,0.15);color:#4ade80;vertical-align:middle;margin-left:4px;">HSA/FSA eligible</span>';
+  var variants = {
+    ogilvy: {
+      adHeadline: "Your doctor orders 20 tests. We run 100+." + hsaTag,
+      adSub: "Just $199. See what your annual physical misses.",
+      ctaHeadline: "Your doctor orders 20 tests. We run 100+.",
+      ctaSub: "Heart, thyroid, hormones, vitamins, metabolic, inflammation - one draw covers what your annual physical never will. $199/year."
+    }
+  };
+  var v = new URLSearchParams(window.location.search).get('v');
+  if (v && variants[v]) {
+    document.getElementById('ad-headline').innerHTML = variants[v].adHeadline;
+    document.getElementById('ad-subheadline').innerHTML = variants[v].adSub;
+    document.getElementById('cta-headline').innerHTML = variants[v].ctaHeadline;
+    document.getElementById('cta-subheadline').innerHTML = variants[v].ctaSub;
+  }
+})();
+
+// Rewrite CTA buttons to use page slug as sp_variant
+(function() {
+  var parts = window.location.pathname.replace(/\/$/, '').split('/');
+  var slug = parts[parts.length - 1];
+  if (!slug) return;
+  var url = 'https://app.superpower.com/register?sp_variant=' + encodeURIComponent(slug);
+  var btns = document.querySelectorAll('a.lc-cta-button');
+  for (var i = 0; i < btns.length; i++) {
+    btns[i].href = url;
+  }
+})();
+
+// NY/NJ pricing swap: $199 -> $399, 100+ -> 90+, $17 -> $33
+(function() {
+  var pd = document.getElementById('lc-page-data');
+  if (!pd) return;
+  var state = (pd.getAttribute('data-state') || '').toUpperCase().trim();
+  if (state !== 'NY' && state !== 'NJ') return;
+  var swaps = [['$199', '$399'], ['100+', '90+'], ['$17', '$33']];
+  var targets = document.querySelectorAll('.lc-top-banner-text h2, .lc-top-banner-text p, .lc-cta-banner h2, .lc-cta-banner p, .lc-stat-number, .lc-compare-header-price, .lc-compare-subtitle, .lc-membership-price-annual, .lc-cta-badge, .lc-step-card p, .lc-step-card h4, .lc-mockup-price-sub, a.lc-cta-button, .lc-sticky-bar-text, #cta-headline, #cta-subheadline, #ad-headline, #ad-subheadline');
+  for (var i = 0; i < targets.length; i++) {
+    var el = targets[i];
+    for (var j = 0; j < swaps.length; j++) {
+      if (el.innerHTML.indexOf(swaps[j][0]) !== -1) {
+        el.innerHTML = el.innerHTML.split(swaps[j][0]).join(swaps[j][1]);
+      }
+    }
+  }
+  var benefits = document.querySelectorAll('.lc-membership-features li');
+  for (var k = 0; k < benefits.length; k++) {
+    for (var m = 0; m < swaps.length; m++) {
+      if (benefits[k].innerHTML.indexOf(swaps[m][0]) !== -1) {
+        benefits[k].innerHTML = benefits[k].innerHTML.split(swaps[m][0]).join(swaps[m][1]);
+      }
+    }
+  }
+})();
+
+// Dynamic nearby locations (with dedup by address)
+(function() {
+  var pd = document.getElementById('lc-page-data');
+  if (!pd) return;
+  var myLat = parseFloat(pd.getAttribute('data-lat'));
+  var myLng = parseFloat(pd.getAttribute('data-lng'));
+  if (isNaN(myLat) || isNaN(myLng)) return;
+  var mySlug = window.location.pathname.replace(/\/$/, '').split('/').pop();
+
+  function haversine(lat1, lng1, lat2, lng2) {
+    var R = 3959;
+    var dLat = (lat2 - lat1) * Math.PI / 180;
+    var dLng = (lng2 - lng1) * Math.PI / 180;
+    var a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+      Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+      Math.sin(dLng/2) * Math.sin(dLng/2);
+    return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+  }
+
+  fetch('https://raw.githubusercontent.com/jgdeutsch/superpower-sem-gap/main/data/labcorp-locations-index.json')
+    .then(function(r) { return r.json(); })
+    .then(function(locations) {
+      var seen = {};
+      var withDist = [];
+      for (var i = 0; i < locations.length; i++) {
+        var loc = locations[i];
+        if (loc[0] === mySlug) continue;
+        var addr = loc[6];
+        if (seen[addr]) continue;
+        seen[addr] = true;
+        var d = haversine(myLat, myLng, loc[2], loc[3]);
+        if (d < 100 && d > 0.01) withDist.push({ slug: loc[0], name: loc[1], city: loc[4], state: loc[5], address: addr, rating: loc[7], dist: d });
+      }
+      withDist.sort(function(a, b) { return a.dist - b.dist; });
+      var nearest = withDist.slice(0, 3);
+      if (nearest.length === 0) return;
+      var grid = document.getElementById('lc-nearby-grid');
+      var html = '';
+      for (var j = 0; j < nearest.length; j++) {
+        var n = nearest[j];
+        html += '<a class="lc-nearby-card" href="/labcorp/' + n.slug + '" style="text-decoration:none;color:inherit;">' +
+          '<div class="lc-nearby-card-top"><div>' +
+          '<h4>' + n.name + '</h4>' +
+          '<div class="lc-nearby-card-type">Medical laboratory</div>' +
+          '</div></div>' +
+          '<p>' + n.address + '</p>' +
+          '<div class="lc-nearby-card-meta">' +
+          '<div class="lc-nearby-card-rating">' + buildStarsHtml(parseFloat(n.rating) || 0, 'nhs' + j) + ' ' + (n.rating || '') + '</div>' +
+          '<span class="lc-nearby-card-distance">' + n.dist.toFixed(1) + ' mi</span>' +
+          '</div></a>';
+      }
+      grid.innerHTML = html;
+      document.getElementById('lc-nearby-section').style.display = '';
+    })
+    .catch(function() {});
+})();
+</script>
+
+
