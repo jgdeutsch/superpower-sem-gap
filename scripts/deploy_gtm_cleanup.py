@@ -236,9 +236,10 @@ def publish_container(service, container_path):
                 .create_version(
                     path=workspace_path,
                     body={
-                        "name": "2-Tag Split: 122 slugs (PMAX + missing)",
-                        "notes": "Split personalization into 2 tags (61 slugs each, ~53K + ~52K). "
-                        "Added 10 new slugs for PMAX asset groups + missing existing pages.",
+                        "name": "v228: Bundle discount prices (METABOLIC30, THYROID40, etc.)",
+                        "notes": "All 30 Care Journey headlines/subtitles updated with "
+                        "discounted bundle prices ($30-$50 off). 9 discount codes "
+                        "created in Stripe via Cortana. 153 slugs total.",
                     },
                 )
                 .execute()
