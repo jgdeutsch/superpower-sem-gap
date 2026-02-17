@@ -236,10 +236,9 @@ def publish_container(service, container_path):
                 .create_version(
                     path=workspace_path,
                     body={
-                        "name": "v230: Strip app. subdomain from all LP CTA links",
-                        "notes": "Link Rewriter now strips app.superpower.com to "
-                        "superpower.com on all CTA hrefs. Bundle links include "
-                        "products + code + sp_variant.",
+                        "name": "v231: Remove organ-age-test entry",
+                        "notes": "Removed organ-age-test from personalization data. "
+                        "152 entries (down from 153).",
                     },
                 )
                 .execute()
