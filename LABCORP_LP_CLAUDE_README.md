@@ -384,6 +384,16 @@ Check for failures. If any locations fail to find a Place ID, investigate - it m
 ```
 This takes ~30 minutes (1.5s per location). It's idempotent - if it crashes partway through, just re-run and it skips locations that already have a JSON file.
 
+**Alternative: Run on DigitalOcean droplet** (survives laptop sleep/disconnect):
+```bash
+# Upload script + data, then:
+ssh root@157.230.131.171 "nohup python3 /root/labcorp-scrape/scrape.py > /root/labcorp-scrape/scrape.log 2>&1 &"
+# Check progress:
+ssh root@157.230.131.171 "tail -5 /root/labcorp-scrape/scrape.log && ls /root/labcorp-scrape/data/labcorp-reviews/ | wc -l"
+# Download results when done:
+scp -r root@157.230.131.171:/root/labcorp-scrape/data/labcorp-reviews/ /Users/jeffy/superpower-sem-gap/app/data/labcorp-reviews/
+```
+
 **Step 4: Check results**
 ```bash
 ls app/data/labcorp-reviews/ | wc -l
