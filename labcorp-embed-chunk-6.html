@@ -1,0 +1,210 @@
+<!-- CHUNK 6 of 6 - JavaScript (stars, reviews, sticky bar, variants, slug rewrite, NY/NJ pricing, hours, nearby locations) -->
+<script>
+var starPath = 'M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z';
+
+function buildStarsHtml(r, prefix) {
+  var html = '';
+  for (var i = 1; i <= 5; i++) {
+    if (i <= Math.floor(r)) {
+      html += '<svg class="lc-star" viewBox="0 0 20 20" fill="currentColor"><path d="' + starPath + '"/></svg>';
+    } else if (i === Math.ceil(r) && r % 1 >= 0.3) {
+      html += '<svg class="lc-star" viewBox="0 0 20 20"><defs><linearGradient id="' + prefix + i + '"><stop offset="50%" stop-color="#facc15"/><stop offset="50%" stop-color="#d4d4d4"/></linearGradient></defs><path d="' + starPath + '" fill="url(#' + prefix + i + ')"/></svg>';
+    } else {
+      html += '<svg class="lc-star is-empty" viewBox="0 0 20 20" fill="currentColor"><path d="' + starPath + '"/></svg>';
+    }
+  }
+  return html;
+}
+
+// Generate stars for location rating
+(function() {
+  var el = document.getElementById('locationStars');
+  if (!el) return;
+  var r = parseFloat(el.getAttribute('data-rating')) || 0;
+  el.innerHTML = buildStarsHtml(r, 'hs');
+})();
+
+// Render reviews: show first 3, expand all in scrollable container
+(function() {
+  var jsonEl = document.getElementById('lc-reviews-json');
+  var container = document.getElementById('lc-reviews-container');
+  var section = document.getElementById('lc-reviews-section');
+  if (!section) return;
+
+  var reviews = [];
+  if (jsonEl) {
+    try { reviews = JSON.parse(jsonEl.textContent.trim()); } catch(e) {}
+  }
+
+  if (!reviews.length) { section.style.display = 'none'; return; }
+
+  reviews.sort(function(a, b) { return (a.rating || 0) - (b.rating || 0); });
+
+  var colors = ['#ef4444','#f59e0b','#0ea5e9','#6366f1','#10b981','#8b5cf6','#ec4899'];
+  var html = '';
+  for (var i = 0; i < reviews.length; i++) {
+    var rv = reviews[i];
+    var initial = (rv.name || '?').charAt(0).toUpperCase();
+    var color = colors[i % colors.length];
+    html += '<div class="lc-review-card' + (i >= 3 ? ' lc-review-extra' : '') + '">' +
+      '<div class="lc-review-card-top">' +
+      '<div class="lc-review-author"><div class="lc-review-avatar" style="background:' + color + ';">' + initial + '</div><div><div class="lc-review-name">' + (rv.name || 'Anonymous') + '</div><div class="lc-review-date">' + (rv.date || '') + '</div></div></div>' +
+      '<div class="lc-review-stars">' + buildStarsHtml(rv.rating || 0, 'rv' + i) + '</div>' +
+      '</div>' +
+      '<div class="lc-review-text">"' + (rv.text || '') + '"</div>' +
+      '</div>';
+  }
+  if (reviews.length > 3) {
+    html += '<button class="lc-show-more-btn" id="lc-show-more-reviews">Show ' + (reviews.length - 3) + ' more reviews</button>';
+  }
+  if (container) container.innerHTML = html;
+
+  var btn = document.getElementById('lc-show-more-reviews');
+  if (btn) {
+    btn.addEventListener('click', function() {
+      container.classList.add('is-expanded');
+      btn.style.display = 'none';
+    });
+  }
+})();
+
+// Hide hours section if all days are empty
+(function() {
+  var table = document.querySelector('.lc-hours-table');
+  if (!table) return;
+  var times = table.querySelectorAll('.lc-hours-time');
+  var hasAny = false;
+  for (var i = 0; i < times.length; i++) {
+    if (times[i].textContent.trim()) { hasAny = true; break; }
+  }
+  if (!hasAny) {
+    var hoursRow = table.closest('.lc-info-row');
+    if (hoursRow) hoursRow.style.display = 'none';
+  }
+})();
+
+// Sticky bar visibility
+var stickyBar = document.getElementById('stickyBar');
+window.addEventListener('scroll', function() {
+  if (window.scrollY > 600) {
+    stickyBar.classList.add('is-visible');
+  } else {
+    stickyBar.classList.remove('is-visible');
+  }
+});
+
+// Headline variant switcher (?v=ogilvy or ?v=godin)
+(function() {
+  var hsaTag = ' <span class="lc-hsa-tag" style="font-size:11px;font-weight:600;background:rgba(34,197,94,0.15);color:#4ade80;vertical-align:middle;margin-left:4px;">HSA/FSA eligible</span>';
+  var variants = {
+    ogilvy: {
+      adHeadline: "Your doctor orders 20 tests. We run 100+." + hsaTag,
+      adSub: "Just $199. See what your annual physical misses.",
+      ctaHeadline: "Your doctor orders 20 tests. We run 100+.",
+      ctaSub: "Heart, thyroid, hormones, vitamins, metabolic, inflammation - one draw covers what your annual physical never will. $199/year."
+    }
+  };
+  var v = new URLSearchParams(window.location.search).get('v');
+  if (v && variants[v]) {
+    document.getElementById('ad-headline').innerHTML = variants[v].adHeadline;
+    document.getElementById('ad-subheadline').innerHTML = variants[v].adSub;
+    document.getElementById('cta-headline').innerHTML = variants[v].ctaHeadline;
+    document.getElementById('cta-subheadline').innerHTML = variants[v].ctaSub;
+  }
+})();
+
+// Rewrite CTA buttons to use page slug as sp_variant
+(function() {
+  var parts = window.location.pathname.replace(/\/$/, '').split('/');
+  var slug = parts[parts.length - 1];
+  if (!slug) return;
+  var url = 'https://app.superpower.com/register?sp_variant=' + encodeURIComponent(slug);
+  var btns = document.querySelectorAll('a.lc-cta-button');
+  for (var i = 0; i < btns.length; i++) {
+    btns[i].href = url;
+  }
+})();
+
+// NY/NJ pricing swap: $199 -> $399, 100+ -> 90+, $17 -> $33
+(function() {
+  var pd = document.getElementById('lc-page-data');
+  if (!pd) return;
+  var state = (pd.getAttribute('data-state') || '').toUpperCase().trim();
+  if (state !== 'NY' && state !== 'NJ') return;
+  var swaps = [['$199', '$399'], ['100+', '90+'], ['$17', '$33']];
+  var targets = document.querySelectorAll('.lc-top-banner-text h2, .lc-top-banner-text p, .lc-cta-banner h2, .lc-cta-banner p, .lc-stat-number, .lc-compare-header-price, .lc-compare-subtitle, .lc-membership-price-annual, .lc-cta-badge, .lc-step-card p, .lc-step-card h4, .lc-mockup-price-sub, a.lc-cta-button, .lc-sticky-bar-text, #cta-headline, #cta-subheadline, #ad-headline, #ad-subheadline');
+  for (var i = 0; i < targets.length; i++) {
+    var el = targets[i];
+    for (var j = 0; j < swaps.length; j++) {
+      if (el.innerHTML.indexOf(swaps[j][0]) !== -1) {
+        el.innerHTML = el.innerHTML.split(swaps[j][0]).join(swaps[j][1]);
+      }
+    }
+  }
+  var benefits = document.querySelectorAll('.lc-membership-features li');
+  for (var k = 0; k < benefits.length; k++) {
+    for (var m = 0; m < swaps.length; m++) {
+      if (benefits[k].innerHTML.indexOf(swaps[m][0]) !== -1) {
+        benefits[k].innerHTML = benefits[k].innerHTML.split(swaps[m][0]).join(swaps[m][1]);
+      }
+    }
+  }
+})();
+
+// Dynamic nearby locations (with dedup by address)
+(function() {
+  var pd = document.getElementById('lc-page-data');
+  if (!pd) return;
+  var myLat = parseFloat(pd.getAttribute('data-lat'));
+  var myLng = parseFloat(pd.getAttribute('data-lng'));
+  if (isNaN(myLat) || isNaN(myLng)) return;
+  var mySlug = window.location.pathname.replace(/\/$/, '').split('/').pop();
+
+  function haversine(lat1, lng1, lat2, lng2) {
+    var R = 3959;
+    var dLat = (lat2 - lat1) * Math.PI / 180;
+    var dLng = (lng2 - lng1) * Math.PI / 180;
+    var a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+      Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+      Math.sin(dLng/2) * Math.sin(dLng/2);
+    return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+  }
+
+  fetch('https://raw.githubusercontent.com/jgdeutsch/superpower-sem-gap/main/data/labcorp-locations-index.json')
+    .then(function(r) { return r.json(); })
+    .then(function(locations) {
+      var seen = {};
+      var withDist = [];
+      for (var i = 0; i < locations.length; i++) {
+        var loc = locations[i];
+        if (loc[0] === mySlug) continue;
+        var addr = loc[6];
+        if (seen[addr]) continue;
+        seen[addr] = true;
+        var d = haversine(myLat, myLng, loc[2], loc[3]);
+        if (d < 100 && d > 0.01) withDist.push({ slug: loc[0], name: loc[1], city: loc[4], state: loc[5], address: addr, rating: loc[7], dist: d });
+      }
+      withDist.sort(function(a, b) { return a.dist - b.dist; });
+      var nearest = withDist.slice(0, 3);
+      if (nearest.length === 0) return;
+      var grid = document.getElementById('lc-nearby-grid');
+      var html = '';
+      for (var j = 0; j < nearest.length; j++) {
+        var n = nearest[j];
+        html += '<a class="lc-nearby-card" href="/labcorp/' + n.slug + '" style="text-decoration:none;color:inherit;">' +
+          '<div class="lc-nearby-card-top"><div>' +
+          '<h4>' + n.name + '</h4>' +
+          '<div class="lc-nearby-card-type">Medical laboratory</div>' +
+          '</div></div>' +
+          '<p>' + n.address + '</p>' +
+          '<div class="lc-nearby-card-meta">' +
+          '<div class="lc-nearby-card-rating">' + buildStarsHtml(parseFloat(n.rating) || 0, 'nhs' + j) + ' ' + (n.rating || '') + '</div>' +
+          '<span class="lc-nearby-card-distance">' + n.dist.toFixed(1) + ' mi</span>' +
+          '</div></a>';
+      }
+      grid.innerHTML = html;
+      document.getElementById('lc-nearby-section').style.display = '';
+    })
+    .catch(function() {});
+})();
+</script>

@@ -1,0 +1,96 @@
+<!-- CHUNK 1 of 6 - Template open, top banner ad, breadcrumb, hero left column through complaint pills -->
+
+<!-- Nav is inherited from Webflow site shell - not included in embed -->
+
+<div class="lc-template">
+
+  <!-- Hidden data for JS: current location lat/lng -->
+  <div id="lc-page-data" style="display:none" data-lat="{{wf {"path":"latitude","type":"PlainText"} }}" data-lng="{{wf {"path":"longitude","type":"PlainText"} }}" data-state="{{wf {"path":"state","type":"PlainText"} }}"></div>
+
+  <!-- Hidden data for JS: reviews JSON -->
+  <div id="lc-reviews-json" style="display:none">{{wf {"path":"reviews-json","type":"PlainText"} }}</div>
+
+  <!-- ===== SUPERPOWER AD UNIT (above listing) ===== -->
+  <div class="lc-top-banner">
+    <div class="lc-top-banner-inner">
+      <div class="lc-top-banner-ad">
+        <div class="lc-top-banner-sponsor">Sponsored</div>
+        <div class="lc-top-banner-left">
+          <div class="lc-top-banner-logo">
+            <span class="lc-top-banner-logo-text">superpower</span>
+          </div>
+          <div class="lc-top-banner-text">
+            <h2 id="ad-headline">100+ blood tests. One draw. $199. <span class="lc-hsa-tag" style="font-size: 11px; font-weight: 600; background: rgba(34,197,94,0.15); color: #4ade80; vertical-align: middle; margin-left: 4px;">HSA/FSA eligible</span></h2>
+            <p id="ad-subheadline">The blood work your doctor should order but doesn't.</p>
+          </div>
+        </div>
+        <div class="lc-top-banner-rating">
+          <div class="lc-stars">
+            <svg class="lc-star" viewBox="0 0 20 20" fill="currentColor"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            <svg class="lc-star" viewBox="0 0 20 20" fill="currentColor"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            <svg class="lc-star" viewBox="0 0 20 20" fill="currentColor"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            <svg class="lc-star" viewBox="0 0 20 20" fill="currentColor"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            <svg class="lc-star" viewBox="0 0 20 20"><defs><linearGradient id="halfStar"><stop offset="50%" stop-color="#facc15"/><stop offset="50%" stop-color="#555"/></linearGradient></defs><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" fill="url(#halfStar)"/></svg>
+          </div>
+          <span class="lc-top-banner-rating-text"><strong>4.5</strong> (105 reviews)</span>
+        </div>
+        <a class="lc-top-banner-btn" href="#superpower-cta">
+          Learn More
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="lc-container">
+
+    <!-- BREADCRUMB -->
+    <div class="lc-breadcrumb">
+      Labcorp Locations
+      <span>/</span>
+      {{wf {"path":"state","type":"PlainText"} }}
+      <span>/</span>
+      {{wf {"path":"city","type":"PlainText"} }}, {{wf {"path":"state","type":"PlainText"} }}
+    </div>
+
+    <!-- ===== HERO: LOCATION INFO ===== -->
+    <section class="lc-hero">
+      <div class="lc-hero-grid">
+
+        <!-- LEFT: Location details -->
+        <div>
+          <div class="lc-location-card">
+            <div class="lc-location-header">
+              <div class="lc-location-icon">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+              </div>
+              <div>
+                <h1 class="lc-location-name">{{wf {"path":"name","type":"PlainText"} }}</h1>
+                <div class="lc-location-category">{{wf {"path":"category","type":"PlainText"} }}</div>
+              </div>
+            </div>
+
+            <!-- Status -->
+            <div class="lc-status-badge">
+              <div class="lc-status-dot"></div>
+              {{wf {"path":"current-status","type":"PlainText"} }}
+            </div>
+
+            <!-- Rating -->
+            <div class="lc-rating">
+              <div class="lc-stars" id="locationStars" data-rating="{{wf {"path":"rating","type":"PlainText"} }}"></div>
+              <span class="lc-rating-text"><strong>{{wf {"path":"rating","type":"PlainText"} }}</strong> ({{wf {"path":"reviewcount","type":"Number"} }} reviews)</span>
+            </div>
+
+
+          </div>
+        </div>
+
+        <!-- RIGHT: Featured image -->
+        <div>
+          <img class="lc-location-image" id="lc-featured-img" src="{{wf {"path":"featured-image","type":"ImageRef"} }}" alt="{{wf {"path":"name","type":"PlainText"} }} - {{wf {"path":"adress","type":"PlainText"} }}" onerror="this.style.display='none'"/>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>

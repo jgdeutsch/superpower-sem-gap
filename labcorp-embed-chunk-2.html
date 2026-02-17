@@ -1,0 +1,58 @@
+<!-- CHUNK 2 of 6 - Info rows (address/phone/hours), image, map, Google reviews with real review cards -->
+
+<div class="lc-template">
+  <div class="lc-container">
+    <section class="lc-hero">
+      <div class="lc-hero-grid">
+        <div>
+          <div class="lc-location-card">
+
+            <!-- Info rows -->
+            <div class="lc-info-row">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+              <div>{{wf {"path":"adress","type":"PlainText"} }}</div>
+            </div>
+
+            <div class="lc-info-row">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+              <div>{{wf {"path":"phone-number","type":"Phone"} }}</div>
+            </div>
+
+            <div class="lc-info-row" id="lc-hours-row">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+              <div>
+                <div class="lc-hours-table">
+                  <div class="lc-hours-row"><span class="lc-hours-day">Monday</span><span class="lc-hours-time">{{wf {"path":"monday","type":"PlainText"} }}</span></div>
+                  <div class="lc-hours-row"><span class="lc-hours-day">Tuesday</span><span class="lc-hours-time">{{wf {"path":"tueday","type":"PlainText"} }}</span></div>
+                  <div class="lc-hours-row"><span class="lc-hours-day">Wednesday</span><span class="lc-hours-time">{{wf {"path":"wednesday","type":"PlainText"} }}</span></div>
+                  <div class="lc-hours-row"><span class="lc-hours-day">Thursday</span><span class="lc-hours-time">{{wf {"path":"thursday","type":"PlainText"} }}</span></div>
+                  <div class="lc-hours-row"><span class="lc-hours-day">Friday</span><span class="lc-hours-time">{{wf {"path":"friday","type":"PlainText"} }}</span></div>
+                  <div class="lc-hours-row"><span class="lc-hours-day">Saturday</span><span class="lc-hours-time">{{wf {"path":"saturday","type":"PlainText"} }}</span></div>
+                  <div class="lc-hours-row"><span class="lc-hours-day">Sunday</span><span class="lc-hours-time">{{wf {"path":"sunday","type":"PlainText"} }}</span></div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- RIGHT: Map -->
+        <div>
+          <div class="lc-map-container">
+            <iframe src="https://maps.google.com/maps?q={{wf {"path":"latitude","type":"PlainText"} }},{{wf {"path":"longitude","type":"PlainText"} }}&z=15&output=embed" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== REVIEWS (rendered by JS from reviews-json CMS field) ===== -->
+    <section class="lc-reviews" id="lc-reviews-section">
+      <div class="lc-reviews-header">
+        <h2 class="lc-reviews-title">Reviews</h2>
+        <span class="lc-reviews-source"><span id="lc-reviews-rating-text">{{wf {"path":"rating","type":"PlainText"} }}</span> avg from {{wf {"path":"reviewcount","type":"Number"} }} reviews</span>
+      </div>
+      <div id="lc-reviews-container"></div>
+    </section>
+
+  </div>
+</div>
