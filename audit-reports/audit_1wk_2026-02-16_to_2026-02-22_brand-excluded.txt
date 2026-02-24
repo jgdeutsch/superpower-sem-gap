@@ -1,0 +1,650 @@
+
+================================================================================
+  LOADING DATA... (BRAND EXCLUDED VERSION - 1 WEEK: Feb 16-22, 2026)
+================================================================================
+  BEFORE brand filter:
+  Search daily rows:    668
+  Search conv rows:     728
+  PMAX daily rows:      105
+  PMAX conv rows:       411
+  Search terms rows:    45,071
+  Landing pages rows:   960
+
+  FILTERING: Excluding campaigns where campaign_name contains 'Brand' (case-insensitive)
+
+  AFTER brand filter:
+  Search daily rows:    634
+  Search conv rows:     514
+  PMAX daily rows:      105
+  PMAX conv rows:       411
+  Search terms rows:    44,065
+  Landing pages rows:   890
+
+  Brand-themed groups removed from master: 0 ($0 spend)
+
+  Master table (brand excluded): 109 groups
+  Total spend: $83,413.91
+  Total regs:  783.9
+  Total subs:  159.4
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  SECTION 1: MASTER TABLE - All Non-Brand Groups Sorted by CPS Ascending   ║
+║  Period: Feb 16-22, 2026 (1 Week)                                         ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+┌─────┬───────────────────────────────────────────────┬──────────────────────────────────────────┬────────┬─────────┬─────────┬────────┬─────────┬───────┬───────┬───────┬──────┬───────┬────────┬──────────┬───────────┐
+│ #   │ Group Name                                    │ Campaign                                 │ Type   │ Status  │ Spend   │ Clicks │ Impr    │ CTR   │ CPC   │ Regs  │ CPR  │ Subs  │ CPS    │ Reg>Sub% │ Class     │
+├─────┼───────────────────────────────────────────────┼──────────────────────────────────────────┼────────┼─────────┼─────────┼────────┼─────────┼───────┼───────┼───────┼──────┼───────┼────────┼──────────┼───────────┤
+│   1 │ Insulin Resistance Biomarker Test             │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │     $61 │     19 │     780 │  2.4% │ $3.19 │   1.0 │  $61 │   1.0 │    $61 │   100.0% │ GOOD      │
+│   2 │ Prostate Cancer Biomarker Test                │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │    $210 │     46 │   1,289 │  3.6% │ $4.56 │   6.5 │  $32 │   2.5 │    $84 │    38.5% │ GOOD      │
+│   3 │ Vitamins & Nutrients                          │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │    $182 │     16 │     564 │  2.8% │   $11 │   3.0 │  $61 │   2.0 │    $91 │    66.7% │ GOOD      │
+│   4 │ Cortisol                                      │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $214 │     36 │   1,696 │  2.1% │ $5.94 │   2.0 │ $107 │   2.0 │   $107 │   100.0% │ GOOD      │
+│   5 │ Chronic Stress Biomarker Test                 │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │    $119 │     25 │   1,203 │  2.1% │ $4.77 │   1.0 │ $119 │   1.0 │   $119 │   100.0% │ GOOD      │
+│   6 │ Iron Deficiency Biomarker Test                │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │    $501 │     89 │   2,350 │  3.8% │ $5.63 │   8.0 │  $62 │   4.1 │   $123 │    50.6% │ GOOD      │
+│   7 │ Vitamin                                       │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $337 │     46 │   1,549 │  3.0% │ $7.32 │   2.0 │ $168 │   2.0 │   $168 │   100.0% │ GOOD      │
+│   8 │ Medical test                                  │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $391 │     50 │   1,735 │  2.9% │ $7.81 │   4.0 │  $98 │   2.0 │   $195 │    50.0% │ GOOD      │
+│   9 │ Autoimmune Panel                              │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │ ENABLED │    $267 │     81 │   2,122 │  3.8% │ $3.30 │   2.0 │ $133 │   1.0 │   $267 │    50.0% │ GOOD      │
+│  10 │ Gene test                                     │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $593 │    106 │   3,330 │  3.2% │ $5.60 │   7.0 │  $85 │   2.0 │   $297 │    28.6% │ GOOD      │
+│  11 │ Blood Test - General                          │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │ ENABLED │  $2,906 │    422 │  16,008 │  2.6% │ $6.89 │  38.9 │  $75 │   9.3 │   $313 │    23.9% │ GOOD      │
+│  12 │ Blood Work                                    │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │    $283 │     30 │     863 │  3.5% │ $9.45 │   2.8 │ $100 │   0.9 │   $319 │    31.4% │ GOOD      │
+│  13 │ Biomarker                                     │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │  $2,248 │    261 │   6,020 │  4.3% │ $8.61 │  17.0 │ $132 │   7.0 │   $321 │    41.2% │ GOOD      │
+│  14 │ Kidney & Liver                                │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │    $352 │     83 │   2,610 │  3.2% │ $4.25 │   3.0 │ $117 │   1.0 │   $352 │    33.3% │ MIDDLE    │
+│  15 │ Body composition                              │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $372 │     77 │   2,482 │  3.1% │ $4.83 │   4.7 │  $80 │   1.0 │   $372 │    21.4% │ MIDDLE    │
+│  16 │ Hormone Panel                                 │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │ ENABLED │  $1,135 │    160 │   3,235 │  4.9% │ $7.10 │  17.0 │  $67 │   3.0 │   $378 │    17.6% │ MIDDLE    │
+│  17 │ Heart Health Panel                            │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │ ENABLED │    $961 │    323 │   9,255 │  3.5% │ $2.97 │  14.5 │  $66 │   2.5 │   $384 │    17.2% │ MIDDLE    │
+│  18 │ Blood Test                                    │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │ ENABLED │  $2,258 │    354 │   9,707 │  3.6% │ $6.38 │  28.9 │  $78 │   5.8 │   $390 │    20.0% │ MIDDLE    │
+│  19 │ Blood Tests General                           │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │  $3,615 │    348 │   9,858 │  3.5% │   $10 │  28.5 │ $127 │   9.1 │   $399 │    31.8% │ MIDDLE    │
+│  20 │ T blood tests                                 │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $207 │     35 │   1,091 │  3.2% │ $5.91 │   1.5 │ $142 │   0.5 │   $414 │    34.2% │ MIDDLE    │
+│  21 │ Longevity                                     │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $264 │     41 │   1,448 │  2.8% │ $6.44 │   4.5 │  $58 │   0.6 │   $426 │    13.7% │ MIDDLE    │
+│  22 │ Best Blood Test Service                       │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │ ENABLED │  $2,070 │    304 │  10,358 │  2.9% │ $6.81 │  22.2 │  $93 │   4.8 │   $429 │    21.8% │ MIDDLE    │
+│  23 │ Blood Test - Top Converting Search Interests  │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │ ENABLED │  $2,152 │    742 │  22,295 │  3.3% │ $2.90 │  20.1 │ $107 │   4.8 │   $446 │    23.9% │ MIDDLE    │
+│  24 │ Blood Test - Top Converting Search Interests  │ PMAX_Prospecting_Max-Conversions_US_Bloo │ PMAX   │ ENABLED │ $25,074 │  6,730 │ 448,495 │  1.5% │ $3.73 │ 249.5 │ $101 │  50.8 │   $493 │    20.4% │ MIDDLE    │
+│  25 │ igf 1 test                                    │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $496 │    105 │   3,067 │  3.4% │ $4.72 │   3.0 │ $165 │   1.0 │   $496 │    33.3% │ MIDDLE    │
+│  26 │ Thyroid Tests                                 │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │    $549 │     90 │   2,116 │  4.3% │ $6.10 │  10.0 │  $55 │   1.0 │   $549 │    10.0% │ BAD       │
+│  27 │ Health Check                                  │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │  $1,719 │    192 │   5,652 │  3.4% │ $8.95 │  15.5 │ $111 │   3.0 │   $573 │    19.4% │ BAD       │
+│  28 │ Test                                          │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │  $3,575 │    285 │   8,542 │  3.3% │   $13 │  27.2 │ $132 │   6.1 │   $581 │    22.6% │ BAD       │
+│  29 │ Health testing                                │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │  $5,292 │    572 │  14,689 │  3.9% │ $9.25 │  40.4 │ $131 │   8.6 │   $619 │    21.1% │ BAD       │
+│  30 │ Blood Test (compliant)                        │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │ ENABLED │  $7,619 │  1,365 │  38,800 │  3.5% │ $5.58 │  61.2 │ $124 │  11.9 │   $641 │    19.4% │ BAD       │
+│  31 │ Longevity Blood Test                          │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │ ENABLED │  $2,058 │    463 │  12,412 │  3.7% │ $4.45 │  20.9 │  $98 │   3.0 │   $686 │    14.3% │ BAD       │
+│  32 │ Cholesterol & Heart Panel                     │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │ ENABLED │    $400 │    115 │   3,021 │  3.8% │ $3.48 │   2.2 │ $180 │   0.5 │   $801 │    22.5% │ BAD       │
+│  33 │ Hormone Testing                               │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $904 │     79 │   2,861 │  2.8% │   $11 │   7.5 │ $121 │   1.0 │   $904 │    13.4% │ BAD       │
+│  34 │ Blood Test - Top Converting Search Interests  │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │ ENABLED │  $2,083 │    545 │  16,100 │  3.4% │ $3.82 │  20.0 │ $104 │   1.7 │ $1,240 │     8.4% │ BAD       │
+│  35 │ Lp(a) Heart Risk                              │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │ ENABLED │  $1,438 │    402 │  10,993 │  3.7% │ $3.58 │   9.5 │ $152 │   1.0 │ $1,438 │    10.6% │ BAD       │
+│  36 │ Adrenal glands test                           │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │     $63 │     11 │     382 │  2.9% │ $5.70 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  37 │ Age blood test                                │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $126 │     26 │     437 │  5.9% │ $4.86 │   6.0 │  $21 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  38 │ Alk                                           │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │     $32 │     10 │     324 │  3.1% │ $3.16 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  39 │ Alkaline                                      │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │     $24 │      6 │     179 │  3.4% │ $4.07 │   1.0 │  $24 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  40 │ Alt alkaline phosphatase                      │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $117 │     33 │   1,191 │  2.8% │ $3.54 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  41 │ Apob                                          │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $125 │     32 │   1,952 │  1.6% │ $3.91 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  42 │ Biological Age                                │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │     $61 │     22 │     661 │  3.3% │ $2.79 │   2.0 │  $31 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  43 │ Body fat                                      │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $117 │     24 │     885 │  2.7% │ $4.86 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  44 │ CBC                                           │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $177 │     26 │     771 │  3.4% │ $6.82 │   1.0 │ $177 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  45 │ CMP                                           │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │   $5.23 │      1 │      78 │  1.3% │ $5.23 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  46 │ CRP                                           │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $102 │     21 │     942 │  2.2% │ $4.87 │   4.0 │  $26 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  47 │ Cancer                                        │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │  $1,254 │    187 │   6,176 │  3.0% │ $6.70 │   4.0 │ $313 │   0.0 │      - │     0.0% │ BAD       │
+│  48 │ Cardiovascular                                │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $234 │     31 │     915 │  3.4% │ $7.56 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  49 │ Celiac Test                                   │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $159 │     30 │   1,461 │  2.1% │ $5.29 │   0.2 │ $635 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  50 │ Cholestrol test                               │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $166 │     27 │     930 │  2.9% │ $6.15 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  51 │ Comprehensive panel                           │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $210 │     24 │     587 │  4.1% │ $8.73 │   1.0 │ $210 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  52 │ Energy test                                   │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │   $0.00 │      0 │       5 │  0.0% │     - │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  53 │ Epigenetics test                              │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $270 │     44 │   1,294 │  3.4% │ $6.15 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  54 │ Estrogen test                                 │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $132 │     21 │     438 │  4.8% │ $6.30 │   0.2 │ $529 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  55 │ Ferritin test                                 │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $368 │     62 │   1,859 │  3.3% │ $5.94 │   1.0 │ $368 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  56 │ Glucose test                                  │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $125 │     27 │     998 │  2.7% │ $4.63 │   2.0 │  $62 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  57 │ Gluten intolerance                            │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │     $19 │      8 │     678 │  1.2% │ $2.40 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  58 │ Health assessment                             │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │     $34 │      5 │     132 │  3.8% │ $6.72 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  59 │ Heart Testing                                 │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $329 │     69 │   2,851 │  2.4% │ $4.77 │   1.0 │ $329 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  60 │ Hyperthyroid                                  │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $113 │     24 │     676 │  3.6% │ $4.70 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  61 │ Immune system                                 │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $171 │     25 │     523 │  4.8% │ $6.82 │   2.0 │  $85 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  62 │ LDL                                           │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │     $70 │     17 │     707 │  2.4% │ $4.12 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  63 │ Lipid test                                    │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $157 │     22 │   1,080 │  2.0% │ $7.12 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  64 │ Metabolic                                     │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $100 │      6 │     204 │  2.9% │   $17 │   1.0 │ $100 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  65 │ Mineral deficiency test                       │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │     $43 │      6 │     334 │  1.8% │ $7.11 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  66 │ Nutrient test                                 │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $186 │     11 │     633 │  1.7% │   $17 │   3.2 │  $59 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  67 │ TSH                                           │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │     $76 │      7 │     504 │  1.4% │   $11 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  68 │ Testosterone                                  │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $387 │     44 │   1,610 │  2.7% │ $8.80 │   1.0 │ $387 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  69 │ Thyroid                                       │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │    $256 │     30 │   1,203 │  2.5% │ $8.54 │   1.0 │ $256 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  70 │ Urea                                          │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │     $21 │      3 │     234 │  1.3% │ $6.96 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  71 │ bmp                                           │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ ENABLED │   $0.00 │      0 │      45 │  0.0% │     - │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  72 │ At-Home Diabetes Test                         │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │     $51 │      8 │     147 │  5.4% │ $6.40 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  73 │ Celiac Disease Biomarker Test                 │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │     $13 │      2 │     122 │  1.6% │ $6.56 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  74 │ Cholesterol Test at Home                      │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │   $6.07 │      1 │      77 │  1.3% │ $6.07 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  75 │ Disease Screening                             │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │     $17 │      3 │     113 │  2.7% │ $5.66 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  76 │ Dyslipidemia Biomarker Test                   │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │     $45 │      9 │     289 │  3.1% │ $5.01 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  77 │ Epigenetics Test                              │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │   $0.00 │      0 │      39 │  0.0% │     - │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  78 │ Gout Biomarker Test                           │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │    $112 │     31 │     704 │  4.4% │ $3.62 │   2.0 │  $56 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  79 │ Hashimoto's Biomarker Test                    │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │     $79 │      7 │     230 │  3.0% │   $11 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  80 │ Hashimoto's Symptoms                          │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │     $14 │      3 │      80 │  3.8% │ $4.81 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  81 │ Health and Wellness Test                      │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │    $325 │     44 │   1,428 │  3.1% │ $7.39 │   5.9 │  $55 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  82 │ Heart & Cholesterol                           │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │    $577 │    118 │   4,069 │  2.9% │ $4.89 │   2.5 │ $231 │   0.0 │      - │     0.0% │ BAD       │
+│  83 │ Hormone Tests                                 │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │    $143 │     18 │     479 │  3.8% │ $7.96 │   1.0 │ $143 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  84 │ Hyperthyroidism Biomarker Test                │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │   $0.00 │      0 │      16 │  0.0% │     - │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  85 │ Inflammation & Autoimmune                     │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │    $199 │     59 │   1,824 │  3.2% │ $3.38 │   5.0 │  $40 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  86 │ Kidney Disease Biomarker Test                 │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │   $0.00 │      0 │       9 │  0.0% │     - │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  87 │ Kidney Function Test                          │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │    $101 │     25 │     835 │  3.0% │ $4.03 │   1.5 │  $67 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  88 │ Kidney Infection Test                         │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │   $4.36 │      1 │       6 │ 16.7% │ $4.36 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  89 │ Lab Test                                      │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │  $1,224 │    130 │   4,365 │  3.0% │ $9.41 │  14.3 │  $86 │   0.0 │      - │     0.0% │ BAD       │
+│  90 │ Lab Tests Online                              │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │    $317 │     30 │     662 │  4.5% │   $11 │   5.5 │  $58 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  91 │ Longevity & Aging                             │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │     $31 │      9 │     158 │  5.7% │ $3.48 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  92 │ Lupus Biomarker Test                          │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │    $228 │     46 │     819 │  5.6% │ $4.97 │   1.0 │ $228 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  93 │ Menopause Biomarker Test                      │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │    $120 │     20 │     518 │  3.9% │ $6.00 │   1.0 │ $120 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│  94 │ Metabolic & Diabetes                          │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │    $135 │     19 │     761 │  2.5% │ $7.08 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  95 │ Overactive Thyroid                            │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │   $6.16 │      2 │      48 │  4.2% │ $3.08 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  96 │ Prediabetes Biomarker Test                    │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │     $14 │      4 │     231 │  1.7% │ $3.52 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  97 │ Rheumatoid Arthritis Biomarker Test           │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │     $23 │      8 │     161 │  5.0% │ $2.88 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  98 │ Specialty Tests                               │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │   $9.56 │      1 │      46 │  2.2% │ $9.56 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│  99 │ TSH Levels                                    │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │     $14 │      3 │      85 │  3.5% │ $4.70 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│ 100 │ Thyroid Issues                                │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │     $63 │     14 │     560 │  2.5% │ $4.48 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│ 101 │ Thyroid Symptoms Female                       │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │   $3.24 │      2 │       9 │ 22.2% │ $1.62 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│ 102 │ Type 2 Diabetes Biomarker Test                │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │   $8.88 │      2 │      38 │  5.3% │ $4.44 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│ 103 │ Vitamin B12 Deficiency Biomarker Test         │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │   $4.62 │      1 │     140 │  0.7% │ $4.62 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│ 104 │ Vitamin D Deficiency Biomarker Test           │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │     $48 │     14 │     474 │  3.0% │ $3.45 │   1.0 │  $48 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│ 105 │ Vitamin D3 Info                               │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │   $7.86 │      1 │     123 │  0.8% │ $7.86 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│ 106 │ Vitamin Deficiency Test                       │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │     $81 │      9 │     145 │  6.2% │ $8.99 │   1.0 │  $81 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│ 107 │ Worst Inflammatory Foods                      │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ ENABLED │   $2.38 │      1 │      42 │  2.4% │ $2.38 │   0.0 │    - │   0.0 │      - │        - │ LOW-SPEND │
+│ 108 │ Diabetes & Metabolic Panel                    │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │ ENABLED │    $206 │     42 │   1,356 │  3.1% │ $4.90 │   1.0 │ $206 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│ 109 │ Iron & Ferritin Panel                         │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │ ENABLED │    $446 │    164 │   3,983 │  4.1% │ $2.72 │   2.5 │ $178 │   0.0 │      - │     0.0% │ LOW-SPEND │
+╠═════╬═══════════════════════════════════════════════╬══════════════════════════════════════════╬════════╬═════════╬═════════╬════════╬═════════╬═══════╬═══════╬═══════╬══════╬═══════╬════════╬══════════╬═══════════╣
+│     │ TOTAL                                         │                                          │        │         │ $83,414 │ 16,430 │ 737,666 │  2.2% │ $5.08 │ 783.9 │ $106 │ 159.4 │   $523 │    20.3% │           │
+└─────┴───────────────────────────────────────────────┴──────────────────────────────────────────┴────────┴─────────┴─────────┴────────┴─────────┴───────┴───────┴───────┴──────┴───────┴────────┴──────────┴───────────┘
+  (109 rows)
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  SECTION 2: CLASSIFICATION SUMMARY (Brand Excluded, 1 Week)                 ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+┌───────────┬───────┬─────────┬─────────┬───────┬───────┬────────┬───────────┬───────────┬──────────┬─────────┬─────────┬─────────┬─────────┐
+│ Class     │ Count │ Spend   │ % Spend │ Regs  │ Subs  │ % Subs │ Blend CPR │ Blend CPS │ Avg R>S% │ Med CTR │ Med CPC │ Med CPR │ Med CPS │
+├───────────┼───────┼─────────┼─────────┼───────┼───────┼────────┼───────────┼───────────┼──────────┼─────────┼─────────┼─────────┼─────────┤
+│ GOOD      │    13 │  $8,311 │   10.0% │  95.3 │  36.8 │  23.0% │       $87 │      $226 │    60.1% │    3.0% │   $5.94 │     $98 │    $168 │
+│ MIDDLE    │    12 │ $38,955 │   46.7% │ 397.3 │  84.9 │  53.3% │       $98 │      $459 │    24.1% │    3.3% │   $5.37 │     $97 │    $406 │
+│ BAD       │    13 │ $28,692 │   34.4% │ 235.2 │  37.8 │  23.7% │      $122 │      $760 │    12.4% │    3.4% │   $6.10 │    $124 │    $664 │
+│ LOW-SPEND │    71 │  $7,455 │    8.9% │  56.1 │   0.0 │   0.0% │      $133 │         - │     0.0% │    3.0% │   $5.12 │     $93 │       - │
+╠═══════════╬═══════╬═════════╬═════════╬═══════╬═══════╬════════╬═══════════╬═══════════╬══════════╬═════════╬═════════╬═════════╬═════════╣
+│ TOTAL     │   109 │ $83,414 │  100.0% │ 783.9 │ 159.4 │ 100.0% │      $106 │      $523 │    18.7% │    3.1% │   $5.61 │    $102 │    $390 │
+└───────────┴───────┴─────────┴─────────┴───────┴───────┴────────┴───────────┴───────────┴──────────┴─────────┴─────────┴─────────┴─────────┘
+  (4 rows)
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  SECTION 3: CAMPAIGN-LEVEL ROLLUP (Brand Excluded, 1 Week)                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────┬─────────┬────────┬──────┬───────┬───────┬──────┬───────┬──────┬──────────┐
+│ Campaign                                                │ Spend   │ Clicks │ CTR  │ CPC   │ Regs  │ CPR  │ Subs  │ CPS  │ Reg>Sub% │
+├─────────────────────────────────────────────────────────┼─────────┼────────┼──────┼───────┼───────┼──────┼───────┼──────┼──────────┤
+│ PMAX_Prospecting_Max-Conversions_US_Blood-Test          │ $25,074 │  6,730 │ 1.5% │ $3.73 │ 249.5 │ $101 │  50.8 │ $493 │    20.4% │
+│ Search_Generic_Diagnostic-Discovery_tCPA_US             │ $22,440 │  2,827 │ 3.2% │ $7.94 │ 167.9 │ $134 │  36.8 │ $609 │    21.9% │
+│ PMAX-Test_Prospecting_Max-Conversion-Value_US_Blood-Tes │ $14,144 │  2,830 │ 3.4% │ $5.00 │ 159.6 │  $89 │  30.9 │ $458 │    19.4% │
+│ Search_SEM-Gap_Testing-Keywords_tCPA_US                 │  $9,901 │  1,391 │ 3.4% │ $7.12 │ 105.6 │  $94 │  22.5 │ $439 │    21.3% │
+│ PMAX-Test_Prospecting_Max-Conversion-Value_top-states_B │  $7,619 │  1,365 │ 3.5% │ $5.58 │  61.2 │ $124 │  11.9 │ $641 │    19.4% │
+│ PMAX-Test_Prospecting_Max-Conversion-Value_US_Blood-Tes │  $4,235 │  1,287 │ 3.4% │ $3.29 │  40.2 │ $105 │   6.5 │ $652 │    16.2% │
+╠═════════════════════════════════════════════════════════╬═════════╬════════╬══════╬═══════╬═══════╬══════╬═══════╬══════╬══════════╣
+│ TOTAL                                                   │ $83,414 │ 16,430 │ 2.2% │ $5.08 │ 783.9 │ $106 │ 159.4 │ $523 │    20.3% │
+└─────────────────────────────────────────────────────────┴─────────┴────────┴──────┴───────┴───────┴──────┴───────┴──────┴──────────┘
+  (6 rows)
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  SECTION 4: STRATEGY-LEVEL ROLLUP (Brand Excluded, 1 Week)                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+┌────────────────────────┬─────────┬───────┬──────┬───────┬──────┬──────────┬──────┬─────┬─────┬──────┐
+│ Strategy               │ Spend   │ Regs  │ CPR  │ Subs  │ CPS  │ Reg>Sub% │ GOOD │ MID │ BAD │ LOW$ │
+├────────────────────────┼─────────┼───────┼──────┼───────┼──────┼──────────┼──────┼─────┼─────┼──────┤
+│ SEM-Gap                │  $9,901 │ 105.6 │  $94 │  22.5 │ $439 │    21.3% │    6 │   2 │   3 │   34 │
+│ Generic/Diag-Discovery │ $22,440 │ 167.9 │ $134 │  36.8 │ $609 │    21.9% │    5 │   4 │   5 │   35 │
+│ Prospecting/PMAX       │ $51,072 │ 510.4 │ $100 │ 100.1 │ $510 │    19.6% │    2 │   6 │   5 │    2 │
+└────────────────────────┴─────────┴───────┴──────┴───────┴──────┴──────────┴──────┴─────┴─────┴──────┘
+  (3 rows)
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  SECTION 5: THEME PERFORMANCE (Brand Excluded, 1 Week)                      ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+┌────────────────────┬──────┬─────────┬───────┬──────┬───────┬────────┬──────┬──────────┬───────┐
+│ Theme              │ Grps │ Spend   │ Regs  │ CPR  │ Subs  │ CPS    │ CTR  │ Reg>Sub% │ G/M/B │
+├────────────────────┼──────┼─────────┼───────┼──────┼───────┼────────┼──────┼──────────┼───────┤
+│ general_health     │   19 │ $61,155 │ 586.0 │ $104 │ 118.8 │   $515 │ 2.0% │    20.3% │ 3/5/6 │
+│ heart_cholesterol  │   11 │  $4,342 │  29.7 │ $146 │   4.0 │ $1,085 │ 3.2% │    13.5% │ 0/1/3 │
+│ specific_condition │   13 │  $3,994 │  34.7 │ $115 │  11.0 │   $363 │ 3.6% │    31.7% │ 3/1/0 │
+│ longevity          │    8 │  $3,308 │  36.5 │  $91 │   4.6 │   $716 │ 3.6% │    12.7% │ 0/2/1 │
+│ hormone            │    7 │  $3,029 │  29.2 │ $104 │   4.5 │   $673 │ 3.7% │    15.4% │ 0/2/1 │
+│ vitamin_nutrient   │   11 │  $2,204 │  21.7 │ $102 │   8.1 │   $273 │ 3.4% │    37.2% │ 3/0/0 │
+│ cancer             │    2 │  $1,464 │  10.5 │ $140 │   2.5 │   $585 │ 3.1% │    23.8% │ 1/0/1 │
+│ thyroid            │   11 │  $1,174 │  11.0 │ $107 │   1.0 │ $1,174 │ 3.3% │     9.1% │ 0/0/1 │
+│ inflammation       │    6 │    $822 │  12.0 │  $69 │   1.0 │   $822 │ 3.7% │     8.3% │ 1/0/0 │
+│ diabetes_metabolic │    8 │    $700 │   5.0 │ $140 │   1.0 │   $700 │ 2.8% │    20.0% │ 1/0/0 │
+│ kidney_liver       │    8 │    $651 │   5.5 │ $118 │   1.0 │   $651 │ 3.0% │    18.2% │ 0/1/0 │
+│ other              │    2 │    $380 │   2.0 │ $190 │   2.0 │   $190 │ 2.4% │   100.0% │ 1/0/0 │
+│ gut                │    3 │    $191 │   0.2 │ $764 │   0.0 │      - │ 1.8% │     0.0% │ 0/0/0 │
+└────────────────────┴──────┴─────────┴───────┴──────┴───────┴────────┴──────┴──────────┴───────┘
+  (13 rows)
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  SECTION 6: SEARCH TERM ANALYSIS BY CLASSIFICATION (Brand Excluded)       ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+  --- GOOD Groups: Top 15 Search Terms by Spend ---
+  Unique terms: 4,685 | Top-term concentration: 11.6% | Total spend: $2,947
+┌───────────────────────────────┬───────┬────────┬────────┬───────┬──────┬───────┐
+│ Search Term                   │ Spend │ Clicks │ CTR    │ CPC   │ Conv │ Conv% │
+├───────────────────────────────┼───────┼────────┼────────┼───────┼──────┼───────┤
+│ biomarker testing             │  $341 │     35 │   9.6% │ $9.75 │  2.0 │  5.7% │
+│ mthfr gene mutation test      │   $77 │     13 │   3.7% │ $5.92 │  1.0 │  7.7% │
+│ biomarkers test               │   $71 │      8 │  11.3% │ $8.85 │  0.0 │  0.0% │
+│ best biomarker tests          │   $64 │      4 │  50.0% │   $16 │  0.0 │  0.0% │
+│ lifeforce biomarkers          │   $59 │      2 │ 100.0% │   $30 │  0.0 │  0.0% │
+│ iron blood test               │   $55 │      3 │   3.0% │   $18 │  0.0 │  0.0% │
+│ biomarkers blood test         │   $51 │      3 │  11.5% │   $17 │  1.0 │ 33.3% │
+│ mthfr test                    │   $44 │      8 │   6.5% │ $5.44 │  0.0 │  0.0% │
+│ rhythm blood                  │   $37 │      5 │   6.9% │ $7.41 │  0.0 │  0.0% │
+│ genetic methylation test      │   $37 │      6 │   3.6% │ $6.12 │  0.0 │  0.0% │
+│ ferritin test at home         │   $36 │      4 │  12.9% │ $8.90 │  0.0 │  0.0% │
+│ cortisol test                 │   $35 │      4 │   2.5% │ $8.80 │  1.0 │ 25.0% │
+│ blood testing services        │   $34 │      2 │  66.7% │   $17 │  0.0 │  0.0% │
+│ best mthfr gene mutation test │   $33 │      3 │  50.0% │   $11 │  0.0 │  0.0% │
+│ lab studies                   │   $32 │      1 │  33.3% │   $32 │  0.0 │  0.0% │
+└───────────────────────────────┴───────┴────────┴────────┴───────┴──────┴───────┘
+  (15 rows)
+
+  --- MIDDLE Groups: Top 15 Search Terms by Spend ---
+  Unique terms: 4,125 | Top-term concentration: 18.8% | Total spend: $3,585
+┌───────────────────────────┬───────┬────────┬────────┬───────┬──────┬───────┐
+│ Search Term               │ Spend │ Clicks │ CTR    │ CPC   │ Conv │ Conv% │
+├───────────────────────────┼───────┼────────┼────────┼───────┼──────┼───────┤
+│ blood test                │  $674 │     49 │   3.8% │   $14 │  2.5 │  5.1% │
+│ at home blood test        │  $522 │     47 │   7.6% │   $11 │  1.5 │  3.2% │
+│ blood panel test          │  $179 │     10 │  11.1% │   $18 │  0.0 │  0.0% │
+│ blood work                │  $129 │     15 │   1.9% │ $8.57 │  0.0 │  0.0% │
+│ full blood panel          │  $123 │      9 │   4.9% │   $14 │  2.0 │ 22.2% │
+│ blood tests               │  $116 │     11 │   3.0% │   $11 │  0.0 │  0.0% │
+│ rythm blood test          │   $59 │      8 │   2.0% │ $7.37 │  0.0 │  0.0% │
+│ dexa scan                 │   $56 │     10 │   4.0% │ $5.65 │  0.0 │  0.0% │
+│ igf 1                     │   $47 │     17 │   2.2% │ $2.75 │  0.0 │  0.0% │
+│ blood and hormone test    │   $45 │      1 │ 100.0% │   $45 │  0.0 │  0.0% │
+│ easy blood test           │   $45 │      1 │ 100.0% │   $45 │  0.0 │  0.0% │
+│ comprehensive blood panel │   $38 │      1 │  11.1% │   $38 │  0.0 │  0.0% │
+│ blood work utah           │   $34 │      1 │  50.0% │   $34 │  0.0 │  0.0% │
+│ mens blood panel          │   $34 │      2 │ 200.0% │   $17 │  0.0 │  0.0% │
+│ lifeforce                 │   $31 │      2 │   1.4% │   $15 │  0.0 │  0.0% │
+└───────────────────────────┴───────┴────────┴────────┴───────┴──────┴───────┘
+  (15 rows)
+
+  --- BAD Groups: Top 15 Search Terms by Spend ---
+  Unique terms: 8,661 | Top-term concentration: 5.4% | Total spend: $8,279
+┌────────────────────────────────────┬───────┬────────┬───────┬───────┬──────┬───────┐
+│ Search Term                        │ Spend │ Clicks │ CTR   │ CPC   │ Conv │ Conv% │
+├────────────────────────────────────┼───────┼────────┼───────┼───────┼──────┼───────┤
+│ rythm health                       │  $451 │     54 │  2.5% │ $8.36 │  2.0 │  3.7% │
+│ rythm blood test                   │  $266 │     38 │  3.7% │ $7.00 │  0.0 │  0.0% │
+│ rhythm blood test                  │  $189 │     20 │  3.0% │ $9.45 │  0.0 │  0.0% │
+│ monthly blood test subscription    │  $185 │     11 │ 20.8% │   $17 │  0.0 │  0.0% │
+│ full thyroid panel                 │  $117 │     14 │ 10.4% │ $8.36 │  0.0 │  0.0% │
+│ galleri blood test                 │  $108 │     20 │ 10.6% │ $5.38 │  0.0 │  0.0% │
+│ best blood test for overall health │   $99 │      2 │ 20.0% │   $49 │  0.0 │  0.0% │
+│ full panel blood test              │   $92 │      5 │  6.5% │   $18 │  0.5 │  9.2% │
+│ at home blood tests for men        │   $85 │      3 │ 60.0% │   $28 │  0.0 │  0.0% │
+│ best at home blood tests           │   $85 │      5 │  9.3% │   $17 │  1.0 │ 20.0% │
+│ apob test                          │   $82 │     20 │  3.3% │ $4.11 │  0.0 │  0.0% │
+│ apob blood test                    │   $80 │     25 │  4.8% │ $3.19 │  0.0 │  0.0% │
+│ best blood work for men            │   $77 │      2 │ 50.0% │   $39 │  0.0 │  0.0% │
+│ hormone testing                    │   $75 │      4 │  4.0% │   $19 │  0.0 │  0.0% │
+│ levels health                      │   $70 │      5 │  7.7% │   $14 │  0.0 │  0.0% │
+└────────────────────────────────────┴───────┴────────┴───────┴───────┴──────┴───────┘
+  (15 rows)
+
+  --- LOW-SPEND Groups: Top 15 Search Terms by Spend ---
+  Unique terms: 10,394 | Top-term concentration: 2.6% | Total spend: $3,580
+┌───────────────────────────────┬───────┬────────┬────────┬───────┬──────┬───────┐
+│ Search Term                   │ Spend │ Clicks │ CTR    │ CPC   │ Conv │ Conv% │
+├───────────────────────────────┼───────┼────────┼────────┼───────┼──────┼───────┤
+│ online blood test             │   $92 │      8 │  14.8% │   $11 │  0.0 │  0.0% │
+│ metabolic testing             │   $64 │      2 │ 100.0% │   $32 │  0.0 │  0.0% │
+│ comprehensive blood panel     │   $57 │      4 │   6.8% │   $14 │  0.0 │  0.0% │
+│ marek health                  │   $54 │      7 │   2.6% │ $7.72 │  0.0 │  0.0% │
+│ comprehensive metabolic panel │   $48 │      2 │  25.0% │   $24 │  0.0 │  0.0% │
+│ lupus blood test              │   $45 │      4 │  13.3% │   $11 │  0.0 │  0.0% │
+│ thyroid blood panel           │   $41 │      1 │   8.3% │   $41 │  0.0 │  0.0% │
+│ testosterone blood test       │   $39 │      3 │   5.1% │   $13 │  0.0 │  0.0% │
+│ bloodwork online              │   $36 │      2 │  33.3% │   $18 │  0.0 │  0.0% │
+│ rythm blood test reviews      │   $32 │      1 │ 100.0% │   $32 │  0.0 │  0.0% │
+│ functional health             │   $32 │      5 │   1.3% │ $6.43 │  0.0 │  0.0% │
+│ full blood panel              │   $31 │      3 │   4.1% │   $10 │  0.0 │  0.0% │
+│ men's health clinics near me  │   $29 │      1 │ 100.0% │   $29 │  0.0 │  0.0% │
+│ hormone and thyroid testing   │   $25 │      2 │  50.0% │   $12 │  0.0 │  0.0% │
+│ ferritin                      │   $25 │      5 │   1.6% │ $5.00 │  0.0 │  0.0% │
+└───────────────────────────────┴───────┴────────┴────────┴───────┴──────┴───────┘
+  (15 rows)
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  SECTION 7: LANDING PAGE PERFORMANCE ($50+ Spend, Brand Excluded, 1 Wk)   ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+┌────────────────────────────────────────────────────┬────────┬────────┬──────┬───────┬──────┬───────┐
+│ Landing Page                                       │ Spend  │ Clicks │ CTR  │ CPC   │ Conv │ Conv% │
+├────────────────────────────────────────────────────┼────────┼────────┼──────┼───────┼──────┼───────┤
+│ sp.com/welcome-cms/vitamin-panel                   │   $462 │     56 │ 3.0% │ $8.24 │  3.5 │  6.2% │
+│ sp.com/welcome-cms/insulin-resistance-biomarker-te │    $58 │     18 │ 2.3% │ $3.25 │  1.0 │  5.6% │
+│ sp.com/welcome-cms/chronic-stress-biomarker-test   │   $317 │     57 │ 2.0% │ $5.55 │  3.0 │  5.3% │
+│ sp.com/welcome-cms/iron-deficiency-anemia-biomarke │   $462 │     78 │ 3.3% │ $5.92 │  4.1 │  5.2% │
+│ sp.com/welcome-cms/health-screening                │   $491 │     66 │ 2.6% │ $7.44 │  3.0 │  4.5% │
+│ sp.com/checkout/membership                         │   $154 │     23 │ 0.1% │ $6.69 │  1.0 │  4.3% │
+│ sp.com/welcome-cms/prostate-cancer-biomarker-test  │   $181 │     41 │ 3.2% │ $4.42 │  1.5 │  3.7% │
+│ sp.com/welcome-cms/blood-test-at-home              │   $511 │     47 │ 6.1% │   $11 │  1.5 │  3.2% │
+│ sp.com/welcome-cms/blood-test-general              │ $7,822 │    689 │ 3.1% │   $11 │ 18.6 │  2.7% │
+│ sp.com/how-it-works                                │   $370 │     68 │ 0.3% │ $5.44 │  1.6 │  2.3% │
+│ sp.com/welcome-cms/mthfr-test                      │   $548 │     92 │ 2.8% │ $5.96 │  2.0 │  2.2% │
+│ sp.com/welcome-cms/blood-work                      │ $2,409 │    273 │ 0.8% │ $8.82 │  4.4 │  1.6% │
+│ sp.com/welcome-cms/t3-t4-test                      │   $205 │     34 │ 3.1% │ $6.02 │  0.5 │  1.5% │
+│ sp.com/welcome-cms/longevity                       │   $276 │     43 │ 2.8% │ $6.42 │  0.6 │  1.4% │
+│ sp.com/welcome-cms/body-composition-test           │   $350 │     74 │ 3.0% │ $4.74 │  1.0 │  1.4% │
+│ sp.com/welcome-cms/liver-panel                     │   $324 │     75 │ 3.0% │ $4.32 │  1.0 │  1.3% │
+│ sp.com/welcome-cms/thyroid-panel                   │   $613 │     79 │ 3.6% │ $7.76 │  1.0 │  1.3% │
+│ sp.com/welcome-cms/health-wellness                 │ $5,596 │    645 │ 1.1% │ $8.68 │  7.0 │  1.1% │
+│ sp.com/welcome-cms/igf-1-test                      │   $463 │     96 │ 3.1% │ $4.83 │  1.0 │  1.0% │
+│ sp.com/welcome-cms/hormone-panel                   │ $1,305 │    130 │ 2.6% │   $10 │  1.0 │  0.8% │
+│ sp.com/biomarkers                                  │   $768 │    131 │ 0.2% │ $5.86 │  1.0 │  0.8% │
+│ sp.com/welcome-cms/body-fat-test                   │   $117 │     24 │ 2.7% │ $4.86 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/menopause-biomarker-test        │   $111 │     16 │ 3.1% │ $6.95 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/ldl-cholesterol-test            │    $70 │     17 │ 2.4% │ $4.12 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/lipid-panel                     │   $233 │     35 │ 1.9% │ $6.66 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/nutrient-deficiency-test        │   $184 │     10 │ 1.6% │   $18 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/apob-test                       │   $451 │    101 │ 2.3% │ $4.47 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/lab-test                        │ $1,070 │    105 │ 2.4% │   $10 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/adrenal                         │    $78 │     12 │ 2.7% │ $6.53 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/systemic-lupus-erythematosus-bi │   $224 │     42 │ 5.1% │ $5.32 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/tsh-test                        │   $189 │     38 │ 2.6% │ $4.99 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/vitamin-deficiency-test         │    $77 │      8 │ 5.5% │ $9.57 │  0.0 │  0.0% │
+│ sp.com/pricing                                     │    $54 │     13 │ 0.1% │ $4.14 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/alp-test                        │    $55 │     15 │ 3.0% │ $3.64 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/alt-ast-test                    │   $116 │     31 │ 2.6% │ $3.75 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/lab-tests-online                │   $271 │     24 │ 3.6% │   $11 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/biological-age                  │   $175 │     44 │ 4.0% │ $3.97 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/kidney-function-test            │    $98 │     24 │ 2.9% │ $4.07 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/at-home-diabetes-test           │    $51 │      8 │ 5.4% │ $6.40 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/cbc-test                        │   $205 │     24 │ 1.9% │ $8.54 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/celiac-test-at-home             │   $146 │     27 │ 1.8% │ $5.41 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/cholesterol-test                │   $498 │     76 │ 2.9% │ $6.55 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/comprehensive-blood-panel       │   $185 │     20 │ 3.4% │ $9.23 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/crp-test                        │   $233 │     63 │ 2.6% │ $3.70 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/diabetes-test                   │   $243 │     38 │ 2.3% │ $6.40 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/epigenetics-test                │   $249 │     38 │ 2.9% │ $6.55 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/estrogen-test                   │   $113 │     18 │ 4.1% │ $6.28 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/ferritin-test                   │   $362 │     58 │ 2.8% │ $6.23 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/gout-biomarker-test             │   $101 │     26 │ 3.7% │ $3.88 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/hashimotos-biomarker-test       │    $78 │      6 │ 2.6% │   $13 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/heart-health-test               │   $316 │     64 │ 2.2% │ $4.93 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/hyperthyroidism-biomarker-test  │   $101 │     22 │ 3.2% │ $4.61 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/immune-system-test              │   $147 │     22 │ 4.2% │ $6.68 │  0.0 │  0.0% │
+│ sp.com/welcome-cms/cancer-screening                │ $1,122 │    159 │ 2.6% │ $7.06 │  0.0 │  0.0% │
+│ sp.com                                             │   $336 │     62 │ 0.1% │ $5.42 │  0.0 │  0.0% │
+└────────────────────────────────────────────────────┴────────┴────────┴──────┴───────┴──────┴───────┘
+  (55 rows)
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  SECTION 8: CPR vs CPS DISTRIBUTION ANALYSIS (Brand Excluded, 1 Week)     ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+  Groups with both regs AND subs: 35
+  Groups with regs but NO subs:  31
+  Groups with NO regs:           43
+
+  --- CPR vs CPS Side-by-Side (groups with both regs & subs) ---
+┌───────────────────────────────────────────────┬─────────┬───────┬──────┬──────┬────────┬──────────┬────────┐
+│ Group Name                                    │ Spend   │ Regs  │ CPR  │ Subs │ CPS    │ Reg>Sub% │ Class  │
+├───────────────────────────────────────────────┼─────────┼───────┼──────┼──────┼────────┼──────────┼────────┤
+│ Insulin Resistance Biomarker Test             │     $61 │   1.0 │  $61 │  1.0 │    $61 │   100.0% │ GOOD   │
+│ Prostate Cancer Biomarker Test                │    $210 │   6.5 │  $32 │  2.5 │    $84 │    38.5% │ GOOD   │
+│ Vitamins & Nutrients                          │    $182 │   3.0 │  $61 │  2.0 │    $91 │    66.7% │ GOOD   │
+│ Cortisol                                      │    $214 │   2.0 │ $107 │  2.0 │   $107 │   100.0% │ GOOD   │
+│ Chronic Stress Biomarker Test                 │    $119 │   1.0 │ $119 │  1.0 │   $119 │   100.0% │ GOOD   │
+│ Iron Deficiency Biomarker Test                │    $501 │   8.0 │  $62 │  4.1 │   $123 │    50.6% │ GOOD   │
+│ Vitamin                                       │    $337 │   2.0 │ $168 │  2.0 │   $168 │   100.0% │ GOOD   │
+│ Medical test                                  │    $391 │   4.0 │  $98 │  2.0 │   $195 │    50.0% │ GOOD   │
+│ Autoimmune Panel                              │    $267 │   2.0 │ $133 │  1.0 │   $267 │    50.0% │ GOOD   │
+│ Gene test                                     │    $593 │   7.0 │  $85 │  2.0 │   $297 │    28.6% │ GOOD   │
+│ Blood Test - General                          │  $2,906 │  38.9 │  $75 │  9.3 │   $313 │    23.9% │ GOOD   │
+│ Blood Work                                    │    $283 │   2.8 │ $100 │  0.9 │   $319 │    31.4% │ GOOD   │
+│ Biomarker                                     │  $2,248 │  17.0 │ $132 │  7.0 │   $321 │    41.2% │ GOOD   │
+│ Kidney & Liver                                │    $352 │   3.0 │ $117 │  1.0 │   $352 │    33.3% │ MIDDLE │
+│ Body composition                              │    $372 │   4.7 │  $80 │  1.0 │   $372 │    21.4% │ MIDDLE │
+│ Hormone Panel                                 │  $1,135 │  17.0 │  $67 │  3.0 │   $378 │    17.6% │ MIDDLE │
+│ Heart Health Panel                            │    $961 │  14.5 │  $66 │  2.5 │   $384 │    17.2% │ MIDDLE │
+│ Blood Test                                    │  $2,258 │  28.9 │  $78 │  5.8 │   $390 │    20.0% │ MIDDLE │
+│ Blood Tests General                           │  $3,615 │  28.5 │ $127 │  9.1 │   $399 │    31.8% │ MIDDLE │
+│ T blood tests                                 │    $207 │   1.5 │ $142 │  0.5 │   $414 │    34.2% │ MIDDLE │
+│ Longevity                                     │    $264 │   4.5 │  $58 │  0.6 │   $426 │    13.7% │ MIDDLE │
+│ Best Blood Test Service                       │  $2,070 │  22.2 │  $93 │  4.8 │   $429 │    21.8% │ MIDDLE │
+│ Blood Test - Top Converting Search Interests  │  $2,152 │  20.1 │ $107 │  4.8 │   $446 │    23.9% │ MIDDLE │
+│ Blood Test - Top Converting Search Interests  │ $25,074 │ 249.5 │ $101 │ 50.8 │   $493 │    20.4% │ MIDDLE │
+│ igf 1 test                                    │    $496 │   3.0 │ $165 │  1.0 │   $496 │    33.3% │ MIDDLE │
+│ Thyroid Tests                                 │    $549 │  10.0 │  $55 │  1.0 │   $549 │    10.0% │ BAD    │
+│ Health Check                                  │  $1,719 │  15.5 │ $111 │  3.0 │   $573 │    19.4% │ BAD    │
+│ Test                                          │  $3,575 │  27.2 │ $132 │  6.1 │   $581 │    22.6% │ BAD    │
+│ Health testing                                │  $5,292 │  40.4 │ $131 │  8.6 │   $619 │    21.1% │ BAD    │
+│ Blood Test (compliant)                        │  $7,619 │  61.2 │ $124 │ 11.9 │   $641 │    19.4% │ BAD    │
+│ Longevity Blood Test                          │  $2,058 │  20.9 │  $98 │  3.0 │   $686 │    14.3% │ BAD    │
+│ Cholesterol & Heart Panel                     │    $400 │   2.2 │ $180 │  0.5 │   $801 │    22.5% │ BAD    │
+│ Hormone Testing                               │    $904 │   7.5 │ $121 │  1.0 │   $904 │    13.4% │ BAD    │
+│ Blood Test - Top Converting Search Interests  │  $2,083 │  20.0 │ $104 │  1.7 │ $1,240 │     8.4% │ BAD    │
+│ Lp(a) Heart Risk                              │  $1,438 │   9.5 │ $152 │  1.0 │ $1,438 │    10.6% │ BAD    │
+└───────────────────────────────────────────────┴─────────┴───────┴──────┴──────┴────────┴──────────┴────────┘
+  (35 rows)
+
+  Pearson correlation between CPR and CPS: 0.397
+  Spearman rank correlation:               0.392
+
+  --- CPR Buckets: Average CPS by CPR Range ---
+┌────────────┬────────┬─────────┬─────────┬─────────┬──────────────┬──────┬─────┬─────┐
+│ CPR Bucket │ Groups │ Avg CPR │ Avg CPS │ Med CPS │ Avg Reg>Sub% │ GOOD │ MID │ BAD │
+├────────────┼────────┼─────────┼─────────┼─────────┼──────────────┼──────┼─────┼─────┤
+│ < $10      │      0 │       - │       - │       - │            - │    0 │   0 │   0 │
+│ $10 - $20  │      0 │       - │       - │       - │            - │    0 │   0 │   0 │
+│ $20 - $30  │      0 │       - │       - │       - │            - │    0 │   0 │   0 │
+│ $30 - $50  │      1 │     $32 │     $84 │     $84 │        38.5% │    1 │   0 │   0 │
+│ $50 - $100 │     14 │     $74 │    $335 │    $375 │        32.6% │    6 │   6 │   2 │
+│ $100+      │     20 │    $129 │    $535 │    $470 │        36.9% │    6 │   6 │   8 │
+└────────────┴────────┴─────────┴─────────┴─────────┴──────────────┴──────┴─────┴─────┘
+  (6 rows)
+
+  --- Anomaly: Low CPR (< $30) but High CPS (> $500) ---
+  (Cheap regs that don't convert to subscriptions)
+  None found.
+
+  --- Anomaly: High CPR (> $50) but Low CPS (< $350) ---
+  (Expensive regs that DO convert to subscriptions)
+┌───────────────────────────────────┬────────┬──────┬──────┬──────┬──────┬──────────┐
+│ Group Name                        │ Spend  │ Regs │ CPR  │ Subs │ CPS  │ Reg>Sub% │
+├───────────────────────────────────┼────────┼──────┼──────┼──────┼──────┼──────────┤
+│ Insulin Resistance Biomarker Test │    $61 │  1.0 │  $61 │  1.0 │  $61 │   100.0% │
+│ Vitamins & Nutrients              │   $182 │  3.0 │  $61 │  2.0 │  $91 │    66.7% │
+│ Cortisol                          │   $214 │  2.0 │ $107 │  2.0 │ $107 │   100.0% │
+│ Chronic Stress Biomarker Test     │   $119 │  1.0 │ $119 │  1.0 │ $119 │   100.0% │
+│ Iron Deficiency Biomarker Test    │   $501 │  8.0 │  $62 │  4.1 │ $123 │    50.6% │
+│ Vitamin                           │   $337 │  2.0 │ $168 │  2.0 │ $168 │   100.0% │
+│ Medical test                      │   $391 │  4.0 │  $98 │  2.0 │ $195 │    50.0% │
+│ Autoimmune Panel                  │   $267 │  2.0 │ $133 │  1.0 │ $267 │    50.0% │
+│ Gene test                         │   $593 │  7.0 │  $85 │  2.0 │ $297 │    28.6% │
+│ Blood Test - General              │ $2,906 │ 38.9 │  $75 │  9.3 │ $313 │    23.9% │
+│ Blood Work                        │   $283 │  2.8 │ $100 │  0.9 │ $319 │    31.4% │
+│ Biomarker                         │ $2,248 │ 17.0 │ $132 │  7.0 │ $321 │    41.2% │
+└───────────────────────────────────┴────────┴──────┴──────┴──────┴──────┴──────────┘
+  (12 rows)
+
+  --- CPR Sweet Spot Analysis ---
+  GOOD groups CPR range:  $32.32 - $168.41
+  GOOD groups CPR median: $97.69
+  GOOD groups CPR P25:    $62.33
+  GOOD groups CPR P75:    $119.20
+
+  BAD groups CPR range:   $54.91 - $180.39
+  BAD groups CPR median:  $122.83
+  BAD groups CPR P25:     $105.77
+  BAD groups CPR P75:     $131.35
+
+  --- Groups with Regs but ZERO Subs (Infinite CPS) ---
+┌─────────────────────────────────────┬──────────────────────────────────────────┬────────┬──────┬──────┬──────┬───────────┐
+│ Group Name                          │ Campaign                                 │ Spend  │ Regs │ CPR  │ Subs │ Class     │
+├─────────────────────────────────────┼──────────────────────────────────────────┼────────┼──────┼──────┼──────┼───────────┤
+│ Cancer                              │ Search_Generic_Diagnostic-Discovery_tCPA │ $1,254 │  4.0 │ $313 │    0 │ BAD       │
+│ Lab Test                            │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ $1,224 │ 14.3 │  $86 │    0 │ BAD       │
+│ Heart & Cholesterol                 │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │   $577 │  2.5 │ $231 │    0 │ BAD       │
+│ Iron & Ferritin Panel               │ PMAX-Test_Prospecting_Max-Conversion-Val │   $446 │  2.5 │ $178 │    0 │ LOW-SPEND │
+│ Testosterone                        │ Search_Generic_Diagnostic-Discovery_tCPA │   $387 │  1.0 │ $387 │    0 │ LOW-SPEND │
+│ Ferritin test                       │ Search_Generic_Diagnostic-Discovery_tCPA │   $368 │  1.0 │ $368 │    0 │ LOW-SPEND │
+│ Heart Testing                       │ Search_Generic_Diagnostic-Discovery_tCPA │   $329 │  1.0 │ $329 │    0 │ LOW-SPEND │
+│ Health and Wellness Test            │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │   $325 │  5.9 │  $55 │    0 │ LOW-SPEND │
+│ Lab Tests Online                    │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │   $317 │  5.5 │  $58 │    0 │ LOW-SPEND │
+│ Thyroid                             │ Search_Generic_Diagnostic-Discovery_tCPA │   $256 │  1.0 │ $256 │    0 │ LOW-SPEND │
+│ Lupus Biomarker Test                │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │   $228 │  1.0 │ $228 │    0 │ LOW-SPEND │
+│ Comprehensive panel                 │ Search_Generic_Diagnostic-Discovery_tCPA │   $210 │  1.0 │ $210 │    0 │ LOW-SPEND │
+│ Diabetes & Metabolic Panel          │ PMAX-Test_Prospecting_Max-Conversion-Val │   $206 │  1.0 │ $206 │    0 │ LOW-SPEND │
+│ Inflammation & Autoimmune           │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │   $199 │  5.0 │  $40 │    0 │ LOW-SPEND │
+│ Nutrient test                       │ Search_Generic_Diagnostic-Discovery_tCPA │   $186 │  3.2 │  $59 │    0 │ LOW-SPEND │
+│ CBC                                 │ Search_Generic_Diagnostic-Discovery_tCPA │   $177 │  1.0 │ $177 │    0 │ LOW-SPEND │
+│ Immune system                       │ Search_Generic_Diagnostic-Discovery_tCPA │   $171 │  2.0 │  $85 │    0 │ LOW-SPEND │
+│ Celiac Test                         │ Search_Generic_Diagnostic-Discovery_tCPA │   $159 │  0.2 │ $635 │    0 │ LOW-SPEND │
+│ Hormone Tests                       │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │   $143 │  1.0 │ $143 │    0 │ LOW-SPEND │
+│ Estrogen test                       │ Search_Generic_Diagnostic-Discovery_tCPA │   $132 │  0.2 │ $529 │    0 │ LOW-SPEND │
+│ Age blood test                      │ Search_Generic_Diagnostic-Discovery_tCPA │   $126 │  6.0 │  $21 │    0 │ LOW-SPEND │
+│ Glucose test                        │ Search_Generic_Diagnostic-Discovery_tCPA │   $125 │  2.0 │  $62 │    0 │ LOW-SPEND │
+│ Menopause Biomarker Test            │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │   $120 │  1.0 │ $120 │    0 │ LOW-SPEND │
+│ Gout Biomarker Test                 │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │   $112 │  2.0 │  $56 │    0 │ LOW-SPEND │
+│ CRP                                 │ Search_Generic_Diagnostic-Discovery_tCPA │   $102 │  4.0 │  $26 │    0 │ LOW-SPEND │
+│ Kidney Function Test                │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │   $101 │  1.5 │  $67 │    0 │ LOW-SPEND │
+│ Metabolic                           │ Search_Generic_Diagnostic-Discovery_tCPA │   $100 │  1.0 │ $100 │    0 │ LOW-SPEND │
+│ Vitamin Deficiency Test             │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │    $81 │  1.0 │  $81 │    0 │ LOW-SPEND │
+│ Biological Age                      │ Search_Generic_Diagnostic-Discovery_tCPA │    $61 │  2.0 │  $31 │    0 │ LOW-SPEND │
+│ Vitamin D Deficiency Biomarker Test │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │    $48 │  1.0 │  $48 │    0 │ LOW-SPEND │
+│ Alkaline                            │ Search_Generic_Diagnostic-Discovery_tCPA │    $24 │  1.0 │  $24 │    0 │ LOW-SPEND │
+└─────────────────────────────────────┴──────────────────────────────────────────┴────────┴──────┴──────┴──────┴───────────┘
+  (31 rows)
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  SECTION 9: PATTERN ANALYSIS - GOOD vs BAD (Brand Excluded, 1 Week)       ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+  === GOOD Classification (13 groups) ===
+  Total spend: $8,311
+  CTR         P25=      2.6%  Median=      3.0%  P75=      3.6%  Range=[      2.1% -       4.3%]
+  CPC         P25=     $4.77  Median=     $5.94  P75=     $7.81  Range=[     $3.19 -     $11.36]
+  CPR         P25=    $62.33  Median=    $97.69  P75=   $119.20  Range=[    $32.32 -    $168.41]
+  CPS         P25=   $106.96  Median=   $168.41  P75=   $296.73  Range=[    $60.52 -    $321.12]
+  Reg>Sub%    P25=     38.5%  Median=     50.0%  P75=    100.0%  Range=[     23.9% -     100.0%]
+  Themes: vitamin_nutrient(3), specific_condition(3), general_health(3), diabetes_metabolic(1), cancer(1), other(1), inflammation(1)
+  Search terms: 4,685 unique | Top-term spend%: 11.6%
+  Top LPs: sp.com/welcome-cms/blood-test-general ($7,822), sp.com/welcome-cms/health-wellness ($5,596), sp.com/welcome-cms/blood-work ($2,409)
+
+  === BAD Classification (13 groups) ===
+  Total spend: $28,692
+  CTR         P25=      3.0%  Median=      3.4%  P75=      3.7%  Range=[      2.8% -       4.3%]
+  CPC         P25=     $4.45  Median=     $6.10  P75=     $9.25  Range=[     $3.48 -     $12.54]
+  CPR         P25=   $103.96  Median=   $124.45  P75=   $151.97  Range=[    $54.91 -    $313.45]
+  CPS         P25=   $590.68  Median=   $663.71  P75=   $878.43  Range=[   $549.11 -   $1437.61]
+  Reg>Sub%    P25=      8.4%  Median=     13.4%  P75=     19.4%  Range=[      0.0% -      22.6%]
+  Themes: general_health(6), heart_cholesterol(3), thyroid(1), longevity(1), hormone(1), cancer(1)
+  Search terms: 8,661 unique | Top-term spend%: 5.4%
+  Top LPs: sp.com/welcome-cms/blood-test-general ($7,822), sp.com/welcome-cms/health-wellness ($5,596), sp.com/welcome-cms/blood-work ($2,409)
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  SECTION 10: PMAX DEEP DIVE (Brand Excluded, 1 Week)                        ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────┬───────────────────────────────────────────────┬─────────┬─────────┬────────┬──────┬───────┬───────┬──────┬───────┬────────┬──────────┬───────────┐
+│ Campaign                                 │ Asset Group                                   │ Status  │ Spend   │ Clicks │ CTR  │ CPC   │ Regs  │ CPR  │ Subs  │ CPS    │ Reg>Sub% │ Class     │
+├──────────────────────────────────────────┼───────────────────────────────────────────────┼─────────┼─────────┼────────┼──────┼───────┼───────┼──────┼───────┼────────┼──────────┼───────────┤
+│ PMAX_Prospecting_Max-Conversions_US_Bloo │ Blood Test - Top Converting Search Interests  │ ENABLED │ $25,074 │  6,730 │ 1.5% │ $3.73 │ 249.5 │ $101 │  50.8 │   $493 │    20.4% │ MIDDLE    │
+│ PMAX-Test_Prospecting_Max-Conversion-Val │ Blood Test (compliant)                        │ ENABLED │  $7,619 │  1,365 │ 3.5% │ $5.58 │  61.2 │ $124 │  11.9 │   $641 │    19.4% │ BAD       │
+│ PMAX-Test_Prospecting_Max-Conversion-Val │ Blood Test - General                          │ ENABLED │  $2,906 │    422 │ 2.6% │ $6.89 │  38.9 │  $75 │   9.3 │   $313 │    23.9% │ GOOD      │
+│ PMAX-Test_Prospecting_Max-Conversion-Val │ Blood Test                                    │ ENABLED │  $2,258 │    354 │ 3.6% │ $6.38 │  28.9 │  $78 │   5.8 │   $390 │    20.0% │ MIDDLE    │
+│ PMAX-Test_Prospecting_Max-Conversion-Val │ Blood Test - Top Converting Search Interests  │ ENABLED │  $2,152 │    742 │ 3.3% │ $2.90 │  20.1 │ $107 │   4.8 │   $446 │    23.9% │ MIDDLE    │
+│ PMAX-Test_Prospecting_Max-Conversion-Val │ Blood Test - Top Converting Search Interests  │ ENABLED │  $2,083 │    545 │ 3.4% │ $3.82 │  20.0 │ $104 │   1.7 │ $1,240 │     8.4% │ BAD       │
+│ PMAX-Test_Prospecting_Max-Conversion-Val │ Best Blood Test Service                       │ ENABLED │  $2,070 │    304 │ 2.9% │ $6.81 │  22.2 │  $93 │   4.8 │   $429 │    21.8% │ MIDDLE    │
+│ PMAX-Test_Prospecting_Max-Conversion-Val │ Longevity Blood Test                          │ ENABLED │  $2,058 │    463 │ 3.7% │ $4.45 │  20.9 │  $98 │   3.0 │   $686 │    14.3% │ BAD       │
+│ PMAX-Test_Prospecting_Max-Conversion-Val │ Lp(a) Heart Risk                              │ ENABLED │  $1,438 │    402 │ 3.7% │ $3.58 │   9.5 │ $152 │   1.0 │ $1,438 │    10.6% │ BAD       │
+│ PMAX-Test_Prospecting_Max-Conversion-Val │ Hormone Panel                                 │ ENABLED │  $1,135 │    160 │ 4.9% │ $7.10 │  17.0 │  $67 │   3.0 │   $378 │    17.6% │ MIDDLE    │
+│ PMAX-Test_Prospecting_Max-Conversion-Val │ Heart Health Panel                            │ ENABLED │    $961 │    323 │ 3.5% │ $2.97 │  14.5 │  $66 │   2.5 │   $384 │    17.2% │ MIDDLE    │
+│ PMAX-Test_Prospecting_Max-Conversion-Val │ Iron & Ferritin Panel                         │ ENABLED │    $446 │    164 │ 4.1% │ $2.72 │   2.5 │ $178 │   0.0 │      - │     0.0% │ LOW-SPEND │
+│ PMAX-Test_Prospecting_Max-Conversion-Val │ Cholesterol & Heart Panel                     │ ENABLED │    $400 │    115 │ 3.8% │ $3.48 │   2.2 │ $180 │   0.5 │   $801 │    22.5% │ BAD       │
+│ PMAX-Test_Prospecting_Max-Conversion-Val │ Autoimmune Panel                              │ ENABLED │    $267 │     81 │ 3.8% │ $3.30 │   2.0 │ $133 │   1.0 │   $267 │    50.0% │ GOOD      │
+│ PMAX-Test_Prospecting_Max-Conversion-Val │ Diabetes & Metabolic Panel                    │ ENABLED │    $206 │     42 │ 3.1% │ $4.90 │   1.0 │ $206 │   0.0 │      - │     0.0% │ LOW-SPEND │
+╠══════════════════════════════════════════╬═══════════════════════════════════════════════╬═════════╬═════════╬════════╬══════╬═══════╬═══════╬══════╬═══════╬════════╬══════════╬═══════════╣
+│ TOTAL                                    │                                               │         │ $51,072 │ 12,212 │ 2.0% │ $4.18 │ 510.4 │ $100 │ 100.1 │   $510 │    19.6% │           │
+└──────────────────────────────────────────┴───────────────────────────────────────────────┴─────────┴─────────┴────────┴──────┴───────┴───────┴──────┴───────┴────────┴──────────┴───────────┘
+  (15 rows)
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  SECTION 11: BIGGEST WASTE - Top 15 BAD Groups by Spend (Brand Excluded)  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+┌────┬───────────────────────────────────────────────┬──────────────────────────────────────────┬────────┬─────────┬────────┬──────┬───────┬───────┬──────┬──────┬────────┬──────────┐
+│ #  │ Group Name                                    │ Campaign                                 │ Type   │ Spend   │ Clicks │ CTR  │ CPC   │ Regs  │ CPR  │ Subs │ CPS    │ Reg>Sub% │
+├────┼───────────────────────────────────────────────┼──────────────────────────────────────────┼────────┼─────────┼────────┼──────┼───────┼───────┼──────┼──────┼────────┼──────────┤
+│  1 │ Blood Test (compliant)                        │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │  $7,619 │  1,365 │ 3.5% │ $5.58 │  61.2 │ $124 │ 11.9 │   $641 │    19.4% │
+│  2 │ Health testing                                │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │  $5,292 │    572 │ 3.9% │ $9.25 │  40.4 │ $131 │  8.6 │   $619 │    21.1% │
+│  3 │ Test                                          │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │  $3,575 │    285 │ 3.3% │   $13 │  27.2 │ $132 │  6.1 │   $581 │    22.6% │
+│  4 │ Blood Test - Top Converting Search Interests  │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │  $2,083 │    545 │ 3.4% │ $3.82 │  20.0 │ $104 │  1.7 │ $1,240 │     8.4% │
+│  5 │ Longevity Blood Test                          │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │  $2,058 │    463 │ 3.7% │ $4.45 │  20.9 │  $98 │  3.0 │   $686 │    14.3% │
+│  6 │ Health Check                                  │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │  $1,719 │    192 │ 3.4% │ $8.95 │  15.5 │ $111 │  3.0 │   $573 │    19.4% │
+│  7 │ Lp(a) Heart Risk                              │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │  $1,438 │    402 │ 3.7% │ $3.58 │   9.5 │ $152 │  1.0 │ $1,438 │    10.6% │
+│  8 │ Cancer                                        │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │  $1,254 │    187 │ 3.0% │ $6.70 │   4.0 │ $313 │  0.0 │      - │     0.0% │
+│  9 │ Lab Test                                      │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │  $1,224 │    130 │ 3.0% │ $9.41 │  14.3 │  $86 │  0.0 │      - │     0.0% │
+│ 10 │ Hormone Testing                               │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │    $904 │     79 │ 2.8% │   $11 │   7.5 │ $121 │  1.0 │   $904 │    13.4% │
+│ 11 │ Heart & Cholesterol                           │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │    $577 │    118 │ 2.9% │ $4.89 │   2.5 │ $231 │  0.0 │      - │     0.0% │
+│ 12 │ Thyroid Tests                                 │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │    $549 │     90 │ 4.3% │ $6.10 │  10.0 │  $55 │  1.0 │   $549 │    10.0% │
+│ 13 │ Cholesterol & Heart Panel                     │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │    $400 │    115 │ 3.8% │ $3.48 │   2.2 │ $180 │  0.5 │   $801 │    22.5% │
+╠════╬═══════════════════════════════════════════════╬══════════════════════════════════════════╬════════╬═════════╬════════╬══════╬═══════╬═══════╬══════╬══════╬════════╬══════════╣
+│    │ TOTAL (Top 15 BAD)                            │                                          │        │ $28,692 │  4,543 │ 3.5% │ $6.32 │ 235.2 │ $122 │ 37.8 │   $760 │    16.1% │
+└────┴───────────────────────────────────────────────┴──────────────────────────────────────────┴────────┴─────────┴────────┴──────┴───────┴───────┴──────┴──────┴────────┴──────────┘
+  (13 rows)
+
+  Total BAD spend (all BAD groups): $28,692 (34.4% of total)
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  SECTION 12: EFFICIENCY FRONTIER - Top 15 by Reg>Sub% (min 2 regs, 1 Wk) ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+┌────┬───────────────────────────────────────────────┬──────────────────────────────────────────┬────────┬────────┬──────┬──────┬──────┬──────┬──────────┬────────┐
+│ #  │ Group Name                                    │ Campaign                                 │ Type   │ Spend  │ Regs │ CPR  │ Subs │ CPS  │ Reg>Sub% │ Class  │
+├────┼───────────────────────────────────────────────┼──────────────────────────────────────────┼────────┼────────┼──────┼──────┼──────┼──────┼──────────┼────────┤
+│  1 │ Cortisol                                      │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │   $214 │  2.0 │ $107 │  2.0 │ $107 │   100.0% │ GOOD   │
+│  2 │ Vitamin                                       │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │   $337 │  2.0 │ $168 │  2.0 │ $168 │   100.0% │ GOOD   │
+│  3 │ Vitamins & Nutrients                          │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │   $182 │  3.0 │  $61 │  2.0 │  $91 │    66.7% │ GOOD   │
+│  4 │ Iron Deficiency Biomarker Test                │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │   $501 │  8.0 │  $62 │  4.1 │ $123 │    50.6% │ GOOD   │
+│  5 │ Medical test                                  │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │   $391 │  4.0 │  $98 │  2.0 │ $195 │    50.0% │ GOOD   │
+│  6 │ Autoimmune Panel                              │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │   $267 │  2.0 │ $133 │  1.0 │ $267 │    50.0% │ GOOD   │
+│  7 │ Biomarker                                     │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │ $2,248 │ 17.0 │ $132 │  7.0 │ $321 │    41.2% │ GOOD   │
+│  8 │ Prostate Cancer Biomarker Test                │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │   $210 │  6.5 │  $32 │  2.5 │  $84 │    38.5% │ GOOD   │
+│  9 │ igf 1 test                                    │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │   $496 │  3.0 │ $165 │  1.0 │ $496 │    33.3% │ MIDDLE │
+│ 10 │ Kidney & Liver                                │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │   $352 │  3.0 │ $117 │  1.0 │ $352 │    33.3% │ MIDDLE │
+│ 11 │ Blood Tests General                           │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │ $3,615 │ 28.5 │ $127 │  9.1 │ $399 │    31.8% │ MIDDLE │
+│ 12 │ Blood Work                                    │ Search_SEM-Gap_Testing-Keywords_tCPA_US  │ Search │   $283 │  2.8 │ $100 │  0.9 │ $319 │    31.4% │ GOOD   │
+│ 13 │ Gene test                                     │ Search_Generic_Diagnostic-Discovery_tCPA │ Search │   $593 │  7.0 │  $85 │  2.0 │ $297 │    28.6% │ GOOD   │
+│ 14 │ Blood Test - Top Converting Search Interests  │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │ $2,152 │ 20.1 │ $107 │  4.8 │ $446 │    23.9% │ MIDDLE │
+│ 15 │ Blood Test - General                          │ PMAX-Test_Prospecting_Max-Conversion-Val │ PMAX   │ $2,906 │ 38.9 │  $75 │  9.3 │ $313 │    23.9% │ GOOD   │
+└────┴───────────────────────────────────────────────┴──────────────────────────────────────────┴────────┴────────┴──────┴──────┴──────┴──────┴──────────┴────────┘
+  (15 rows)
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  EXECUTIVE SUMMARY (BRAND EXCLUDED, 1 WEEK: Feb 16-22, 2026)                ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║ Period: Feb 16 - Feb 22, 2026 (1 week) -- BRAND CAMPAIGNS EXCLUDED             ║
+║ Total Spend: $    83,414                                                       ║
+║ Total Regs:       783.9   Blended CPR: $  106.41                               ║
+║ Total Subs:       159.4   Blended CPS: $  523.14                               ║
+║ Reg>Sub Rate:  20.3%                                                           ║
+║                                                                                ║
+║ GOOD  (<$350 CPS): $   8,311 spend |   36.8 subs | CPS $    226                ║
+║ MIDDLE ($350-500): $  38,955 spend |   84.9 subs | CPS $    459                ║
+║ BAD   (>$500/no$): $  28,692 spend |   37.8 subs | CPS $    760                ║
+║ LOW-SPEND:         $   7,455 spend                                             ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+  Analysis complete. All 12 sections generated.
+  Total groups analyzed: 109 (brand excluded)
+  Script: /tmp/analyze_audit_1wk.py
+  Report: /tmp/audit_report_1wk.txt
+
