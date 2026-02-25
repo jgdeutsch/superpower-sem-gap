@@ -4,6 +4,110 @@ Account ID: 8618096874 (MCC: 8461075268)
 
 ---
 
+## 2026-02-25 | VTC Spike Investigation - UGC Video Audience Overlap
+
+**Label:** N/A (investigation, no account changes)
+
+### Finding
+
+Demand Gen view-through conversions spiked from 0-4/day to **24 on Feb 25** (8x increase). This coincides exactly with UGC video assets going live in PMAX-Test on Feb 24.
+
+### Root Cause
+
+Audience overlap between PMAX video placements (YouTube/Discover/Display) and Demand Gen campaigns. Users see the PMAX UGC video, don't click, then convert via another channel. Google attributes a VTC to Demand Gen even though the impression came from PMAX.
+
+This is almost certainly **double-counting, not incremental conversions.** Total account conversions should be checked to confirm.
+
+### Data (Demand Gen campaigns, Feb 19-25)
+
+| Date | Clicks | Cost | Conv | VTCs |
+|---|---|---|---|---|
+| Thu Feb 19 | 1,824 | $4,778 | 127.43 | 4 |
+| Fri Feb 20 | 1,779 | $4,233 | 68.23 | 0 |
+| Sat Feb 21 | 1,890 | $4,065 | 53.58 | 2 |
+| Sun Feb 22 | 1,800 | $4,080 | 56.56 | 2 |
+| Mon Feb 23 | 1,575 | $4,058 | 75.84 | 2 |
+| Tue Feb 24 | 1,602 | $5,095 | 54.00 | 0 |
+| **Wed Feb 25** | **524** | **$1,654** | **18.00** | **24** |
+
+### Recommendations (not yet actioned)
+
+1. Check whether total account conversions actually increased or just shifted attribution
+2. Consider tightening VTC lookback window from 30 days to 7 or 1 day on Demand Gen
+3. Monitor whether VTC count normalizes after initial spike
+4. Consider excluding overlapping audiences between PMAX video groups and Demand Gen
+
+---
+
+## 2026-02-24 | UGC Video PMAX Asset Groups + Shahid Budget Increases + DQ Manual Changes
+
+**Label:** TBD
+
+### Context
+
+KT's SP-892 UGC video batch (Meta ad graduates) added to PMAX-Test campaign for YouTube testing. Shahid increased budgets across 5 campaigns (+$3,400/day total). DQ made manual pauses, re-enables, ad swaps, and added ~95 negatives to Diagnostic-Discovery.
+
+### Changes
+
+**1. UGC Video Asset Groups (Jeff, API ~1:10pm):**
+
+Created 2 new asset groups in PMAX-Test_Prospecting_Max-Conversion-Value_US_Blood-Test (23280708146):
+
+**Asset Group: "UGC Video Test" (ID: 6679730465, ENABLED) - 5 videos:**
+- Alex Bolivar (wmtHSVm3izI)
+- Amber Blu (bA-o0b66c0g)
+- Brit SP-626 (Q425noMQx0M)
+- Grail Britt (MCzBMx21Pek)
+- Jamal Cancer (uQPg_iMJh0A)
+
+**Asset Group: "UGC Video Test 2" (ID: 6679730495, ENABLED) - 3 videos:**
+- Jamal Cancer 2 (UcB-WdeCBLQ)
+- Rachel Test (3eq9g6H5eY0)
+- SP-262 (t5ykNpbDvp4)
+
+Split into 2 groups (PMAX limit: 5 videos per asset group). Both reuse headlines/descriptions/images from existing Blood Test group. Final URL: superpower.com.
+
+12 additional video assets uploaded but NOT linked to any asset group.
+
+**2. Shahid Budget Increases (~6:21-6:27pm):**
+- PMAX Prospecting US Main: $3,500/day -> $4,500/day (+$1,000)
+- PMAX-Test US: $2,000/day -> $2,500/day (+$500)
+- Search SEM-Gap: $1,500/day -> $2,000/day (+$500)
+- Search Brand: $600/day -> $1,000/day (+$400)
+- Demand-Gen YouTube: $1,000/day -> $2,000/day (+$1,000)
+- **Total increase: +$3,400/day**
+
+**3. DQ Manual Changes (~10:20-10:47am):**
+- Paused PMAX Gender campaign
+- Cut PMAX-Test Top States budget: $1,000/day -> $500/day
+- Paused Competitors campaign entirely
+- Paused all NY/NJ campaigns
+- Re-enabled 5 of our Feb 23 Search pauses (Health Check, Test, Health testing, Hormone Testing, Cancer)
+- Paused 8 D-D ad groups (Heart Testing, Nutrient test, Metabolic, Cholesterol test, Celiac Test, Glucose test, T blood tests, Cardiovascular)
+- Swapped active RSA ads in ~12 D-D ad groups
+- Added ~95 phrase-match campaign-level negatives to Diagnostic-Discovery
+- Added negatives to PMAX Top States (insurance, clinical study, career, eating, costco, function health, enclomiphene + others)
+
+**4. Tirz RX Campaign (Jeff, API ~1:10-1:15pm):**
+- Created Search_RX_Tirzepatide_Max-Conversions_US (23597608007) - PAUSED, enable Feb 28
+- 5 ad groups, 46 keywords, 5 RSAs, $500/day budget
+- LP: superpower.com/tirzepatide
+
+### Current Active Daily Budgets (post-Shahid)
+
+| Campaign | Budget/Day |
+|---|---|
+| PMAX Prospecting US Main | $4,500 |
+| Search Diagnostic-Discovery | $3,000 |
+| PMAX-Test US | $2,500 |
+| Search SEM-Gap | $2,000 |
+| Demand-Gen YouTube | $2,000 |
+| Search Brand | $1,000 |
+| PMAX-Test Top States | $500 |
+| **Total** | **$15,500** |
+
+---
+
 ## 2026-02-23 | Pause 13 BAD Groups + Homepage LP Experiment
 
 **Label:** `Audit Cleanup 2.23.26`
