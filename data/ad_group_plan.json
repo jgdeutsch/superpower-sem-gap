@@ -1,0 +1,194 @@
+{
+  "Vitamin & Nutrient Testing": {
+    "ad_group_name": "Vitamin Deficiency Blood Test",
+    "slug": "vitamin-deficiency-blood-test",
+    "keywords": [
+      "vitamin d deficiency blood test",
+      "blood test vitamin d deficiency",
+      "blood work vitamin d",
+      "test for folic acid",
+      "how to test for vitamin a deficiency",
+      "micronutrient panel",
+      "how to test for vitamin deficiency",
+      "blood test for mineral deficiency",
+      "online vitamin deficiency test",
+      "where to get tested for vitamin deficiency",
+      "vitamin d and inflammation test"
+    ],
+    "condition": "Vitamin Deficiency",
+    "hero_headline": "Are You Missing Key Vitamins?",
+    "biomarkers_tested": "Vitamin D, B12, Folate, Iron, Ferritin, and 100+ more biomarkers"
+  },
+  "Hormone Testing": {
+    "ad_group_name": "Hormone Panel Blood Test",
+    "slug": "hormone-panel-blood-test",
+    "keywords": [
+      "blood test for cortisol levels",
+      "females testosterone",
+      "females and testosterone",
+      "lh hormone in females",
+      "female hormone blood test",
+      "hormone wellness center",
+      "how to test hormone levels at home",
+      "at home blood testosterone test",
+      "hormone naturopathic doctor",
+      "who can test my hormone levels"
+    ],
+    "condition": "Hormone Imbalance",
+    "hero_headline": "Your Hormones Tell the Full Story",
+    "biomarkers_tested": "Testosterone, Estradiol, Cortisol, DHEA-S, SHBG, Thyroid, and 100+ biomarkers"
+  },
+  "Preventive Health Screening": {
+    "ad_group_name": "Preventive Health Screening",
+    "slug": "preventive-health-screening",
+    "keywords": [
+      "biometric screening near me",
+      "preventive health screening",
+      "biometric health screening",
+      "full body health check",
+      "heart health screening",
+      "preventive medicine specialist",
+      "preventive screenings",
+      "pre cancer screening",
+      "health screening blood test",
+      "health screening nyc",
+      "blood test screening",
+      "health and wellness screening",
+      "health screening miami",
+      "men's private health check"
+    ],
+    "condition": "Preventive Health",
+    "hero_headline": "The Health Screening Your Doctor Skips",
+    "biomarkers_tested": "Heart, metabolic, thyroid, hormone, liver, kidney, and inflammation markers"
+  },
+  "Biological Age Testing": {
+    "ad_group_name": "Biological Age Test",
+    "slug": "biological-age-test",
+    "keywords": [
+      "blood test for biological age",
+      "bioage health",
+      "biological age test near me",
+      "test for biological age",
+      "biological age test at home",
+      "biological age test online",
+      "biological age online test",
+      "at home biological age test",
+      "biological age test cost",
+      "pace of aging",
+      "biological age test price",
+      "how to measure biological age at home"
+    ],
+    "condition": "Biological Aging",
+    "hero_headline": "Find Out Your Real Biological Age",
+    "biomarkers_tested": "BioAge, Pace of Aging, Health Score, plus 100+ biomarkers"
+  },
+  "Direct-to-Consumer Lab Orders": {
+    "ad_group_name": "Order Blood Test Online",
+    "slug": "order-blood-test-online",
+    "keywords": [
+      "blood test esr",
+      "lab test shbg",
+      "blood test prices",
+      "blood test hematocrit",
+      "blood test packages",
+      "mobile blood work",
+      "at home blood collection device",
+      "women's health blood test",
+      "blood test private",
+      "best blood test lab near me",
+      "blood test tracking app",
+      "how much for blood work without insurance",
+      "order blood test without doctor",
+      "blood test orders",
+      "lab test order online",
+      "lab without doctor order",
+      "online health tests",
+      "order my own blood test",
+      "fertility blood test at home"
+    ],
+    "condition": "Blood Testing Access",
+    "hero_headline": "Order Your Own Blood Test. No Doctor Visit.",
+    "biomarkers_tested": "100+ biomarkers including heart, metabolic, thyroid, hormones, and more"
+  },
+  "Autoimmune Testing": {
+    "ad_group_name": "Autoimmune Blood Test Panel",
+    "slug": "autoimmune-panel-test",
+    "keywords": [
+      "autoimmune labs",
+      "blood tests for autoimmune diseases",
+      "tests for autoimmune disease",
+      "autoimmune doctors near me"
+    ],
+    "condition": "Autoimmune Disease",
+    "hero_headline": "Answers for Autoimmune Symptoms",
+    "biomarkers_tested": "ANA, Rheumatoid Factor, CCP, Celiac Panel, TPO, Thyroglobulin Antibodies"
+  },
+  "Specific Biomarker Tests": {
+    "ad_group_name": "Specialty Health Testing",
+    "slug": "specialty-health-testing",
+    "keywords": [
+      "how to get tested for parasites",
+      "methylation test near me",
+      "online allergy test",
+      "blood test for food sensitivity",
+      "how to test for parasites in humans",
+      "how to test for candida overgrowth"
+    ],
+    "condition": "Specialty Testing",
+    "hero_headline": "The Tests Your Doctor Won't Order",
+    "biomarkers_tested": "Methylation, inflammation, hormones, metabolic, and 100+ biomarkers"
+  },
+  "Comprehensive Blood Testing": {
+    "ad_group_name": "Comprehensive Blood Panel",
+    "slug": "comprehensive-blood-panel",
+    "keywords": [
+      "routine blood work",
+      "blood work tests",
+      "complete body checkup",
+      "blood work test near me",
+      "nutrition blood panel",
+      "comprehensive female panel blood test near me",
+      "full bloodwork"
+    ],
+    "condition": "Comprehensive Testing",
+    "hero_headline": "100+ Biomarkers in One Blood Draw",
+    "biomarkers_tested": "Heart, liver, kidney, thyroid, hormones, metabolic, nutrients, inflammation"
+  },
+  "Health Optimization/Longevity": {
+    "ad_group_name": "Health Optimization Testing",
+    "slug": "health-optimization-testing",
+    "keywords": [
+      "executive health exam",
+      "longevity doctors near me",
+      "private health assessment",
+      "longevity index test"
+    ],
+    "condition": "Health Optimization",
+    "hero_headline": "Optimize Your Health With Data",
+    "biomarkers_tested": "100+ biomarkers for heart, hormones, metabolic, aging, and more"
+  },
+  "Functional/Integrative Medicine": {
+    "ad_group_name": "Functional Medicine Testing",
+    "slug": "functional-medicine-testing",
+    "keywords": [
+      "functional health and wellness",
+      "integrative wellness center near me",
+      "wellness physician",
+      "affordable functional medicine doctor near me"
+    ],
+    "condition": "Functional Medicine",
+    "hero_headline": "Functional Medicine Starts With Data",
+    "biomarkers_tested": "100+ biomarkers: hormones, thyroid, metabolic, inflammation, nutrients"
+  },
+  "Weight Loss & Metabolic": {
+    "ad_group_name": "Weight Loss Blood Test",
+    "slug": "weight-loss-blood-test",
+    "keywords": [
+      "bloodwork for weight loss",
+      "metabolic blood work"
+    ],
+    "condition": "Weight Management",
+    "hero_headline": "Why the Scale Won't Move? Test Your Blood.",
+    "biomarkers_tested": "Insulin, glucose, A1C, thyroid, cortisol, hormones, and metabolic markers"
+  }
+}

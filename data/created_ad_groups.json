@@ -1,0 +1,57 @@
+{
+  "Vitamin & Nutrient Testing": {
+    "resource_name": "customers/8618096874/adGroups/196708001249",
+    "id": "196708001249",
+    "name": "Vitamin Deficiency Blood Test"
+  },
+  "Hormone Testing": {
+    "resource_name": "customers/8618096874/adGroups/194547929712",
+    "id": "194547929712",
+    "name": "Hormone Panel Blood Test"
+  },
+  "Preventive Health Screening": {
+    "resource_name": "customers/8618096874/adGroups/194981005618",
+    "id": "194981005618",
+    "name": "Preventive Health Screening"
+  },
+  "Biological Age Testing": {
+    "resource_name": "customers/8618096874/adGroups/194981006578",
+    "id": "194981006578",
+    "name": "Biological Age Test"
+  },
+  "Direct-to-Consumer Lab Orders": {
+    "resource_name": "customers/8618096874/adGroups/192689649286",
+    "id": "192689649286",
+    "name": "Order Blood Test Online"
+  },
+  "Autoimmune Testing": {
+    "resource_name": "customers/8618096874/adGroups/190906304301",
+    "id": "190906304301",
+    "name": "Autoimmune Blood Test Panel"
+  },
+  "Specific Biomarker Tests": {
+    "resource_name": "customers/8618096874/adGroups/196708004289",
+    "id": "196708004289",
+    "name": "Specialty Health Testing"
+  },
+  "Comprehensive Blood Testing": {
+    "resource_name": "customers/8618096874/adGroups/192689652646",
+    "id": "192689652646",
+    "name": "Comprehensive Blood Panel"
+  },
+  "Health Optimization/Longevity": {
+    "resource_name": "customers/8618096874/adGroups/194981010618",
+    "id": "194981010618",
+    "name": "Health Optimization Testing"
+  },
+  "Functional/Integrative Medicine": {
+    "resource_name": "customers/8618096874/adGroups/199606796808",
+    "id": "199606796808",
+    "name": "Functional Medicine Testing"
+  },
+  "Weight Loss & Metabolic": {
+    "resource_name": "customers/8618096874/adGroups/192689654606",
+    "id": "192689654606",
+    "name": "Weight Loss Blood Test"
+  }
+}
